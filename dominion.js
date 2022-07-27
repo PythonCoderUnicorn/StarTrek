@@ -244,7 +244,6 @@ console.log(virakkara.name, virakkara.status)
 
 
 
-
 console.log('\n')
 
 
