@@ -1,5 +1,6 @@
 
-<img height='200' src='StarTrek-banner.png'>
+<img height='200' align='right' src='StarTrek-banner.png'>
 
-# StarTrek
-a repo for Star Trek data from Technical Manuals
+# Star Trek
+
+A repo for Star Trek data from Technical Manuals.
