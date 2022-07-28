@@ -199,6 +199,22 @@ const federation_ships = {
     },
 
     K: {
+        'Kaga': 'Carrier',
+        'Karekh': 'Scout',
+        'Kearsarge': 'Cruiser',
+        'Kentwood': 'Bulk Cargo Carrier',
+        'Kestral': 'Superscout',
+        'Kiaga': 'Perimeter Action Ship',
+        'Kirov': 'Dreadnought',
+        'Kirsanov': 'Perimeter Action Ship',
+        'Knox': 'Frigate',
+        'Kobayashi Maru': 'Neutronic Fuel Carrier',
+        'Kodiak': 'Battleship',
+        'Komsomolsk': ' Dreadnought',
+        'Kresta':'Frigate'
+    },
+
+    L: {
         
     }
 }
