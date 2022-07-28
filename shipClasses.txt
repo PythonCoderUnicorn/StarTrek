@@ -182,18 +182,13 @@
 
 
 
- Laffey-Class Cruiser
- Larson-Class Destroyer (Includes Larson,
- Balaklava, Kohlar, and Sheridan-subclasses)
- Lautaro-Class Corvette
- Leavenworth-Class Frigate
- Lng'we Chi-Class Exploratory Cruiser
- Lobo-Class Through-Deck Carrier
- Loki-Class Destroyer
- Loknar-Class Frigate (Includes Loknar, Lactra,
- Cairo, and Jezar-sub-classes)
+ 
 
 
+ 
+ 
+ 
+ 
 
  MacPherson-Class Heavy Transport
  Maguellanes-Class Escort Cruiser

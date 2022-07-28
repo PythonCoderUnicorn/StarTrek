@@ -215,6 +215,23 @@ const federation_ships = {
     },
 
     L: {
+        'Laffey': 'Cruiser',
+        'Larson': {
+            type: 'Destroyer',
+            subclass: ['Larson','Balaklava', 'Kohlar','Sheridan']
+        },
+        'Lautaro': 'Corvette',
+        'Leavenworth': 'Frigate',
+        "Lng'we Chi": "Exploratory Cruiser",
+        'Lobo': 'Carrier',
+        'Loki': ' Destroyer',
+        'Loknar': {
+            type: 'Frigate',
+            subclass: ['Loknar', 'Lactra','Cairo','Jezar']
+        }
+    },
+
+    M: {
         
     }
 }
