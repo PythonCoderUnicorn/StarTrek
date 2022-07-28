@@ -57,6 +57,70 @@ const federation_ships = {
     },
 
     C: {
+        'Cahuya': 'Science Survey Cruiser',
+        'Capital': 'Space Control Ship',
+        'Caracal': 'Command Cruiser',
+        'Catchon': 'Interceptor',
+        'Cautious': 'Minesweeper',
+        'Centaur': 'Frigate',
+        'Chandley': 'Frigate',
+        'Chang-Ho': 'Tactical Cruiser',
+        'Charger': 'Destroyer',
+        'Cheetah': 'Cruiser',
+        'Cheyenne': 'Cruiser',
+        'Chosin': 'Attack Carrier',
+        'Clarke': 'Clipper',
+        'Clausewitz': 'Command Cruiser',
+        'Clemenceau': 'Cruiser',
+        'Comanche': 'Assault Frigate',
+        'Conquest': 'Dreadnought',
+        'Constellation': 'Cruiser',
+        'Constitution': {
+            type: 'Cruiser',
+            subclass: [
+                'Constitution (I)',
+                'Bonhomme Richard',
+                'Achernar',
+                'Endeavor',
+                'Constitution (II)',
+                'Enterprise',
+                'Tiko-pai',
+                'Enterprise (II)'
+            ]
+        },
+        'Coronado': 'Cruiser',
+        'Coventry': 'Frigate',
+        'Crusader': 'Patrol Cruiser',
+        'Curnow': 'Tactical Cruiser',
+        'Cyane':'Frigate'
+    },
+
+    D: {
+        'Daedelus': 'Cruiser',
+        'Dahlgren': 'Strike Cruiser',
+        'Dakota': 'Shuttlecarrier',
+        'Danube': 'Runabout',
+        'Daran': 'Frigate',
+        'Daring': 'Corvette',
+        'Darwin': 'Scout',
+        'Davenport': 'Corvette (Prototype)',
+        'Defender': 'Destroyer',
+        'Defiant': 'Escort',
+        'Deliverer': 'Container Tug',
+        'Delphis': {
+            type: 'Exploration Cruiser',
+            subclass: ['Delphis','Delphis (II)']
+        },
+        'Deneva': 'Freighter',
+        'Deoradh': 'Frigate',
+        'Detroyat': 'Destroyer',
+        'Discovery': 'Scout',
+        'Dupleix': 'Perimeter Action Ship (Prototype)',
+        'Durance': 'Cargo/Tug',
+        'Durrett': 'Light Cruiser'
+    },
+
+    E: {
         
     }
 }
@@ -65,7 +129,8 @@ const federation_ships = {
 
 // console.log(federation_ships['A'])
 // console.log(federation_ships.A.Akyazi[0])
-console.log(federation_ships.B )
+// console.log(federation_ships.C.Constitution.subclass )
+console.log(federation_ships.D)
 
 let size = Object.keys(federation_ships).length
 // console.log(size)
