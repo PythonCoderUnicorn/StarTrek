@@ -261,6 +261,16 @@ const federation_ships = {
         'Norway': 'Frigate',
         'Nova': 'Research Vessel',
         'NX':'Cruiser'
+    },
+
+    O: {
+        'Oberth': 'Scout',
+        'Olympic': 'Medical Ship',
+        'Olympus': 'Dreadnought',
+        'Oriskany': 'Cruiser',
+        'Osiris': 'Command Cruiser',
+        'Osler': 'Hospital Transport',
+        'Ostoris':'Freighter'
     }
 
 

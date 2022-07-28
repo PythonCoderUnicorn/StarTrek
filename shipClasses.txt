@@ -222,14 +222,14 @@
 
 
 
- Oberth-Class Scout
- Olympic-Class Medical Ship
- Olympus-Class Dreadnought
- Oriskany-Class Through-Deck Cruiser
- Orka-Class Gunboat
-Osiris-Class Command Cruiser
-Osler-Class Hospital Transport
- Ostoris-Class Freighter
+ 
+ 
+ 
+ 
+ 
+
+
+ 
 
 
 
