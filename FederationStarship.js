@@ -336,6 +336,24 @@ const federation_ships = {
         'Todega': 'Tug',
         'Triumph': 'Research Cruiser',
         'Trojan':'Troop Transport'
+    },
+
+    V: {
+        'Valor': 'Exploratory Cruiser',
+        'Vanguard': 'Scout',
+        'Vindicator':'Frigate'
+    },
+
+    W: {
+        'Wambundu': 'Light Cruiser',
+        'Warlord': 'Destroyer',
+        'Wells Farg':'Transport'
+    },
+
+    Y: {
+        'Yeager': 'Scout',
+        'Yorktown': 'Carrier',
+        'Youngblood':'Carrier'
     }
 
 

@@ -288,17 +288,12 @@
  
 
 
- Valor-Class Exploratory Cruiser
- Vanguard-Class Scout
- Vindicator-Class Heavy Frigate
+ 
+ 
+ 
 
 
- Wambundu-Class Light Cruiser
- Warlord-Class Heavy Destroyer (Single-Vessel
- Class)
- Wells Fargo-Class Transport
 
 
-Yeager-Class Scout
-Yorktown-Class Light Carrier
-Youngblood-Class Heavy Carrier 
+
+
