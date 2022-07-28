@@ -295,7 +295,15 @@ const federation_ships = {
     },
 
     R: {
-        
+        'Ranger': 'Scout',
+        'Re': 'Space Control Ship',
+        'Refuge': 'Hospital Ship',
+        'Renaissance': 'Scout',
+        'Renner': 'Corvette',
+        'Riga': 'Corvette',
+        'Rising Star': 'Starliner',
+        'Rosenzweig': 'Attack Cruiser',
+        'Rothwell':'Cruiser'
     }
 
 
