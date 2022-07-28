@@ -42,17 +42,33 @@ const federation_ships = {
     },
 
     B: {
+        'Bader': 'Scout',
+        'Baker': 'Destroyer',
+        'Balclutha': 'Corvette',
+        'Balson': 'Command',
+        'Banting': 'Cruiser',
+        'Belisarius':'Tactical Cruiser',
+        'Belknap': 'Strike Cruiser',
+        'Bering':'Automated Fuel Transport',
+        'Benning':'Frigate',
+        'Bradbury': 'Diplomatic Courier',
+        'Burke': 'Frigate',
+        'Byrd': 'Cruiser'
+    },
+
+    C: {
         
     }
 }
   
 
 
-console.log(federation_ships['A'])
+// console.log(federation_ships['A'])
 // console.log(federation_ships.A.Akyazi[0])
+console.log(federation_ships.B )
 
-
-
+let size = Object.keys(federation_ships).length
+// console.log(size)
 
 
 
