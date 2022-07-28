@@ -186,18 +186,47 @@ const federation_ships = {
         'Ingram': 'Space Control Ship',
         'Intrepid': 'Cruiser',
         'Irreverence':'Cruiser'
+    },
+
+    J: {
+        'Jeannette Maddox': 'Scout',
+        'Jenshahn': 'Carrier',
+        'Jester': 'Corvette',
+        'Joshua': 'Command Cruiser',
+        'Joshua Paul': 'Frigate',
+        'Juliet': 'Corvette',
+        'Jurassic':'Exploratory Cruiser'
+    },
+
+    K: {
+        
     }
 }
   
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // console.log(federation_ships['A'])
 // console.log(federation_ships.A.Akyazi[0])
 // console.log(federation_ships.C.Constitution.subclass )
-console.log(federation_ships.D)
+console.log(federation_ships)
 
 let size = Object.keys(federation_ships).length
-// console.log(size)
+console.log(size)
 
 
 
