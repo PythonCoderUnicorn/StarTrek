@@ -1,37 +1,31 @@
 
-Abbe-Class PT Destroyer
- Adamant-Class Dreadnought (Prototype)
-Adjudicator-Class Multi-Response Cruiser
- Advance-Class Through-Deck Cruiser
- Agilis-Class Perimeter Action Ship
- Akira-Class Battlecruiser
- Akyazi-Class Perimeter Action Ship (Includes Ak-
- yazi, Arbiter, and Akula-Subclasses)
-Alaric-Class Heavy Destroyer
-Alaska-Class Battlecruiser
- Almeida-Class Heavy Cruiser/Freighter
- Ambassador-Class Heavy Cruiser
- Amchitka-Class Light Cruiser
- Amerind-Class Scout
- Anaxagoras-Class Transport/Tug
- Andernach-Class Battlecruiser
- Anderson-Class Heavy Scout
- Angueira-Class Hospital Ship
- Anubis-Class Scout
- Apache-Class Cruiser (Single-Vessel Class)
-Arcadia-Class Exploratory Cruiser
- Archangel-Class Shuttlecarrier
- Archon-Class Cruiser
- Ariel-Class Shuttlecarrier
- Ark Royal-Class Frigate
-Artemis-Class Fast Cruiser
- Ascension-Class Dreadnought
- Asmodeus-Class Light Corvette
- Athabaska-Class Exploratory Cruiser
- Austin-Class Superscout
- Australia-Class Battlecruiser
- Avenger-Class Heavy Frigate (Includes Avenger
- and Endurance-subclasses)
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
  Bader-Class Scout
  Baker-Class Heavy Destroyer
  Balclutha-Class Corvette
@@ -46,6 +40,9 @@ Bradbury-Class Diplomatic Courier
  Byrd-Class Exploratory Cruiser
  Cahuya-Class Science/Survey Cruiser (Single-
  Vessel Class)
+
+
+
 Capital-Class Heavy Space Control Ship
  Caracal-Class Command Cruiser
  Catchon-Class Interceptor
@@ -72,6 +69,9 @@ Chang Ho-Class Tactical Cruiser
 Crusader-Class Patrol Cruiser
  Curnow-Class Tactical Cruiser
  Cyane-Class Heavy Frigate
+
+
+
  Daedelus-Class Cruiser
  Dahlgren-Class Strike Cruiser
  Dakota-Class Heavy Shuttlecarrier
@@ -92,6 +92,10 @@ Deoradh-Class Fast Frigate
  Dupleix-Class Perimeter Action Ship (Prototype)
  Durance-Class Cargo/Tug
  Durrett-Class Light Cruiser
+
+
+
+
 Edinburgh-Class Space Control Ship
  Einstein-Class Timeslip Cruiser
  Engage-Class Perimeter Action Ship
@@ -100,6 +104,10 @@ Entente-Class Dreadnought
 Excel-Class Strike Cruiser
  Excelsior-Class Heavy Cruiser
  Explorer-Class Reconnaissance Cruiser
+
+
+
+
  Faranarton-Class Heavy Tug
  Federation/Federation (II)-Class Dreadnought
  Firestone-Class Battlecruiser
@@ -107,6 +115,11 @@ Excel-Class Strike Cruiser
  Fredrikstad-Class Shuttlecarrier
  Freedom-Class Scout
  Fury-Class Small Frigate
+
+
+
+
+ 
 Gabriel-Class Shuttlecarrier
  Gagarin-Class Science Scout
  Galaxy-Class Large Exploratory Cruiser (includes

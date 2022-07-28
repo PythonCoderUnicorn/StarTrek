@@ -10,10 +10,39 @@ const federation_ships = {
         'Agilis': 'Perimeter Action Ship',
         'Akira': 'Battlecruiser',
         'Akyazi': ['Arbitor', 'Akula'],
+        'Alaric': 'Destroyer',
+        'Alaska': 'Battlecruiser',
+        'Almeida': 'Cruiser/Freighter',
+        'Ambassador':'Cruiser',
+        'Amchitka': 'Cruiser',
+        'Amerind': 'Scout',
+        'Anaxagoras': 'Transport/Tug',
+        'Andernach': 'Battlecruiser',
+        'Anderson': 'Scout',
+        'Angueira': 'Hospital Ship',
+        'Anubis': 'Scout',
+        'Apache': 'Cruiser (Single-Vessel Class)',
+        'Arcadia': 'Exploratory Cruiser',
+        'Archangel': 'Shuttlecarrier',
+        'Archon': 'Cruiser',
+        'Ariel': 'Shuttlecarrier',
+        'Ark Royal': 'Frigate',
+        'Artemis': 'Cruiser',
+        'Ascension': 'Dreadnought',
+        'Asmodeus': 'Corvette',
+        'Athabaska': 'Cruiser',
+        'Austin': 'Superscout',
+        'Australia': 'Battlecruiser',
+        'Avenger': {
+            type: 'Frigate',
+            subclass: ['Avenger','Endurance']
+        },
 
-            
+
+    },
+
+    B: {
         
-
     }
 }
   
