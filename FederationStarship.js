@@ -159,7 +159,33 @@ const federation_ships = {
     },
 
     H: {
-        
+        'Halsey': 'Destroyer Escort',
+        'Hansen': 'Battleship',
+        'Hatfield': 'Command Cruiser',
+        'Hellion': 'Destroyer',
+        'Hensley': 'Heavy Transport/Tug',
+        'Hermes': {
+            type: 'Scout',
+            subclass: ['Hermes','Monoceros', 'Cygnus', 'Hermes (II)']
+        },
+        'Hillery': 'Scout',
+        'Hippocrates (I,II)': 'Medical Frigate',
+        'Hollingsworth': 'Penetration Cruiser',
+        'Hopi': 'Survey Vessel',
+        'Horizon': 'Cruiser',
+        'Hubble': 'Research Cruiser',
+        'Huntington':'Deuterium Tanker'
+    },
+
+    I: {
+        'Ianar': 'Frigate',
+        'Ianetos': 'Superscout',
+        'Impervious': 'Strike Cruiser',
+        'Independence': 'Armed Freighter',
+        'Indomitable':'Battleship',
+        'Ingram': 'Space Control Ship',
+        'Intrepid': 'Cruiser',
+        'Irreverence':'Cruiser'
     }
 }
   

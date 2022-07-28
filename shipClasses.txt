@@ -128,34 +128,31 @@
 
 
 
- Halsey-Class Destroyer Escort
-Hansen-Class Battleship
- Hatfield-Class Command Cruiser
- Hellion-Class Heavy Destroyer
- Hensley-Class Heavy Transport/Tug
- Hermes-Class Scout (Includes Hermes,
- Monoceros, Cygnus, and Hermes (II)-
- subclasses)
- Hillery-Class Scout
- Hippocrates-Class Medical Frigate
-Hippocrates (II)-Class Medical Frigate
- Hollingsworth-Class Penetration Cruiser
- Hopi-Class Large Survey Vessel
- Horizon-Class Cruiser
-Hubble-Class Research Cruiser
- Huntington-Class Deuterium Tanker
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ 
 
 
 
 
- Ianar-Class Fast Frigate
- Ianetos-Class Superscout
- Impervious-Class Strike Cruiser
- Independence-Class Armed Freighter
- Indomitable-Class Battleship
- Ingram-Class Space Control Ship
- Intrepid-Class Cruiser
-Irreverence-Class Heavy Cruiser
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 
 
 
