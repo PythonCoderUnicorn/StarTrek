@@ -233,22 +233,18 @@
 
 
 
- Paladin-Class Destroyer/Scout
- Palomar-Class Command Cruiser
-Peacekeeper-Class Large Exploratory Cruiser
- Phantom-Class Superscout (Prototype)
- Pharris-Class Strategic Frigate (Prototype)
- Pleiades-Class Survey Cruiser
- Podesti-Class Cruiser
-Poseidon-Class Cruiser
-Prometheus-Class Tactical Cruiser
- Prowler-Class Interceptor
- Ptolemy-Class Transport/Tug (Includes Ptolemy,
- Keppler, Doppler, Dollond, Ptolemy (II),
- Moncrief, and Lagrange-subclasses)
+ 
+ 
+
+ 
+ 
+ 
+ 
 
 
-Qapla’-Class Heavy Cruiser
+ 
+
+
 
 
  Ranger-Class Scout

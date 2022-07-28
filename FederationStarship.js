@@ -271,6 +271,31 @@ const federation_ships = {
         'Osiris': 'Command Cruiser',
         'Osler': 'Hospital Transport',
         'Ostoris':'Freighter'
+    },
+
+    P: {
+        'Paladin': 'Destroyer/Scout',
+        'Palomar': 'Command Cruiser',
+        'Peacekeeper': 'Exploratory Cruiser',
+        'Phantom': 'Superscout (Prototype)',
+        'Pharris': 'Strategic Frigate (Prototype)',
+        'Pleiades': 'Survey Cruiser',
+        'Podesti': 'Cruiser',
+        'Poseidon': 'Cruiser',
+        'Prometheus': 'Tactical Cruiser',
+        'Prowler': 'Interceptor',
+        'Ptolemy': {
+            type: 'Transport/Tug',
+            subclass: ['Ptolemy','Keppler', 'Doppler', 'Dollond', 'Ptolemy (II)','Moncrief','Lagrange']
+        }
+    },
+
+    Q: {
+        "Qapla":'Cruiser'
+    },
+
+    R: {
+        
     }
 
 
