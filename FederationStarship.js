@@ -232,10 +232,20 @@ const federation_ships = {
     },
 
     M: {
-        
+        'MacPherson': 'Transport',
+        'Maguellanes': 'Escort Cruiser',
+        'Majestic': 'Cruiser',
+        'Mare Nubium': 'Escort Carrier',
+        'Maxwell': 'Strike Cruiser',
+        'Mediterranean': 'Freighter',
+        'Menahga': 'Destroyer',
+        'Michael Adam': 'Scout',
+        'Miranda': 'Cruiser',
+        'Mitannic':'Battlecruiser',
     }
 }
   
+
 
 
 
