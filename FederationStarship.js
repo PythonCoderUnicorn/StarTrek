@@ -121,6 +121,17 @@ const federation_ships = {
     },
 
     E: {
+        'Edinburgh': 'Space Control Ship',
+        'Einstein': 'Timeslip Cruiser',
+        'Engage': 'Perimeter Action Ship',
+        'Entente': 'Dreadnought',
+        'Etna': 'Command Ship',
+        'Excel': 'Strike Cruiser',
+        'Excelsior': 'Cruiser',
+        'Explorer':'Reconnaissance Cruiser'
+    },
+
+    F: {
         
     }
 }
