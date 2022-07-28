@@ -113,18 +113,21 @@
 
 
 
-Gabriel-Class Shuttlecarrier
- Gagarin-Class Science Scout
- Galaxy-Class Large Exploratory Cruiser (includes
- Galaxy- and Galaxy (II)-subclasses)
- Garibaldi-Class Light Carrier
-Gasparilla-Class Combat Support Ship
-Gemini-Class Exploratory-Cruiser
- Greer-Class Corsair
- Gregory-Class Exploratory Cruiser
- Griffin-Class Supply Tender
-Griffon-Class Battleship
-Guardian Angel-Class Rapid Response Cruiser
+
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
  Halsey-Class Destroyer Escort
 Hansen-Class Battleship
  Hatfield-Class Command Cruiser
@@ -141,6 +144,10 @@ Hippocrates (II)-Class Medical Frigate
  Horizon-Class Cruiser
 Hubble-Class Research Cruiser
  Huntington-Class Deuterium Tanker
+
+
+
+
  Ianar-Class Fast Frigate
  Ianetos-Class Superscout
  Impervious-Class Strike Cruiser
@@ -149,6 +156,9 @@ Hubble-Class Research Cruiser
  Ingram-Class Space Control Ship
  Intrepid-Class Cruiser
 Irreverence-Class Heavy Cruiser
+
+
+
 Jeannette Maddox-Class Scout
  Jenshahn-Class Heavy Carrier
  Jester-Class Light Corvette
@@ -156,6 +166,9 @@ Jeannette Maddox-Class Scout
  Joshua Paul-Class Heavy Frigate
  Juliet-Class Corvette
 Jurassic-Class Exploratory Cruiser
+
+
+
  Kaga-Class Light Carrier
  Karekh-Class Scout
  Kearsarge-Class Light Cruiser
@@ -169,6 +182,9 @@ Jurassic-Class Exploratory Cruiser
  Kodiak-Class Battleship
  Komsomolsk-Class Dreadnought
  Kresta-Class Heavy Frigate
+
+
+
  Laffey-Class Cruiser
  Larson-Class Destroyer (Includes Larson,
  Balaklava, Kohlar, and Sheridan-subclasses)
@@ -179,6 +195,9 @@ Jurassic-Class Exploratory Cruiser
  Loki-Class Destroyer
  Loknar-Class Frigate (Includes Loknar, Lactra,
  Cairo, and Jezar-sub-classes)
+
+
+
  MacPherson-Class Heavy Transport
  Maguellanes-Class Escort Cruiser
 Majestic-Class Heavy Cruiser
@@ -189,6 +208,9 @@ Majestic-Class Heavy Cruiser
  Michael Adam-Class Scout
  Miranda-Class Cruiser
  Mitannic-Class Battlecruiser
+
+
+
  Nebula-Class Light Cruiser
  Nelson-Class Scout
 New Jersey-Class Battleship
@@ -205,6 +227,9 @@ Normandy-Class Supercarrier
  Norway-Class Frigate
  Nova-Class Research Vessel
  NX-Class Cruiser
+
+
+
  Oberth-Class Scout
  Olympic-Class Medical Ship
  Olympus-Class Dreadnought
@@ -213,6 +238,9 @@ Normandy-Class Supercarrier
 Osiris-Class Command Cruiser
 Osler-Class Hospital Transport
  Ostoris-Class Freighter
+
+
+
  Paladin-Class Destroyer/Scout
  Palomar-Class Command Cruiser
 Peacekeeper-Class Large Exploratory Cruiser
@@ -226,7 +254,11 @@ Prometheus-Class Tactical Cruiser
  Ptolemy-Class Transport/Tug (Includes Ptolemy,
  Keppler, Doppler, Dollond, Ptolemy (II),
  Moncrief, and Lagrange-subclasses)
+
+
 Qapla’-Class Heavy Cruiser
+
+
  Ranger-Class Scout
 Re-Class Space Control Ship
  Refuge-Class Hospital Ship
@@ -236,6 +268,10 @@ Re-Class Space Control Ship
  Rising Star-Class Starliner
  Rosenzweig-Class Attack Cruiser
  Rothwell-Class Light Cruiser
+
+
+
+
  Saber-Class Scout
  Saladin-Class Destroyer (Includes Saladin, Siva,
  Cochise, and Saladin (II)-subclasses)
@@ -255,18 +291,27 @@ Spectre-Class Destroyer
  Surya-Class Frigate
  Swiften-Class Fast Destroyer
  Sydney-Class Transport
+
+
+
 The Sullivans-Class Heavy Tactical Frigate
  Thruxton-Class Tactical Cruiser
  Todega-Class Tug
  Triumph-Class Research Cruiser
  Trojan-Class Troop Transport
+
+
  Valor-Class Exploratory Cruiser
  Vanguard-Class Scout
  Vindicator-Class Heavy Frigate
+
+
  Wambundu-Class Light Cruiser
  Warlord-Class Heavy Destroyer (Single-Vessel
  Class)
  Wells Fargo-Class Transport
+
+
 Yeager-Class Scout
 Yorktown-Class Light Carrier
- Youngblood-Class Heavy Carrier 
+Youngblood-Class Heavy Carrier 

@@ -139,6 +139,27 @@ const federation_ships = {
         'Fredrikstad': 'Shuttlecarrier',
         'Freedom': 'Scout',
         'Fury': 'Frigate'
+    },
+
+    G: {
+        'Gabriel': 'Shuttlecarrier',
+        'Gagarin': 'Science Scout',
+        'Galaxy': {
+            type: 'Exploratory Cruiser',
+            subclass: ['Galaxy','Galaxy (II)']
+        },
+        'Garibaldi': 'Light Carrier',
+        'Gasparilla': 'Combat Support Ship',
+        'Gemini': 'Exploratory-Cruiser',
+        'Greer': 'Corsair',
+        'Gregory': 'Exploratory Cruiser',
+        'Griffin': 'Supply Tender',
+        'Griffon': 'Battleship',
+        'Guardian Angel':'Rapid Response Cruiser'
+    },
+
+    H: {
+        
     }
 }
   
