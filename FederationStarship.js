@@ -242,7 +242,29 @@ const federation_ships = {
         'Michael Adam': 'Scout',
         'Miranda': 'Cruiser',
         'Mitannic':'Battlecruiser',
+    },
+
+    N: {
+        'Nebula': 'Cruiser',
+        'Nelson': 'Scout',
+        'New Jersey': 'Battleship',
+        'New Orleans': 'Frigate',
+        'Niagara': 'Cruiser',
+        'Nichter': 'Dreadnought',
+        'Niffen': 'Buoy Tender',
+        'Nimitz': 'Strike Carrier',
+        'Nineveh': 'Exploratory Cruiser',
+        'Niven': 'Attack Cruiser',
+        'Nomad': 'Exploratory Cruiser',
+        'Normandy': 'Supercarrier',
+        'Northampton': 'Frigate',
+        'Norway': 'Frigate',
+        'Nova': 'Research Vessel',
+        'NX':'Cruiser'
     }
+
+
+
 }
   
 
