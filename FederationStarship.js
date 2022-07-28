@@ -132,7 +132,13 @@ const federation_ships = {
     },
 
     F: {
-        
+        'Faranarton': 'Heavy Tug',
+        'Federation (I,II)': 'Dreadnought',
+        'Firestone': 'Battlecruiser',
+        'Fisher': 'Light Transport/Tug',
+        'Fredrikstad': 'Shuttlecarrier',
+        'Freedom': 'Scout',
+        'Fury': 'Frigate'
     }
 }
   
