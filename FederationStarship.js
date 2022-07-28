@@ -304,6 +304,34 @@ const federation_ships = {
         'Rising Star': 'Starliner',
         'Rosenzweig': 'Attack Cruiser',
         'Rothwell':'Cruiser'
+    },
+
+    S: {
+        'Saber': 'Scout',
+        'Saladin': {
+            type: 'Destroyer',
+            subclass: ['Saladin', 'Siva','Cochise','Saladin (II)']
+        },
+        'Santee': 'Ecort Carrier',
+        'Sasser': 'Cruiser',
+        'Schmidt': 'Tug',
+        'Scimitar': 'Destroyer (Prototype)',
+        'Shanks': 'Cruiser',
+        "S'harien": "Battlecruiser (Prototype)",
+        'Solaris': 'Cruiser',
+        'Sovereign': 'Cruiser',
+        'Soyuz': 'Tactical Frigate',
+        'Spectre': 'Destroyer',
+        'Star League': 'Dreadnought',
+        'Starstalker': 'Patrol Cruiser',
+        'Steamrunner': 'Destroyer',
+        'Surya': 'Frigate',
+        'Swiften': 'Destroyer',
+        'Sydney': 'Transport'
+    },
+
+    T: {
+        
     }
 
 
