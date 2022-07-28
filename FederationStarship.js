@@ -331,7 +331,11 @@ const federation_ships = {
     },
 
     T: {
-        
+        'The Sullivans': 'Tactical Frigate',
+        'Thruxton': 'Tactical Cruiser',
+        'Todega': 'Tug',
+        'Triumph': 'Research Cruiser',
+        'Trojan':'Troop Transport'
     }
 
 
