@@ -1783,7 +1783,7 @@ let bonaventure_class_ships = [
 ]
 
 
-let akula_class = [
+let akula_class_ships = [
     {
         vessel: 'USS',
         name: 'Akula',
@@ -1870,3 +1870,188 @@ let akula_class = [
 ]
 
 
+let derf_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Derf',
+        registry: 'NCC-1270',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Polynesian',
+        registry: 'NCC-1271',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Beowulf',
+        registry: 'NCC-1272',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Spear',
+        registry: 'NCC-1273',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Acropolis',
+        registry: 'NCC-1274',
+        note: 'Plague ship, destroyed by Federation forces'
+    },
+    {
+        vessel: 'USS',
+        name: 'Emory Land',
+        registry: 'NCC-1275',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cable',
+        registry: 'NCC-1276',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Supply',
+        registry: 'NCC-1277',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Rainer',
+        registry: 'NCC-1278',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Arctic',
+        registry: 'NCC-1279',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bridge',
+        registry: 'NCC-1280',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kilauea',
+        registry: 'NCC-1281',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Santa Barbara',
+        registry: 'NCC-1282',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Flint',
+        registry: 'NCC-1283',
+        note: 'Destroyed defending colony from unknown attacker'
+    },
+    {
+        vessel: 'USS',
+        name: 'Shasta',
+        registry: 'NCC-1284',
+        note: 'Destroyed defending colony from unknown attacker'
+    },
+    {
+        vessel: 'USS',
+        name: 'Mount Baker',
+        registry: 'NCC-1285',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kiska',
+        registry: 'NCC-1286',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Niagrara',
+        registry: 'NCC-1287',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Concorde',
+        registry: 'NCC-1288',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'San Jose',
+        registry: 'NCC-1289',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kanawha',
+        registry: 'NAR-1279',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Pecos',
+        registry: 'NAR-1280',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Big Horn',
+        registry: 'NAR-1281',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Patuxtent',
+        registry: 'NAR-1282',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Laramie',
+        registry: 'NAR-1283',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Gadualupe',
+        registry: 'NAR-1284',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Rappahannock',
+        registry: 'NAR-1285',
+        note: ''
+    },
+
+]
+
+
+
+
+
+
+
+/*--------------------------
+
+let x = [
+    {
+        vessel: '',
+        name: '',
+        registry: '',
+        note: ''
+    },
+]
+
+
+*/
