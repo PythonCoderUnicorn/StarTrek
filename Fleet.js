@@ -1287,7 +1287,7 @@ FOUND ON SINGLE-FWF DESIGNS, THOUGH NOT QUITE AS
 PROBLEMATIC. THE EXTRA ENGINE LARGELY SERVES TO
 PROVIDE POWER FOR HER WEAPONS SYSTEMS, WHILE 
 PROVIDING A MARGINAL BOOST TO HER WARP CAPABILITY, 
-BRINGING HER UP TO A ëSAFEí SPEED OF WARP 6.
+BRINGING HER UP TO A SAFE SPEED OF WARP 6.
 
 
 */
@@ -1364,6 +1364,98 @@ const sherman_class = [
 ]
 
 
+let sherman_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Sherman',
+        registry: 'NCC-935'
+    },
+    {
+        vessel: 'USS',
+        name: 'Von Drake',
+        registry: 'NCC-936'
+    },
+    {
+        vessel: 'USS',
+        name: 'Peabody',
+        registry: 'NCC-937'
+    },
+    {
+        vessel: 'USS',
+        name: 'Neil',
+        registry: 'NCC-938',
+        note: 'Mysteriously lost, causes unknown'
+    },
+    {
+        vessel: 'USS',
+        name: 'Dudley',
+        registry: 'NCC-939'
+    },
+    {
+        vessel: 'USS',
+        name: 'Yamhill',
+        registry: 'NAR-1200'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sandra',
+        registry: 'NAR-1201'
+    },
+    {
+        vessel: 'USS',
+        name: 'Mayagues',
+        registry: 'NAR-1202'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sulphur Queen',
+        registry: 'NCC-1203'
+    },
+    {
+        vessel: 'SS',
+        name: 'Gamesa',
+        registry: 'NGL-1460'
+    },
+    {
+        vessel: 'SS',
+        name: 'Kron',
+        registry: 'NGL-1461',
+        note: 'Self destructed to avoid capture by Orion pirates'
+    },
+    {
+        vessel: 'SS',
+        name: 'Puente Canario',
+        registry: 'NGL-1462'
+    },
+    {
+        vessel: 'SS',
+        name: 'Camponalon',
+        registry: 'NGL-1463',
+        note:'Destroyed by Klingon raid near Sherman planet'
+    },
+    {
+        vessel: 'SS',
+        name: 'Alecia',
+        registry: 'NGL-1464',
+        note:'Destroyed by Klingon raid near Sherman planet'
+    },
+    {
+        vessel: 'SS',
+        name: 'Victoria Elena',
+        registry: 'NGL-1465'
+    },
+    {
+        vessel: 'SS',
+        name: 'Villa De Orio',
+        registry: 'NGL-1466'
+    },
+    {
+        vessel: 'SS',
+        name: 'Urlea',
+        registry: 'NGL-1467'
+    },
+
+]
 
 
 
