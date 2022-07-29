@@ -154,3 +154,138 @@ let starfleet_ships = {
         'NCC Ranges': '2126-2129'
     }
 }
+
+
+
+let batonRouge_class = [
+    {
+        vessel: 'USS',
+        name: 'Baton Rouge',
+        registry: 'NCC-1300'
+    },
+    {
+        vessel: 'USS',
+        name: 'Moscow',
+        registry: 'NCC-1301'
+    },
+    {
+        vessel: 'USS',
+        name: 'Peking',
+        registry: 'NCC-1302'
+    },
+    {
+        vessel: 'USS',
+        name: 'Britannia',
+        registry: 'NCC-1303'
+    },
+    {
+        vessel: 'USS',
+        name: 'Los Angeles',
+        registry:'NCC-1304'
+    },
+    {
+        vessel: 'USS',
+        name: 'Yamato',
+        registry:'NCC-1305'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hokkaido',
+        registry:'NCC-1306'
+    },
+    {
+        vessel: 'USS',
+        name: 'Savannah',
+        registry:'NCC-1307'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tehran',
+        registry:'NCC-1308'
+    },
+    {
+        vessel: 'USS',
+        name: 'Petersburg',
+        registry:'NCC-1309'
+    },
+    {
+        vessel: 'USS',
+        name: 'Marseilles',
+        registry:'NCC-1360'
+    },
+    {
+        vessel: 'USS',
+        name: 'Devonshire',
+        registry:'NCC-1361'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sydney',
+        registry:'NCC-1362'
+    },
+    {
+        vessel: 'USS',
+        name: 'Vladivostok',
+        registry:'NCC-1363'
+    },
+    {
+        vessel: 'USS',
+        name: 'Cairo',
+        registry:'NCC-1364'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tipton',
+        registry:'NCC-1365'
+    },
+    {
+        vessel: 'USS',
+        name: 'Arcadia',
+        registry:'NCC-1366'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tripoli',
+        registry:'NCC-1367'
+    },
+    {
+        vessel: 'USS',
+        name: 'Union',
+        registry:'NCC-1368'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lafayette',
+        registry:'NCC-1369'
+    },
+    {
+        vessel: 'USS',
+        name: 'Commonwealth',
+        registry:'NCC-1370'
+    },
+    {
+        vessel: 'USS',
+        name: 'Republic',
+        registry:'NCC-1371'
+    },
+    {
+        vessel: 'USS',
+        name: 'Democracy',
+        registry:'NCC-1372'
+    },
+    {
+        vessel: 'USS',
+        name: 'Liberty',
+        registry:'NCC-1373'
+    },
+    {
+        vessel: 'USS',
+        name: 'Chauncey',
+        registry:'NCC-1374'
+    }
+    
+]
+
+// console.log(batonRouge_class[3].name)
+
+
