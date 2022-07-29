@@ -289,3 +289,34 @@ let batonRouge_class = [
 // console.log(batonRouge_class[3].name)
 
 
+let nordenskJold_class = [
+    {
+        vessel: 'USS',
+        name: 'Nordenskjold',
+        registry: 'NCC-1425'
+    },
+    {
+        vessel: 'USS',
+        name: 'Cartier',
+        registry: 'NCC-1426'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bartentis',
+        registry: 'NCC-1427'
+    },
+    {
+        vessel: 'USS',
+        name: 'Amundson',
+        registry: 'NCC-1428'
+    },
+    {
+        vessel: 'USS',
+        name: 'Baffin',
+        registry: 'NCC-1429'
+    },
+]
+
+
+
+
