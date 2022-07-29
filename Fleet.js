@@ -381,7 +381,8 @@ const saladin_class = [
             },
             supplemental_craft: {class: 'H', travel_pod: 2}
         }
-    }
+    },
+
 
 ]
 
@@ -500,6 +501,74 @@ let saladin_class_ships = [
         name: 'Shaitman',
         registry: 'NCC-519'
     },
+]
+
+
+
+let hermes_class = [
+    {
+        type: 'Scout',
+        design_chief: 'Franz Joseph',
+        class_commission: 2251,
+        complement: {
+            officers: 20,
+            crew: 175
+        }
+    },
+
+    {
+        hull_structure: 25,
+        hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 242,
+            beam_m: 127,
+            height_m: 60
+        },
+        hull_mass_MT: 95000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Single', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['0C','+3H','-1T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 9,
+            banks: 1,
+            note: '2 each, (f)'
+        },
+        tactical_deflector_shield: 'PPF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'Warp engine',
+            enhanced_sensors: true
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'small', id: '1a' },
+            shuttlecraft: 1,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: {class: 'H', travel_pod: 2}
+        }
+    }
 ]
 
 
