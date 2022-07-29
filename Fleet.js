@@ -1038,7 +1038,121 @@ let ptolemy_class_ships = [
 ]
 
 
+let somnulus_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Somnulus',
+        registry: 'NCC-865',
+        note: 'Retired as training vessel in 2274'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lakshadweep',
+        registry: 'NCC-866',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Morona',
+        registry: 'NCC-867',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Paolucci',
+        registry: 'NCC-868',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Julian Apaza',
+        registry: 'NAR-1219',
+        note: 'Retired, sold to private use in 2275'
+    },
+    {
+        vessel: 'USS',
+        name: 'Oswaldo Cruz',
+        registry: 'NAR-1220',
+        note: 'Retired, sold to private use in 2275'
+    },
+    {
+        vessel: 'USS',
+        name: 'Carlos Chagas',
+        registry: 'NAR-1221',
+        note: 'Retired, sold to private use in 2277'
+    },
+    {
+        vessel: 'USS',
+        name: 'Donna Margarita',
+        registry: 'NAR-1222',
+        note: 'Retired, sold to private use in 2277'
+    },
+    {
+        vessel: 'USS',
+        name: 'San Gieusto',
+        registry: 'NAR-1223',
+        note: 'Retired, sold to private use in 2277'
+    },
+
+]
+
+
+let hellespont_class = [
+    {
+        type: 'Destroyer',
+        class_designation: 1,
+        class_commission: 2263,
+        complement: {
+            officers: 22,
+            crew: 45
+        },
+        dimensions: {
+            length_m: 195,
+            breadth_m: 95,
+            height_m: 68,
+            mass_KMT: 85
+        }
+    },
+
+
+    {
+        drive_system_impulse: 'FID-2 (.75c)',
+        drive_system_warp: ['FWF-1s', 'Triple', 'WF 6/8']
+    },
+
+    {
+        phasers: 4,
+        note: '2 each type FH-3',
+        torpedoes: {banks: 1, type: 'FP-1'}
+    },
 
 
 
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            container_transport: true
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 60,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: true,
+            shuttlebay: { size: 'small', id: '1a' },
+            shuttlecraft: 1,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: {class: 'H', travel_pod: 2}
+        }
+    },
+]
 
