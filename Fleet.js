@@ -1699,5 +1699,74 @@ let nelson_class_ships = [
 
 
 
+const bonaventure_class = [
+    {
+        type: 'Test Vessel',
+        design_chief: 'Don Christianson',
+        class_commission: 2235,
+        complement: {
+            officers: 35,
+            crew: 155
+        }
+    },
+
+    {
+        hull_structure: 28,
+        hull_size: { class: 5, decks: 19 },
+        hull_length: {
+            length_m: 198,
+            beam_m: 95,
+            height_m: 77
+        },
+        hull_mass_MT: 115000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Prototype', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+1C','+1H','+1T']
+    },
+
+    {
+        tactical_lasers: {
+            class: 7,
+            banks: 1,
+            note: '2 each, (f)'
+        },
+        // tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PPF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            // design_flaw: 'warp engine',
+            // enhanced_sensors: {quantity: 2, range: 'short'}
+            prototype: 'Warp engine'
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 3',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'medium', id: '1a' },
+            shuttlecraft: 8,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: {class: 'H', travel_pod: 2, class:'F', shuttlecraft: 2}
+        }
+    },
+]
+
+
 
 
