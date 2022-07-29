@@ -1291,3 +1291,82 @@ BRINGING HER UP TO A ëSAFEí SPEED OF WARP 6.
 
 
 */
+
+
+
+
+const sherman_class = [
+    {
+        type: 'Transport',
+        design_chief: 'Don Christianson',
+        class_commission: 2247,
+        complement: {
+            officers: 5,
+            crew: 25,
+            automation: true
+        }
+    },
+
+    {
+        hull_structure: 28,
+        hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 227,
+            beam_m: 95,
+            height_m: 120
+        },
+        hull_mass_MT: 160000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-S-Mk 3', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['0C','-1H','-1T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 9,
+            banks: 1,
+            note: '2 each, (f)'
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PPF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            automation: true
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 120,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'medium', id: '2a' },
+            shuttlecraft: 6,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 4
+            },
+            supplemental_craft: {class: 'F', travel_pod: 2, shuttlecraft: 2}
+        }
+    },
+
+]
+
+
+
+
+
+
+
+
