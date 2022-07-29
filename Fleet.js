@@ -161,22 +161,26 @@ let batonRouge_class = [
     {
         vessel: 'USS',
         name: 'Baton Rouge',
-        registry: 'NCC-1300'
+        registry: 'NCC-1300',
+        note: 'Retired to Memory Alpha'
     },
     {
         vessel: 'USS',
         name: 'Moscow',
-        registry: 'NCC-1301'
+        registry: 'NCC-1301',
+        note:'First ship with transporter as standard equipment'
     },
     {
         vessel: 'USS',
         name: 'Peking',
-        registry: 'NCC-1302'
+        registry: 'NCC-1302',
+        note: 'Retired & refit as SS General Tso, NAR 952'
     },
     {
         vessel: 'USS',
         name: 'Britannia',
-        registry: 'NCC-1303'
+        registry: 'NCC-1303',
+        note: 'Lost in Axanar Conflict'
     },
     {
         vessel: 'USS',
@@ -186,7 +190,8 @@ let batonRouge_class = [
     {
         vessel: 'USS',
         name: 'Yamato',
-        registry:'NCC-1305'
+        registry: 'NCC-1305',
+        note:'Lost defending Earth colonies during Klingon raid'
     },
     {
         vessel: 'USS',
@@ -201,12 +206,14 @@ let batonRouge_class = [
     {
         vessel: 'USS',
         name: 'Tehran',
-        registry:'NCC-1308'
+        registry: 'NCC-1308',
+        note: 'Second ship with transporter as standard equipment'
     },
     {
         vessel: 'USS',
         name: 'Petersburg',
-        registry:'NCC-1309'
+        registry: 'NCC-1309',
+        note: 'Retired and refit as SS Lady of Adventure. NAR 953'
     },
     {
         vessel: 'USS',
@@ -216,12 +223,14 @@ let batonRouge_class = [
     {
         vessel: 'USS',
         name: 'Devonshire',
-        registry:'NCC-1361'
+        registry: 'NCC-1361',
+        note: 'Retired and refit as SS Basil Fawlty, NAR 954'
     },
     {
         vessel: 'USS',
         name: 'Sydney',
-        registry:'NCC-1362'
+        registry: 'NCC-1362',
+        note: 'Lost in Axanar Conflict'
     },
     {
         vessel: 'USS',
@@ -231,12 +240,14 @@ let batonRouge_class = [
     {
         vessel: 'USS',
         name: 'Cairo',
-        registry:'NCC-1364'
+        registry: 'NCC-1364',
+        note: 'Lost mysteriously near Romulan space'
     },
     {
         vessel: 'USS',
         name: 'Tipton',
-        registry:'NCC-1365'
+        registry: 'NCC-1365',
+        note: 'Retired and refit as SS Campton Champion. NAR 955'
     },
     {
         vessel: 'USS',
@@ -266,7 +277,8 @@ let batonRouge_class = [
     {
         vessel: 'USS',
         name: 'Republic',
-        registry:'NCC-1371'
+        registry: 'NCC-1371',
+        note: 'Previous assignment of James Kirk'
     },
     {
         vessel: 'USS',
@@ -293,12 +305,14 @@ let nordenskJold_class = [
     {
         vessel: 'USS',
         name: 'Nordenskjold',
-        registry: 'NCC-1425'
+        registry: 'NCC-1425',
+        note: 'First Earth ship to reach Trill system'
     },
     {
         vessel: 'USS',
         name: 'Cartier',
-        registry: 'NCC-1426'
+        registry: 'NCC-1426',
+        note: 'Retired & refit as SS Lane Victory, NAR 950'
     },
     {
         vessel: 'USS',
@@ -308,12 +322,14 @@ let nordenskJold_class = [
     {
         vessel: 'USS',
         name: 'Amundson',
-        registry: 'NCC-1428'
+        registry: 'NCC-1428',
+        note: 'Lost while studying quasar phenomenon'
     },
     {
         vessel: 'USS',
         name: 'Baffin',
-        registry: 'NCC-1429'
+        registry: 'NCC-1429',
+        note: 'Retired & refit as SS Spanish Queen, NAR 951'
     },
 ]
 
@@ -393,7 +409,8 @@ let saladin_class_ships = [
     {
         vessel: 'USS',
         name: 'Saladin',
-        registry: 'NCC-500'
+        registry: 'NCC-500',
+        note: 'Retired'
     },
     {
         vessel: 'USS',
@@ -412,11 +429,6 @@ let saladin_class_ships = [
     },
     {
         vessel: 'USS',
-        name: '',
-        registry: 'NCC-'
-    },
-    {
-        vessel: 'USS',
         name: 'Sargon',
         registry: 'NCC-504'
     },
@@ -429,7 +441,8 @@ let saladin_class_ships = [
     {
         vessel: 'USS',
         name: 'Pompey',
-        registry: 'NCC-506'
+        registry: 'NCC-506',
+        note: 'Destroyed by cosmic string phenomenon'
     },
     {
         vessel: 'USS',
@@ -440,11 +453,6 @@ let saladin_class_ships = [
         vessel: 'USS',
         name: 'Suleiman',
         registry: 'NCC-508'
-    },
-    {
-        vessel: 'USS',
-        name: '',
-        registry: 'NCC-'
     },
     {
         vessel: 'USS',
@@ -464,7 +472,8 @@ let saladin_class_ships = [
     {
         vessel: 'USS',
         name: 'Hannibal',
-        registry: 'NCC-512'
+        registry: 'NCC-512',
+        note:'Retired after victorious battle with Orion pirates'
     },
     {
         vessel: 'USS',
@@ -479,7 +488,8 @@ let saladin_class_ships = [
     {
         vessel: 'USS',
         name: 'Adad',
-        registry: 'NCC-515'
+        registry: 'NCC-515',
+        note: 'Lost to Klingon raid'
     },
     {
         vessel: 'USS',
@@ -571,6 +581,8 @@ let hermes_class = [
     }
 ]
 
+
+
 let hermes_class_ships = [
     {
         vessel: 'USS',
@@ -653,3 +665,146 @@ let hermes_class_ships = [
     },
 ]
 
+
+
+let capella_class = [
+    {
+        vessel: 'USS',
+        name: 'Capella',
+        registry: 'NCC-700'
+    },
+    {
+        vessel: 'USS',
+        name: 'Argonne',
+        registry: 'NCC-701'
+    },
+    {
+        vessel: 'USS',
+        name: 'Beagle',
+        registry: 'NCC-702',
+        note: 'Lost near 892 to magnetic storm'
+    },
+    {
+        vessel: 'USS',
+        name: 'LLoyds',
+        registry: 'NCC-703',
+        note: 'First ship to completely map Romulan Neutral Zone'
+    },
+    {
+        vessel: 'USS',
+        name: 'Oregon',
+        registry: 'NCC-704'
+    },
+    {
+        vessel: 'USS',
+        name: 'Roebuck',
+        registry: 'NCC-705'
+    },
+    {
+        vessel: 'USS',
+        name: 'Gleaner',
+        registry: 'NCC-706'
+    },
+    {
+        vessel: 'USS',
+        name: 'Darshak',
+        registry: 'NCC-707',
+        note: 'Abandoned while mapping inter-space region'
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Dowditch',
+        registry: 'NCC-708'
+    },
+    {
+        vessel: 'USS',
+        name: 'Dals',
+        registry: 'NCC-709',
+        note: 'Mysteriously lost near Gorn space.'
+    },
+    {
+        vessel: 'USS',
+        name: 'Parizeau',
+        registry: 'NCC-710',
+        note: 'Duotronic (Forth Generation) Computer Test Vessel'
+    },
+    {
+        vessel: 'USS',
+        name: 'Fiberga',
+        registry: 'NCC-711'
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Ability',
+        registry: 'NCC-712'
+    },
+    {
+        vessel: 'USS',
+        name: 'Mercury',
+        registry: 'NCC-713'
+    },
+    {
+        vessel: 'USS',
+        name: 'Gratia',
+        registry: 'NCC-714'
+    },
+    {
+        vessel: 'USS',
+        name: 'Castor',
+        registry: 'NCC-715'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bellatrix',
+        registry: 'NCC-716'
+    },
+    {
+        vessel: 'USS',
+        name: 'Antares',
+        registry: 'NCC-717',
+        note: 'Destroyed by Charlie Evan psychkinetic powers'
+    },
+    {
+        vessel: 'USS',
+        name: 'Saturn',
+        registry: 'NCC-718'
+    },
+    {
+        vessel: 'USS',
+        name: 'Beaufort',
+        registry: 'NCC-719'
+    },
+    {
+        vessel: 'USS',
+        name: 'Haskins',
+        registry: 'NAR-1324'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lormer',
+        registry: 'NAR-1325'
+    },
+    {
+        vessel: 'USS',
+        name: 'Marianas',
+        registry: 'NAR-1326'
+    },
+    {
+        vessel: 'USS',
+        name: 'Typhon',
+        registry: 'NAR-1327',
+        note: 'Destroyed by Klingon raid'
+    },
+    {
+        vessel: 'USS',
+        name: 'Leilei',
+        registry: 'NAR-1328'
+    },
+    {
+        vessel: 'USS',
+        name: 'Purdue',
+        registry: 'NAR-1329'
+    },
+]
