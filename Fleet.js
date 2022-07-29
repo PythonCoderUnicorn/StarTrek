@@ -1783,3 +1783,90 @@ let bonaventure_class_ships = [
 ]
 
 
+let akula_class = [
+    {
+        vessel: 'USS',
+        name: 'Akula',
+        registry:'NCC-1254'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bars',
+        registry:'NCC-1255'
+    },
+    {
+        vessel: 'USS',
+        name: 'Kit',
+        registry:'NCC-1256'
+    },
+    {
+        vessel: 'USS',
+        name: 'Del Fin',
+        registry:'NCC-1257'
+    },
+    {
+        vessel: 'USS',
+        name: 'Kashalot',
+        registry: 'NCC-1258',
+        note:'Lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Narval',
+        registry: 'NCC-1259',
+        note:'Abandoned after radiation contamination'
+    },
+    {
+        vessel: 'USS',
+        name: 'Morzh',
+        registry:'NCC-1260'
+    },
+    {
+        vessel: 'USS',
+        name: 'Pantera',
+        registry:'NCC-1261'
+    },
+    {
+        vessel: 'USS',
+        name: 'Volk',
+        registry: 'NCC-1262',
+        note:'Retired as training vessel'
+    },
+    {
+        vessel: 'USS',
+        name: 'Leopard',
+        registry:'NCC-1264'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tigr',
+        registry:'NCC-1264' // not a typo
+    },
+    {
+        vessel: 'USS',
+        name: 'Drakon',
+        registry:'NCC-1265'
+    },
+    {
+        vessel: 'USS',
+        name: 'Vepr',
+        registry:'NCC-1266'
+    },
+    {
+        vessel: 'USS',
+        name: 'Gepard',
+        registry:'NCC-1267'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sadat',
+        registry:'NCC-1268'
+    },
+    {
+        vessel: 'USS',
+        name: 'Kuguar',
+        registry:'NCC-1269'
+    },
+]
+
+
