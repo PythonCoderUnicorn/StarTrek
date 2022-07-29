@@ -1767,6 +1767,19 @@ const bonaventure_class = [
     },
 ]
 
-
+let bonaventure_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Bonaventure',
+        registry: 'NX-1028',
+        note:'First ship with dilithium drive. Lost in temporal anomaly'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bonaventure Chance',
+        registry: 'NX-1029',
+        note:'First ship to reach warp 8. Retired to Memory Alpha'
+    }
+]
 
 
