@@ -1637,6 +1637,64 @@ const nelson_class = [
 ]
 
 
+let nelson_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Nelson',
+        registry: 'NCC-880'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sager',
+        registry: 'NCC-881'
+    },
+    {
+        vessel: 'USS',
+        name: 'Moisanen',
+        registry: 'NCC-882'
+    },
+    {
+        vessel: 'USS',
+        name: 'Manzer',
+        registry: 'NCC-883'
+    },
+    {
+        vessel: 'USS',
+        name: 'Weblo',
+        registry: 'NCC-884'
+    },
+    {
+        vessel: 'USS',
+        name: 'Nostromo',
+        registry: 'NCC-885'
+    },
+    {
+        vessel: 'USS',
+        name: 'Eagle',
+        registry: 'NCC-886'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hawk',
+        registry: 'NCC-887'
+    },
+    {
+        vessel: 'USS',
+        name: 'Scavenger',
+        registry: 'NCC-888'
+    },
+    {
+        vessel: 'USS',
+        name: 'Falcon',
+        registry: 'NCC-889'
+    },
+    {
+        vessel: 'USS',
+        name: 'Raven',
+        registry: 'NCC-890',
+        note:'Destroyed by Orion pirates'
+    },
+]
 
 
 
