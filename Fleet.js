@@ -1457,7 +1457,115 @@ let sherman_class_ships = [
 
 ]
 
+// console.log(sherman_class_ships[6].name)
 
+
+
+let independence_class = [
+    {
+        vessel: 'USS',
+        name: 'Independence',
+        registry: 'NCC-940'
+    },
+    {
+        vessel: 'USS',
+        name: 'Blue City',
+        registry: 'NCC-941'
+    },
+    {
+        vessel: 'USS',
+        name: 'Branson',
+        registry: 'NCC-942'
+    },
+    {
+        vessel: 'USS',
+        name: 'Kansas City',
+        registry: 'NCC-943'
+    },
+    {
+        vessel: 'USS',
+        name: 'Saint Peters',
+        registry: 'NCC-944'
+    },
+    {
+        vessel: 'USS',
+        name: 'Belton',
+        registry: 'NCC-945'
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Westralia',
+        registry: 'NAR-1204'
+    },
+    {
+        vessel: 'USS',
+        name: 'Durance',
+        registry: 'NAR-1205'
+    },
+    {
+        vessel: 'USS',
+        name: 'Success',
+        registry: 'NAR-1206'
+    },
+    {
+        vessel: 'USS',
+        name: 'Heron Bay',
+        registry: 'NAR-1207'
+    },
+    {
+        vessel: 'USS',
+        name: 'Somme',
+        registry: 'NAR-1208'
+    },
+    {
+        vessel: 'USS',
+        name: 'Marne',
+        registry: 'NAR-1209'
+    },
+    {
+        vessel: 'SS',
+        name: 'Astral Queen',
+        registry: 'NFT-1910'
+    },
+    {
+        vessel: 'SS',
+        name: 'Bonne Girl',
+        registry: 'NFT-1911'
+    },
+    {
+        vessel: 'USS',
+        name: 'Norkova',
+        registry: 'NFT-1912'
+    },
+    {
+        vessel: 'SS',
+        name: 'Huron',
+        registry: 'NFT-1913',
+        note:'Raided by Orion pirates, triggering Orion conflict'
+    },
+    {
+        vessel: 'SS',
+        name: 'Oregon Trail',
+        registry: 'NFT-1914'
+    },
+    {
+        vessel: 'SS',
+        name: 'Deidre',
+        registry: 'NFT-1915'
+    },
+    {
+        vessel: 'SS',
+        name: 'Kitty Hawk',
+        registry: 'NFT-1916'
+    },
+    {
+        vessel: 'SS',
+        name: 'Northern Star',
+        registry: 'NFT-1917'
+    },
+
+]
 
 
 
