@@ -318,5 +318,189 @@ let nordenskJold_class = [
 ]
 
 
+const saladin_class = [
+    {
+        type: 'Destroyer',
+        design_chief: 'Franz Joseph',
+        class_commission: 2251,
+        complement: {
+            officers: 20,
+            crew: 180
+        }
+    },
+
+    {
+        hull_structure: 25,
+        hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 242,
+            beam_m: 127,
+            height_m: 60
+        },
+        hull_mass_MT: 95000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+1C','+2H','+2T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 9,
+            banks: 3,
+            note: '2 each, (f,f/p, f/s)'
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PPF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'Warp engine'
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'small', id: '1a' },
+            shuttlecraft: 1,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: {class: 'H', travel_pod: 2}
+        }
+    }
+
+]
+
+// console.log(saladin_class[3].tactical_phasers.banks )
+
+
+let saladin_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Saladin',
+        registry: 'NCC-500'
+    },
+    {
+        vessel: 'USS',
+        name: 'Jenghiz',
+        registry: 'NCC-501'
+    },
+    {
+        vessel: 'USS',
+        name: 'Darius',
+        registry: 'NCC-502'
+    },
+    {
+        vessel: 'USS',
+        name: 'Alaric',
+        registry: 'NCC-503'
+    },
+    {
+        vessel: 'USS',
+        name: '',
+        registry: 'NCC-'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sargon',
+        registry: 'NCC-504'
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Xerxes',
+        registry: 'NCC-505'
+    },
+    {
+        vessel: 'USS',
+        name: 'Pompey',
+        registry: 'NCC-506'
+    },
+    {
+        vessel: 'USS',
+        name: 'Kublai',
+        registry: 'NCC-507'
+    },
+    {
+        vessel: 'USS',
+        name: 'Suleiman',
+        registry: 'NCC-508'
+    },
+    {
+        vessel: 'USS',
+        name: '',
+        registry: 'NCC-'
+    },
+    {
+        vessel: 'USS',
+        name: 'Etzel',
+        registry: 'NCC-509'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tamerlane',
+        registry: 'NCC-510'
+    },
+    {
+        vessel: 'USS',
+        name: 'Alexander',
+        registry: 'NCC-511'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hannibal',
+        registry: 'NCC-512'
+    },
+    {
+        vessel: 'USS',
+        name: 'Ahriman',
+        registry: 'NCC-513'
+    },
+    {
+        vessel: 'USS',
+        name: 'Rahman',
+        registry: 'NCC-514'
+    },
+    {
+        vessel: 'USS',
+        name: 'Adad',
+        registry: 'NCC-515'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hashishyun',
+        registry: 'NCC-516'
+    },
+    {
+        vessel: 'USS',
+        name: 'Azrael',
+        registry: 'NCC-517'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hamilcar',
+        registry: 'NCC-518'
+    },
+    {
+        vessel: 'USS',
+        name: 'Shaitman',
+        registry: 'NCC-519'
+    },
+]
+
 
 
