@@ -667,7 +667,7 @@ let hermes_class_ships = [
 
 
 
-let capella_class = [
+let capella_class_ships = [
     {
         vessel: 'USS',
         name: 'Capella',
@@ -876,5 +876,169 @@ const ptolemy_class = [
         }
     },
 ]
+
+
+let ptolemy_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Ptolemy',
+        registry: 'NCC-800',
+        note: 'Retired as training vessel in 2271'
+    },
+    {
+        vessel: 'USS',
+        name: 'Jennings',
+        registry: 'NCC-801',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ah Rashid',
+        registry: 'NCC-802',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Anaxagoras',
+        registry: 'NCC-803',
+        note: 'Destroyed by Orion Pirates'
+    },
+    {
+        vessel: 'USS',
+        name: 'Anaximander',
+        registry: 'NCC-804',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Aristarchus',
+        registry: 'NCC-805',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ibn Daud',
+        registry: 'NCC-806',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Eratosthenes',
+        registry: 'NCC-807',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Galilei',
+        registry: 'NCC-808',
+        note: 'Destroyed in cargo accident during supply mission'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hipparchus',
+        registry: 'NCC-809',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ulugh Beg',
+        registry: 'NCC-810',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Philolaus',
+        registry: 'NCC-811',
+        note: 'Destroyed in cargo accident during supply mission'
+    },
+    {
+        vessel: 'USS',
+        name: 'Thales',
+        registry: 'NCC-812',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hevelius',
+        registry: 'NCC-813',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tonti',
+        registry: 'NCC-814',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Shichang',
+        registry: 'NAR-1214',
+        note: 'Retired; sold to private use in 2285'
+    },
+    {
+        vessel: 'USS',
+        name: 'Nanchang',
+        registry: 'NAR-1215',
+        note: 'Retired; sold to private use in 2285'
+    },
+    {
+        vessel: 'USS',
+        name: 'Taikang',
+        registry: 'NAR-1216',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Fanchang',
+        registry: 'NAR-1217',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Dayun',
+        registry: 'NAR-1218',
+        note: 'Retired; sold to private use in 2285'
+    },
+    {
+        vessel: 'SS',
+        name: 'Zubrinski',
+        registry: 'NDT-986',
+        note: ''
+    },
+    {
+        vessel: 'SS',
+        name: 'Pulkownik',
+        registry: 'NDT-987',
+        note: ''
+    },
+    {
+        vessel: 'SS',
+        name: 'Boleslaw',
+        registry: 'NDT-988',
+        note: ''
+    },
+    {
+        vessel: 'SS',
+        name: 'Zdroj',
+        registry: 'NDT-989',
+        note: ''
+    },
+    {
+        vessel: 'SS',
+        name: 'Wieliczka',
+        registry: 'NDT-990',
+        note: ''
+    },
+    {
+        vessel: 'SS',
+        name: 'Bialostocka',
+        registry: 'NDT-991',
+        note: ''
+    },
+]
+
+
+
+
 
 
