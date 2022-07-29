@@ -7,7 +7,14 @@
 
 
 
-/* VESSEL CLASSIFICATIONS
+/* -------------- VESSEL CLASSIFICATIONS
+
+CUTTER = small ship, smaller than a destroyer, primarily used for patrols against criminal
+    activity such as pirates
+
+FIGHTER = small (2 person size), highly armed and fast spacecraft used for rapid response 
+    and strike operations. Normally docked on a base or a carrier vessel
+
 
 SHUTTLECRAFT = auxillary vessels used by capitol ships or bases. 
     Used for transporting small amounts of cargo or personnel from point to point
@@ -17,6 +24,34 @@ RUNABOUT = a larger version of shuttlecraft, capable of longer duration flights 
 
 TRANSPORT = function similar to Tenders as they ferry supplies, equipment and personnel between points, very large in size
 
+ASSAULT = large transport ships with armed soldiers and their equipment, geavily shielded. 
+    These ships are slow and not capble of offensive fire. Used to take on an objective, not destroy it
+
+DESTROYER = small capitol ship lighter than a frigate, carries weaponry, fast and maneuverable. Most common vessel
+
+SCOUT = destroyer size vessel but is equipped with iproved and advacned scanning equipment
+    and scientific research equipment. Lightly armed and cannot take on much damage
+
+ESCORT = size of a destroyer, designed to protect larger vessels (battleships or carriers) in case of attack.
+    Light and fast, with high level defenses.
+
+FRIGATE = medium capitol ship, (larger than destroyers, smaller than cruisers). Main Fleet defensive power and routine patrol operations
+
+CRUISER = larger than frigates, perform various missions. Most common 'large' Fleet vessel
+
+BATTLECRUISER = a cruiser built for battle, mission specific design for combat. Weaponry and defenses are primary concern, less speed and maneuverability
+
+BATTLESHIP = larger than cruisers, heavy weapons and defenses, slow ships. Military specific missions
+
+DREADNOUGHT = 'ultimate battleship' in terms of combat capabilities, most powerful ship in service
+
+CARRIER = largest ship in Fleet, is the launching pad for smaller spacecraft (fighters). 
+    Used for sceen defence or launching strikes against target. Lacks speed and maneuverability
+
+
+
+NCC = Naval Construction Code, the prefix for all active duty ships under Starfleet command
+NAR = Naval Auxillary Reserve, ships under civilian control
 
 */
 
