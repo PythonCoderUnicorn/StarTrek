@@ -1156,3 +1156,138 @@ let hellespont_class = [
     },
 ]
 
+
+let hellespont_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Hellespont',
+        registry: 'NCC-880'
+    },
+    {
+        vessel: 'USS',
+        name: 'Perseus',
+        registry: 'NCC-881'
+    },
+    {
+        vessel: 'USS',
+        name: 'Circe',
+        registry: 'NCC-882'
+    },
+    {
+        vessel: 'USS',
+        name: 'Aegeus',
+        registry: 'NCC-883'
+    },
+    {
+        vessel: 'USS',
+        name: 'Nereus',
+        registry: 'NCC-884',
+        note:'Destroyed by Klingon raid'
+    },
+    {
+        vessel: 'USS',
+        name: 'Atalanta',
+        registry: 'NCC-885'
+    },
+    {
+        vessel: 'USS',
+        name: 'Europa',
+        registry: 'NCC-886'
+    },
+    {
+        vessel: 'USS',
+        name: 'Achania',
+        registry: 'NCC-887'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tyrnis',
+        registry: 'NCC-888',
+        note:'Liberated colony of Peronius III from Klingon forces'
+    },
+    {
+        vessel: 'USS',
+        name: 'Troezen',
+        registry: 'NCC-889',
+        note: 'Myseriously lost near Tholian space'
+    },
+    {
+        vessel: 'USS',
+        name: 'Athena',
+        registry: 'NCC-890'
+    },
+    {
+        vessel: 'USS',
+        name: 'Amphitrite',
+        registry: 'NCC-891'
+    },
+    {
+        vessel: 'USS',
+        name: 'Antietam',
+        registry: 'NCC-892'
+    },
+    {
+        vessel: 'USS',
+        name: 'Caenis',
+        registry: 'NCC-893',
+        note:'Lost in wormhole effect'
+    },
+    {
+        vessel: 'USS',
+        name: 'Artemis',
+        registry: 'NCC-894'
+    },
+    {
+        vessel: 'USS',
+        name: 'Aeetus',
+        registry: 'NCC-895'
+    },
+    {
+        vessel: 'USS',
+        name: 'Acheron',
+        registry: 'NCC-896'
+    },
+    {
+        vessel: 'USS',
+        name: 'Medea',
+        registry: 'NCC-897'
+    },
+    {
+        vessel: 'USS',
+        name: 'Scylla',
+        registry: 'NCC-898'
+    },
+    {
+        vessel: 'USS',
+        name: 'Charybdis',
+        registry: 'NCC-899'
+    },
+
+]
+
+
+/*
+General information
+A RELATIVELY NEW DESIGN, THE HELLESPONT HAS BEEN
+SERVING ADMIRABLY AS A DEFENSE-ORIENTED SHIP ALONG
+BOTH THE KLINGON AND ROMULAN NEUTRAL ZONES. MARKED
+BY HER TRIPLE-FWF1S CONFIGURATION, THE HELLESPONT
+HAS A DISTINCTIVE PROFILE, AND IS EARNING A REPUTATION
+IN STARFLEET AS A STRONG AND FAST 'FIGHTING SHIP'.
+IN THEORY, THE HELLESPONT WAS SUPPOSED TO BE MORE
+OF A VARIABLE MISSION CRAFT, BUT HER OBVIOUS FIGHTING
+SKILLS AND OTHERWISE SPARTAN ACCOMMODATIONS HAVE
+HAMPERED HER ABILITY TO DO MUCH MORE THAN PATROL
+DUTY AND QUICK DEFENSE. INDEED, THIS SEEMS TO BE TAKEN
+TO HEART, AS THE HELLESPONT IS, MORE AND MORE, BEING
+ASSIGNED INTO PURELY MILITARY ROLES RATHER THAN
+ëVARIABLE MISSIONSí. THE DESIGN OF THE SHIP, MAKING USE OF A THIRD FWF-1S
+ENGINE, DOES HAVE SOME OF THE STABILITY PROBLEMS
+FOUND ON SINGLE-FWF DESIGNS, THOUGH NOT QUITE AS
+PROBLEMATIC. THE EXTRA ENGINE LARGELY SERVES TO
+PROVIDE POWER FOR HER WEAPONS SYSTEMS, WHILE 
+PROVIDING A MARGINAL BOOST TO HER WARP CAPABILITY, 
+BRINGING HER UP TO A ëSAFEí SPEED OF WARP 6.
+
+
+*/
