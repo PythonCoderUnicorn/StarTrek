@@ -1461,7 +1461,7 @@ let sherman_class_ships = [
 
 
 
-let independence_class = [
+let independence_class_ships = [
     {
         vessel: 'USS',
         name: 'Independence',
@@ -1566,6 +1566,79 @@ let independence_class = [
     },
 
 ]
+
+
+
+const nelson_class = [
+    {
+        type: 'Reconnaissance Scout',
+        design_chief: 'Dana Knutson',
+        class_commission: 2262,
+        complement: {
+            officers: 20,
+            crew: 145
+        }
+    },
+
+    {
+        hull_structure: 28,
+        hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 248,
+            beam_m: 127,
+            height_m: 60
+        },
+        hull_mass_MT: 100000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Single', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['0C','+3H','-1T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 9,
+            banks: 2,
+            note: '2 each, (f/p, f/s)'
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PPF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'warp engine',
+            enhanced_sensors: {quantity: 2, range: 'short'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'small', id: '1a' },
+            shuttlecraft: 1,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: {class: 'H', travel_pod: 2}
+        }
+    },
+]
+
+
+
+
 
 
 
