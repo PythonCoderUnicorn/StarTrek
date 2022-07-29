@@ -571,5 +571,85 @@ let hermes_class = [
     }
 ]
 
-
+let hermes_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Hermes',
+        registry: 'NCC-585'
+    },
+    {
+        vessel: 'USS',
+        name: 'Anubis',
+        registry: 'NCC-586'
+    },
+    {
+        vessel: 'USS',
+        name: 'Echo',
+        registry: 'NCC-587'
+    },
+    {
+        vessel: 'USS',
+        name: 'Aeolus',
+        registry: 'NCC-588',
+        note: 'Lost mysteriously exploring near Tholian space'
+    },
+    {
+        vessel: 'USS',
+        name: 'Diana',
+        registry: 'NCC-589'
+    },
+    {
+        vessel: 'USS',
+        name: 'Quinillus',
+        registry: 'NCC-590'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bridger',
+        registry: 'NCC-591',
+        note: 'Lost to ion storm within Mutara Nebula'
+    },
+    {
+        vessel: 'USS',
+        name: 'Carson',
+        registry: 'NCC-592'
+    },
+    {
+        vessel: 'USS',
+        name: 'Batidor',
+        registry: 'NCC-593'
+    },
+    {
+        vessel: 'USS',
+        name: 'Cody',
+        registry: 'NCC-594',
+        note: 'Lost to anti-matter containment breech'
+    },
+    {
+        vessel: 'USS',
+        name: 'Revere',
+        registry: 'NCC-595'
+    },
+    {
+        vessel: 'USS',
+        name: 'Spaker',
+        registry: 'NCC-596'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bowie',
+        registry: 'NCC-597',
+        note: 'Abandoned & destroyed due to plague'
+    },
+    {
+        vessel: 'USS',
+        name: 'Sacajawea',
+        registry: 'NCC-598'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tonti',
+        registry: 'NCC-599'
+    },
+]
 
