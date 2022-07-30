@@ -3074,6 +3074,77 @@ THAT SHE HAS BEEN SCHEDULED FOR REFITS AND 'REFIT-SPECIFICATION BUILDS' STARTING
 
 
 
+const consitution_class = [
+    {
+        type: 'Cruiser',
+        design_chief: 'Matthew Jefferies',
+        class_commission: 2245,
+        complement: {
+            officers: 43,
+            crew: 387
+        }
+    },
+
+    {
+        hull_structure: 40,
+        hull_size: { class: 6, decks: 23 },
+        hull_length: {
+            length_m: 290,
+            beam_m: 127,
+            height_m: 72
+        },
+        hull_mass_MT: 192000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['2C','+0H','+2T']
+    },
+
+    {
+        tactical_phasers: {
+            1:{class: 9, banks: 3, note: '2 each, (f, f/p, f/s)'},
+            2:{class: 9, banks: 2, note: '1 each' }
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PFF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            // design_flaw: 'warp engine',
+            // enhanced_sensors: {quantity: 2, range: 'short'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 70,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: true,
+            shuttlebay: { size: 'large', id: '1a' },
+            shuttlecraft: 12,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 6,
+                emergency: 4,
+                cargo: 2
+            },
+            supplemental_craft: [
+                { class: 'H', travel_pod: 2 },
+                { class: 'F', shuttlecraft: 4 },
+                { class: 'HF', shuttlecraft: 2 },
+                { class: 'AF', shuttlecraft: 2 }
+                
+            ]
+        }
+    },
+]
 
 
 
