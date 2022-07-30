@@ -3938,6 +3938,38 @@ let federation_class_ships = [
 
 
 
+let washington_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Washington',
+        registry: 'NCC-2126',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Polk',
+        registry: 'NCC-2127',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Eisenhower',
+        registry: 'NCC-2128',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Reagan',
+        registry: 'NCC-2129',
+        note: ''
+    },
+]
+
+
+
+
+
+
 
 
 
