@@ -4035,6 +4035,123 @@ const fighter_class = [
 
 
 
+const jenghiz_class = [
+    {
+        name: 'Planet Killer',
+        class_designation: 'Ultra Dreadnought',
+        class_commission: 'Unknown',
+        complement: 'automated'
+    },
+    {
+        dimensions: [
+            { length_km: 12 },
+            { breadth_km: 3.5 },
+            { height_km: 3.5 },
+            {mass_MT: 62.5}
+        ]
+    },
+    {
+        drive_system_impulse: '.50c',
+        drive_system_warp: 'Total Conversion [WF 4/5]'
+    },
+    {
+        armament: [
+            { antiphoton_beam: 1 },
+            { subspace_distortion_field: 1 },
+            {planetary_tractor_beam: 1}
+        ]
+    }
+]
+
+
+let jenghiz_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Jenghiz',
+        registry: 'NCC-501',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Darius',
+        registry: 'NCC-502',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Sargon',
+        registry: 'NCC-504',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Suleilman',
+        registry: 'NCC-508',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Etzel',
+        registry: 'NCC-509',
+        note: 'lost in Tomed incident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tamerlan',
+        registry: 'NCC-510',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Alexander',
+        registry: 'NCC-511',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ahriman',
+        registry: 'NCC-513',
+        note: 'lost in Tomed incident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Rahman',
+        registry: 'NCC-514',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hashishyun',
+        registry: 'NCC-516',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Azrael',
+        registry: 'NCC-517',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hamilcar',
+        registry: 'NCC-518',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Shaitan',
+        registry: 'NCC-519',
+        note: ''
+    },
+]
+
+
+
+
+
+
+
+
 
 /*--------------------------
 
