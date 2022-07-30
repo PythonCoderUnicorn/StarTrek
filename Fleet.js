@@ -3074,6 +3074,18 @@ THAT SHE HAS BEEN SCHEDULED FOR REFITS AND 'REFIT-SPECIFICATION BUILDS' STARTING
 
 
 
+
+
+
+
+
+
+
+
+
+//================================= CONSITUTION CLASS 1700 =======================
+
+
 const consitution_class = [
     {
         type: 'Cruiser',
@@ -3145,6 +3157,183 @@ const consitution_class = [
         }
     },
 ]
+
+
+let consitution_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Constitution',
+        registry: 'NCC-1700',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Constellation',
+        registry: 'NCC-1017',
+        note: 'sacrificed to destroy Doomsday Weapon'
+    },
+    {
+        vessel: 'USS',
+        name: 'Yamato',
+        registry: 'NCC-1305-A',
+        note: ''
+    },
+
+    //===========================
+    {
+        vessel: 'USS',
+        name: 'Enterprise',
+        registry: 'NCC-1701',
+        note: 'legendary starship'
+    },
+    //==========================
+
+    {
+        vessel: 'USS',
+        name: 'Nimitz',
+        registry: 'NCC-1702',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hood',
+        registry: 'NCC-1703',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bismark',
+        registry: 'NCC-1704',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Excalibur',
+        registry: 'NCC-1705',
+        note: 'destroyed by M-5 computer attack'
+    },
+    {
+        vessel: 'USS',
+        name: 'Exeter',
+        registry: 'NCC-1706',
+        note: 'decontaminated plague ship'
+    },
+    {
+        vessel: 'USS',
+        name: 'Valiant',
+        registry: 'NCC-1707',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Intrepid',
+        registry: 'NCC-1708',
+        note: 'All Vulcan crew, lost to alien life form'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lexington',
+        registry: 'NCC-1709',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kongo',
+        registry: 'NCC-1710',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Potemkin',
+        registry: 'NCC-1711',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bonhomme Richard',
+        registry: 'NCC-1712',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Monitor',
+        registry: 'NCC-1713',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hornet',
+        registry: 'NCC-1714',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Merrimac',
+        registry: 'NCC-1715',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Endeavor',
+        registry: 'NCC-1716',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Yorktown',
+        registry: 'NCC-1717',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Essex',
+        registry: 'NCC-1718',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Akagi',
+        registry: 'NCC-1719',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ti-Ho',
+        registry: 'NCC-1760',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Soryu',
+        registry: 'NCC-1761',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hiryu',
+        registry: 'NCC-1762',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Excelsior',
+        registry: 'NCC-1763',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Defiant',
+        registry: 'NCC-1764',
+        note: 'lost tointerphase anomaly near Tholian space'
+    },
+
+]
+
+
+
+
+
+
 
 
 
