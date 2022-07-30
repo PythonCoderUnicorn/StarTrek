@@ -2178,6 +2178,233 @@ let marcoPolo_class_ships = [
 
 
 
+const larson_class = [
+    {
+        type: 'Destroyer',
+        design_chief: 'Dana Knutson',
+        class_commission: 2248,
+        complement: {
+            officers: 25,
+            crew: 180
+        }
+    },
+
+    {
+        hull_structure: 30,
+        hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 276,
+            beam_m: 132,
+            height_m: 84
+        },
+        hull_mass_MT: 115000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Single', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+1C','+2H','+2T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 9,
+            banks: 3,
+            note: '2 each, (f, f/p, f/s)'
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PFF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'warp engine',
+            // enhanced_sensors: {quantity: 2, range: 'short'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'small', id: '2a' },
+            shuttlecraft: 2,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 2,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: {class: 'H', travel_pod: 4}
+        }
+    },
+]
+
+
+let larson_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Larson',
+        registry: 'NCC-1400',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Midway',
+        registry: 'NCC-1401',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tannenburg',
+        registry: 'NCC-1402',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Trafalgar',
+        registry: 'NCC-1403',
+        note: 'Lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Thelenth',
+        registry: 'NCC-1404',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Waterloo',
+        registry: 'NCC-1405',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Borodino',
+        registry: 'NCC-1406',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Austerlitz',
+        registry: 'NCC-1407',
+        note: 'Lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Normandy',
+        registry: 'NCC-1408',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Marathon',
+        registry: 'NCC-1409',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Pharsalus',
+        registry: 'NCC-1410',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Crecy',
+        registry: 'NCC-1411',
+        note: 'Myseriously lost near Romulan space'
+    },
+    {
+        vessel: 'USS',
+        name: 'Poitiers',
+        registry: 'NCC-1412',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Agincourt',
+        registry: 'NCC-1413',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bienheim',
+        registry: 'NCC-1414',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Torgau',
+        registry: 'NCC-1415',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Eylau',
+        registry: 'NCC-1416',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Leyte',
+        registry: 'NCC-1417',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Leipzig',
+        registry: 'NCC-1418',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Buena Vista',
+        registry: 'NCC-1419',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Garbo',
+        registry: 'NCC-1420',
+        note: 'Lost during classified mission'
+    },
+    {
+        vessel: 'USS',
+        name: 'Catinian',
+        registry: 'NCC-1421',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Gallipoli',
+        registry: 'NCC-1422',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Jutland',
+        registry: 'NCC-1423',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Anzio',
+        registry: 'NCC-1424',
+        note: ''
+    },
+
+]
+
+
+
+
+
+
 
 
 
