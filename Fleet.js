@@ -2679,6 +2679,82 @@ let wayfarer_class_ships = [
 ]
 
 
+let taurus_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Taurus',
+        registry: 'NCC-1558',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Oblia',
+        registry: 'NCC-1559',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Roma',
+        registry: 'NCC-1560',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tirrenia',
+        registry: 'NCC-1561',
+        note: 'scrapped after damage from warp accident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Snelling',
+        registry: 'NCC-1562',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Casa Grande',
+        registry: 'NCC-1563',
+        note: 'destroyed after collision with Klingon cruiser'
+    },
+    {
+        vessel: 'USS',
+        name: 'Taborfjell',
+        registry: 'NCC-1564',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tai Shen',
+        registry: 'NCC-1565',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Brovig',
+        registry: 'NCC-1566',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Gallia',
+        registry: 'NCC-1567',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Strachan',
+        registry: 'NCC-1568',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Wyvern',
+        registry: 'NCC-1569',
+        note: ''
+    },
+]
+
 
 
 
