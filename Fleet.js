@@ -4148,7 +4148,87 @@ let jenghiz_class_ships = [
 
 
 
+let cochise_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Cochise',
+        registry: 'NCC-530',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Alva',
+        registry: 'NCC-531',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Pontiac',
+        registry: 'NCC-532',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ney',
+        registry: 'NCC-533',
+        note: 'lost in Tomed incident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Geronimo',
+        registry: 'NCC-534',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cortez',
+        registry: 'NCC-535',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Alvarado',
+        registry: 'NCC-536',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'De Ruyter',
+        registry: 'NCC-21160',
+        note: 'lost in Wolf 359'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hektor',
+        registry: 'NCC-21161',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lysander',
+        registry: 'NCC-21162',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Drake',
+        registry: 'NCC-21163',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Appollyon',
+        registry: 'NCC-21164',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Scott',
+        registry: 'NCC-21165',
+        note: ''
+    },
 
+]
 
 
 
