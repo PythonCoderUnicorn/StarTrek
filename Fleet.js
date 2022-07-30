@@ -2110,6 +2110,70 @@ const marcoPolo_class = [
     },
 ]
 
+let marcoPolo_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Marco Polo',
+        registry: 'NCC-1290',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bren',
+        registry: 'NCC-1291',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Clute',
+        registry: 'NCC-1292',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ozbourne',
+        registry: 'NCC-1293',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Fithian',
+        registry: 'NCC-1294',
+        note: 'scrapped after warp engine accident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Asaro',
+        registry: 'NCC-1295',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bakker',
+        registry: 'NCC-1296',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Holding',
+        registry: 'NCC-1297',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ciaschini',
+        registry: 'NCC-1298',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Leeward',
+        registry: 'NCC-1299',
+        note: ''
+    },
+
+]
+
 
 
 
