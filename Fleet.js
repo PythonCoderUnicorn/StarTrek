@@ -3666,6 +3666,150 @@ const surya_class = [
 ]
 
 
+let surya_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Surya',
+        registry: 'NCC-1850',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Illusive',
+        registry: 'NCC-1851',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Antrim',
+        registry: 'NCC-1852',
+        note: 'lost due to transporter accident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Durmitov',
+        registry: 'NCC-1853',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kanaris',
+        registry: 'NCC-1854',
+        note: 'mysteriously lost en route to Starbase 4'
+    },
+    {
+        vessel: 'USS',
+        name: 'Prlaya',
+        registry: 'NCC-1855',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hashira',
+        registry: 'NCC-1856',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Adulucia',
+        registry: 'NCC-1857',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Brilliant',
+        registry: 'NCC-1858',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Thetis',
+        registry: 'NCC-1859',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Miranda',
+        registry: 'NCC-1860',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tian An Men',
+        registry: 'NCC-1861',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tempest',
+        registry: 'NCC-1862',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Demeter',
+        registry: 'NCC-1863',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Reliant',
+        registry: 'NCC-1864',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Vigilant',
+        registry: 'NCC-1865',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Oberon',
+        registry: 'NCC-1866',
+        note: 'lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Saratoga',
+        registry: 'NCC-1867',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Enforcer',
+        registry: 'NCC-1868',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Valhalla',
+        registry: 'NCC-1869',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Sutherland',
+        registry: 'NCC-1870',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Redan',
+        registry: 'NCC-1871',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Perseus',
+        registry: 'NCC-1872',
+        note: ''
+    },
+
+]
+
+
 
 
 
