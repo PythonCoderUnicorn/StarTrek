@@ -3890,6 +3890,52 @@ const federation_class = [
     },
 ]
 
+let federation_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Federation',
+        registry: 'NCC-2100',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Star League',
+        registry: 'NCC-2101',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Unification',
+        registry: 'NCC-2102',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Confederation',
+        registry: 'NCC-2117',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Star Empire',
+        registry: 'NCC-2118',
+        note: 'destroyed by terrorists'
+    },
+    {
+        vessel: 'USS',
+        name: 'Trusteeship',
+        registry: 'NCC-2119',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Entente',
+        registry: 'NCC-2120',
+        note: 'lead ship in Orion conflict, absorbed by V Ger'
+    },
+    
+]
+
 
 
 
