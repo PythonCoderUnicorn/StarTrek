@@ -2756,6 +2756,71 @@ let taurus_class_ships = [
 ]
 
 
+let montojo_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Montojo',
+        registry: 'NCC-1590',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cavera',
+        registry: 'NCC-1591',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Colon',
+        registry: 'NCC-1592',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Oliva',
+        registry: 'NCC-1593',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Pasaron',
+        registry: 'NCC-1594',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Langara',
+        registry: 'NCC-1595',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Topete',
+        registry: 'NCC-1596',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Moriscos',
+        registry: 'NCC-1597',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Aquinaldo',
+        registry: 'NCC-1598',
+        note: 'lost to ion storm'
+    },
+    {
+        vessel: 'USS',
+        name: 'Anthonio',
+        registry: 'NCC-1599',
+        note: ''
+    },
+]
+
+
 
 
 
