@@ -2567,6 +2567,81 @@ let burke_class_ships = [
 
 ]
 
+let anton_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Anton',
+        registry: 'NCC-1500',
+        note: 'retired to memory alpha'
+    },
+    {
+        vessel: 'USS',
+        name: 'Anderson',
+        registry: 'NCC-1501',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hammann',
+        registry: 'NCC-1502',
+        note: 'Lost in Orion conflict, largest ship lost'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hughes',
+        registry: 'NCC-1503',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Simes',
+        registry: 'NCC-1504',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Mustin',
+        registry: 'NCC-1505',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Russell',
+        registry: 'NCC-1506',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: "O'Brien",
+        registry: 'NCC-1507',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Walke',
+        registry: 'NCC-1508',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hull',
+        registry: 'NCC-1509',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hilbert',
+        registry: 'NCC-1510',
+        note: 'retired as training vessel'
+    },
+    {
+        vessel: 'USS',
+        name: 'Gunn',
+        registry: 'NCC-1511',
+        note: 'retired as training vessel'
+    },
+]
+
 
 
 
