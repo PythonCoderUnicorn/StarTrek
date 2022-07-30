@@ -2401,6 +2401,173 @@ let larson_class_ships = [
 ]
 
 
+let burke_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Burke',
+        registry: 'NCC-1448',
+        note: 'retired to memory alpha'
+    },
+    {
+        vessel: 'USS',
+        name: 'Barry',
+        registry: 'NCC-1449',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Jones',
+        registry: 'NCC-1450',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Wilbur',
+        registry: 'NCC-1451',
+        note: 'Lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Stout',
+        registry: 'NCC-1452',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'McCain',
+        registry: 'NCC-1453',
+        note: 'scrapped after impulse engine malfunction'
+    },
+    {
+        vessel: 'USS',
+        name: 'Mitscher',
+        registry: 'NCC-1454',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Laboon',
+        registry: 'NCC-1455',
+        note: 'Lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Russell',
+        registry: 'NCC-1456',
+        note: 'Lost in Klingon raid'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hamilton',
+        registry: 'NCC-1457',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ramage',
+        registry: 'NCC-1458',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Fitzgerald',
+        registry: 'NCC-1459',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Sthethem',
+        registry: 'NCC-1460',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Carney',
+        registry: 'NCC-1461',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Benfold',
+        registry: 'NCC-1462',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Gonzalez',
+        registry: 'NCC-1463',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cole',
+        registry: 'NCC-1464',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'The Sullivans',
+        registry: 'NCC-1465',
+        note: 'retired as training vessel'
+    },
+    {
+        vessel: 'USS',
+        name: 'Milius',
+        registry: 'NCC-1466',
+        note: 'retired as training vessel'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hopper',
+        registry: 'NCC-1467',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ross',
+        registry: 'NCC-1468',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Mahan',
+        registry: 'NCC-1469',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'McFaul',
+        registry: 'NCC-1470',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cook',
+        registry: 'NCC-1471',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Higgins',
+        registry: 'NCC-1472',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: "O'Kane",
+        registry: 'NCC-1473',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Porter',
+        registry: 'NCC-1474',
+        note: ''
+    },
+
+]
+
+
 
 
 
