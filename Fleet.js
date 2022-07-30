@@ -3386,6 +3386,82 @@ let longbow_class_ships = [
 
 
 
+const decatur_class = [
+    {
+        type: 'Starship',
+        class_designation: 1,
+        // design_chief: 'Dana Knutson',
+        class_commission: 2253,
+        complement: {
+            officers: 36,
+            crew: 320
+        }
+    },
+
+    {
+        // hull_structure: 28,
+        // hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 271,
+            // beam_m: 127,
+            breadth_m:127,
+            height_m: 82
+        },
+        // hull_mass_MT: 100000
+    },
+
+    {
+        drive_system_impulse: 'FID-2 (.75c)',
+        drive_system_warp: ['FWF-1', 'Tandem', 'WF 6/8'],
+        // drive_system_maneuver_modifiers: ['0C','+3H','-1T']
+    },
+
+    {
+        tactical_phasers: [
+            { class: 'none', banks: 3, type: 'FH-3', note: '2 each' },
+            { class: 'none', banks: 2, type: 'FH-3', note: '1 each)' }
+            
+        ],
+        tactical_torpedoes: {banks: 2, type: 'FP-1'},
+        // tactical_deflector_shield: 'PPF 2a'
+    },
+
+    // {
+    //     class_traits: {
+    //         hardened_system: 'Life Support',
+    //         design_flaw: 'warp engine',
+    //         enhanced_sensors: {quantity: 2, range: 'short'}
+    //     }
+    // },
+
+    {
+        operational_data: {
+        //     atmosphere_capable: false,
+        //     cargo_units: 50,
+        //     life_support: 'Class 4',
+        //     operational_systems: 'Class 4',
+        //     sensor_system: 'Class 3',
+        //     separation_system: false,
+        //     shuttlebay: { size: 'small', id: '1a' },
+        //     shuttlecraft: 1,
+        //     tractor_beams: ['1 fv', '1a'],
+        //     transporters: {
+        //         STD: 2,
+        //         emergency: 2,
+        //         cargo: 2
+        //     },
+            supplemental_craft: [
+                { class: 'H', travel_pod: 2 },
+                { class: 'aF', shuttlecraft: 1 },
+                { class: 'HF', shuttlecraft: 1 },
+                { class: 'F', shuttlecraft:2}
+                
+            ]
+            
+        }
+    },
+]
+
 
 
 
