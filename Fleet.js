@@ -2821,7 +2821,253 @@ let montojo_class_ships = [
 ]
 
 
+let izmail_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Izmail',
+        registry: 'NCC-1636',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kinburn',
+        registry: 'NCC-1637',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bogatir',
+        registry: 'NCC-1638',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Butakov',
+        registry: 'NCC-1639',
+        note: ''
+    },
+]
 
+
+
+
+
+
+
+const loknar_class = [
+    {
+        type: 'Frigate',
+        class_designation: 1,
+        // design_chief: 'Dana Knutson',
+        class_commission: 2259,
+        complement: {
+            officers: 32,
+            crew: 145
+        }
+    },
+
+    {
+        hull_structure: 28,
+        hull_size: { class: 5, decks: 13 },
+        hull_length: {
+            length_m: 288,
+            // beam_m: 127,
+            breadth_m: 127,
+            height_m: 76
+        },
+        hull_mass_KMT: 142
+    },
+
+    {
+        drive_system_impulse: 'FID (.75c)',
+        drive_system_warp: ['FWF-1', 'Tandem', 'WF 6/8'],
+        // drive_system_maneuver_modifiers: ['0C','+3H','-1T']
+    },
+
+    {
+        tactical_phasers: {
+            // class: 9,
+            banks: 3,
+            note: '2 each, (FH-3)'
+        },
+        tactical_torpedoes: {bank: 1, type: 'FP-1'}, //'MK-IV Twin Launcher (f)',
+        // tactical_deflector_shield: 'PPF 2a'
+    },
+
+    // {
+    //     class_traits: {
+    //         hardened_system: 'Life Support',
+    //         design_flaw: 'warp engine',
+    //         enhanced_sensors: {quantity: 2, range: 'short'}
+    //     }
+    // },
+
+    // {
+    //     operational_data: {
+    //         atmosphere_capable: false,
+    //         cargo_units: 50,
+    //         life_support: 'Class 4',
+    //         operational_systems: 'Class 4',
+    //         sensor_system: 'Class 3',
+    //         separation_system: false,
+    //         shuttlebay: { size: 'small', id: '1a' },
+    //         shuttlecraft: 1,
+    //         tractor_beams: ['1 fv', '1a'],
+    //         transporters: {
+    //             STD: 2,
+    //             emergency: 2,
+    //             cargo: 2
+    //         },
+    //         supplemental_craft: {class: 'H', travel_pod: 2}
+    //     }
+    // },
+]
+
+
+let loknar_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Loknar',
+        registry: 'NCC-1640',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ankeil',
+        registry: 'NCC-1641',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Vernol',
+        registry: 'NCC-1642',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tarntis',
+        registry: 'NCC-1643',
+        note: 'Lost in Orion conflict'
+    },
+    {
+        vessel: 'USS',
+        name: 'Alexandretta',
+        registry: 'NCC-1644',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Morgan City',
+        registry: 'NCC-1645',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Troy',
+        registry: 'NCC-1646',
+        note: 'Lost in Klingon raid'
+    },
+    {
+        vessel: 'USS',
+        name: 'Farside',
+        registry: 'NCC-1647',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'New America',
+        registry: 'NCC-1648',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kosk',
+        registry: 'NCC-1649',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Borga',
+        registry: 'NCC-1650',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Peking',
+        registry: 'NCC-1651',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Epcot',
+        registry: 'NCC-1652',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Aldebaran',
+        registry: 'NCC-1653',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Argus City',
+        registry: 'NCC-1654',
+        note: 'Lost mysteriously patrolling the Klingon neutral zone'
+    },
+    {
+        vessel: 'USS',
+        name: 'Yorkshire',
+        registry: 'NCC-1655',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Boirdi',
+        registry: 'NCC-1656',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'New Corinth',
+        registry: 'NCC-1657',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kyoto',
+        registry: 'NCC-1658',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Petrograd',
+        registry: 'NCC-1659',
+        note: ''
+    },
+ 
+]
+
+/*
+Loknar General information
+
+THOUGH TECHNICALLY 'EARTH-BORNE' IN DESIGN, THE
+LOKNAR REPRESENTED THE FIRST MAJOR INTEGRATED FLEET
+DESIGN WITH LARGE INPUT FROM ANDORIANS. THE ANDORIANS, NOT WANTING TO BE UNPREPARED AGAINST NEW
+AGRESSORS, OR REPEATED KLINGON AGRESSION, WANTED A
+WARHORSE SHIP WITHIN THE FEDERATION FLEET. IT WAS
+ALSO NO SECRET THAT THE ANDORIAN DEFENSE FLEET SHIPS
+WERE FALLING BEHIND THE TIMES AS WELL (THOUGH
+ROUGHLY EQUIVALENT TO BATON ROUGE-STYLE SHIPS), AND
+ANDOR THEREFORE WAS EVEN MORE EAGER TO GET AN UPDATED CLASS OF FRIGATE FOR THEIR OWN DEFENSE. 
+THE ANDORIAN ARGUMENT WON OUT, AND THEIR INPUT BOTH
+IN DESIGN AND PURPOSE CREATED ONE OF THE MOST
+WIDELY-ACCEPTED DESIGNS IN STARFLEET. THE LOKNAR IS A
+PROVEN SHIP, NOT ONLY IN HER ROLE AS A DEFENSE-ACTION
+FRIGATE, BUT ALSO IN A VARIABLE MISSION CAPACITY. LIKE HER COUSIN, THE CONSTITUTION-CLASS, THE LOKNAR'S
+PERFORMANCE PROVED SO GREAT THROUGH HER CAREER
+THAT SHE HAS BEEN SCHEDULED FOR REFITS AND 'REFIT-SPECIFICATION BUILDS' STARTING 
+*/
 
 
 
