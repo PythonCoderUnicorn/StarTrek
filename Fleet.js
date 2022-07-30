@@ -3968,6 +3968,69 @@ let washington_class_ships = [
 
 
 
+const fighter_class = [
+    {
+        type: 'Fighter Shuttle',
+        design_chief: 'Neale Davidson',
+        class_commission: 2260,
+        pilots : 1
+    },
+
+    {
+        hull_structure: 5,
+        hull_size: { class: 2, decks: 1 },
+        hull_length: {
+            length_m: 11.1,
+            beam_m: 6,
+            height_m: 2.2
+        },
+        hull_mass_MT: 6.5
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Triple', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+2C','-2H','+4T']
+    },
+
+    {
+        tactical_phasers: {
+            type: 2,
+            banks: 2,
+            note: '1 each, (f, f/p, f/s)'
+        },
+        tactical_torpedoes: 'MK XII-IF Twin Launcher (f)',
+        tactical_deflector_shield: 'PFF 2'
+    },
+
+    {
+        class_traits: {
+            hardened_system:[ 'Battle tested','nimble'],
+            design_flaw: 'photon torpedo launcher',
+            // enhanced_sensors: {quantity: 2, range: 'short'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: true,
+            cargo_units: 0,
+            life_support: 'Class 2',
+            operational_systems: 'Class 1R',
+            sensor_system: 'Class 3',
+        //     separation_system: false,
+        //     shuttlebay: { size: 'small', id: '1a' },
+        //     shuttlecraft: 1,
+        //     tractor_beams: ['1 fv', '1a'],
+        //     transporters: {
+        //         STD: 2,
+        //         emergency: 2,
+        //         cargo: 2
+        //     },
+        //     supplemental_craft: {class: 'H', travel_pod: 2}
+        }
+    },
+]
 
 
 
