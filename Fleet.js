@@ -2642,6 +2642,41 @@ let anton_class_ships = [
     },
 ]
 
+// console.log(anton_class_ships)
+
+let wayfarer_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Wayfarer',
+        registry: 'NCC-1535',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Vavilov',
+        registry: 'NCC-1536',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Shackleton',
+        registry: 'NCC-1537',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'James Ross',
+        registry: 'NCC-1538',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Onnuri',
+        registry: 'NCC-1539',
+        note: ''
+    },
+]
 
 
 
@@ -2655,9 +2690,9 @@ let anton_class_ships = [
 
 let x = [
     {
-        vessel: '',
+        vessel: 'USS',
         name: '',
-        registry: '',
+        registry: 'NCC-',
         note: ''
     },
 ]
