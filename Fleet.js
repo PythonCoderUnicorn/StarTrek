@@ -3812,6 +3812,87 @@ let surya_class_ships = [
 
 
 
+const federation_class = [
+    {
+        type: 'Dreadnought',
+        design_chief: 'Franz Joseph',
+        class_commission: 2260,
+        complement: {
+            officers: 55,
+            crew: 445
+        }
+    },
+
+    {
+        hull_structure: 55,
+        hull_size: { class: 6, decks: 23 },
+        hull_length: {
+            length_m: 316,
+            beam_m: 142,
+            height_m: 87
+        },
+        hull_mass_MT: 285000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c)',
+        drive_system_warp: ['PB-32-Mk 3', 'Triple', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+2C','-2H','+4T']
+    },
+
+    {
+        tactical_phasers: [
+            {
+                class: 9,
+                banks: 3,
+                note: '2 each, (f, f/p, f/s)'
+            },
+            {
+                class: 9,
+                banks: 3,
+                note: '1 each, (p, s, a)'
+            }
+        ],
+        tactical_torpedoes: ['MK-IV Twin Launcher (f)','MK-IV Single Launcher (a)'],
+        tactical_deflector_shield: 'PFF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'warp engine',
+            // enhanced_sensors: {quantity: 2, range: 'short'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 70,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: true,
+            shuttlebay: { size: 'large', id: '1f' },
+            shuttlecraft: 12,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 6,
+                emergency: 4,
+                cargo: 2
+            },
+            supplemental_craft: [
+                { class: 'H', shuttlecraft: 4 },
+                { class: 'HF', shuttlecraft: 2 },
+                { class: 'F', travel_pod: 2 },
+            ]
+        }
+    },
+]
+
+
+
+
 
 
 /*--------------------------
