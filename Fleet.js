@@ -4233,6 +4233,87 @@ let cochise_class_ships = [
 
 
 
+let alRashid_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Ah Rashid',
+        registry: 'NCC-802',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Anaximander',
+        registry: 'NCC-804',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Aristarchus',
+        registry: 'NCC-805',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ibn Daud',
+        registry: 'NCC-806',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Eratosthenes',
+        registry: 'NCC-807',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hipparchus',
+        registry: 'NCC-809',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ulugh Beg',
+        registry: 'NCC-810',
+        note: ''
+    },    {
+        vessel: 'USS',
+        name: 'Thales',
+        registry: 'NCC-812',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hevelius',
+        registry: 'NCC-813',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Tonti',
+        registry: 'NCC-814',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Taikang',
+        registry: 'NAR-1216',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Francang',
+        registry: 'NAR-1217',
+        note: ''
+    },
+
+]
+
+
+
+
+
+
+
 /*--------------------------
 
 let x = [
