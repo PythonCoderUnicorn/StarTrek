@@ -2038,6 +2038,82 @@ let derf_class_ships = [
 
 
 
+const marcoPolo_class = [
+    {
+        type: 'Cruiser',
+        design_chief: 'Mark Buckingham',
+        class_commission: 2251,
+        complement: {
+            officers: 45,
+            crew: 410
+        }
+    },
+
+    {
+        hull_structure: 40,
+        hull_size: { class: 6, decks: 17 },
+        hull_length: {
+            length_m: 213,
+            beam_m: 127,
+            height_m: 65
+        },
+        hull_mass_MT: 205000
+    },
+
+    {
+        drive_system_impulse: 'SBE (.75c) (redundant system)',
+        drive_system_warp: ['PB-32-Mk 3', 'Single', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['0C','0H','0T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 9,
+            banks: 3,
+            note: '2 each, (f, f/p, f/s)'
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PFF 2a'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'warp engine',
+            enhanced_sensors: {quantity: 2, range: 'short'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: true,
+            shuttlebay: { size: 'large', id: '1a' },
+            shuttlecraft: 12,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 8,
+                emergency: 4,
+                cargo: 2
+            },
+            supplemental_craft: {
+                class_H: { travel_pod: 2, shuttlecraft: 4},
+                class_HF: { shuttlecraft: 2 },
+                class_AF: { shuttlecraft: 2 }
+            
+            }
+        }
+    },
+]
+
+
+
+
+
 
 
 
