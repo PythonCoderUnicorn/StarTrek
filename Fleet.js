@@ -3463,6 +3463,133 @@ const decatur_class = [
 ]
 
 
+let decatur_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Decatur',
+        registry: 'NCC-1780',
+        note: 'retired to memory alpha'
+    },
+    {
+        vessel: 'USS',
+        name: 'Belknap',
+        registry: 'NCC-1781',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Springfield',
+        registry: 'NCC-1782',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'America',
+        registry: 'NCC-1783',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Yarnell',
+        registry: 'NCC-1784',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Worden',
+        registry: 'NCC-1785',
+        note: 'lost defending colony from unknown hostiles'
+    },
+    {
+        vessel: 'USS',
+        name: 'Dale',
+        registry: 'NCC-1786',
+        note: 'lost to sabotage, believed to be by Romulans'
+    },
+    {
+        vessel: 'USS',
+        name: 'Halsey',
+        registry: 'NCC-1787',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Daniels',
+        registry: 'NCC-1788',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Jouette',
+        registry: 'NCC-1789',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Gates',
+        registry: 'NCC-1790',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Mobile Bay',
+        registry: 'NCC-1791',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Antietam',
+        registry: 'NCC-1792',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Princeton',
+        registry: 'NCC-1793',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cowpens',
+        registry: 'NCC-1794',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Port Royal',
+        registry: 'NCC-1795',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Leyete Gulf',
+        registry: 'NCC-1796',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Monterey',
+        registry: 'NCC-1997',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Chosin',
+        registry: 'NCC-1798',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hugh City',
+        registry: 'NCC-1799',
+        note: ''
+    },
+
+]
+
+
+
 
 
 
