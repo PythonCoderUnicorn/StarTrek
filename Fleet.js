@@ -3330,6 +3330,60 @@ let consitution_class_ships = [
 ]
 
 
+//================================
+
+
+
+
+
+
+
+let longbow_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Longbow',
+        registry: 'NCC-1725',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Crossbow',
+        registry: 'NCC-1726',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Fencer',
+        registry: 'NCC-1727',
+        note: 'lost to Romulan skirmish'
+    },
+    {
+        vessel: 'USS',
+        name: 'Broadsword',
+        registry: 'NCC-1728',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cutlass',
+        registry: 'NCC-1729',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Dagger',
+        registry: 'NCC-1730',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Carromade',
+        registry: 'NCC-1731',
+        note: ''
+    },
+]
+
+
 
 
 
