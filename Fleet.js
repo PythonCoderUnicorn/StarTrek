@@ -3999,7 +3999,7 @@ let federation_class_ships = [
         vessel: 'USS',
         name: 'Confederation',
         registry: 'NCC-2117',
-        note: ''
+        note: 'Lost in Tomed incident'
     },
     {
         vessel: 'USS',
@@ -4019,8 +4019,20 @@ let federation_class_ships = [
         registry: 'NCC-2120',
         note: 'lead ship in Orion conflict, absorbed by V Ger'
     },
-    
+    {
+        vessel: 'USS',
+        name: 'Star Empire',
+        registry: 'NCC-2800',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Entente',
+        registry: 'NCC-2801',
+        note: ''
+    },
 ]
+
 
 
 
