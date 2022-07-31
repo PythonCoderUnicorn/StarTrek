@@ -1867,6 +1867,37 @@ let akula_class_ships = [
         name: 'Kuguar',
         registry:'NCC-1269'
     },
+    {
+        vessel: 'USS',
+        name: 'Wilkerson',
+        registry:'NCC-2224'
+    },
+    {
+        vessel: 'USS',
+        name: 'Carmichael',
+        registry:'NCC-2225'
+    },
+    {
+        vessel: 'USS',
+        name: 'Henleyr',
+        registry:'NCC-2226'
+    },
+    {
+        vessel: 'USS',
+        name: 'Bars',
+        registry:'NCC-2227'
+    },
+    {
+        vessel: 'USS',
+        name: 'Kashalot',
+        registry:'NCC-2228'
+    },
+    {
+        vessel: 'USS',
+        name: 'Gepard',
+        registry:'NCC-2229'
+    },
+
 ]
 
 
@@ -4307,6 +4338,116 @@ let alRashid_class_ships = [
     },
 
 ]
+
+
+
+let beowulf_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Beowulf',
+        registry: 'NCC-1272',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Spear',
+        registry: 'NCC-1273',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Emory Land',
+        registry: 'NCC-1275',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cable',
+        registry: 'NCC-1276',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Supply',
+        registry: 'NCC-1277',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bridge',
+        registry: 'NCC-1280',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kilauea',
+        registry: 'NCC-1281',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Mount Baker',
+        registry: 'NCC-1285',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kiska',
+        registry: 'NCC-1286',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Niagara',
+        registry: 'NCC-1287',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Concorde',
+        registry: 'NCC-1288',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'San Jose',
+        registry: 'NCC-1289',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Polynesian',
+        registry: 'NCC-2240',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Acropolis',
+        registry: 'NCC-2241',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Flint',
+        registry: 'NCC-2242',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Shasta',
+        registry: 'NCC-2243',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ptuxtent II',
+        registry: 'NCC-2244',
+        note: ''
+    },
+
+]
+
 
 
 
