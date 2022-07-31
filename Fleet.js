@@ -4758,6 +4758,196 @@ const miranda_class = [
 ]
 
 
+let miranda_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Miranda',
+        registry: 'NCC-1860',
+        note: 'retired to memory alpha'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tian An Men',
+        registry: 'NCC-1861',
+        note: 'lost myteriously ner Tholian space'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tempest',
+        registry: 'NCC-1862',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Demeter',
+        registry: 'NCC-1863',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Reliant',
+        registry: 'NCC-1864',
+        note: 'destroyed by Kahn'
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Vigilant',
+        registry: 'NCC-1865',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Saratoga',
+        registry: 'NCC-1867',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Sutherland',
+        registry: 'NCC-1870',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Redan',
+        registry: 'NCC-1871',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Perseus',
+        registry: 'NCC-1872',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Durmitov',
+        registry: 'NCC-2230',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Kanaris',
+        registry: 'NCC-2231',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Pralaya',
+        registry: 'NCC-2232',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hashira',
+        registry: 'NCC-2233',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Adulucia',
+        registry: 'NCC-2234',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: '',
+        registry: 'NCC-',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Thetis',
+        registry: 'NCC-2235',
+        note: ''
+    },    {
+        vessel: 'USS',
+        name: 'Oberon',
+        registry: 'NCC-2236',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Brattain',
+        registry: 'NCC-21166',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Pralaya',
+        registry: 'NCC-21830',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hashira',
+        registry: 'NCC-21831',
+        note: 'lost in Tykens rift'
+    },
+    {
+        vessel: 'USS',
+        name: 'Tian An Men',
+        registry: 'NCC-21832',
+        note: ''
+    },    {
+        vessel: 'USS',
+        name: 'Adulucia',
+        registry: 'NCC-21833',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Majestic',
+        registry: 'NCC-31060',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Sitak',
+        registry: 'NCC-31859',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'ShirKahr',
+        registry: 'NCC-31905',
+        note: 'Destroyed in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Surya',
+        registry: 'NCC-31906',
+        note: 'Destroyed in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Illusive',
+        registry: 'NCC-31907',
+        note: 'Destroyed in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Antrim',
+        registry: 'NCC-31908',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Trial',
+        registry: 'NCC-31909',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Nautilus',
+        registry: 'NCC-31910',
+        note: ''
+    },
+]
+
+
 
 
 
