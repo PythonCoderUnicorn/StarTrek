@@ -5231,6 +5231,58 @@ let soyuz_class_ships = [
 
 
 
+let durret_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Durret',
+        registry: 'NCC-2216',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Rasalgethi',
+        registry: 'NCC-2217',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Lapon',
+        registry: 'NCC-2218',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Shelikov',
+        registry: 'NCC-2219',
+        note: 'test bed for abandoned Federation cloaking device'
+    },
+    {
+        vessel: 'USS',
+        name: 'Goncharov',
+        registry: 'NCC-2220',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Nerode',
+        registry: 'NCC-2221',
+        note: 'self destructed for unknown reasons'
+    },
+    {
+        vessel: 'USS',
+        name: 'Remmel',
+        registry: 'NCC-2222',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Marek',
+        registry: 'NCC-2223',
+        note: ''
+    },
+
+]
+
 
 
 
