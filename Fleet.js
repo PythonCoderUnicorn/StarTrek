@@ -5172,6 +5172,53 @@ let knox_class_ships = [
 
 
 
+let soyuz_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Soyuz',
+        registry: 'NCC-1940',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Bozeman',
+        registry: 'NCC-1941',
+        note: 'Lost to temporal anomaly , recovered later'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lux',
+        registry: 'NCC-1942',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Camona',
+        registry: 'NCC-1943',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Muir',
+        registry: 'NCC-1944',
+        note: 'lost in Tomed incident'
+    },
+    {
+        vessel: 'USS',
+        name: 'Blackwood',
+        registry: 'NCC-1945',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cowan',
+        registry: 'NCC-1946',
+        note: ''
+    },
+]
+
+
+
 
 
 
