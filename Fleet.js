@@ -4949,6 +4949,85 @@ let miranda_class_ships = [
 
 
 
+const knox_class = [
+    {
+        type: 'Frigate',
+        design_chief: 'Todd Guenther',
+        class_commission: 2276,
+        complement: {
+            officers: 35,
+            crew: 260
+        }
+    },
+
+    {
+        hull_structure: 25,
+        hull_size: { class: 5, decks: 15 },
+        hull_length: {
+            length_m: 238,
+            beam_m: 142,
+            height_m: 52
+        },
+        hull_mass_MT: 127000
+    },
+
+    {
+        drive_system_impulse: 'RSE (.75c)',
+        drive_system_warp: ['LM-64-Mk 3', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+3C','+2H','+4T']
+    },
+
+    {
+        tactical_phasers: [{
+            class: 'X',
+            banks: 3,
+            note: '2 each, (f, f/p, f/s)'
+        },
+            {
+                class: 'X-H',
+                banks: 2,
+                note: '1 each, (f)'
+            }
+        ],
+        // tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PFF 3'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            // design_flaw: 'warp engine',
+            // enhanced_sensors: { quantity: 2, range: 'short' },
+            enhanced_phasers: { type: 'X-H', range: 'long'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 35,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: false,
+            shuttlebay: { size: 'medium', id: '2a' },
+            shuttlecraft: 8,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 6,
+                emergency: 4,
+                cargo: 2
+            },
+            supplemental_craft: [
+                { class: 'H', travel_pod: 2 },
+                { class: 'HF', shuttlecraft: 2 },
+                { class: 'F', shuttlecraft: 2 },
+            ]
+        }
+    },
+]
+
+
 
 
 
