@@ -4506,6 +4506,186 @@ let beowulf_class_ships = [
 
 
 
+const sherabo_class = [
+    {
+        type: 'Research Frigate',
+        design_chief: 'Joe Jennings',
+        class_commission: 2272,
+        complement: {
+            officers: 45,
+            crew: 300
+        }
+    },
+
+    {
+        hull_structure: 25,
+        hull_size: { class: 5, decks: 15 },
+        hull_length: {
+            length_m: 238,
+            beam_m: 142,
+            height_m: 47
+        },
+        hull_mass_MT: 140000
+    },
+
+    {
+        drive_system_impulse: 'RSE (.75c)',
+        drive_system_warp: ['LM-64-Mk 3', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+3C','+2H','+4T']
+    },
+
+    {
+        tactical_phasers: {
+            class: 10,
+            banks: 3,
+            note: '2 each, (f, f/p, f/s)'
+        },
+        tactical_torpedoes: 'MK-IV Twin Launcher (f)',
+        tactical_deflector_shield: 'PFF 3'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            // design_flaw: 'warp engine',
+            enhanced_sensors: true
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: true,
+            shuttlebay: { size: 'medium', id: '2a' },
+            shuttlecraft: 12,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 6,
+                emergency: 2,
+                cargo: 2
+            },
+            supplemental_craft: [
+                { class: 'H', travel_pod: 2 },
+                { class: 'F', shuttlecraft: 4 },
+                { class: 'HF', shuttlecraft: 2 }
+            ]
+        }
+    },
+]
+
+
+
+let sherabo_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Sherabo',
+        registry: 'NCC-1830',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Walke',
+        registry: 'NCC-1508',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Hull',
+        registry: 'NCC-1509',
+        note: 'Lost near Klingon space'
+    },
+    {
+        vessel: 'USS',
+        name: 'Wayfarer',
+        registry: 'NCC-1535',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Vavilov',
+        registry: 'NCC-1536',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Shackleton',
+        registry: 'NCC-1537',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Onnuri',
+        registry: 'NCC-1539',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Dalziel',
+        registry: 'NCC-1831',
+        note: 'Lost near Tholian space'
+    },
+    {
+        vessel: 'USS',
+        name: 'Marray',
+        registry: 'NCC-1832',
+        note: 'destroyed by wormhole effect'
+    },
+    {
+        vessel: 'USS',
+        name: 'Ward',
+        registry: 'NCC-1833',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Howard',
+        registry: 'NCC-1834',
+        note: 'destroyed by Borg at Wolf 359'
+    },
+    {
+        vessel: 'USS',
+        name: 'Rutherford',
+        registry: 'NCC-1835',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Blaikley',
+        registry: 'NCC-1836',
+        note: 'destroyed by Federation forces as a plague ship'
+    },
+    {
+        vessel: 'USS',
+        name: 'Pye',
+        registry: 'NCC-1837',
+        note: 'Destroyed by Dominion forces'
+    },
+    {
+        vessel: 'USS',
+        name: 'Lantree',
+        registry: 'NCC-1838',
+        note: 'Destroyed by Dominion forces'
+    },
+    {
+        vessel: 'USS',
+        name: 'Meek',
+        registry: 'NCC-1839',
+        note: ''
+    },
+
+]
+
+
+
+
+
+
+
+
 
 // console.log(decatur_class_ships)
 
