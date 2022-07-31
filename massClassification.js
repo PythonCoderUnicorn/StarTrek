@@ -71,3 +71,38 @@ else if (x >= 600e3 && x < 700e3) {
 else {
     console.log('invalid ship mass, try again.')
 }
+
+
+
+
+
+/* more notes
+
+SS = 3.1 (4650 MT)
+
+CONTROL COMPUTER [DUOTRONIC]
+SS = 2 [3000 MT]
+
+
+SS 22 = 33000
+
+DETERMINING SUPERSTRUCTURE
+1 POINT SS = 1500 T
+
+WARP ENGINES
+FWF-1
+WEIGHT 31,000 MT
+SS = 5 [15000 MT PAIRED
+
+IMPULSE ENGINES
+DIE-2
+SS = .1 [150 MT]
+WEIGHT 2800 MT
+SS = 1.2 PER BANK
+
+PHOTON TORPEDOES
+[FP-5] [5400 MT]
+SS = 1.8 PER LAUNCHER
+
+]
+*/
