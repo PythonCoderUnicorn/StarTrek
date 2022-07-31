@@ -3590,7 +3590,7 @@ let decatur_class_ships = [
         vessel: 'USS',
         name: 'Port Royal',
         registry: 'NCC-1795',
-        note: ''
+        note: 'Lost mysteriously near Tholian space'
     },
     {
         vessel: 'USS',
@@ -3614,6 +3614,61 @@ let decatur_class_ships = [
         vessel: 'USS',
         name: 'Hugh City',
         registry: 'NCC-1799',
+        note: ''
+    },
+
+    {
+        vessel: 'USS',
+        name: 'Worden',
+        registry: 'NCC-2237',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Dale',
+        registry: 'NCC-2238',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Migtley',
+        registry: 'NCC-2239',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Ortizcruz',
+        registry: 'NCC-21834',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Darenthal',
+        registry: '21835',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Razo',
+        registry: 'NCC-21836',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Lapatra',
+        registry: 'NCC-21837',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Strick',
+        registry: 'NCC-21838',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Schermerhorn',
+        registry: 'NCC-21839',
         note: ''
     },
 
@@ -4452,7 +4507,7 @@ let beowulf_class_ships = [
 
 
 
-
+// console.log(decatur_class_ships)
 
 
 /*--------------------------
