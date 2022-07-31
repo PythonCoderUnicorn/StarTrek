@@ -5028,6 +5028,147 @@ const knox_class = [
 ]
 
 
+let knox_class_ships = [
+    {
+        vessel: 'USS',
+        name: 'Knox',
+        registry: 'NCC-1920',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Buckley',
+        registry: 'NCC-1921',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Chevalier',
+        registry: 'NCC-1922',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Corry',
+        registry: 'NCC-1923',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Small',
+        registry: 'NCC-1924',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Greene',
+        registry: 'NCC-1925',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Fechteler',
+        registry: 'NCC-1926',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Duncan',
+        registry: 'NCC-1927',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Benner',
+        registry: 'NCC-1928',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cecil',
+        registry: 'NCC-1929',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Fiske',
+        registry: 'NCC-1930',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Dyess',
+        registry: 'NCC-1931',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Thomas',
+        registry: 'NCC-1932',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Higbee',
+        registry: 'NCC-1933',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Camona',
+        registry: 'NCC-1934',
+        note: 'Lost in second Klingon War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Muir',
+        registry: 'NCC-1935',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Blackwood',
+        registry: 'NCC-1936',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Furse',
+        registry: 'NCC-1937',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Goodrich',
+        registry: 'NCC-1938',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hanson',
+        registry: 'NCC-1939',
+        note: 'Lost in Dominion War'
+    },
+    {
+        vessel: 'USS',
+        name: 'Hawkins',
+        registry: 'NCC-1947',
+        note: ''
+    },
+    {
+        vessel: 'USS',
+        name: 'Cowan',
+        registry: 'NCC-1948',
+        note: ''
+    },    {
+        vessel: 'USS',
+        name: 'Kirk',
+        registry: 'NCC-1949',
+        note: ''
+    },
+
+]
+
 
 
 
