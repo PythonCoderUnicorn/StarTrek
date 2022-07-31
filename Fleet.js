@@ -4683,6 +4683,85 @@ let sherabo_class_ships = [
 
 
 
+const miranda_class = [
+    {
+        type: 'Frigate',
+        design_chief: 'Joe Jennings',
+        class_commission: 2272,
+        complement: {
+            officers: 50,
+            crew: 310
+        }
+    },
+
+    {
+        hull_structure: 25,
+        hull_size: { class: 5, decks: 15 },
+        hull_length: {
+            length_m: 238,
+            beam_m: 142,
+            height_m: 58
+        },
+        hull_mass_MT: 155000
+    },
+
+    {
+        drive_system_impulse: 'RSM (.75c)',
+        drive_system_warp: ['LM-64-Mk 3', 'Tandem', 'WF 6/8'],
+        drive_system_maneuver_modifiers: ['+3C','+2H','+4T']
+    },
+
+    {
+        tactical_phasers: [
+            {
+                class: 10, banks: 2, note: '2 each, (f/p, f/s)'
+            },
+            {
+                class: 'X-H', banks:2, note: '1 each (f)'
+            }
+        ],
+        tactical_torpedoes: ['MK-IV Twin Launcher (f)','MK-VI Single Launcher (a)'],
+        tactical_deflector_shield: 'PFF 3'
+    },
+
+    {
+        class_traits: {
+            hardened_system: 'Life Support',
+            design_flaw: 'warp engine',
+            enhanced_sensors: {class: 'X-H', range: 'long'}
+        }
+    },
+
+    {
+        operational_data: {
+            atmosphere_capable: false,
+            cargo_units: 50,
+            life_support: 'Class 4',
+            operational_systems: 'Class 4',
+            sensor_system: 'Class 3',
+            separation_system: true,
+            shuttlebay: { size: 'medium', id: '2a' },
+            shuttlecraft: 12,
+            tractor_beams: ['1 fv', '1a'],
+            transporters: {
+                STD: 6,
+                emergency: 4,
+                cargo: 2
+            },
+            supplemental_craft: [
+                { class: 'H', travel_pod: 2 },
+                { class: 'F', shuttlecraft: 2 },
+                { class: 'H', shuttlecraft: 2 },
+            ]
+        }
+    },
+]
+
+
+
+
+
+
 
 
 
