@@ -101,17 +101,17 @@ class Constellation  {
 
     propulsion = [
         {
-            1: "LN-64B Mod 3 dilithium-energized antimatter linear warp drive units",
+            info: "LN-64B Mod 3 dilithium-energized antimatter linear warp drive units",
             quantity: 4,
             contractor: 'Cochrane Warp Dynamics. Minos al Rijil, Alpha Centauri VII'
         },
         {
-            2: "RSM subatomic unified energy impulse units",
+            info: "RSM subatomic unified energy impulse units",
             quantity: 2,
             contractor: "Scarbak Propulsion Systems, Earth"
         },
         {
-            3: "QASR particle beam maneurvering thrusters",
+            info: "QASR particle beam maneurvering thrusters",
             quantity: 1,
             contractor: "Orage Ijek, Aksajak, Andor"
         }

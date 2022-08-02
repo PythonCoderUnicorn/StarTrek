@@ -284,3 +284,156 @@ let excelsior_class_ships = [
 //excelsior_class_ships[3].name
 
 // console.log(excelsior_class_ships)
+
+
+
+
+
+class Excelsior {
+
+    specifications  = {
+        displacement_mt: 1534610,
+        overall_length_m: 467,
+        overall_draft_m: 78,
+        overall_beam_m: 186
+    }
+        
+
+    propulsion = [
+        {
+            info: "K-27 Mod 1 dilithium-energized antimatter linear warp drive units",
+            quantity: 2,
+            contractor: 'Koëller Uti, Stuttgart, Earth'
+        },
+        {
+            info: "LN-72 Mod 1 dilithium-energized antimatter linear warp drive units",
+            quantity: 2,
+            contractor: "Shuvinaaljis Warp Technologies, Vulcan"
+        },
+        {
+            info: "SANTH-H subatomic unified energy impulse units",
+            quantity: 2,
+            contractor: "Scarbak Propulsion Systems, Earth"
+        },
+        {
+
+        }
+
+    ]
+
+     
+
+
+    velocity = [
+        {
+            warp: 6.0,
+            detail: 'Standard Cruising Speed'
+        },
+        {
+            warp: 7.0,
+            detail: 'Maximum Cruising Speed'
+        },
+        {
+             warp: 8.0,
+             detail: "Maximum Attainable Velocity"
+        }
+    ]
+        
+    
+
+
+    duration = "10 years, Standard"
+    
+
+
+    crew = {
+        officers: 100,
+        enlisted_crew: 435,
+        passengers: 0,
+        crew_total: 535
+    }
+       
+
+    
+    embarked_craft(number) {
+
+        if (number === 1) {
+            console.log("Type SW-9 Intelligence Shuttle") 
+        }
+        else if (number === 3) {
+            console.log("Type SW-7 Personnel Shuttle")
+        }
+        else if (number === 2) {
+            console.log("Type S-10 Shuttelpod or Type S-2A Bee Workpod")
+        }
+        else {
+            console.log("Error. Enter integer < 3, try again.")
+        }
+    }
+
+
+    navigation = [
+        {
+            guidance: 'Hawkeye Warp Celestial',
+            contractor: 'Plessey Group, Essex, Earth'
+        },
+        {
+            guidance: 'NAVTAC guiddance supplement',
+            contractor: 'Plessey Group, Essex, Earth'
+        }
+    ]
+      
+    
+
+    computers = {
+        type: "Daystrom Duotronic IV with Multitronic M-9 Supplement",
+        manufacturer: "Erisaffe-Zynn Space Systems, Sebaldhasta, Deneb V"
+    }
+        
+
+    phasers = [
+        {
+            banks: 6,
+            each: 2,
+            type: 'RIM-15A independent twin mount',
+            contractor: 'Agusta Ansadado, Inc. Fuzes, Venus'
+        },
+        {
+            banks: 6,
+            each: 1,
+            type: 'RSM-20B single mount',
+            contractor: 'Agusta Ansadado, Inc. Fuzes, Venus'
+        }
+    ]
+
+    missiles = {
+        tubes: 3,
+        type: 'MK 70 Mod 2',
+        contractor: 'Skat-Rar Weapon Systems, Ezuruk, Andor'
+    }
+
+    defense = {
+        type: 'Merlin primary face field and deflector control system',
+        contractor: 'Prentice-Schafer Inc, Marsport, Mars'
+    }
+    
+    life_support = [
+        {
+            type: 'MC-3E artificial gravity generator',
+            contractor: 'Cristobal SM/S, Manilla, Earth'
+        },
+        {
+            type: 'Rastis radiation protection package',
+            contractor:'Tidjikja/Atar Associated Inductries, Rastaibi, Regulus'
+        },
+        {
+            type: 'Cerix waste regeneration system',
+            contractor: 'Jullundur-Lahore Ltd, Bombay, Earth'
+        }
+    ]
+}
+
+
+let excelsior = new Excelsior()
+
+console.log(excelsior.computers)
