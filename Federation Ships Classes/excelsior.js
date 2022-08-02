@@ -316,7 +316,14 @@ class Excelsior {
             contractor: "Scarbak Propulsion Systems, Earth"
         },
         {
-
+            info: "QASR particle beam maneuvering thrusters",
+            quantity: 1,
+            contractor: "Scarbak Propulsion Systems, Earth"
+        },
+        {
+            info: "Trentis II pulsed laser reaction control system",
+            quantity: 1,
+            contractor: "Orage Ijek, Aksajak, Andor"
         }
 
     ]
@@ -326,15 +333,15 @@ class Excelsior {
 
     velocity = [
         {
-            warp: 6.0,
+            warp: 8.0,
             detail: 'Standard Cruising Speed'
         },
         {
-            warp: 7.0,
+            warp: 9.0,
             detail: 'Maximum Cruising Speed'
         },
         {
-             warp: 8.0,
+             warp: 9.3,
              detail: "Maximum Attainable Velocity"
         }
     ]
@@ -342,64 +349,57 @@ class Excelsior {
     
 
 
-    duration = "10 years, Standard"
+    duration = "5 years, Standard"
     
 
 
     crew = {
         officers: 100,
-        enlisted_crew: 435,
+        enlisted_crew: 450,
         passengers: 0,
-        crew_total: 535
+        crew_total: 550
     }
        
 
     
     embarked_craft(number) {
 
-        if (number === 1) {
-            console.log("Type SW-9 Intelligence Shuttle") 
-        }
-        else if (number === 3) {
-            console.log("Type SW-7 Personnel Shuttle")
-        }
-        else if (number === 2) {
-            console.log("Type S-10 Shuttelpod or Type S-2A Bee Workpod")
-        }
-        else {
-            console.log("Error. Enter integer < 3, try again.")
-        }
+        let crafts = [
+            'Type SW-7 Personnel Shuttle',
+            'Type S-10 Shuttlepod',
+            'Type S-2A Bee Workpod',
+            'Victory Class Fighter',
+            'Vigilante Class Fighter'
+        ]
+        return crafts[number]
+     
     }
 
 
-    navigation = [
-        {
-            guidance: 'Hawkeye Warp Celestial',
-            contractor: 'Plessey Group, Essex, Earth'
-        },
-        {
-            guidance: 'NAVTAC guiddance supplement',
-            contractor: 'Plessey Group, Essex, Earth'
+    navigation = {
+            guidance: 'RAV / ISHAK Mod 1 Warp Celestial Guidance',
+            contractor: 'Tlixis Ramab RRB, Coridan III'
         }
-    ]
+        
+    
       
     
 
     computers = {
         type: "Daystrom Duotronic IV with Multitronic M-9 Supplement",
-        manufacturer: "Erisaffe-Zynn Space Systems, Sebaldhasta, Deneb V"
+        manufacturer: "Daystrom Computer Systems, Lunaport Luna"
     }
         
 
     phasers = [
         {
-            banks: 6,
+            banks: 10,
             each: 2,
             type: 'RIM-15A independent twin mount',
             contractor: 'Agusta Ansadado, Inc. Fuzes, Venus'
         },
         {
-            banks: 6,
+            banks: 4,
             each: 1,
             type: 'RSM-20B single mount',
             contractor: 'Agusta Ansadado, Inc. Fuzes, Venus'
@@ -407,8 +407,8 @@ class Excelsior {
     ]
 
     missiles = {
-        tubes: 3,
-        type: 'MK 70 Mod 2',
+        tubes: 4,
+        type: 'MK 70 Mod 2 Direct',
         contractor: 'Skat-Rar Weapon Systems, Ezuruk, Andor'
     }
 
@@ -434,6 +434,11 @@ class Excelsior {
 }
 
 
+
+
+
 let excelsior = new Excelsior()
 
-console.log(excelsior.computers)
+// excelsior.embarked_craft(2)
+
+// console.log()
