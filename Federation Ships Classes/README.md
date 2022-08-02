@@ -19,6 +19,7 @@ Before the Dominion War, the Federation had about 3,500 Class 1 starships, but a
 
 - Constellation Class
 - Excelsior Class
+- Ambassador Class
 
     
   
