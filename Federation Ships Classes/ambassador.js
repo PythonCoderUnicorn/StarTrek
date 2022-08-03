@@ -171,3 +171,146 @@ let ambassador_class_ships = [
 ]
 
 
+
+
+
+
+
+
+
+class Ambassador {
+
+
+    specifications  = {
+        displacement_mt: 3740000,
+        overall_length_m: 526,
+        overall_draft_m: 125,
+        overall_beam_m: 320
+    }
+        
+
+    propulsion = [
+        {
+            info: "LF-10 Mod 1 energized-energized antimatter linear warp drive units",
+            quantity: 2,
+            contractor: 'Leeding Energies, Earth'
+        },
+        {
+            info: "FIG-1 subatomic unified energy impulse units",
+            quantity: 2,
+            contractor: "Kloratis Drivers, Tellar"
+        },
+        {
+            info: "QASR-2 particle beam maneuvering thrusters",
+            quantity: 1,
+            contractor: "Scarbak Propulsion Systems, Earth"
+        },
+        {
+            info: "Trentis III pulsed laser reaction control system",
+            quantity: 1,
+            contractor: "Orage Ijek, Aksajak, Andor"
+        }
+
+    ]
+
+     
+
+
+    velocity = [
+        {
+            warp: 6.0,
+            detail: 'Standard Cruising Speed'
+        },
+        {
+            warp: 8.5,
+            detail: 'Maximum Cruising Speed'
+        },
+        {
+             warp: 9.0,
+             detail: "Maximum Attainable Velocity"
+        }
+    ]
+        
+    
+
+
+    duration = "5 years, Standard"
+    
+
+
+    crew = {
+        officers: 115,
+        enlisted_crew: 585,
+        passengers: 0,
+        crew_total: 700
+    }
+       
+
+    
+    embarked_craft(number) {
+
+        if (number === 2) {
+            console.log( "Type 6 / Type 7 Personnel Shuttle")
+        }
+        else if (number === 1) {
+            console.log("Type 9A Cargo Shuttle") 
+        }
+        else if (number === 4) {
+            console.log("Type 16 Shuttlepod")
+        }
+        else {
+            console.log("Error. Enter integer < 5. Try again.")
+        }
+     
+    }
+
+
+    navigation = {
+            guidance: 'RAV / ISHAK Mod 3 Warp Celestial Guidance',
+            contractor: 'Tlixis Ramab RRB, Coridan III'
+        }
+        
+    
+      
+    
+
+    computers = {
+        type: ['M-12 Duotronic IV','M-13 Duotronic I (CH 26133 onwards)'],
+        manufacturer: "Daystrom Computer Systems, Lunaport Luna"
+    }
+        
+
+    phasers = {
+            banks: 12,
+            each: 1,
+            type: 'Type IX Collimated Phaser Array',
+            contractor: 'HiBeam Energies, Earth'
+        }
+    
+
+    missiles = {
+        tubes: 2,
+        type: 'MK 75 Photon Torpedo Launchers',
+        contractor: 'Skat-Rar Weapon Systems, Ezuruk, Andor'
+    }
+
+    defense = {
+        type: 'FSP Primary Force Field',
+        contractor: 'Charlottes Shields, Earth'
+    }
+    
+    life_support = [
+        {
+            type: 'NAG2 Modular Gravity Unit',
+            contractor: 'New Amsterdam Gravitics, New Amsterdam, Alpha III'
+        },
+        {
+            type: 'AL2 Life Support System',
+            contractor:'A Alakon Landiss, Divallax, Andor'
+        },
+     
+    ]
+
+
+
+}
