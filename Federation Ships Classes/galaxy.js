@@ -64,4 +64,145 @@ let galaxy_class_ships = [
 
 
 
+class Galaxy {
 
+    specifications  = {
+        displacement_mt: 4500000,
+        overall_length_m: 642.51,
+        overall_draft_m: 195.26,
+        overall_beam_m: 463.73
+    }
+        
+
+    propulsion = [
+        {
+            info: "LF-41 Mod 1 energized-energized antimatter linear warp drive units",
+            quantity: 2,
+            contractor: 'Leeding Energies, Earth'
+        },
+        {
+            info: "FIG-5 subatomic unified energy impulse units",
+            quantity: 2,
+            contractor: "Kloratis Drivers, Tellar"
+        },
+        {
+            info: "QASR-2 particle beam maneuvering thrusters",
+            quantity: 1,
+            contractor: "Scarbak Propulsion Systems, Earth"
+        },
+        {
+            info: "Trentis IV pulsed laser reaction control system",
+            quantity: 1,
+            contractor: "Orage Ijek, Aksajak, Andor"
+        }
+
+    ]
+
+     
+
+
+    velocity = [
+        {
+            warp: 6.0,
+            detail: 'Standard Cruising Speed'
+        },
+        {
+            warp: 9.2,
+            detail: 'Maximum Cruising Speed'
+        },
+        {
+             warp: 9.6,
+             detail: "Maximum Attainable Velocity"
+        }
+    ]
+        
+    
+
+
+    duration = "5 years, Standard"
+    
+
+
+    crew = {
+        officers: 185,
+        enlisted_crew: 525,
+        passengers: 1000, // 5000 max
+        crew_total: 1710
+    }
+       
+
+    
+    embarked_craft(number) {
+
+        if (number === 0) {
+            console.log( "Danube Class Runabout")
+        }
+        else if (number === 1) {
+            console.log("S-3 Sentry SWAC Shuttle") 
+        }
+        else if (number === 2) {
+            let t = ['Type 7 Personnel Shuttle', '9A Cargo Shuttle']
+            console.log(t)
+        }
+        else if (number === 4) {
+            x = ['Type 6 Personnel Shuttle' ]
+            console.log(x)
+        }
+        else if (number === 8) {
+            console.log('Type 16 Shuttlepod or Peregrine Class Fighter')
+        }
+        else {
+            console.log("Error. Enter integer < 10. Try again.")
+        }
+     
+    }
+
+
+    navigation = {
+            guidance: 'RAV / ISHAK Mod 3 Warp Celestial Guidance',
+            contractor: 'Tlixis Ramab RRB, Coridan III'
+        }
+        
+    
+      
+    
+
+    computers = {
+        type: ['M-15 Isolinear III with LCARS interface software'],
+        manufacturer: "Daystrom Computer Systems, Lunaport Luna"
+    }
+        
+
+    phasers = {
+            banks: 12,
+            each: 1,
+            type: 'Type X Collimated Phaser Array',
+            contractor: 'HiBeam Energies, Earth'
+        }
+    
+
+    missiles = {
+        tubes: 2,
+        type: 'MK 85 Photon Torpedo Launchers',
+        contractor: 'Skat-Rar Weapon Systems, Andor'
+    }
+
+    defense = {
+        type: 'FSQ Primary Force Field',
+        contractor: 'Charlottes Shields, Earth'
+    }
+    
+    life_support = [
+        {
+            type: 'MM6 Modular Gravity Unit',
+            contractor: 'Morris Magnatronics, Palyria, Mars'
+        },
+        {
+            type: 'AL4 Life Support System',
+            contractor:'A Alakon Landiss, Divallax, Andor'
+        },
+     
+    ]
+
+
+}
