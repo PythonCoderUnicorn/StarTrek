@@ -314,3 +314,8 @@ class Ambassador {
 
 
 }
+
+
+let ambassador = new Ambassador()
+
+console.log(ambassador.computers)
