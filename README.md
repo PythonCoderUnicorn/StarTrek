@@ -17,4 +17,4 @@ A repo for Star Trek data from Technical Manuals.
 
 
 ### United Federation of Planets - Starfleet Operating Forces
-<img height='500' src='img/op-forces.png'>
+<img height='600' src='img/op-forces.png'>
