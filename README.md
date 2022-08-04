@@ -7,5 +7,6 @@ A repo for Star Trek data from Technical Manuals.
 
 
 ### United Federation of Planets - Office of the Secretary of Starfleet
-<img height='200' src='img/office-sec.png'>
+
+<img height='400' src='img/office-sec.png'>
 
