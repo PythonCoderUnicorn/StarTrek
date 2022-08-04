@@ -26,6 +26,7 @@ Before the Dominion War, the Federation had about 3,500 Class 1 starships, but a
 - Challenger Class
 - Akira Class
 - Galaxy II Class
+- Intrepid Class
   
   
   
