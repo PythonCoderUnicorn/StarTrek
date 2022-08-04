@@ -1,5 +1,5 @@
 
-<img height='200' align='right' src='StarTrek-banner.png'>
+<img height='200' align='right' src='img/StarTrek-banner.png'>
 
 # Star Trek
 
