@@ -268,3 +268,152 @@ let akira_class_ships = [
 
 
 
+class Akira {
+
+    specifications  = {
+        displacement_mt: 1.6e5,
+        overall_length_m: 455,
+        overall_draft_m: 83,
+        overall_beam_m: 292
+    }
+        
+
+    propulsion = [
+        {
+            info: "LF-35 Mod 1 energized-energized antimatter linear warp drive units",
+            quantity: 2,
+            contractor: 'Shuvinaaljis Warp Technologies, Vulcan'
+        },
+        {
+            info: "FIG-4 subatomic unified energy impulse units",
+            quantity: 2,
+            contractor: "Kloratis Drivers, Tellar"
+        },
+        {
+            info: "QASR-2 particle beam maneuvering thrusters",
+            quantity: 1,
+            contractor: "Scarbak Propulsion Systems, Earth"
+        },
+        {
+            info: "Trentis IV pulsed laser reaction control system",
+            quantity: 1,
+            contractor: "Orage Ijek, Aksajak, Andor"
+        }
+
+    ]
+
+     
+
+
+    velocity = [
+        {
+            warp: 7.0,
+            detail: 'Standard Cruising Speed'
+        },
+        {
+            warp: 9.0,
+            detail: 'Maximum Cruising Speed'
+        },
+        {
+             warp: 9.8,
+             detail: "Maximum Attainable Velocity"
+        }
+    ]
+        
+    
+
+
+    duration = "5 years, Standard"
+    
+
+
+    crew = {
+        officers: 100,
+        enlisted_crew: 400,
+        passengers: 0, // 50 max
+        crew_total: 500
+    }
+       
+
+    
+    embarked_craft(number) {
+
+        if (number === 0) {
+            let z = ["Danube Class Runabout",] // 'Peregrine Class Fighter','S-3 Sentry SWAC shuttle'
+            console.log( z)
+        }
+        // else if (number === 1) {
+        //     console.log("S-3 Sentry SWAC Shuttle") 
+        // }
+        else if (number === 2) {
+            let t = ['9A Cargo Shuttle','S-3 Sentry SWAC shuttle'] // 'Type 6/7 Personnel Shuttle', 'Type 16 Shuttlepod '
+            console.log(t)
+        }
+        else if (number === 4) {
+            x = ['Type 6/7 Personnel Shuttle' ]
+            console.log(x)
+        }
+        else if (number === 6) {
+            let s = ['Type 16 Shuttlepod']
+            console.log(s)
+        }
+        // else if (number === 8) {
+        //     console.log('Type 16 Shuttlepod or Peregrine Class Fighter')
+        // }
+        else if (number === 12) {
+            console.log('Peregrine Class Fighter')
+        }
+        else {
+            console.log("Error. Enter integer < 13. Try again.")
+        }
+     
+    }
+
+
+    navigation = {
+            guidance: 'RAV / ISHAK Mod 3 Warp Celestial Guidance',
+            contractor: 'Tlixis Ramab RRB, Coridan III'
+        }
+        
+    
+      
+    
+
+    computers = {
+        type: ['M-15 Isolinear III with LCARS'],
+        manufacturer: "Daystrom Computer Systems, Lunaport Luna"
+    }
+        
+
+    phasers = {
+            banks: 6,
+            each: 1,
+            type: 'Type X Collimated Phaser Array',
+            contractor: 'HiBeam Energies, Earth'
+        }
+    
+
+    missiles = {
+        tubes: 8,
+        type: 'MK 80 Photon Torpedo Launchers',
+        contractor: 'Loraxial, Andor'
+    }
+
+    defense = {
+        type: 'FSQ Primary Force Field',
+        contractor: 'Charlottes Shields, Earth'
+    }
+    
+    life_support = [
+        {
+            type: 'NAG2 Modular Gravity Unit',
+            contractor: 'New Amsterdam Gravitronics, New Amsterdam, Alpha III'
+        },
+        {
+            type: 'AL3 Life Support System',
+            contractor:'A Alakon Landiss, Divallax, Andor'
+        },
+     
+    ]
+
+}
