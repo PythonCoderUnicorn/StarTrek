@@ -29,6 +29,7 @@ Before the Dominion War, the Federation had about 3,500 Class 1 starships, but a
 - Intrepid Class
 - Sovereign Class
 - Prometheus Class
+- Nottingham Class 
   
   
   
