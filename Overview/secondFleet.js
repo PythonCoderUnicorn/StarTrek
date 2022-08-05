@@ -1,6 +1,6 @@
 
 /*
-    STARFLEET - SECODN FLEET
+    STARFLEET - SECOND FLEET
 */
 
 
