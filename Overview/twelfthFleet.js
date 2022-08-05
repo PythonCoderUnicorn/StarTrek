@@ -7,7 +7,7 @@ let twelfth_fleet = [
     {
         location: 'Located at Romulan Neutral Zone',
         patrol_area: 'Federation space',
-        function: 'EPatrol and defends Federation space'
+        function: 'Patrol and defends Federation space'
     },
 
     {
