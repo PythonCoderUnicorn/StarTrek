@@ -63,7 +63,7 @@ let twelfth_fleet = [
             Commander: 'Commodore Corleigh, Seileach',
             Flagship: 'USS Phoenix (CL 65420)',
             Commanding_Officer: 'Commodore Corleigh, Seileach',
-            Home_Port: 'Troubador Station',
+            Home_Port: 'Starbase 12',
             Deployment_Area: 'Klingon Border'
         },
 
