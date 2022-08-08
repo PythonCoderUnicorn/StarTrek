@@ -1,4 +1,7 @@
 
-NCC_number, name, class, builder, laid_down, launched, commissioned, status
-73820, Entente, dreadnought, 'Utopia Planitia Fleet Yards - Mars','January 2365', 'December 2372', 'June 2373', active
-74512, Courageous, shuttlecruiser, 'Utopia Planitia Fleet Yards - Mars','September 2366', January 2373, June 2372, active
+NCC_number, name, class, type, builder, laid_down, launched, commissioned, status
+73820, Entente, entente, dreadnought, 'Utopia Planitia Fleet Yards - Mars','January 2365', 'December 2372', 'June 2373', active
+74512, Courageous,courageous,  shuttlecruiser, 'Utopia Planitia Fleet Yards - Mars','September 2366', January 2373, June 2372, active
+72300, Griffon, griffon, control_ship, 'Utopia Planitia Fleet Yards - Mars', July 2366, August 2369, January 2370, active
+72305, Pendragon, griffon, control_ship, 'Utopia Planitia Fleet Yards - Mars', July 2366, September 2369, February 2370, active
+73102, Royal Sovereign, griffon, control_ship, 'Utopia Planitia Fleet Yards - Mars', April 2369, May 2372, October 2372, active
