@@ -8,3 +8,38 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 74621, Whitehall, whitehall, command_ship, San Francisco Fleet Yards - Earth, January 2367, April 2374, December 2374, active
 74684, Empyrean, whitehall, command_ship, Utopian Planitia Fleet Yards - Mars, March 2367, June 2374, February 2375, active
 75217, Versailles, whitehall, command_ship, San Francisco Fleet Yards - Earth, May 2368, August 2375, Narch 2376, active
+57290, 'New_Orleans','New_Orleans',frigate, San Francisco Fleet Yards - Earth, July 2340, November 2344, May 2345, active
+57291, 'Arleigh_Burke', 'New_Orleans', frigate,San Francisco Fleet Yards - Earth, July 2340, November 2344, May 2345, active
+57295, Rutledge, New_Orleans, frigate, San Francisco Fleet Yards - Earth, July 2340, November 2344, May 2345, active
+57348, Warwick, New_Orleans, 'frigate',Earth Station McKinley - Earth, July 2340, November 2344, May 2345, active
+57374, Toulouse, New_Orleans, frigate,Earth Station McKinley - Earth, July 2340, November 2344, May 2345, active
+57412, Gilcrest, New_Orleans, frigate,"M'Yengh Yards - Shzerensohr, Cait", August 2340, December 2344, June 2345, active
+575597, Mahan, New_Orleans, frigate, "Alfras Fleet Yards - Deneb V", September 2340, January 2345, July 2345, lost
+58014, Jarvik, New_Orleans, frigate, 'Utopia Planitia Fleet Yards - Mars', January 2341, May 2345, December 2345, active
+57897, Kirkland, New_Orleans, frigate, "Avondale Group Ferrata Docks - Rigellium, Rigel II",February 2341, June 2345, December 2345, active
+58299, Barnard, New_Orleans, frigate, "Chandley Work - Caravalia, Mars",April 2341, August 2345, March 2346, active
+61300, Bianca, New_Orleans, frigate, "Seskon Trella - Chagala, Tellar", January 2343, April 2347, November 2347, lost
+63121, Chavez, New_Orleans, frigate, "Seskon Trella - Chagala, Tellar",February 2343, May 2347, December 2347, active
+63142, Renegade, New_Orleans, frigate,"Seskon Trella - Chagala, Tellar",February 2343, May 2347, December 2347, active
+63294, Gates, New_Orleans, frigate, 'Utopia Planitia Fleet Yards - Mars',March 2343, April 2347, January 2348, active
+63295, Torvalds, New_Orleans, frigate, 'Utopia Planitia Fleet Yards - Mars',March 2343, April 2347, January 2348, active
+63296, Norton, New_Orleans, frigate,'Utopia Planitia Fleet Yards - Mars',March 2343, April 2347, January 2348, active
+63425, Winfield, New_Orleans, frigate, "Spacedock - San Francisco, Earth",April 2343, May 2347, January2348, active
+63738, Ehrlich, New_Orleans, frigate,"Puget Sound Fleet Yards - Earth",May 2343, June 2347, February 2348, lost
+63908, Phillipa, New_Orleans, frigate, San Francisco Fleet Yards - Earth,June 2343, July2347, March 2348, lost
+64215, Windsor, New_Orleans,frigate,"Newport News Fleet Yards - Earth",July 2343, August 2347, April 2348, active
+65490, Nevers, New_Orleans, frigate,"Spacedock - San Francisco, Earth",September 2344, December 2348, june 2349, active
+65491, Kyushu, New_Orleans, frigate, "Spacedock - San Francisco, Earth",September 2344, December 2348, june 2349, active
+65530, 'Thomas Paine', New_Orleans, frigate, 'Utopia Planitia Fleet Yards - Mars',October 2344, January 2349, July 2349, active
+65718, 'Magny-Cours', New_Orleans, frigate, "Shor Ta'kel, Central Docks - 40 Eridani", November 2344, February 2349, August 2349, active
+65993, Okinawa, New_Orleans, frigate, "Saint Petersburg Fleet Yards - Earth", January 2345, April 2349, October 2349, active
+66097, Musai, New_Orleans, frigate, "Aberdeen Fleet Yards - Aldeberan", February 2345, May 2349, November 2349, active
+66213, Agincourt, New_Orleans, frigate,"Hakon Yards - Galena", April 2345, August 2349, February 2350, active
+66443, Dauntless, New_Orleans, frigate, "Alfras Fleet Yards - Deneb V", July 2345, October 2349, April 2350, lost
+66497, Britania, New_Orleans, frigate, "Alfras Fleet Yards - Deneb V",August 2345, November 2349, April 2350, lost
+66672, Minotaur, New_Orleans, frigate, "Axaanivus Cesleco Starcraft - Alpha Centauri V",September 2345, December 2349, May 2350, active
+66891, Midgard, New_Orleans, frigate, San Francisco Fleet Yards - Earth, December 2345, February 2350, September 2350, active
+67281, Salamis, New_Orleans, frigate, San Francisco Fleet Yards - Earth, February 2346, June 2350, January 2351, active
+67572, Nice, New_Orleans, frigate, "Hakon Yards - Galena", March 2346, July 2350, February 2351, active
+67728, "Le Castallet", New_Orleans, frigate, 'Utopia Planitia Fleet Yards - Mars',May 2346, October 2350, May 2351, active
+67898, Riviera, New_Orleans, friagte, "Seskon Trella - Chagala, Tellar", July 2346, December 2350, August 2351, active
