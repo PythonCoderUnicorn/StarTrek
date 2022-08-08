@@ -5,3 +5,6 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 72300, Griffon, griffon, control_ship, 'Utopia Planitia Fleet Yards - Mars', July 2366, August 2369, January 2370, active
 72305, Pendragon, griffon, control_ship, 'Utopia Planitia Fleet Yards - Mars', July 2366, September 2369, February 2370, active
 73102, Royal Sovereign, griffon, control_ship, 'Utopia Planitia Fleet Yards - Mars', April 2369, May 2372, October 2372, active
+74621, Whitehall, whitehall, command_ship, San Francisco Fleet Yards - Earth, January 2367, April 2374, December 2374, active
+74684, Empyrean, whitehall, command_ship, Utopian Planitia Fleet Yards - Mars, March 2367, June 2374, February 2375, active
+75217, Versailles, whitehall, command_ship, San Francisco Fleet Yards - Earth, May 2368, August 2375, Narch 2376, active
