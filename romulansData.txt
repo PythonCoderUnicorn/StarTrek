@@ -711,27 +711,54 @@ Impulse Engine Type:           RIH-2
    Power Units Available:      55
 Auxiliary Power:               18
 Reserve Power:                 9
-Weapons and Firing Data:                         Part science vessel and part fleet cruiser, the Avian has amassed a respectable
+Weapons and Firing Data:                         
 Beam Weapon Type:              RWW-I
-   Number:                     12             operational record since it was introduced into service. Avian crews paid a terrific price
-   Firing Arcs:                6 f/p, 6 f/s   during the Dominion War and were often used as a screening command ship with two or
-   Chart                       Y              three Mandukar’s at the point of a main body of Warbirds. They were often singled out
+   Number:                     12            
+   Firing Arcs:                6 f/p, 6 f/s   
+   Chart                       Y              
    Max Power:                  12
-       +3                      (1-10)         for destruction by the Cardassians because of their reputation of dishing out a healthy
-       +2                      (11-17)        rate of disruptor fire. As science vessels, the Avians typically operate with one or two
-       +1                      (18-24)        Vastam-class scouts as a mini task force in unexplored space. In this role they have
+       +3                      (1-10)         
+       +2                      (11-17)        
+       +1                      (18-24)        
 Missile Weapon Type:           RPL-3
-   Number:                     2              been modestly successful and are one of the longer ranged vessels in the Romulan
-   Firing Arcs:                2f             inventory. For any Romulan officer looking to expand his experience in the science fields,
-   Chart                       T              there are few better assignments than an Avian.
+   Number:                     2              
+   Firing Arcs:                2f             
+   Chart                       T              
    Power to Arm:               8
-   Damage:                     RL-3              Of the 40 Avian-class cruisers built, 18 remain in active service. 19 have been
-Shields Data:                                 destroyed, two have been scrapped and one is listed as missing, presumed destroyed.
-Deflector Shield Type:         RSS-2          The class is notable for the unique paint schemes that the yard workers apply to the “bird”
+   Damage:                     RL-3              
+Shields Data:                                 
+Deflector Shield Type:         RSS-2          
    Shield Point Ratio:         1/5
-   Max Shield Power:           25             pattern on each vessel’s dorsal hull. These colorful works of art are a point of pride for
-Combat Efficiency:                            Avian crews and a contributing factor to the high morale that these ships enjoy.
+   Max Shield Power:           25             
+Combat Efficiency:                            
 Point Value:                   192
+
+
+Part science vessel and part fleet cruiser, the Avian has amassed a respectable  
+operational record since it was introduced into service. Avian crews paid a terrific
+price during the Dominion War and were often used as a screening command ship with two or 
+three Mandukar’s at the point of a main body of Warbirds. They were often singled out for
+destruction by the Cardassians because of their reputation of dishing out a healthy rate of 
+disruptor fire. As science vessels, the Avians typically operate with one or two Vastam-class 
+scouts as a mini task force in unexplored space. In this role they have been modestly successful 
+and are one of the longer ranged vessels in the Romulan inventory. For any Romulan officer looking 
+to expand his experience in the science fields, there are few better assignments than an Avian. 
+Of the 40 Avian-class cruisers built, 18 remain in active service. 19 have been destroyed, two 
+have been scrapped and one is listed as missing, presumed destroyed.The class is notable for the 
+unique paint schemes that the yard workers apply to the “bird” pattern on each vessel’s dorsal hull. 
+These colorful works of art are a point of pride for Avian crews and a contributing 
+factor to the high morale that these ships enjoy.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
