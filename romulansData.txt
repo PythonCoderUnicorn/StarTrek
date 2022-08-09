@@ -1,0 +1,1076 @@
+
+
+Credits
+Romulan Ship Recognition Manual
+2385 Edition
+
+Star Trek Starship Combat Simulator Phase II
+Rules and Klingon Ship Statistics compiled by:
+       Travis J. Offenberger
+       Kenneth G.R. Minick
+
+STAR TREK is a Trademark of Paramount Pictures Corporation
+
+Star Trek Starship Tactical Combat Simulator Phase II revisions
+courtesy of Sporadic Enterprises.
+
+Distributed free of charge.
+
+
+
+Warbird Class Battlecruiser
+
+
+
+
+Construction Data: 
+Series Designation, "D'Deridex", Talon , Sparrowhawk, Peregrine, Kamarak , Leviathan, Bloodhawk, Raptor , Decius , Terex
+Model Number , B , C, D , E , F , G ,H, I , J, K
+Date Entered Service , 4/6205 ,4/6208  ,   4/7002 , 4/7303 ,   4/7503  ,   4/7601 ,  4/7701 ,   4/7702 ,  4/7805 , 4/7805
+
+Hull Data:
+Superstructure Points:         110              100               110            110             125              110               135               110               135              135
+Damage Chart:                  B                B                 B              B               B                B                 B                 B                 B                B
+Size:
+   Length:                     1041 m           1041 m            1041 m         1041 m          1041 m           1041 m            1041 m            1041 m            1041 m           1041 m
+    Width:                     772 m            772 m             772 m          772 m           772 m            772 m             772 m             772 m             772 m            1041 m
+   Height:                     285 m            285 m             285 m          285 m           285 m            285 m             285 m             285 m             285 m            1041 m
+Transporters:
+   Standard Six Person-        12               12                12             12              12               12                12                12                12               12
+   Combat 22 Person-           10               10                10             10              10               10                10                10                10               10
+   Cargo, small-               5                5                 5              5               5                5                 5                 5                 5                5
+   Cargo, large-               3                3                 3              3               3                3                 3                 3                 3                3
+Cloaking Device Type:          RCI              RCI               RCI            RCI             RCI              RCI               RCI               RCI               RCI              RCI
+   Power Requirements:         75               75                75             75              75               75                75                75                75               75
+   Crew:                       300 Officers     300 Officers      300 Officers   300 Officers    300 Officers     300 Officers      300 Officers      300 Officers      300 Officers     300 Officers
+                               800 Enlisted     800 Enlisted      800 Enlisted   800 Enlisted    800 Enlisted     800 Enlisted      800 Enlisted      800 Enlisted      800 Enlisted     600 Enlisted
+Troops:                        400              400               400            400             400              400               400               400               400              400
+Evacuation Limit               25,000           25,000            25,000         25,000          25,000           25,000            25,000            25,000            25,000           25,000
+Shuttlecraft:                  120
+Engines and Power Data:
+Total Power Units Available:   228              184               184            184             218              148               160               176               238              260
+Movement/Point Ratio:          5/1              5/1               5/1            7/1             6/1              5/1               6/1               5/1               5/1              6/1
+Warp Engine Type:              RIWB-1           RIWB-1            RIWB-1         RIWB-1          RIWB-1           RIWD-1B           RIWD-1B           RIWB-1            RIWB-1           RIUWB-2
+   Number:                     2                2                 2              2               2                2                 2                 2                 2                2
+   Power Units Available:      64               64                64             64              64               50                50                64                64               90
+   Cruising Speed:             6                6                 6              6               6                6                 6                 6                 6                7
+   Emergency Speed:            9.4              9.4               9.4            9.4             9.4              9                 9                 9.4               9.4              9.75
+Impulse Engine Type:           RIH-1            RIF-3             RIF-3          RIF-3           RIG-7            RIF-4             RIG-5             RIF-4             RIH-2            RIG-6
+   Number:                     2                2                 2              2               2                2                 2                 2                 2                2
+   Power Units Available:      50               28                28             28              45               24                30                24                55               40
+Auxiliary Power:               22               18                18             18              22               14                16                18                24               26
+Reserve Power:                 11               9                 9              9               11               7                 8                 9                 12               13
+Weapons and Firing Data:
+Beam Weapon Type:              RWW-Y            RWW-I             RPW-G          RWW-W           RWW-Y            RWW-I             RWW-I             RWW-I             RWW-Y            RWW-Y
+   Number:                     16               12                10             18              14               12                12                12                16               16
+   Firing Arcs:                6 f, 4 p/s,      6 f, 4 p/s, 2 a   10 f/p/s       6 f, 6 f/p/s,   4 f, 4 p/s,      6 f, 4 p/s, 2 a   6 f, 4 p/s, 2 a   6 f, 4 p/s, 2 a   4 f, 4 p/s,      6 f, 4 p/s,
+                               4 f/p/s, 2 a                                      6 f/p/s/a       4 f/p/s, 2 a                                                           6 f/p/s/a, 2 a   4 f/p/s/a, 2 a
+   Chart                       Y                Y                 X              W               Y                Y                 Y                 Y                 Y                Y
+   Max Power:                  12               10                25             7               12               10                10                10                12               12
+       +3                       (1-15)          (1-10)            (1-10)         (1-10)          (1-15)           (1-10)            (1-10)            (1-10)            (1-15)           (1-15)
+       +2                       (16-20)         (11-17)           (11-17)        (11-17)         (16-20)          (11-17)           (11-17)           (11-17)           (16-20)          (16-20)
+       +1                       (21-24)         (18-24)           (18-22)        (18-20)         (21-24)          (18-24)           (18-24)           (18-24)           (21-24)          (21-24)
+Missile Weapon Type:           RTA-S            RPL-3             RTA-S                          RTA-S            RTA-S             RTS-S             RPL-6             RTA-S            RTA-S
+   Number:                     20               4                 6                              24               8                 12                2                 20               12
+   Firing Arcs:                10 f/p/s, 10 a   4 f/p/s           4 f/p/s, 2 a                   12 f/p/s, 12 a   6 f/p/s, 2 a      6 f/p/s, 4 a      2f                10 f/p/s, 20 a   6 f/p/s, 6 a
+   Chart                       S                T                 S                              S                S                 S                 W                 S                S
+   Power to Arm:               1                8                 1                              1                10                1                 16                1                1
+   Damage:                     10               RL-3              10                             10               10                10                RL-6              10               10
+Missile Weapon Type:                                                                                                                                                                     RPL-4
+   Number:                                                                                                                                                                               2
+   Firing Arcs:                                                                                                                                                                          2f
+   Chart                                                                                                                                                                                 Q
+   Power to Arm:                                                                                                                                                                         12
+   Damage:                                                                                                                                                                               RL-4
+Shields Data:
+Deflector Shield Type:         RSS-M            RSS-M             RSS-2          RSR-1           RSR-1            RSS-2             RSS-2             RSS-2             RSR-1            RSR-1
+   Shield Point Ratio:         1/6              1/6               1/5            1/7             1/7              1/5               1/5               1/5               1/7              1/7
+   Max Shield Power:           22/side          22/side           25/side`       28/side         28/side          25/side           25/side           25/side           28/side          28/side
+Combat Efficiency
+Point Value:                   245              205               207            209             261              177               189               207               276              297
+
+
+
+
+     In the mid-2340s, Starfleet intelligence began to get “sniffs” of a new        The type G Leviathan is an upgrade of the existing type A Warbird to
+Romulan warship type in operation across the Neutral Zone. Although             more modern specifications. Modest changes to her weapons array and
+Starfleet had not made contact with the Empire in several decades by this       shields were almost secondary to bringing her computer systems,
+point, there always existed a keen interest in what their neighbors across      sensors and crew support facilities up to modern specifications. The
+the no-mans-land were up to. Long range scans revealed grainy images of         Leviathan has since become the second most prolific type of Warbird
+a vessel of massive proportions, at least twice the size of and Federation      next to the D’deridex and serves as the backbone of their fleet.
+starship and with an unusual power signature that defied the analysis of the        The H type Bloodhawk was developed with the Leviathan as a
+best minds at Starfleet Engineering. Numerous attempts to penetrate the         dedicated intelligence asset. Great care went into improving her
+Star Empire for information about this new vessel failed, and for many          cloaking performance and increasing her uncloaked sensor return. Like
+years Starfleet counted itself lucky that the Romulans had chosen to isolate    the Peregrine, the Bloodhawk was a fine warship but was much more
+themselves from the rest of the Alpha Quadrant. It wasn’t until 2364 that       difficult to field and was quickly pulled from production. Naturally, only
+the starship Enterprise got a first detailed look at the new Romulan            the most loyal crews are chosen for service aboard the Bloodhawks.
+behemoth, and the news wasn’t good.                                                 The I type Raptor was a spirited attempt to add a massive set of
+    In the years since, much has been learned about the Warbird-class of        plasma torpedoes to the class at the expense of several other systems.
+Romulan battlecriusers. It is now known that the early versions of the class    Her shields and disruptor systems are adequate for the job, but the class
+were badly under gunned and underpowered and were barely a match for            was not all it was hoped it would be. Plans exist to refit the six remaining
+the line starships of the day. It wasn’t until a modernization program          vessels of the type as dedicated command and control ships, though this
+started in 2356 that the Warbird began to grow as a serious contender in        has as yet failed to take place.
+the field of galactic brinkmanship. From the start however, the Warbird was         The J type Decius is the second attempt to upgrade the aging
+a wonderland of technological innovation and seemingly limitless potential.     D’deridex, and in this it has been more of a success than the Kamarak.
+    At the heart of the new class is a forced quantum singularity powerplant    Great care was taken in improving her fields of fire and shield systems
+that provides power to her primary systems. Although the output is on par       while a 35% increase in structural integrity has built a greater degree of
+with a traditional M/AM arrangement, the advantage comes from never             resiliency into the hull. The end result was a vessel that had finally
+having to refuel the vessel during its operational lifetime. Once the reactor   outstripped the D’deridex as a front line combatant. However, both
+is brought on line, it stays that way. The tradeoff comes at the expense of     types are still in production with talk of upgrading the existing B type
+a slightly lower top speed and manpower intensive maintenance needs.            D’deridexs to the J standard in the next ten years. If this plan comes to
+    Over the years, the Romulans have continually upgraded the class and        pass, the Romulans will plan to do so at a rate of four units per year, just
+regularly abandon old models as new ones come on line. Different engine,        as they did with the Leviathans.
+disruptor and torpedo weapons have produced nearly a dozen subtypes of              The K type Terex is a massively complex and over gunned upgrade of
+the class with some, like the B type D’Deridex remaining in production while    the Decius class and is currently the most powerful ship type in the
+others, like the type E Peregrine have fallen out of favor. Losses during the   Romulan inventory. However, the class has been slow to reach fleet
+Dominion and Raven conflicts have brought about an additional six variants      service due to its complicated construction process and manpower
+of the Warbird hullform in the last decade with more expected to follow.        intensive maintenance needs. In the Decius, the Romulans have finally
+Each new generation of Warbird improves upon the last in some degree or         managed to mount plasma and photon torpedoes in the same hull along
+another, and the Romulans have become masters at finding new ways to            with the most advanced secondary systems available. Rumors persist
+expand the capabilities of their most cherished warship design.                 that the class may give way to an even more powerful L type Avatar
+    To date, Starfleet has captured three Warbirds of various types, though     class in the next few years, though these rumors are unconfirmed. If
+only the type E Peregrine-class Pi’kaht was taken with its quantum              true, the Romulans may finally be poised to shift the balance of power in
+singularity core intact and running. Although all three vessels have yielded    their favor along the Neutral Zone.
+an enormous wealth of data, Starfleet has as yet been unable to reverse             Of the 80 A type Warbirds produced, none remain in active service.
+engineer the powerplant or at least restart the cores of the two remaining      Thirty were refit to type G specifications, 27 were destroyed, four are
+vessels. Current speculation holds that the cores are produced at a             reported missing, presumed destroyed, 7 were scrapped, two are in the
+dedicated facility and the ship is built around the massive engine in space.    Imperial Naval Training Command, two have been sold to private
+    The type A Warbird entered service in 2337 and immediately entered          interests within the Empire, 1 is in reserve status and one, the Tomed,
+wide scale production. In retrospect, the class was grossly underpowered        was captured by the Federation on stardate 4/7510. 7 have been
+and poorly gunned and was a poor match for existing Federation or Klingon       captured by or defected to the Romulan Free States. The A type is no
+vessels of the day. However, the Warbird did demonstrate an enormous            longer in production and was discontinued in 2372.
+leap forward in the Romulan’s construction capabilities and techniques and          Of the 82 type B D’Deridex-class warbirds produced, 42 remain in
+was an ominous portent of things to come in the next few years.                 active service. 34 have been destroyed, 5 have been scrapped and 1 is
+    The type B D’deridex was the direct result of information gleaned about     listed as missing, presumed lost. The type B is still in production at a
+the capabilities of the new Federation Galaxy-class starships. She was          rate of 2 new units per year.
+built with a completely new tactical suite and greater speed in mind. The           Of the 37 type C Talon-class warbirds built, 9 remain in active service.
+D’deridex was envisioned as a specific counter to that perceived threat,        25 have been destroyed and three were scrapped. This type of warbird
+though at a massive cost. Despite extensive losses of the D’deridexs            is no longer being produced.
+during the Dominion and Raven conflicts, the ships of this type are still           Of the 15 type D Sparrowhawk-class warbirds built, 7 remain in active
+considered to be prestige assignments.                                          service. 5 have been destroyed, two are listed as lost, presumed
+    The type C Talon was developed alongside the more powerful D’deridex        destroyed and one has been captured by the Romulan Free States. The
+class as an easier to build alternative to the grossly expensive flagship.      Sparrowhawk is no longer in production and was discontinued in 2379.
+Her suite of older but reliable RPL-3 plasma weapons were chosen over               Of the 19 E type Peregrine-class warbirds built, 8 remain in active
+the then new and rare RTA-S torpedoes along with the easier to produce          service. 8 have been destroyed, 1 is listed as missing, presumed lost,
+RWW-I disruptor banks. The Talons have never been choice assignments            one has been scrapped and one, the Pi’kaht was captured by Starfleet
+and took enormous losses during the Dominion and Raven conflicts.               on stardate 4/8002. The Peregrines are no longer in production and
+    The type D Sparrowhawk was an experiment in turning the class into an       were discontinued in 2379.
+all plasma gun platform. Slightly weaker shields and a poor torpedo array           Of the 20 F type Kamarak-class warbirds built, 15 remain in active
+marred the otherwise great potential of the class, and only a few were built.   service. Five have been destroyed. The F type warbird is still produced
+    The type E Peregrine built upon the lessons learned from the                at a rate of two new vessels per year.
+Sparrowhawk and sports an all disruptor tactical array capable of a                 Of the 42 G type Leviathan-class warbirds placed in service, twelve
+withering rate of fire. Upgraded heavy shields and weapons made the type        were built specifically as that class and 30 were refit from type A
+E more sluggish in her handling, but the class was a complete success           Warbirds. 34 remain in active service while 6 have been destroyed, 1
+otherwise. The Peregrines were also grossly expensive to build and              was scrapped and Starfleet captured one, the Rimnak, shortly after its
+maintain and construction ended in 2379.                                        construction in 2378. Production of the class was discontinued in 2378.
+    The type F Kamarak was the first serious attempt to improve on the              Of the 10 H type Bloodhawk-class warbirds built, 7 remain in active
+D’deridex design and has been only a partial success. Upgraded structural       service. 2 have been destroyed and one is listed as lost, presumed
+systems, torpedo capacity, and shields came at the cost of a small              destroyed. The Bloodhawk is no longer in production and building was
+measure of maneuverability, disruptor rate of power and secondary power         suspended in 2379.
+generation. Although the Kamarak is in all respects superior to the                 Of the 10 I type Raptor-class warbirds built, six remain in service and
+D’deridex, most in the fleet find the elder type to be a more balanced          four have been destroyed. Production of the class ended in 2379.
+defensive platform. One place the Kamarak does excel in over the                    Of the 21 J type Decius-class warbirds constructed, 20 remain in
+D’deridex however is exploration, and the class has done much to expand         active service with one listed as destroyed. The Decius remains in
+the borders of the Empire in the last decade. Although the fleet’s smaller      production at a rate of 2 new vessels per year.
+science vessels are fine at what they do, only the Kamarak‘s possess the            Of the 17 K type Terex-class warbirds built, 16 remain in active
+larger ship borne sensor platforms and telescopes that were specifically        service with one listed as destroyed. The Terex remains in production at
+designed for the class.                                                         a rate of 2 new vessels per year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pyre Class Battlecruiser
+
+Construction Data:
+Model Number:                  B
+Date Entered Service:          4/4205
+Hull Data:
+Superstructure Points:         70
+Damage Chart:                  B
+Cloaking Device Type:          RCF
+   Power Requirements:         42
+Crew:                          250
+Shuttlecraft:                  8
+Engines and Power Data:
+Total Power Units Available:   136
+Movement/Point Ratio:          4/1
+Warp Engine Type:              RIWD-1
+   Number:                     2
+   Power Units Available:      40
+   Cruising Speed:             6
+   Emergency Speed:            8.9
+Impulse Engine Type:           RIF-3
+   Number:                     2
+   Power Units Available:      28
+Auxiliary Power:               14
+Reserve Power:                 7
+Weapons and Firing Data:                                          
+Beam Weapon Type:              RPW-G                            
+   Number:                     12
+   Firing Arcs:                2 f/p/s, 4 f, 4 p/s, 2 a          
+   Chart                       X                                 
+   Max Power:                  25                                
+       +3                      (1-12)
+       +2                      (13-18)                           
+       +1                      (19-22)                              
+Missile Weapon Type:           RPL-3                             
+   Number:                     2
+   Firing Arcs:                2f                                
+   Chart                       T                                 
+   Power to Arm:               8                                    
+   Damage:                     RL-3
+Shields Data:                                                    
+Deflector Shield Type:         RSM-5                             
+   Shield Point Ratio:         1/5                               
+   Max Shield Power:           20/side
+Combat Efficiency:
+Point Value:                   151
+
+
+
+The Pyre-class battlecruiser came about as an attempt to improve upon the Battlehawk-
+class and incorporate several advances that had entered fleet service in the proceeding
+years.     At only 70% the mass of the original Battlehawk, the Pyre is slightly more
+maneuverable and sports more robust shields and torpedo systems. However, no
+amount of reworking the original flawed design could earn the Pyre the modicum of
+respect it deserved, and it is an unpopular assignment. 
+The future of the class may go hand in hand with that of the Battlehawk as a decision
+will be rendered soon whether to retire, mothball or refit the Pyre fleet. Many believe that
+the class will at the very least be retained in a reserve status as many are barely 20 years
+old and in superb condition.
+Of the 45 Pyre-class battlecruisers produced, 34 remain in active service. 5 have been
+destroyed, three have been scrapped, one serves in the training command and the
+remaining two have defected to the Romulan Free States. Production of the class ended some time in the early 2360s.
+
+
+
+
+
+
+
+Z-1 Nova Class Battlecruiser
+Construction Data:
+Model Number:                  IV
+Date Entered Service:          4/1804
+Damage Chart                   B
+Hull Data:
+Superstructure Points:         65
+Crew:                          550
+Troops:                        150
+Shuttlecraft:                  15
+Engines and Power Data:
+Total Power Units Available:   128
+Movement/Point Ratio:          5/1
+Warp Engine Type:              RIWD-1B
+   Number:                     2
+   Power Units Available:      50
+   Cruising Speed:             6
+   Emergency Speed:            9
+Impulse Engine Type:           RIF-3
+   Number:                     1
+   Power Units Available:      28
+Auxiliary Power:               12
+Reserve Power:                 6                                    
+Weapons and Firing Data:                                         
+Beam Weapon Type:              RWW-H
+   Number:                     10                                
+   Firing Arcs:                2 f, 2 f/p, 2 f/s, 2 p/a, 2 s/a   
+   Chart                       T                                 
+   Max Power:                  10                                
+       +3                      (1-5)
+       +2                      (6-12)
+                                                                 
+       +1                      (13-18)                           
+Missile Weapon Type:           RTA-C                                
+   Number:                     8                                 
+   Firing Arcs:                2 f, 2 p, 2 s, 2 a
+   Chart                       M
+                                                                 
+   Power to Arm:               1                                 
+   Damage:                     10                                
+Missile Weapon Type:           RPL-3                             
+   Number:                     2
+   Firing Arcs:                2f
+                                                                 
+   Chart                       T                                 
+   Power to Arm:               8                                 
+   Damage:                     RL-3                                 
+Shields Data:
+Deflector Shield Type:         RSP-1
+                                                                 
+   Shield Point Ratio:         1/4                               
+   Max Shield Power:           18                                
+Combat Efficiency:
+Point Value:                   140
+
+
+
+Unlike the Klingon L-24 class or Federation Excelsior-class of the late 2290s, the Z-1 Nova
+class never enjoyed the extensive series of refits that kept her rivals an integral part of the
+respective fleets for so long. Intelligence reports show that the Romulans had abandoned
+upgrading their fleet of Novas by 2325 and retired most of the class by 2340. However, losses
+during the Dominion War necessitated the recalling of many vessels of the class from mothballs
+and twenty Novas went back into service. Fortunately for their crews, the Romulans had the
+good sense to keep them far from the front lines and none were lost in the course of the war.
+Instead, Novas were used to beef up internal lines and patrol non-critical border regions.
+On paper, the Nova sports a fairly impressive array of tactical and defensive systems. In
+reality, her computer, sensor and communications systems are of an antiquated design and are
+increasingly becoming more of a hindrance than an asset. Although the class is rated for
+emergency warp speeds of warp 9 and a cruising speed of warp 6, in reality they are barely
+capable of warp 7.5 and 5.5 respectively. Alloy damage from long term exposure to a variety of
+contaminants with no provision for systems swapouts have made the Nova’s almost dangerous
+to operate, and it is thought that at least one has suffered a warp core breach due to these
+neglected repairs. In any case, it will not be long before the Nova’s are placed back in storage
+for another day. 
+Of the 44 Nova-class battlecruisers built, only 16 remain in active service. 14 have been
+destroyed, 6 have been scrapped, two are listed as lost, presumed destroyed, and six have
+defected to the Romulan Free States. Production is believed to have ended some time after 2311
+
+
+
+
+
+
+
+
+
+
+
+Warhawk Class Battlecruiser
+Construction Data:
+Model Number:                  A
+Date Entered Service:          4/6303
+Hull Data:
+Superstructure Points:         110
+Damage Chart:                  B
+Cloaking Device Type:          RCI
+   Power Requirements:         75
+Crew:                          1100
+Shuttlecraft:                  100
+Engines and Power Data:
+Total Power Units Available:   184
+Movement/Point Ratio:          6/1
+Warp Engine Type:              RIWB-1
+   Number:                     2
+   Power Units Available:      64
+   Cruising Speed:             6
+   Emergency Speed:            9.5
+Impulse Engine Type:           RIF-3
+   Number:                     2
+   Power Units Available:      28
+Auxiliary Power:               18
+Reserve Power:                 9                                          
+Weapons and Firing Data:                                               
+Beam Weapon Type:              RWW-I                                   
+   Number:                     12
+   Firing Arcs:                6 f, 4 p/s, 2 a                         
+   Chart                       Y                                       
+   Max Power:                  10                                      
+       +3                      (1-10)
+       +2                      (11-17)                                    
+       +1                      (18-24)                                 
+Missile Weapon Type:           RTA-S                                   
+   Number:                     20
+   Firing Arcs:                10 f/p/s, 10 a                          
+   Chart                       S                                       
+   Power to Arm:               1                                          
+   Damage:                     10
+Shields Data:                                                          
+Deflector Shield Type:         RSS-M
+   Shield Point Ratio:         1/6
+   Max Shield Power:           22/side
+Combat Efficiency:
+Point Value:                   205
+
+
+The Warhawk-class battlecruiser is a fairly typical battlecruiser type developed in the early 2360s as a 
+supplement to the emerging D’Deridex type Warbirds. Functionally and tactically, 
+the two ships have a lot in common, though the larger Warbird sports a more robust power plant and 
+higher sustainable rate of fire. The Warhawk is not without its fans though, and features an 
+impressive communications suite and capability for coordinating fleet movements in her
+extensive CIC facility. On the battlefield, the Warhawks were a favorite target for 
+Dominion raiders seeking to sew confusion among her enemies’ ranks. It took several 
+losses before the Romulans learned to protect their fleet command assets effectively 
+against these tactics. By this time though, fleet command duties were being passed to the
+larger Kamarak type Warbirds, and production of the class was brought to an abrupt halt. 
+Of the 33 Warhawk-class battlecruisers built, 17 remain in active service. 
+15 have been destroyed and one was scrapped. Production of the class ended in 2374.
+
+
+
+
+
+
+
+
+
+
+
+
+Deathstorm Class Heavy Cruiser
+Construction Data:
+Model Number:                  Mk II
+Date Entered Service:          4/7109
+Hull Data:
+Superstructure Points:         80
+Damage Chart:                  B
+Cloaking Device Type:          RCI
+   Power Requirements:         75
+Crew:                          1200
+Troops:                        500
+Shuttlecraft:                  40
+Engines and Power Data:
+Total Power Units Available:   155
+Movement/Point Ratio:          4/1
+Warp Engine Type:              RIWA-1
+   Number:                     2
+   Power Units Available:      55
+   Cruising Speed:             6
+   Emergency Speed:            9.5
+Impulse Engine Type:           RIG-1
+   Number:                     1
+   Power Units Available:      55
+Auxiliary Power:               16
+Reserve Power:                 8
+
+
+She is maintenance intensive, short ranged, awkwardly gunned and thoroughly
+unpopular among her crews. In short, the Deathstorm is the pariah of the Romulan fleet.
+In actuality, the ship is well suited for offensive operations is and a valuable fleet asset
+that is all too often under utilized due to her poor reputation.
+When the class was developed in the early 2360s, the Deathstorm was built around a
+mixed missile weapon suite of a heavy plasma torpedoes and standard photon torpedo
+launchers. When operating with a pair of Mandukar-class destroyers, the Deathstorm
+presents a serious threat that can cut a swath through most enemy formations with
+deadly ease. When she is placed on the defensive, the Deathstorm has a hard time
+fending for itself without extensive fleet support. Fortunately for the class though, her
+“wing” structures provide almost total cover for her warp nacelles from most angles, and
+when pressed the Deathstorms have an uncanny ability to fleet the field to return at a
+time and place more to their liking.
+The c lass underwent one modest revision in the early 2370s that saw an upgrade to
+her photon torpedo and shield systems. By the time the Dominion War began, all vessels
+of the class had either been refit to the new standard or were custom built to the Mk II
+specifications. 
+Of the 30 Deathstorm-class heavy cruisers built, 19 remain in active service. 6 have
+been destroyed, three were scrapped, and two have defected to the Romulan Free
+States. Production ended in 2374.
+
+
+Beam Weapon Type:              RWW-I                                   
+   Number:                     10
+   Firing Arcs:                2 f/p/s, 2 f/p, 2 f/s, 2 p/s, 2 a/p/s                                                                    
+   Chart                       Y                                          
+   Max Power:                  10                                     
+       +3                      (1-10)
+       +2                      (11-17)                                                                   
+       +1                      (18-24)   
+
+Missile Weapon Type:           RTA-S                                   
+   Number:                     8
+   Firing Arcs:                4 f/p/s, 4a                                                                      
+   Chart                       S                                       
+   Power to Arm:               1                                       
+   Damage:                     10
+
+Missile Weapon Type:           RPL-4                                                                 
+   Number:                     1                                          
+   Firing Arcs:                1f                                      
+   Chart                       Q
+   Power to Arm:               12
+                                                                       
+   Damage:                     RL-4                                    
+Shields Data:                                                             
+Deflector Shield Type:         RSS-M
+   Shield Point Ratio:         1/6
+                                                                      
+   Max Shield Power:           22                                      
+Combat Efficiency:
+Point Value:                   181
+
+
+
+
+
+
+
+Rath Class Attack Cruiser
+Construction Data:
+Model Number:                  Mk I
+Date Entered Service:          4/7004
+Hull Data:
+Superstructure Points:         92
+Damage Chart:                  B
+Cloaking Device Type:          RCI
+   Power Requirements:         75
+Crew:                          104
+Troops:                        20
+Shuttlecraft:                  3
+Landing Capability:            Yes
+Engines and Power Data:
+Total Power Units Available:   238
+Movement/Point Ratio:          5/1
+Warp Engine Type:              RIWB-1
+   Number:                     2
+   Power Units Available:      64
+   Cruising Speed:             7
+   Emergency Speed:            9.975
+Impulse Engine Type:           RIH-2
+   Number:                     2
+   Power Units Available:      55
+Auxiliary Power:               24
+Reserve Power:                 12                                 
+Weapons and Firing Data:
+Beam Weapon Type:              RWW-I                           
+   Number:                     12                              
+   Firing Arcs:                4 f/p, 4 f/s                    
+   Chart                       Y
+   Max Power:                  10                              
+       +3                      (1-10)                            
+       +2                      (11-17)                         
+       +1                      (18-24)
+Missile Weapon Type:           RPL-4                           
+   Number:                     8                               
+   Firing Arcs:                4 f/p, 4 f/s                    
+   Chart                       Q
+   Power to Arm:               12                              
+   Damage:                     RL-4                            
+Shields Data:                                                  
+Deflector Shield Type:         RSS-M
+   Shield Point Ratio:         1/6                             
+   Max Shield Power:           22/side                            
+Combat Efficiency:                                             
+Point Value:                   280                             
+
+
+As a tactical asset geared toward taking the fight to the enemy, the Rath-class 
+attack cruiser has few peers in any of the Alpha Quadrant fleets. No other vessel 
+of comparable size is able to match the Raths raw firepower or ability to consistently 
+deal out massive amounts of damage. Unfortunately for the Romulans, building only a 
+handful of these marvelous vessels nearly bankrupted their fleet procurement process.  
+The Rath is roughly twice the size of a Klingon B’rell-class scout, but devotes much 
+more space to crew accommodations and fuel storage. Her rapid fire RPL-4 plasma 
+torpedo array is unique to the class and occupies a pair of wing mounted exterior 
+pods near the dorsal wing roots. During the Dominion War, the Raths were used as 
+raiding vessels who acted in pairs against Dominion depots deep in enemy space. 
+Acting in concert, the duo would swoop into an enemy base, decloak and unleash a 
+withering volley of plasma weaponry. With the enemy thrown into chaos, the Raths 
+would either recloak and move on to the next target of opportunity or lurk nearby 
+until vulnerable rescue units moved into the area. Of the 8 Rath-class attack cruisers built, 
+6 remain in active service. One was destroyed, while the other, the Rehan, was 
+listed as lost, presumed destroyed after encountering an unclassified spacial rift near the Klingon Border.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algeron Class Battlecruiser
+Construction Data:
+Model Number:                  Mk I
+Date Entered Service:          4/7302
+Damage Chart                   B
+Hull Data:
+Superstructure Points:         90
+Cloaking Device Type:          RCG
+   Power Requirements:         48
+Crew:                          700
+Troops:                        120
+Shuttlecraft:                  14
+Engines and Power Data:
+Total Power Units Available:   160
+Movement/Point Ratio:          5/1
+Warp Engine Type:              RIWD-1B
+   Number:                     2
+   Power Units Available:      50
+   Cruising Speed:             6
+   Emergency Speed:            9.4
+Impulse Engine Type:           RIG-5
+   Number:                     2
+   Power Units Available:      30                                 
+Auxiliary Power:               16                              
+Reserve Power:                 8
+Weapons and Firing Data:
+                                                               
+Beam Weapon Type:              RWW-Y                           
+   Number:                     12                              
+   Firing Arcs:                2 f, 2 f/p, 2 f/s, 2 p/s, 4 a      
+   Chart                       Y
+   Max Power:                  12
+                                                               
+       +3                      (1-15)                          
+       +2                      (16-20)                         
+       +1                      (21-24)                         
+Missile Weapon Type:           RPL-5
+   Number:                     2                               
+   Firing Arcs:                2f                                 
+   Chart                       S                               
+   Power to Arm:               14                              
+   Damage:                     RL-5
+Shields Data:
+                                                               
+Deflector Shield Type:         RSS-2                           
+   Shield Point Ratio:         1/5                             
+   Max Shield Power:           25/side                            
+Combat Efficiency:
+Point Value:                   187
+                                                               
+
+The Algeron-class cruiser’s design is clearly inspired by a fusion of the Pyre and Warbird-class vessels, 
+and greatly expands on the capabilities of both of those vessel types. At barely half the length of a Warbird,
+the Algeron is still an imposing vessel with a good blend of offensive firepower and defensive staying power. 
+Her shields are of a slightly less efficient type that what is in general use at this time, but are sufficient 
+for the class’ needs. In the field, the Algeron makes a fine surveyor and explorer, an aspect of vessel 
+design that the Romulan fleet has let fall by the wayside in recent years. At the very least, 
+the Algeron is one of the longest ranged vessels in their fleet and sports a number of special machine shops 
+capable of turning out parts that can keep the Algeron’s on the go for years at a time. While engaged in 
+combat operations, these facilities can become invaluable to other vessels seeking her service in an 
+attempt to press home the fight without wasting time in a drydock. In an effort to exploit her 
+exploration capability, the Algeron sports a unique docking system that allows a Vastam-class scout to 
+attach to the underside of the mothership between the warp nacelles. In this manner, on a long mission 
+Vastam crews can enjoy the facilities of the Algeron, refuel and perform maintenance. On the flip side, 
+the parent vessel can utilize the Vastam as an advance scout in unexplored regions or send her into 
+areas where she would dare not go. Of the 24 Algeron-class cruisers built to date, 18 are in active 
+service. Six have been destroyed in the line of duty. Production of the Algeron continues 
+at a rate of two new vessels per year                                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avian Class Cruiser
+Construction Data:
+Model Number:                  Mk I
+Date Entered Service:          4/6007
+Hull Data:
+Superstructure Points:         80
+Damage Chart:                  B
+Cloaking Device Type:          RCI
+   Power Requirements:         75
+Crew:                          200
+Troops:                        25
+Shuttlecraft:                  4
+Engines and Power Data:
+Total Power Units Available:   183
+Movement/Point Ratio:          5/1
+Warp Engine Type:              RIWB-1
+   Number:                     2
+   Power Units Available:      64
+   Cruising Speed:             6
+   Emergency Speed:            9.6
+Impulse Engine Type:           RIH-2
+   Number:                     1
+   Power Units Available:      55
+Auxiliary Power:               18
+Reserve Power:                 9
+Weapons and Firing Data:                         Part science vessel and part fleet cruiser, the Avian has amassed a respectable
+Beam Weapon Type:              RWW-I
+   Number:                     12             operational record since it was introduced into service. Avian crews paid a terrific price
+   Firing Arcs:                6 f/p, 6 f/s   during the Dominion War and were often used as a screening command ship with two or
+   Chart                       Y              three Mandukar’s at the point of a main body of Warbirds. They were often singled out
+   Max Power:                  12
+       +3                      (1-10)         for destruction by the Cardassians because of their reputation of dishing out a healthy
+       +2                      (11-17)        rate of disruptor fire. As science vessels, the Avians typically operate with one or two
+       +1                      (18-24)        Vastam-class scouts as a mini task force in unexplored space. In this role they have
+Missile Weapon Type:           RPL-3
+   Number:                     2              been modestly successful and are one of the longer ranged vessels in the Romulan
+   Firing Arcs:                2f             inventory. For any Romulan officer looking to expand his experience in the science fields,
+   Chart                       T              there are few better assignments than an Avian.
+   Power to Arm:               8
+   Damage:                     RL-3              Of the 40 Avian-class cruisers built, 18 remain in active service. 19 have been
+Shields Data:                                 destroyed, two have been scrapped and one is listed as missing, presumed destroyed.
+Deflector Shield Type:         RSS-2          The class is notable for the unique paint schemes that the yard workers apply to the “bird”
+   Shield Point Ratio:         1/5
+   Max Shield Power:           25             pattern on each vessel’s dorsal hull. These colorful works of art are a point of pride for
+Combat Efficiency:                            Avian crews and a contributing factor to the high morale that these ships enjoy.
+Point Value:                   192
+
+
+
+
+Battlehawk Class Cruiser
+Construction Data:
+Model Number:                  A
+Date Entered Service:          ?
+Damage Chart                   B
+Hull Data:
+Superstructure Points:         110
+Cloaking Device Type:          RCG
+   Power Requirements:         48
+Crew:                          360
+Troops:                        200
+Shuttlecraft:                  20
+Engines and Power Data:
+Total Power Units Available:   100
+Movement/Point Ratio:          4/1
+Warp Engine Type:              RIWD-1
+   Number:                     2
+   Power Units Available:      40
+   Cruising Speed:             6
+   Emergency Speed:            9
+Impulse Engine Type:           RIG-4
+   Number:                     1
+   Power Units Available:      20                 It not quite clear when the Battlehawk-class cruiser first entered the Romulan Fleet inventory, but it is easy to say
+Auxiliary Power:               10             that the design has nearly exceeded is usefulness as a fleet asset. Her shields are woefully underpowered in the face
+Reserve Power:                 5              of modern firepower and her ability to provide serious weapons fire is modest at best. For sure, the Battlehawks are
+Weapons and Firing Data:                      sturdy vessels and are useful in a number of fleet support roles, but their time is quickly coming to a close. Even
+Beam Weapon Type:              RPW-G          upgrading the class as a whole has been deemed unfeasible, and I the next ten years half of the existing vessels will
+   Number:                     6              most likely be reverted to mothball status or scrapped. The remaining vessels may either serve out their operational
+   Firing Arcs:                2 f, 4 f/p/s   lifespan or be relegated to reserve status.
+   Chart                       X                 Obviously, the class was the inspiration behind the Warbird-class, though the
+   Max Power:                  25
+       +3                      (1-12)
+                                              Battlehawk is barely half the size of that impressive class. Nonetheless, the two are often
+       +2                      (13-18)        confused on long range scans, and the Romulans have used this in the past to mask fleet
+       +1                      (19-22)        movements against Starfleet along the Neutral Zone or the Dominion during that conflict.
+Missile Weapon Type:           RPA-C
+   Number:                     4
+                                              In this, it can be said, the Battlehawks still provide a modest service to the Empire.
+   Firing Arcs:                4 f/p/s           Of the 90 Battlehawk-class cruiser constructed to date, 44 remain in active service. 23
+   Chart                       M              have been destroyed, six are listed as missing, presumed destroyed, seven have been
+   Power to Arm:               1
+   Damage:                     10
+                                              scrapped and 10 have defected to the Romulan Free States. Construction of the class
+Shields Data:                                 ended sometime in the early 2350s.
+Deflector Shield Type:         RSL-2
+   Shield Point Ratio:         1/4
+   Max Shield Power:           18
+Combat Efficiency:
+Point Value:                   124
+
+Hathos Class Cruiser
+Construction Data:
+Model Number:                  A
+Date Entered Service:          4/6203
+Hull Data:
+Superstructure Points:         70
+Damage Chart:                  B
+Cloaking Device Type:          RCG
+   Power Requirements:         48
+Crew:                          540
+Troops:                        400
+Shuttlecraft:                  6
+Engines and Power Data:
+Total Power Units Available:   130
+Movement/Point Ratio:          4/1
+Warp Engine Type:              RIWD-1
+   Number:                     2
+   Power Units Available:      40
+   Cruising Speed:             6
+   Emergency Speed:            9
+Impulse Engine Type:           RIH-1
+   Number:                     1
+   Power Units Available:      50
+Auxiliary Power:               14
+Reserve Power:                 7
+Weapons and Firing Data:                                   The Hathos-class cruiser was a modest attempt to improve upon the disappointing
+Beam Weapon Type:              RWW-I                    Pyre-class and give the fleet a supplementary cruiser while the new generation of
+   Number:                     8
+   Firing Arcs:                4 f, 2 p/a, 2 s/a
+                                                        D’deridex-class warbirds came on line. In this role the Hathos can be said to be slightly
+   Chart                       Y                        more successful than her predecessor, but only slightly so. The Hathos has the
+   Max Power:                  10                       advantage of a modern torpedo type and decent disruptors, but on the whole lacks the
+       +3                      (1-10)
+       +2                      (11-17)
+                                                        power or rate of fire to be a truly devastating weapons platform. It is difficult to find any
+       +1                      (18-24)                  other praise for a class that can barely stand against Starfleet’s second line starships.
+Missile Weapon Type:           RTA-S                    However, the Hathos is simple to build and maintain and does have its supporters within
+   Number:                     10
+   Firing Arcs:                4 f/p/s, 2 p, 2 s, 2 a
+                                                        the Empire.
+   Chart                       S                           In 2377 the whole class was pulled from service for a period of three months after the
+   Power to Arm:               1                        warship Klaskar mysteriously blew up while on a high warp run from Corellia Prime to
+   Damage:                     10
+Missile Weapon Type:           RPL-3
+                                                        Romulus. A detailed analysis of her warp core assembly revealed serious manufacturing
+   Number:                     1                        defects that necessitated the scrapping of three other vessels of the class. The Klaskar
+   Firing Arcs:                1f                       and the three other ships had been built together at the same yard nine years previously
+   Chart                       T
+   Power to Arm:               8
+                                                        and received defective parts from the same supplier.
+   Damage:                     RL-3                        Of the 50 Hathos-class cruisers built, 35 remain in active service. Seven have been
+Shields Data:                                           destroyed, 4 have been scrapped, and 4 have defected to the Romulan Free States.
+Deflector Shield Type:         RSP-A                    Production of the class ended in 2372 after a short ten-year production run.
+   Shield Point Ratio:         1/4
+   Max Shield Power:           20/side
+Combat Efficiency:
+Point Value:                   142
+
+
+
+Kesix Class Cruiser
+Construction Data:
+Model Number:                  A
+Date Entered Service:          ?
+Damage Chart                   B
+Hull Data:
+Superstructure Points:         98
+Crew:                          480
+Troops:                        90
+Shuttlecraft:                  8
+Engines and Power Data:
+Total Power Units Available:   200
+Movement/Point Ratio:          5/1
+Warp Engine Type:              RIWD-1B
+   Number:                     2
+   Power Units Available:      50
+   Cruising Speed:             6
+   Emergency Speed:            9.6
+Impulse Engine Type:           RIH-1
+   Number:                     2
+   Power Units Available:      50
+Auxiliary Power:               20
+Reserve Power:                 10                          During the 2360s, the Romulans had been accused of being one-trick-ponies, a power
+Weapons and Firing Data:
+Beam Weapon Type:              RPW-I
+                                                        that had produced only one truly exceptional warship design in decades. The Kesix
+   Number:                     18                       finally makes up for that, and has been regarded as one of the finest cruisers fielded by
+   Firing Arcs:                9 f/p, 9 f/s             the Romulan Navy in decades. This rugged and much loved vessel is built to blaze a
+   Chart                       X
+   Max Power:                  7
+                                                        trail before the fleet’s main body and is a symbol of Romulan technical prowess.
+       +3                      (1-10)                      The Kesix is literally built around a pair of massive RPL-5 plasma weapons, a one-two
+       +2                      (11-17)                  knockout punch that is the envy of many fleets. Her forward mounted plasma cannons
+       +1                      (18-22)
+Missile Weapon Type:           RPL-5
+                                                        are a massive improvement upon the old RPW-G type and have finally given credence to
+   Number:                     2                        the design. Her top speed of warp 9.6 is moderately faster than the official fleet speed of
+   Firing Arcs:                2f                       warp 9.4 and has gotten ships of the class clear of danger on more than one occasion.
+   Chart                       S
+   Power to Arm:               14
+                                                        Her sensor suite is easily the finest in the Empire, and the Romulans have taken to using
+   Damage:                     RL-5                     the Kesixs as heavy scouts when the use of smaller vessels may prove to be
+Shields Data:                                           inappropriate.
+Deflector Shield Type:         RSS-M
+   Shield Point Ratio:         1/6
+                                                           Of the 18 Kesix-class cruises built, all remain in service. Construction of the class
+   Max Shield Power:           22                       continues at a rate of three vessels per year.
+Combat Efficiency:
+Point Value:                   225
+
+                 Mandukar Class Destroyer
+
+Construction Data:
+Model Number:                  A              B              C
+Date Entered Service:          4/4008         4/5109         4/6803
+Hull Data:
+Superstructure Points:         70             76             82
+Damage Chart:                  B              B              B
+Size:
+   Length:                     372 m          370 m          372 m             For years after their introduction to fleet service, the
+  Width:                       177 m          177 m          177 m          Manukar-class destroyer was considered to be a pariah, the
+  Height:                      90 m           90 m           90 m           luckless class that no self-respecting officer would serve
+Transporters:                                                               aboard and no fleet commander wished to take into battle.
+   Standard Six Person-        5              5              5              Early models were riddled with maintenance issues and
+   Combat 10 Person-           3              3              3              were considered to be disturbingly underpowered in most
+   Cargo, small-               2              2              2              circles. Though she was intended to replace the T-10
+   Cargo, large-               2              2              2              destroyer of nearly a half-century before, it would be many
+Cloaking Device Type:          RCE            RCE            RCE            years before the Mandukar-class could be an accepted part
+   Power Requirements:         38             38             38             of the fleet.
+Crew:                          65 Officers    65 Officers    65 Officers       From the outset, the class was designed around a
+                               305 Enlisted   305 Enlisted   305 Enlisted   withering volley of six forward mounted RPL-3 plasma
+Passengers:                    20             20             20             weapons. Without question, this battery of fire had no equal
+Evacuation Limit               4,000          4,000          4,000          anywhere in the Alpha or Beta quadrants, and early
+Shuttlecraft:                  3              3              3              intelligence estimates were alarming to say the least.
+Engines and Power Data:                                                     However, the Mandukar proved to be more of a paper tiger,
+Total Power Units Available:   98             145            156            as it lacked to power all six of her primary weapons and her
+Movement/Point Ratio:          4/1            4/1            4/1            other primary tactical systems simultaneously. The Mandy
+Warp Engine Type:              RIWA-1         RIWD-1B        RIWD-1B        (as she became known) was still a devastating weapons
+  Number:                      2              2              2              platform, but it wouldn’t take long for opposing powers to
+  Power Units Available:       35             50             50             develop tactics to counter the threat she posed.
+  Cruising Speed:              6              6.5            6.5               Later models of the class focused on increasing the
+  Emergency Speed:             8.5            9.3            9.4            vessel’s available power output and experimented with
+Impulse Engine Type:           RIF-3          RIG-7          RIF-3          newer weapons systems. The B model (code named
+  Number:                      1              1              2              Mandelar) introduced in the 2350s has very little in common
+  Power Units Available:       28             45             28             with the initial batch of Mandukars and abandons the RPL-
+Auxiliary Power:               10             14             16             3s in favor of a massive compliment of photon torpedoes.
+Reserve Power:                 5              7              8              The C type (code name Majyk) of the mid-2360s returned to
+Weapons and Firing Data:                                                    the plasma weapon array, but now possessed the power
+Beam Weapon Type:              RB-11          RWW-I          RWW-Y          reserves to pose a formidable threat against enemy capital
+  Number:                      8              8              8              ships. In fact, they type C Mandukar is the most well armed
+  Firing Arcs:                 2 f, 2 f/p,    4 f/p, 4 f/s   2 f, 2 f/p,    destroyer or fleet support vessel in service anywhere, a
+                               2 f/s, 2 a                    2 f/s, 2 a     point of pride for her elite crews.
+  Chart                        V              Y              Y                 Of the 54 type A Mandukar-class destroyers produced
+  Max Power:                   9              10             10             between 2340 and 2366, 40 are still in service. Seven were
+     +3                        (1-10)         (1-10)         (1-10)         destroyed in the line of duty, two are listed as lost, presumed
+     +2                        (11-16)        (11-17)        (11-17)        destroyed, and five have defected to the Romulan Free
+     +1                        (17-21)        (18-24)        (18-24)        States.
+Missile Weapon Type:           RPL-3          RTA-S          RPL-3             Of the 64 type B Manukar-class destroyers constructed to
+  Number:                      6              12             6              date, 56 are still in service. Three were destroyed in the line
+  Firing Arcs:                 6 f/p/s        4 f, 2 f/p,    6 f/p/s        of duty, one was scrapped, one is listed as lost, presumed
+                                              2 f/s, 4 a                    destroyed, and three have defected to the RFS. Production
+  Chart                        T              S              T              continues at a rate of two new vessels per year, though that
+  Power to Arm:                8              1              8              is expected to cease in the next two years.
+  Damage:                      RL-3           10             RL-3              Of the 38 type C Mandukar-class destroyers built, all
+Shields Data:                                                               remain in active service. Production continues at four new
+Deflector Shield Type:         RSP-1          RSM-5          RSS-2          units per year.
+  Shield Point Ratio:          1/4            1/5            1/5
+  Max Shield Power:            18/side        20/side        25/side
+Combat Efficiency
+Point Value:                   136            165            195
+
+         Vastam Class Scout
+
+Construction Data:
+Model Number:                  Mk I           A
+Date Entered Service:          4/6408
+Hull Data:
+Superstructure Points:         36
+Damage Chart:                  B
+Size:
+   Length:
+  Width:
+  Height:
+Transporters:
+   Standard Two Person-        1                 One of the more
+                                                               Combat  22 Person-scout type vessels
+                                                                     successful              4       in service today is the
+Cloaking Device Type:          RCD            Romulan Vastam-class, a multi-role design that has served the fleet for over
+   Power Requirements:         22
+Crew:                          1 Officer
+                                              two decades. This diminutive ship is by no means as combat oriented as
+                               8 Enlisted     the Klingon B’rell or as sophisticated as the Federation Heimdall, but the
+Passengers:                    1              Vastam has proven that she can hold her own both on the battlefield and in
+Evacuation Limit               20             the most far flung regions of the galaxy.
+Shuttlecraft:                  0
+Landing Capability:            Yes
+                                                 When developing the Vastam, the Romulans had one demand, and that
+Engines and Power Data:                       was speed. They wanted a vessel that could run rings around any other ship
+Total Power Units Available:   84             at sublight velocities and blaze a path at high warp for weeks or even
+                                              140
+Movement/Point Ratio:          2/1            months at a time. They were successful in this and were able to do so
+Warp Engine Type:              RIUWC-1
+  Number:                      2
+                                              without sacrificing her tactical systems or information gathering abilities.
+  Power Units Available:       30             To be sure, the vessels are cramped for long durations scouts, but the crews
+  Cruising Speed:              7              enjoy the high morale and camaraderie that comes from knowing that they
+  Emergency Speed:             9.75           are a valued part of the fleet.
+Impulse Engine Type:           RIF-4
+  Number:                      2
+                                                 As an offensive asset, the Vastam is a capable opponent, especially
+  Power Units Available:       24             against similarly sized vessels or even older cruisers. However, few fleet
+Auxiliary Power:               8              commanders would ever squander the Vastam in this risky manner as they
+Reserve Power:                 4              are perfectly suited for closing with the enemy to gather a wealth of sensor
+Weapons and Firing Data:
+Beam Weapon Type:              RPW-GL
+                                              information. Once this is accomplished, they disengage back to friendly
+  Number:                      8              lines confident that the enemy will be unable to keep up.
+  Firing Arcs:                 4 f/p, 4 f/s      When acting as a vessel of exploration, the Vastam has the ability to
+  Chart                        X              operate independently if necessary, but their real forte is in cooperating
+  Max Power:                   5
+     +3                        (1-10)
+                                              with other larger science oriented vessels to act as an advanced scout. They
+     +2                        (11-15)        serve to find the best routes, develop itineraries for their larger charges and
+     +1                        (16-22)        perform surveys of items of secondary importance. It is a system that the
+Missile Weapon Type:           RTA-S          Romulans have down to a science is the envy of many fleets throughout the
+  Number:                      2
+  Firing Arcs:                 2f
+                                              Alpha Quadrant. A minor variant of the Vastam omits the topside torpedo
+  Chart                        S              launcher in favor of a latching system that allows the scout to dock with an
+  Power to Arm:                1              Algeron-class cruiser. In this parasite mode, the pair makes use of the
+  Damage:                      10             facilities of each other and help extend their exploration capabilities.
+Shields Data:
+Deflector Shield Type:         RSL-6
+                                                 Of the 120 Vastam-class scouts that have entered service, 94 remain in
+  Shield Point Ratio:          1/6            active service. nine have been destroyed, three have been scrapped, six are
+  Max Shield Power:            14/side        listed as lost, presumed destroyed and six have defected to the Romulan
+Combat Efficiency:                            Free States. Production continues at a reduced rate of 2 per year.
+Point Value:                   90
+
+Romulan Plasma Weapon Chart    Romulan Vessel Scenario Point
+            RL- RL- RL-                  Values
+  Range
+             4    5    6      Rath (AC)                       280
+     1      40   56   64      Algeron (CR)                    187
+     2      40   56   64      Avian (CR)                      192
+     3      40   56   64      Battlehawk (CR)                 124
+     4      40   56   64      Deathstorm (CR)                 181
+     5      30   56   64      Hathos (CR)                     142
+     6      30   56   64      Kesix (CR)                      225
+     7      22   48   64      Pyre (BC)                       151
+     8      20   48   64      Warhawk (BC)                    205
+     9      10   48   56      Nova (BC)                       140
+    10       8   48   56      Warbird type B D'deridex (BC)   245
+    11       6   32   56      Warbird type C Talon (BC)       205
+                              Warbird type D Sparrowhawk
+    12      4    32   56      (BC)                            207
+    13      2    20   40      Warbird type E Peregrine (BC)   209
+    14           16   40      Warbird type F Kamarak (BC)     261
+                              Warbird type G Leviathan
+    15           12   32      (BC)                            177
+                              Warbird type H Bloodhawk
+    16           8    32      (BC)                            189
+    17                20      Warbird type I Raptor (BC)      297
+    18                12      Warbird type J Decius (BC)      276
+    19                 8      Warbird type K Terex (BC)       297
+    20                 6      Mandukar type A (DD)            136
+                              Mandukar type B Mandelar
+                              (DD)                            165
+                              Mandukar type C Majyk (DD)      195
+                              Vastam (SC)                      73
+
+  The Romulan Ship Recognition Manual
+             2385 Edition
+
+
+
+
+This PDF is distributed FREE of charge by Sporadic Enterprises
+
+                           For use with..
+      The Star Trek Starship Tactical Combat Simulator Phase II
+
+
+
+
+                                                          STAR TREK is a Trademark
+                                                    Of Paramount Pictures Corporation
+
