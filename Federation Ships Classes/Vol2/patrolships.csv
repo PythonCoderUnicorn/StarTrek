@@ -43,3 +43,38 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 67572, Nice, New_Orleans, frigate, "Hakon Yards - Galena", March 2346, July 2350, February 2351, active
 67728, "Le Castallet", New_Orleans, frigate, 'Utopia Planitia Fleet Yards - Mars',May 2346, October 2350, May 2351, active
 67898, Riviera, New_Orleans, friagte, "Seskon Trella - Chagala, Tellar", July 2346, December 2350, August 2351, active
+64920, Norway, Norway, frigate, "Pederson Spaceport - Copenhagen, Earth", February 2344, May 2347, November 2347, active
+64921, Oslo, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", February 2344, May 2347, November 2347, active
+64931, Hungary, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", February 2344, May 2347, November 2347, active
+64944, Budapest, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", February 2344, May 2347, November 2347, active
+64959, Denmark, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", March 2344, June 2347, December 2347, active
+64961, Copenhagen, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", March 2344, June 2347, December 2347, active
+64972, Finland, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", March 2344, June 2347, December 2347, active
+64987, Helsinki, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", March 2344, June 2347, December 2347, active
+64988, Sweden, Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", March 2344, June 2347, December 2347, active
+64989, Stockholm,  Norway, frigate,"Pederson Spaceport - Copenhagen, Earth", March 2344, July 2347, January 2348, active
+65024, Romania,  Norway, frigate,"Avondale Group Ferrata Docks - Rigellium, Rigell II",April 2344, July 2347, January 2348, lost
+65025, Bucharest, Norway, frigate,"Avondale Group Ferrata Docks - Rigellium, Rigell II",April 2344, July 2347, January 2348, active
+65217, Bulgaria, Norway, frigate, Hakon Yards - Galena, June 2344, September 2347, March 2348, lost
+65218, Sofia, Norway, frigate,  Hakon Yards - Galena, June 2344, September 2347, March 2348, active
+65289, Albania, Norway, frigate,  Hakon Yards - Galena, June 2344, September 2347, March 2348, active
+65290, Tirane, Norway, frigate, Hakon Yards - Galena, July 2344, October 2347, April 2348, active
+65348, Yugoslavia, Norway, frigate, Cosmadyne Yards - Boston, July 2344, October 2347, April 2348, lost
+65349, Belgrade, Norway, frigate, Cosmadyne Yards - Bostom, July 2344, October 2347, April 2348, lost
+65611, Moldova, Norway, frigate, "Chiokis Starship Construction - Thelavor, Andor", November 2344, February 2348, August 2348, active
+65612, Kishenev,  Norway, frigate, "Chiokis Starship Construction - Thelavor, Andor", November 2344, February 2348, August 2348, active
+65853, Slovakia, Norway, frigate, "Avondale Group Ferrata Docks - Rigellium, Rigell II",December 2344, March 2348, September 2348, active
+65854, Bratislava, Norway, frigate, "Avondale Group Ferrata Docks - Rigellium, Rigell II",December 2344, March 2348, September 2348, active
+66087, Czech_Republic, Norway, frigate, New Aberdeen Fleet Yards - Aldeberan, February 2345, June 2348, December 2348, active
+66088, Prague, Norway, frigate, New Aberdeen Fleet Yards - Aldeberan, February 2345, June 2348, December 2348, active
+66210, Poland, Norway, frigate, Hakon Yards - Galena, April 2345, August 2348, January 2349, active
+66211, Warsaw, Norway, frigate, Hakon Yards - Galena, april 2345, August 2348, February 2349, active
+66341, Krakow, Norway, frigate, 'Utopia Planitia Fleet Yards - Mars', June 2345, October 2348, April 2349, lost
+66572, Lithuania, Norway, frigate, "Saint Petersburg Fleet Yards - Earth", September 2345, December 2348, July 2349, active
+66573, Vinius, Norway, frigate, "Saint Petersburg Fleet Yards - Earth", September 2345, December 2348, July 2349, active
+66690, Latvia, Norway, frigate, "Axaanivus Cesleco Starcraft - Alpha Centauri V", October 2345, January 2349, August 2349, active
+66691, Riga,  Norway, frigate, "Axaanivus Cesleco Starcraft - Alpha Centauri V", October 2345, January 2349,September 2349, active
+67232, Estonia, Norway, frigate, "Spacedock - San Francisco, Earth", January 2346, March 2349, December 2349, active
+67233, Tallinn, Norway, frigate, "Spacedock - San Francisco, Earth", January 2346, March 2349, December 2349, active
+67545, Austria, Norway, frigate, Hakon Yards - Galena, March 2346, May 2349, February 2350, active
+67546, Vienna, Norway, frigate, Hakon Yards - Galena, March 2346, May 2349, February 2350, active
