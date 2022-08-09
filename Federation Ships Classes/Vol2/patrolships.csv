@@ -88,3 +88,14 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 82881, Icestorm, Sullivans, frigate, 'Utopia Planitia Fleet Yards - Mars', March 2375, February 2377, april 2377, active
 83995, Monsoon, Sullivans, frigate, 'Utopia Planitia Fleet Yards - Mars', april 2375, May 2377, October 2377, active
 84267, Simoon, Sullivans, frigate, 'Utopia Planitia Fleet Yards - Mars', june 2375, September 2377, December 2377, active
+68705, Freedom, Freedom, destroyer, "Newport News Fleet Yards - Earth", February 2347, april 2349, July 2349, active
+68711, Concorde, Freedom, destroyer, "Newport News Fleet Yards - Earth", February 2347, april 2349, July 2349, active
+68723, Firebrand, Freedom, destroyer, "Newport News Fleet Yards - Earth", march 2347, may 2349, August 2349, lost
+68734, Hinkler, Freedom, destroyer, "Newport News Fleet Yards - Earth", march 2347, may 2349, August 2349,  active
+68755, Pelanski, Freedom, destroyer, "Newport News Fleet Yards - Earth", march 2347, may 2349, August 2349,  active
+68759, Voskod, Freedom, destroyer, "Newport News Fleet Yards - Earth", march 2347, may 2349, August 2349,  active
+68781, New_York, Freedom, destroyer, "Newport News Fleet Yards - Earth", april 2347, june 2349, August 2349,  active
+68789, Denke, Freedom, destroyer, "Newport News Fleet Yards - Earth", april 2347, june 2349, September 2349,  active
+68793, Ottawa, Freedom, destroyer, "Newport News Fleet Yards - Earth", may 2347, July 2349, September 2349,  active
+69421, Friendship, Freedom, destroyer, "Newport News Fleet Yards - Earth", November 2347, September 2349, January 2349,  active
+69422, Dublin, Freedom, destroyer, "Newport News Fleet Yards - Earth", November 2347, September 2349, January 2349,  active
