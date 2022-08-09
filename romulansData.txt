@@ -984,7 +984,18 @@ Deflector Shield Type:         RSP-1          RSM-5          RSS-2          unit
 Combat Efficiency
 Point Value:                   136            165            195
 
-         Vastam Class Scout
+
+
+
+
+
+
+
+
+
+
+
+Vastam Class Scout
 
 Construction Data:
 Model Number:                  Mk I           A
@@ -997,65 +1008,110 @@ Size:
   Width:
   Height:
 Transporters:
-   Standard Two Person-        1                 One of the more
-                                                               Combat  22 Person-scout type vessels
-                                                                     successful              4       in service today is the
-Cloaking Device Type:          RCD            Romulan Vastam-class, a multi-role design that has served the fleet for over
+   Standard Two Person-        1                 
+Cloaking Device Type:          RCD           
    Power Requirements:         22
 Crew:                          1 Officer
-                                              two decades. This diminutive ship is by no means as combat oriented as
-                               8 Enlisted     the Klingon B’rell or as sophisticated as the Federation Heimdall, but the
-Passengers:                    1              Vastam has proven that she can hold her own both on the battlefield and in
-Evacuation Limit               20             the most far flung regions of the galaxy.
+                                              
+                               8 Enlisted     
+Passengers:                    1              
+Evacuation Limit               20             
 Shuttlecraft:                  0
 Landing Capability:            Yes
-                                                 When developing the Vastam, the Romulans had one demand, and that
-Engines and Power Data:                       was speed. They wanted a vessel that could run rings around any other ship
-Total Power Units Available:   84             at sublight velocities and blaze a path at high warp for weeks or even
-                                              140
-Movement/Point Ratio:          2/1            months at a time. They were successful in this and were able to do so
+                                                 
+Engines and Power Data:                       
+Total Power Units Available:   84             
+                                              
+Movement/Point Ratio:          2/1           
 Warp Engine Type:              RIUWC-1
   Number:                      2
-                                              without sacrificing her tactical systems or information gathering abilities.
-  Power Units Available:       30             To be sure, the vessels are cramped for long durations scouts, but the crews
-  Cruising Speed:              7              enjoy the high morale and camaraderie that comes from knowing that they
-  Emergency Speed:             9.75           are a valued part of the fleet.
+                                              
+  Power Units Available:       30             
+  Cruising Speed:              7              
+  Emergency Speed:             9.75           
 Impulse Engine Type:           RIF-4
   Number:                      2
-                                                 As an offensive asset, the Vastam is a capable opponent, especially
-  Power Units Available:       24             against similarly sized vessels or even older cruisers. However, few fleet
-Auxiliary Power:               8              commanders would ever squander the Vastam in this risky manner as they
-Reserve Power:                 4              are perfectly suited for closing with the enemy to gather a wealth of sensor
+                                                 
+  Power Units Available:       24             
+Auxiliary Power:               8              
+Reserve Power:                 4              
 Weapons and Firing Data:
 Beam Weapon Type:              RPW-GL
-                                              information. Once this is accomplished, they disengage back to friendly
-  Number:                      8              lines confident that the enemy will be unable to keep up.
-  Firing Arcs:                 4 f/p, 4 f/s      When acting as a vessel of exploration, the Vastam has the ability to
-  Chart                        X              operate independently if necessary, but their real forte is in cooperating
+                                              
+  Number:                      8              
+  Firing Arcs:                 4 f/p, 4 f/s     
+  Chart                        X              
   Max Power:                   5
      +3                        (1-10)
-                                              with other larger science oriented vessels to act as an advanced scout. They
-     +2                        (11-15)        serve to find the best routes, develop itineraries for their larger charges and
-     +1                        (16-22)        perform surveys of items of secondary importance. It is a system that the
-Missile Weapon Type:           RTA-S          Romulans have down to a science is the envy of many fleets throughout the
+                                              
+     +2                        (11-15)        
+     +1                        (16-22)        
+Missile Weapon Type:           RTA-S          
   Number:                      2
   Firing Arcs:                 2f
-                                              Alpha Quadrant. A minor variant of the Vastam omits the topside torpedo
-  Chart                        S              launcher in favor of a latching system that allows the scout to dock with an
-  Power to Arm:                1              Algeron-class cruiser. In this parasite mode, the pair makes use of the
-  Damage:                      10             facilities of each other and help extend their exploration capabilities.
+                                              
+  Chart                        S              
+  Power to Arm:                1              
+  Damage:                      10             
 Shields Data:
 Deflector Shield Type:         RSL-6
-                                                 Of the 120 Vastam-class scouts that have entered service, 94 remain in
-  Shield Point Ratio:          1/6            active service. nine have been destroyed, three have been scrapped, six are
-  Max Shield Power:            14/side        listed as lost, presumed destroyed and six have defected to the Romulan
-Combat Efficiency:                            Free States. Production continues at a reduced rate of 2 per year.
+                                                 
+  Shield Point Ratio:          1/6            
+  Max Shield Power:            14/side        
+Combat Efficiency:                            
 Point Value:                   90
 
-Romulan Plasma Weapon Chart    Romulan Vessel Scenario Point
-            RL- RL- RL-                  Values
-  Range
-             4    5    6      Rath (AC)                       280
+
+
+One of the more Combat  22 Person-scout type vessels successful in service today is the  
+Romulan Vastam-class, a multi-role design that has served the fleet for over
+two decades. This diminutive ship is by no means as combat oriented as
+the Klingon B’rell or as sophisticated as the Federation Heimdall, but the
+Vastam has proven that she can hold her own both on the battlefield and in the most far flung regions of the galaxy.
+When developing the Vastam, the Romulans had one demand, and that
+was speed. They wanted a vessel that could run rings around any other ship
+at sublight velocities and blaze a path at high warp for weeks or even
+140  months at a time. They were successful in this and were able to do so
+without sacrificing her tactical systems or information gathering abilities.
+To be sure, the vessels are cramped for long durations scouts, but the crews
+enjoy the high morale and camaraderie that comes from knowing that they are a valued part of the fleet.
+As an offensive asset, the Vastam is a capable opponent, especially
+against similarly sized vessels or even older cruisers. However, few fleet
+commanders would ever squander the Vastam in this risky manner as they
+are perfectly suited for closing with the enemy to gather a wealth of sensor
+information. Once this is accomplished, they disengage back to friendly
+lines confident that the enemy will be unable to keep up.
+When acting as a vessel of exploration, the Vastam has the ability to
+operate independently if necessary, but their real forte is in cooperating
+with other larger science oriented vessels to act as an advanced scout. They
+serve to find the best routes, develop itineraries for their larger charges and
+perform surveys of items of secondary importance. It is a system that the
+Romulans have down to a science is the envy of many fleets throughout the
+Alpha Quadrant. A minor variant of the Vastam omits the topside torpedo
+launcher in favor of a latching system that allows the scout to dock with an
+Algeron-class cruiser. In this parasite mode, the pair makes use of the
+facilities of each other and help extend their exploration capabilities.
+Of the 120 Vastam-class scouts that have entered service, 94 remain in
+active service. nine have been destroyed, three have been scrapped, six are
+listed as lost, presumed destroyed and six have defected to the Romulan
+Free States. Production continues at a reduced rate of 2 per year.
+
+
+
+
+
+
+
+
+
+
+
+
+Romulan Plasma Weapon Chart    
+Romulan Vessel Scenario Point
+Values
+Range
+     4       5    6           Rath (AC)                       280
      1      40   56   64      Algeron (CR)                    187
      2      40   56   64      Avian (CR)                      192
      3      40   56   64      Battlehawk (CR)                 124
@@ -1084,20 +1140,17 @@ Romulan Plasma Weapon Chart    Romulan Vessel Scenario Point
                               Mandukar type C Majyk (DD)      195
                               Vastam (SC)                      73
 
-  The Romulan Ship Recognition Manual
-             2385 Edition
+  The Romulan Ship Recognition Manual 2385 Edition
 
 
 
 
 This PDF is distributed FREE of charge by Sporadic Enterprises
 
-                           For use with..
-      The Star Trek Starship Tactical Combat Simulator Phase II
+For use with..The Star Trek Starship Tactical Combat Simulator Phase II
 
 
 
 
-                                                          STAR TREK is a Trademark
-                                                    Of Paramount Pictures Corporation
+TAR TREK is a Trademark Of Paramount Pictures Corporation
 
