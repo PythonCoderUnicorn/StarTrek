@@ -99,3 +99,36 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 68793, Ottawa, Freedom, destroyer, "Newport News Fleet Yards - Earth", may 2347, July 2349, September 2349,  active
 69421, Friendship, Freedom, destroyer, "Newport News Fleet Yards - Earth", November 2347, September 2349, January 2349,  active
 69422, Dublin, Freedom, destroyer, "Newport News Fleet Yards - Earth", November 2347, September 2349, January 2349,  active
+52130, Steamrunner, Steamrunner, destroyer, "Spacedock - San Francisco, Earth",july 2338, October 2340, march 2341, active
+52131, Everest,  Steamrunner, destroyer,"Spacedock - San Francisco, Earth",july 2338, October 2340, march 2341, active
+52433, Olympus_Mons, Steamrunner, destroyer,'Utopia Planitia Fleet Yards - Mars',October 2338, January 2341, june 2342, active
+52484, Glenfinnen, Steamrunner, destroyer,'Utopia Planitia Fleet Yards - Mars',November 2338, February 2341, june 2342, active
+52516, Rockies, Steamrunner, destroyer,"Newport News Fleet Yards - Earth", January 2339, april 2342, September 2342, active
+52572, Appalachia, Steamrunner, destroyer,"Newport News Fleet Yards - Earth", march 2339, july 2342, December 2342, active
+52630, Himalayas, Steamrunner, destroyer, New Aberdeen Fleet Yards - Aldeberan, may 2339, September 2342, February 2343, active
+52701, Andes, Steamrunner, destroyer, "Chiokis Starship Construction - Thelavor, Andor", july 2339, November 2342, may 2343, active
+52769, Caucasus, Steamrunner, destroyer, Port Copernicus Fleet Yards - Luna, August 2339, November 2342, may 2343, active
+52824, Urals,  Steamrunner, destroyer,"M'Yengh Yards - Shzerensohr, Cait", September 2339, December 2342, june 2343, active
+52841, Alps, Steamrunner, destroyer,"M'Yengh Yards - Shzerensohr, Cait", October 2339, January 2343, july 2343, active
+52900, Pyrenees, Steamrunner, destroyer,Alfras Fleet Yards - Deneb V, October 2339, January 2343, july 2343, active
+52973, McKinley, Steamrunner, destroyer,Alfras Fleet Yards - Deneb V, December 2339, march 2343, September 2343, active
+53278, Rainier, Steamrunner, destroyer, Puget Sound Fleet Yards  - Earth, January 2340, april 2343, October 2343, active
+53347, Ararat, Steamrunner, destroyer,Puget Sound Fleet Yards  - Earth,January 2340, april 2343, October 2343, active
+54414, Blanc, Steamrunner, destroyer, Cosmadyne Yards - Boston, January 2340, april 2343, October 2343, active
+54576, Cierro_Aconagura, Steamrunner, destroyer,Puget Sound Fleet Yards  - Earth, February 2340, april 2343, November 2343, active
+55627, Alpha_Regio, Steamrunner, destroyer, "Saint Petersburg Fleet Yards - Earth", February 2340, may 2343, November 2343, active
+56048, Maxwell_Montes,Steamrunner, destroyer, "Seskon Trella - Chagala, Tellar", april 2340, july 2343, January2344, active
+56171, Ardennes, Steamrunner, destroyer, 'Utopia Planitia Fleet Yards - Mars', april 2340, july 2343, February 2344, active
+56315, Olympics, Steamrunner, destroyer,"Pederson Spaceport - Copenhagen, Earth",may 2340, August 2343, February 2344, active
+56776, Cascades, Steamrunner, destroyer, "Puget Sound Fleet Yards - Earth",may 2340, August 2343, march 2344, active
+57154, Carpathians, Steamrunner, destroyer,"Axaanivus Cesleco Starcraft - Alpha Centauri V",june 2340, September 2343, march 2344, active
+57501, Elburz, Steamrunner, destroyer, "Alfras Fleet Yards - Deneb V", September 2340, December 2343, april 2344, lost
+57834, Theia_Mons,Steamrunner, destroyer, "Axaanivus Cesleco Starcraft - Alpha Centauri V",feb 2341, april 2344, November 2344, active
+58134, Caloris_Montes, Steamrunner, destroyer,New Aberdeen Fleet Yards - Aldeberan, march 2342, june 2344, December 2344, active
+58157, Sierra_Nevada, Steamrunner, destroyer,New Aberdeen Fleet Yards - Aldeberan, march 2342, june 2344, December 2344, active
+58372, Sierra_Madres, Steamrunner, destroyer,"Newport News Fleet Yards - Earth",may 2341, August 2344, January 2345, active
+58481, Aravalli, Steamrunner, destroyer, "Shor Ta'kel, Central Docks - 40 Eridani",may 2341, August 2344, January 2345, lost
+58948, Kolymara, Steamrunner, destroyer,Earth Station MicKinely - Earth, july 2341, October 2344, march 2345, lost
+59427, Ja_Fadey_Mountains, Steamrunner, destroyer, Hakon Yards - Galena, August 2341, November 2344, april 2345, lost
+59753, Charitum_Montes, Steamrunner, destroyer, "Chiokis Starship Construction - Thelavor, Andor",August 2341, November 2344, april 2345, active
+60045, Kilamanjaro, Steamrunner, destroyer, "Chandley Works - Caravalia, Mars", October 2341, January 2345, june 2345, active
