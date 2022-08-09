@@ -923,7 +923,19 @@ Deflector Shield Type:         RSS-M
 Combat Efficiency:
 Point Value:                   225
 
-                 Mandukar Class Destroyer
+
+
+
+
+
+
+
+
+
+
+
+
+Mandukar Class Destroyer
 
 Construction Data:
 Model Number:                  A              B              C
@@ -983,6 +995,15 @@ Deflector Shield Type:         RSP-1          RSM-5          RSS-2          unit
   Max Shield Power:            18/side        20/side        25/side
 Combat Efficiency
 Point Value:                   136            165            195
+
+
+
+
+
+
+
+
+
 
 
 
