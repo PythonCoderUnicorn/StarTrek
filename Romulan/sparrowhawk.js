@@ -95,6 +95,6 @@ class Sparrowhawk {
         max_shield_power: 25
     }
  
-    combat_ffficiency_value = 207 
+    combat_efficiency_value = 207 
 
 }

@@ -95,6 +95,6 @@ class Peregrine {
         max_shield_power: 28
     }
  
-    combat_ffficiency_value = 209
+    combat_efficiency_value = 209
 
 }
