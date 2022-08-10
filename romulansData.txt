@@ -785,33 +785,65 @@ Warp Engine Type:              RIWD-1
    Emergency Speed:            9
 Impulse Engine Type:           RIG-4
    Number:                     1
-   Power Units Available:      20                 It not quite clear when the Battlehawk-class cruiser first entered the Romulan Fleet inventory, but it is easy to say
-Auxiliary Power:               10             that the design has nearly exceeded is usefulness as a fleet asset. Her shields are woefully underpowered in the face
-Reserve Power:                 5              of modern firepower and her ability to provide serious weapons fire is modest at best. For sure, the Battlehawks are
-Weapons and Firing Data:                      sturdy vessels and are useful in a number of fleet support roles, but their time is quickly coming to a close. Even
-Beam Weapon Type:              RPW-G          upgrading the class as a whole has been deemed unfeasible, and I the next ten years half of the existing vessels will
-   Number:                     6              most likely be reverted to mothball status or scrapped. The remaining vessels may either serve out their operational
-   Firing Arcs:                2 f, 4 f/p/s   lifespan or be relegated to reserve status.
-   Chart                       X                 Obviously, the class was the inspiration behind the Warbird-class, though the
+   Power Units Available:      20                 
+Auxiliary Power:               10             
+Reserve Power:                 5              
+Weapons and Firing Data:                      
+Beam Weapon Type:              RPW-G          
+   Number:                     6              
+   Firing Arcs:                2 f, 4 f/p/s   
+   Chart                       X                 
    Max Power:                  25
        +3                      (1-12)
-                                              Battlehawk is barely half the size of that impressive class. Nonetheless, the two are often
-       +2                      (13-18)        confused on long range scans, and the Romulans have used this in the past to mask fleet
-       +1                      (19-22)        movements against Starfleet along the Neutral Zone or the Dominion during that conflict.
+                                              
+       +2                      (13-18)        
+       +1                      (19-22)        
 Missile Weapon Type:           RPA-C
    Number:                     4
-                                              In this, it can be said, the Battlehawks still provide a modest service to the Empire.
-   Firing Arcs:                4 f/p/s           Of the 90 Battlehawk-class cruiser constructed to date, 44 remain in active service. 23
-   Chart                       M              have been destroyed, six are listed as missing, presumed destroyed, seven have been
+                                              
+   Firing Arcs:                4 f/p/s           
+   Chart                       M              
    Power to Arm:               1
    Damage:                     10
-                                              scrapped and 10 have defected to the Romulan Free States. Construction of the class
-Shields Data:                                 ended sometime in the early 2350s.
+                                              
+Shields Data:                                
 Deflector Shield Type:         RSL-2
    Shield Point Ratio:         1/4
    Max Shield Power:           18
 Combat Efficiency:
 Point Value:                   124
+
+
+
+It not quite clear when the Battlehawk-class cruiser first entered the Romulan Fleet inventory, but it is easy to say
+that the design has nearly exceeded is usefulness as a fleet asset. Her shields are woefully underpowered in the face
+of modern firepower and her ability to provide serious weapons fire is modest at best. For sure, the Battlehawks are
+sturdy vessels and are useful in a number of fleet support roles, but their time is quickly coming to a close. Even
+upgrading the class as a whole has been deemed unfeasible, and I the next ten years half of the existing vessels will
+most likely be reverted to mothball status or scrapped. The remaining vessels may either serve out their operational
+lifespan or be relegated to reserve status.
+Obviously, the class was the inspiration behind the Warbird-class, though the
+Battlehawk is barely half the size of that impressive class. Nonetheless, the two are often
+confused on long range scans, and the Romulans have used this in the past to mask fleet
+movements against Starfleet along the Neutral Zone or the Dominion during that conflict.
+In this, it can be said, the Battlehawks still provide a modest service to the Empire.
+Of the 90 Battlehawk-class cruiser constructed to date, 44 remain in active service. 
+23 have been destroyed, six are listed as missing, presumed destroyed, seven have been
+scrapped and 10 have defected to the Romulan Free States. Construction of the class
+ended sometime in the early 2350s.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Hathos Class Cruiser
 Construction Data:
@@ -948,7 +980,7 @@ Size:
   Width:                       177 m          177 m          177 m          Manukar-class destroyer was considered to be a pariah, the
   Height:                      90 m           90 m           90 m           luckless class that no self-respecting officer would serve
 Transporters:                                                               aboard and no fleet commander wished to take into battle.
-   Standard Six Person-        5              5              5              Early models were riddled with maintenance issues and
+   Standard Six Person-        5              5              5              Early models were riddled with mainten298387ance issues and
    Combat 10 Person-           3              3              3              were considered to be disturbingly underpowered in most
    Cargo, small-               2              2              2              circles. Though she was intended to replace the T-10
    Cargo, large-               2              2              2              destroyer of nearly a half-century before, it would be many
