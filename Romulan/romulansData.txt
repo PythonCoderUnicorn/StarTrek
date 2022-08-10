@@ -233,71 +233,6 @@ a rate of 2 new vessels per year.
 
 
 
-Rath Class Attack Cruiser
-construction_data = { }
-model =                Mk I
-date_entered_service :         4/7004
-hull_data = { }
-superstructure_points:         92
-damage_chart:                B
-cloaking_device_type:        RCI
-   power_requirements =        75
-crew = { }                         104
-Troops:                        20
-shuttlecraft =                 3
-Landing Capability:            Yes
-engines_and_power = { }
-total_power_units:   238
-movement_ratio:         5/1
-warp_engine = { }             RIWB-1
-   number:                   2
-   power_units:     64
-   cruising_speed:            7
-   emergency_speed:           9.975
-impulse_engine = { }         RIH-2
-   number:                   2
-   power_units:     55
-auxiliary_power =               24
-reserve_power =                12                                 
-Weapons and Firing Data:
-type:             RWW-I                           
-   number:                   12                              
-   firing_arcs:              4 f/p, 4 f/s                    
-   chart:                      Y
-   max_power : { }                10                              
-       plus3:                     (1-10)                            
-       plus2:                     (11-17)                         
-       plus1:                      (18-24)
-Missile Weapon Type:           RPL-4                           
-   number:                   8                               
-   firing_arcs:              4 f/p, 4 f/s                    
-   chart:                      Q
-   power_to_arm:              12                              
-   damage:                    RL-4                            
-shields = { }                                                 
-type:        RSS-M
-   shield_point_ratio:        1/6                             
-   max_shield_power:          22/side                            
-combat_efficiency_value =                                             
-Point Value:                   280                             
-
-
-As a tactical asset geared toward taking the fight to the enemy, the Rath-class 
-attack cruiser has few peers in any of the Alpha Quadrant fleets. No other vessel 
-of comparable size is able to match the Raths raw firepower or ability to consistently 
-deal out massive amounts of damage. Unfortunately for the Romulans, building only a 
-handful of these marvelous vessels nearly bankrupted their fleet procurement process.  
-The Rath is roughly twice the size of a Klingon B’rell-class scout, but devotes much 
-more space to crew accommodations and fuel storage. Her rapid fire RPL-4 plasma 
-torpedo array is unique to the class and occupies a pair of wing mounted exterior 
-pods near the dorsal wing roots. During the Dominion War, the Raths were used as 
-raiding vessels who acted in pairs against Dominion depots deep in enemy space. 
-Acting in concert, the duo would swoop into an enemy base, decloak and unleash a 
-withering volley of plasma weaponry. With the enemy thrown into chaos, the Raths 
-would either recloak and move on to the next target of opportunity or lurk nearby 
-until vulnerable rescue units moved into the area. Of the 8 Rath-class attack cruisers built, 
-6 remain in active service. One was destroyed, while the other, the Rehan, was 
-listed as lost, presumed destroyed after encountering an unclassified spacial rift near the Klingon Border.
 
 
 
@@ -326,74 +261,8 @@ listed as lost, presumed destroyed after encountering an unclassified spacial ri
 
 
 
-Algeron Class Battlecruiser
-construction_data = { }
-model =                Mk I
-date_entered_service :         4/7302
-Damage chart:                  B
-hull_data = { }
-superstructure_points:         90
-cloaking_device_type:        RCG
-   power_requirements =        48
-crew = { }                         700
-Troops:                        120
-shuttlecraft =                 14
-engines_and_power = { }
-total_power_units:   160
-movement_ratio:         5/1
-warp_engine = { }             RIWD-1B
-   number:                   2
-   power_units:     50
-   cruising_speed:            6
-   emergency_speed:           9.4
-impulse_engine = { }         RIG-5
-   number:                   2
-   power_units:     30                                 
-auxiliary_power =               16                              
-reserve_power =                8
-Weapons and Firing Data:
-                                                               
-type:             RWW-Y                           
-   number:                   12                              
-   firing_arcs:              2 f, 2 f/p, 2 f/s, 2 p/s, 4 a      
-   chart:                      Y
-   max_power : { }                12
-                                                               
-       plus3:                     (1-15)                          
-       plus2:                     (16-20)                         
-       plus1:                      (21-24)                         
-Missile Weapon Type:           RPL-5
-   number:                   2                               
-   firing_arcs:              2f                                 
-   chart:                      S                               
-   power_to_arm:              14                              
-   damage:                    RL-5
-Shields Data:
-                                                               
-type:        RSS-2                           
-   shield_point_ratio:        1/5                             
-   max_shield_power:          25/side                            
-Combat Efficiency:
-Point Value:                   187
-                                                               
 
-The Algeron-class cruiser’s design is clearly inspired by a fusion of the Pyre and Warbird-class vessels, 
-and greatly expands on the capabilities of both of those vessel types. At barely half the length of a Warbird,
-the Algeron is still an imposing vessel with a good blend of offensive firepower and defensive staying power. 
-Her shields are of a slightly less efficient type that what is in general use at this time, but are sufficient 
-for the class’ needs. In the field, the Algeron makes a fine surveyor and explorer, an aspect of vessel 
-design that the Romulan fleet has let fall by the wayside in recent years. At the very least, 
-the Algeron is one of the longest ranged vessels in their fleet and sports a number of special machine shops 
-capable of turning out parts that can keep the Algeron’s on the go for years at a time. While engaged in 
-combat operations, these facilities can become invaluable to other vessels seeking her service in an 
-attempt to press home the fight without wasting time in a drydock. In an effort to exploit her 
-exploration capability, the Algeron sports a unique docking system that allows a Vastam-class scout to 
-attach to the underside of the mothership between the warp nacelles. In this manner, on a long mission 
-Vastam crews can enjoy the facilities of the Algeron, refuel and perform maintenance. On the flip side, 
-the parent vessel can utilize the Vastam as an advance scout in unexplored regions or send her into 
-areas where she would dare not go. Of the 24 Algeron-class cruisers built to date, 18 are in active 
-service. Six have been destroyed in the line of duty. Production of the Algeron continues 
-at a rate of two new vessels per year                                                   
+                                                 
 
 
 
