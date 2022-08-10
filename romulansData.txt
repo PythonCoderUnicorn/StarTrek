@@ -870,38 +870,69 @@ Impulse Engine Type:           RIH-1
    Power Units Available:      50
 Auxiliary Power:               14
 Reserve Power:                 7
-Weapons and Firing Data:                                   The Hathos-class cruiser was a modest attempt to improve upon the disappointing
-Beam Weapon Type:              RWW-I                    Pyre-class and give the fleet a supplementary cruiser while the new generation of
+Weapons and Firing Data:                                   
+Beam Weapon Type:              RWW-I                    
    Number:                     8
    Firing Arcs:                4 f, 2 p/a, 2 s/a
-                                                        D’deridex-class warbirds came on line. In this role the Hathos can be said to be slightly
-   Chart                       Y                        more successful than her predecessor, but only slightly so. The Hathos has the
-   Max Power:                  10                       advantage of a modern torpedo type and decent disruptors, but on the whole lacks the
+                                                        
+   Chart                       Y                        
+   Max Power:                  10                       
        +3                      (1-10)
        +2                      (11-17)
-                                                        power or rate of fire to be a truly devastating weapons platform. It is difficult to find any
-       +1                      (18-24)                  other praise for a class that can barely stand against Starfleet’s second line starships.
-Missile Weapon Type:           RTA-S                    However, the Hathos is simple to build and maintain and does have its supporters within
+                                                        
+       +1                      (18-24)                  
+Missile Weapon Type:           RTA-S                    
    Number:                     10
    Firing Arcs:                4 f/p/s, 2 p, 2 s, 2 a
-                                                        the Empire.
-   Chart                       S                           In 2377 the whole class was pulled from service for a period of three months after the
-   Power to Arm:               1                        warship Klaskar mysteriously blew up while on a high warp run from Corellia Prime to
+                                                        
+   Chart                       S                           
+   Power to Arm:               1                        
    Damage:                     10
 Missile Weapon Type:           RPL-3
-                                                        Romulus. A detailed analysis of her warp core assembly revealed serious manufacturing
-   Number:                     1                        defects that necessitated the scrapping of three other vessels of the class. The Klaskar
-   Firing Arcs:                1f                       and the three other ships had been built together at the same yard nine years previously
+                                                        
+   Number:                     1                        
+   Firing Arcs:                1f                       
    Chart                       T
    Power to Arm:               8
-                                                        and received defective parts from the same supplier.
-   Damage:                     RL-3                        Of the 50 Hathos-class cruisers built, 35 remain in active service. Seven have been
-Shields Data:                                           destroyed, 4 have been scrapped, and 4 have defected to the Romulan Free States.
-Deflector Shield Type:         RSP-A                    Production of the class ended in 2372 after a short ten-year production run.
+                                                        
+   Damage:                     RL-3                        
+Shields Data:                                           
+Deflector Shield Type:         RSP-A                    
    Shield Point Ratio:         1/4
    Max Shield Power:           20/side
 Combat Efficiency:
 Point Value:                   142
+
+
+
+
+
+The Hathos-class cruiser was a modest attempt to improve upon the disappointing 
+Pyre-class and give the fleet a supplementary cruiser while the new generation of
+D’deridex-class warbirds came on line. In this role the Hathos can be said to be slightly
+more successful than her predecessor, but only slightly so. The Hathos has the
+advantage of a modern torpedo type and decent disruptors, but on the whole lacks the
+power or rate of fire to be a truly devastating weapons platform. It is difficult to find any
+other praise for a class that can barely stand against Starfleet’s second line starships.
+However, the Hathos is simple to build and maintain and does have its supporters within the Empire.
+In 2377 the whole class was pulled from service for a period of three months after the
+warship Klaskar mysteriously blew up while on a high warp run from Corellia Prime to
+Romulus. A detailed analysis of her warp core assembly revealed serious manufacturing
+defects that necessitated the scrapping of three other vessels of the class. The Klaskar
+and the three other ships had been built together at the same yard nine years previously
+and received defective parts from the same supplier.
+Of the 50 Hathos-class cruisers built, 35 remain in active service. Seven have been
+destroyed, 4 have been scrapped, and 4 have defected to the Romulan Free States.
+Production of the class ended in 2372 after a short ten-year production run.
+
+
+
+
+
+
+
+
+
 
 
 
