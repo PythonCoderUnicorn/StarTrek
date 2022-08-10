@@ -1025,57 +1025,118 @@ Hull Data:
 Superstructure Points:         70             76             82
 Damage Chart:                  B              B              B
 Size:
-   Length:                     372 m          370 m          372 m             For years after their introduction to fleet service, the
-  Width:                       177 m          177 m          177 m          Manukar-class destroyer was considered to be a pariah, the
-  Height:                      90 m           90 m           90 m           luckless class that no self-respecting officer would serve
-Transporters:                                                               aboard and no fleet commander wished to take into battle.
-   Standard Six Person-        5              5              5              Early models were riddled with mainten298387ance issues and
-   Combat 10 Person-           3              3              3              were considered to be disturbingly underpowered in most
-   Cargo, small-               2              2              2              circles. Though she was intended to replace the T-10
-   Cargo, large-               2              2              2              destroyer of nearly a half-century before, it would be many
-Cloaking Device Type:          RCE            RCE            RCE            years before the Mandukar-class could be an accepted part
-   Power Requirements:         38             38             38             of the fleet.
-Crew:                          65 Officers    65 Officers    65 Officers       From the outset, the class was designed around a
-                               305 Enlisted   305 Enlisted   305 Enlisted   withering volley of six forward mounted RPL-3 plasma
-Passengers:                    20             20             20             weapons. Without question, this battery of fire had no equal
-Evacuation Limit               4,000          4,000          4,000          anywhere in the Alpha or Beta quadrants, and early
-Shuttlecraft:                  3              3              3              intelligence estimates were alarming to say the least.
-Engines and Power Data:                                                     However, the Mandukar proved to be more of a paper tiger,
-Total Power Units Available:   98             145            156            as it lacked to power all six of her primary weapons and her
-Movement/Point Ratio:          4/1            4/1            4/1            other primary tactical systems simultaneously. The Mandy
-Warp Engine Type:              RIWA-1         RIWD-1B        RIWD-1B        (as she became known) was still a devastating weapons
-  Number:                      2              2              2              platform, but it wouldn’t take long for opposing powers to
-  Power Units Available:       35             50             50             develop tactics to counter the threat she posed.
-  Cruising Speed:              6              6.5            6.5               Later models of the class focused on increasing the
-  Emergency Speed:             8.5            9.3            9.4            vessel’s available power output and experimented with
-Impulse Engine Type:           RIF-3          RIG-7          RIF-3          newer weapons systems. The B model (code named
-  Number:                      1              1              2              Mandelar) introduced in the 2350s has very little in common
-  Power Units Available:       28             45             28             with the initial batch of Mandukars and abandons the RPL-
-Auxiliary Power:               10             14             16             3s in favor of a massive compliment of photon torpedoes.
-Reserve Power:                 5              7              8              The C type (code name Majyk) of the mid-2360s returned to
-Weapons and Firing Data:                                                    the plasma weapon array, but now possessed the power
-Beam Weapon Type:              RB-11          RWW-I          RWW-Y          reserves to pose a formidable threat against enemy capital
-  Number:                      8              8              8              ships. In fact, they type C Mandukar is the most well armed
-  Firing Arcs:                 2 f, 2 f/p,    4 f/p, 4 f/s   2 f, 2 f/p,    destroyer or fleet support vessel in service anywhere, a
-                               2 f/s, 2 a                    2 f/s, 2 a     point of pride for her elite crews.
-  Chart                        V              Y              Y                 Of the 54 type A Mandukar-class destroyers produced
-  Max Power:                   9              10             10             between 2340 and 2366, 40 are still in service. Seven were
-     +3                        (1-10)         (1-10)         (1-10)         destroyed in the line of duty, two are listed as lost, presumed
-     +2                        (11-16)        (11-17)        (11-17)        destroyed, and five have defected to the Romulan Free
-     +1                        (17-21)        (18-24)        (18-24)        States.
-Missile Weapon Type:           RPL-3          RTA-S          RPL-3             Of the 64 type B Manukar-class destroyers constructed to
-  Number:                      6              12             6              date, 56 are still in service. Three were destroyed in the line
-  Firing Arcs:                 6 f/p/s        4 f, 2 f/p,    6 f/p/s        of duty, one was scrapped, one is listed as lost, presumed
-                                              2 f/s, 4 a                    destroyed, and three have defected to the RFS. Production
-  Chart                        T              S              T              continues at a rate of two new vessels per year, though that
-  Power to Arm:                8              1              8              is expected to cease in the next two years.
-  Damage:                      RL-3           10             RL-3              Of the 38 type C Mandukar-class destroyers built, all
-Shields Data:                                                               remain in active service. Production continues at four new
-Deflector Shield Type:         RSP-1          RSM-5          RSS-2          units per year.
+   Length:                     372 m          370 m          372 m             
+  Width:                       177 m          177 m          177 m          
+  Height:                      90 m           90 m           90 m           
+Transporters:                                                               
+   Standard Six Person-        5              5              5              
+   Combat 10 Person-           3              3              3              
+   Cargo, small-               2              2              2              
+   Cargo, large-               2              2              2              
+Cloaking Device Type:          RCE            RCE            RCE            
+   Power Requirements:         38             38             38            
+Crew:                          65 Officers    65 Officers    65 Officers       
+                               305 Enlisted   305 Enlisted   305 Enlisted   
+Passengers:                    20             20             20             
+Evacuation Limit               4,000          4,000          4,000          
+Shuttlecraft:                  3              3              3              
+Engines and Power Data:                                                     
+Total Power Units Available:   98             145            156            
+Movement/Point Ratio:          4/1            4/1            4/1            
+Warp Engine Type:              RIWA-1         RIWD-1B        RIWD-1B        
+  Number:                      2              2              2              
+  Power Units Available:       35             50             50             
+  Cruising Speed:              6              6.5            6.5               
+  Emergency Speed:             8.5            9.3            9.4            
+Impulse Engine Type:           RIF-3          RIG-7          RIF-3          
+  Number:                      1              1              2              
+  Power Units Available:       28             45             28             
+Auxiliary Power:               10             14             16             
+Reserve Power:                 5              7              8              
+Weapons and Firing Data:                                                    
+Beam Weapon Type:              RB-11          RWW-I          RWW-Y          
+  Number:                      8              8              8              
+  Firing Arcs:                 2 f, 2 f/p,    4 f/p, 4 f/s   2 f, 2 f/p,    
+                               2 f/s, 2 a                    2 f/s, 2 a     
+  Chart                        V              Y              Y                 
+  Max Power:                   9              10             10             
+     +3                        (1-10)         (1-10)         (1-10)         
+     +2                        (11-16)        (11-17)        (11-17)        
+     +1                        (17-21)        (18-24)        (18-24)        
+Missile Weapon Type:           RPL-3          RTA-S          RPL-3             
+  Number:                      6              12             6              
+  Firing Arcs:                 6 f/p/s        4 f, 2 f/p,    6 f/p/s        
+                                              2 f/s, 4 a                    
+  Chart                        T              S              T              
+  Power to Arm:                8              1              8              
+  Damage:                      RL-3           10             RL-3              
+Shields Data:                                                               
+Deflector Shield Type:         RSP-1          RSM-5          RSS-2          
   Shield Point Ratio:          1/4            1/5            1/5
   Max Shield Power:            18/side        20/side        25/side
 Combat Efficiency
 Point Value:                   136            165            195
+
+
+
+
+
+For years after their introduction to fleet service, the
+Manukar-class destroyer was considered to be a pariah, the
+luckless class that no self-respecting officer would serve
+aboard and no fleet commander wished to take into battle.
+Early models were riddled with mainten298387ance issues and
+were considered to be disturbingly underpowered in most
+circles. Though she was intended to replace the T-10
+destroyer of nearly a half-century before, it would be many
+years before the Mandukar-class could be an accepted part of the fleet.
+
+From the outset, the class was designed around a
+withering volley of six forward mounted RPL-3 plasma
+weapons. Without question, this battery of fire had no equal
+anywhere in the Alpha or Beta quadrants, and early
+intelligence estimates were alarming to say the least.
+However, the Mandukar proved to be more of a paper tiger,
+as it lacked to power all six of her primary weapons and her
+other primary tactical systems simultaneously. The Mandy
+(as she became known) was still a devastating weapons
+platform, but it wouldn’t take long for opposing powers to
+develop tactics to counter the threat she posed.
+
+Later models of the class focused on increasing the
+vessel’s available power output and experimented with
+newer weapons systems. The B model (code named Mandelar) 
+introduced in the 2350s has very little in common
+with the initial batch of Mandukars and abandons the RPL-
+3s in favor of a massive compliment of photon torpedoes.
+The C type (code name Majyk) of the mid-2360s returned to
+the plasma weapon array, but now possessed the power
+reserves to pose a formidable threat against enemy capital
+ships. In fact, they type C Mandukar is the most well armed
+destroyer or fleet support vessel in service anywhere, a
+point of pride for her elite crews.
+
+Of the 54 type A Mandukar-class destroyers produced
+between 2340 and 2366, 40 are still in service. Seven were
+destroyed in the line of duty, two are listed as lost, presumed
+destroyed, and five have defected to the Romulan Free States.
+
+Of the 64 type B Manukar-class destroyers constructed to
+date, 56 are still in service. Three were destroyed in the line
+of duty, one was scrapped, one is listed as lost, presumed
+destroyed, and three have defected to the RFS. Production
+continues at a rate of two new vessels per year, though that
+is expected to cease in the next two years.
+Of the 38 type C Mandukar-class destroyers built, all
+remain in active service. Production continues at four new units per year.
+
+
+
+
+
+
+
+
 
 
 
