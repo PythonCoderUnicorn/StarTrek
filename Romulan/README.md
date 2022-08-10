@@ -27,4 +27,4 @@ Rules and Klingon Ship Statistics compiled by:
 ## Battlecruiser 
 
 - Pyre Class
-- Nove Class
+- Nova Class
