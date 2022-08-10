@@ -78,11 +78,11 @@ class Bloodhawk {
         },
 
         {
-            missle_type: 'RTA-S',
-            number: 8,
-            firing_arcs: ['6 f/p/s, 2 a'], // '10 f/p/s, 10 a '
+            missle_type: 'RTS-S',
+            number: 12,
+            firing_arcs: ['6 f/p/s, 4 a'], // '10 f/p/s, 10 a '
             chart: 'S',
-            power_to_arm: 10,
+            power_to_arm: 1,
             damage: 10
         }
 
@@ -95,6 +95,6 @@ class Bloodhawk {
         max_shield_power: 25
     }
  
-    combat_efficiency_value = 177
+    combat_efficiency_value = 189
 
 }
