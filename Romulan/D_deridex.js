@@ -82,7 +82,7 @@ class D_Deridex {
             missle_type: 'RTA-S',
             number: 20,
             firing_arcs: ['10 f/p/s, 10 a '],
-            chart: 5,
+            chart: 'S',
             power_to_arm: 1,
             damage: 10
         }
