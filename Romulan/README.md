@@ -23,3 +23,8 @@ Rules and Klingon Ship Statistics compiled by:
 - Decius
 - Terex
 
+
+## Battlecruiser 
+
+- Pyre Class
+- Nove Class
