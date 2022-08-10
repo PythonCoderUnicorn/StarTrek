@@ -74,7 +74,7 @@ class Leviathan {
                 base: 10,
                 plus3: (1-10),
                 plus2: (11-17),
-                plus1:+(18-24) 
+                plus1: (18-24) 
             }
         },
 

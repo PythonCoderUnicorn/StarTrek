@@ -74,7 +74,7 @@ class D_Deridex {
                 base: 12,
                 plus3: (1-15),
                 plus2: (16-20),
-                plus1:+(21-24) 
+                plus1: (21-24) 
             }
         },
 

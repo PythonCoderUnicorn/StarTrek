@@ -73,7 +73,7 @@ class Sparrowhawk {
                 base: 25,
                 plus3: (1-10),
                 plus2: (11-17),
-                plus1:+(18-22) 
+                plus1: (18-22) 
             }
         },
 

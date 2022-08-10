@@ -1,16 +1,15 @@
 
-
-class Kamarak {
+class Bloodhawk {
 
     construction_data = {
-        series_designation: "Karamarak",
-        model: 'F',
-        date_entered_service : '4/7503',
+        series_designation: "Bloodhawk",
+        model: 'H',
+        date_entered_service : '4/7701',
     }
 
 
     hull_data = {
-        superstructure_points: 125,
+        superstructure_points: 135,
         damage_chart: 'B',
         length_m: 1041,
         width_m: 772,
@@ -42,48 +41,48 @@ class Kamarak {
   
 
     engines_and_power = {
-        total_power_units:   218 ,
+        total_power_units:   160 ,
         movement_ratio: '6:1' 
     }
 
     warp_engine = {
-        type: 'RIWB-1',
+        type: 'RIWD-1B',
         number: 2, 
-        power_units: 64, 
+        power_units: 50, 
         cruising_speed: 6,
-        emergency_speed: 9.4  
+        emergency_speed: 9
     }
 
     impulse_engine = {
-        type: 'RIG-7',
+        type: 'RIG-5',
         number: 2, 
-        power_units: 45 
+        power_units: 30 
     }
 
-    auxiliary_power = 22 
-    reserve_power = 11 
+    auxiliary_power = 16 
+    reserve_power = 8
 
     weapons = [
         {
             type: 'Beam Weapon',
-            id: 'RWW-Y', 
-            number: 14, 
-            firing_arcs: ['4 f, 4 p/s, 4 f/p/s, 2 a'], // ,   '4 f/p/s, 2 a'
+            id: 'RWW-I', 
+            number: 12, 
+            firing_arcs: ['6 f, 4 p/s,  2 a'], // ,   '4 f/p/s, 2 a'
             chart: 'Y',  
             max_power: {
-                base: 12,
-                plus3: (1-15),
-                plus2: (16-20),
-                plus1: (21-24) 
+                base: 10,
+                plus3: (1-10),
+                plus2: (11-17),
+                plus1: (18-24) 
             }
         },
 
         {
             missle_type: 'RTA-S',
-            number: 24,
-            firing_arcs: ['12 f/p/s, 12a'], // '10 f/p/s, 10 a '
+            number: 8,
+            firing_arcs: ['6 f/p/s, 2 a'], // '10 f/p/s, 10 a '
             chart: 'S',
-            power_to_arm: 1,
+            power_to_arm: 10,
             damage: 10
         }
 
@@ -91,11 +90,11 @@ class Kamarak {
 
     shields = {
         type: 'Deflector',      
-        id: 'RSR-1',
-        shield_point_ratio: '1/7',   
-        max_shield_power: 28
+        id: 'RSS-2',
+        shield_point_ratio: '1/5',   
+        max_shield_power: 25
     }
  
-    combat_efficiency_value = 261
+    combat_efficiency_value = 177
 
 }
