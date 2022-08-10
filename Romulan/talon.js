@@ -96,6 +96,6 @@ class Talon {
         max_shield_power: 22
     }
  
-    combat_ffficiency_value = 205 
+    combat_efficiency_value = 205 
 
 }
