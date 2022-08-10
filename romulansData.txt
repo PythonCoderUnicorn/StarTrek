@@ -958,33 +958,51 @@ Impulse Engine Type:           RIH-1
    Number:                     2
    Power Units Available:      50
 Auxiliary Power:               20
-Reserve Power:                 10                          During the 2360s, the Romulans had been accused of being one-trick-ponies, a power
+Reserve Power:                 10                          
 Weapons and Firing Data:
 Beam Weapon Type:              RPW-I
-                                                        that had produced only one truly exceptional warship design in decades. The Kesix
-   Number:                     18                       finally makes up for that, and has been regarded as one of the finest cruisers fielded by
-   Firing Arcs:                9 f/p, 9 f/s             the Romulan Navy in decades. This rugged and much loved vessel is built to blaze a
+                                                        
+   Number:                     18                       
+   Firing Arcs:                9 f/p, 9 f/s             
    Chart                       X
    Max Power:                  7
-                                                        trail before the fleet’s main body and is a symbol of Romulan technical prowess.
-       +3                      (1-10)                      The Kesix is literally built around a pair of massive RPL-5 plasma weapons, a one-two
-       +2                      (11-17)                  knockout punch that is the envy of many fleets. Her forward mounted plasma cannons
+                                                        
+       +3                      (1-10)                      
+       +2                      (11-17)                  
        +1                      (18-22)
 Missile Weapon Type:           RPL-5
-                                                        are a massive improvement upon the old RPW-G type and have finally given credence to
-   Number:                     2                        the design. Her top speed of warp 9.6 is moderately faster than the official fleet speed of
-   Firing Arcs:                2f                       warp 9.4 and has gotten ships of the class clear of danger on more than one occasion.
+                                                        
+   Number:                     2                        
+   Firing Arcs:                2f                       
    Chart                       S
    Power to Arm:               14
-                                                        Her sensor suite is easily the finest in the Empire, and the Romulans have taken to using
-   Damage:                     RL-5                     the Kesixs as heavy scouts when the use of smaller vessels may prove to be
-Shields Data:                                           inappropriate.
+                                                        
+   Damage:                     RL-5                     
+Shields Data:                                           
 Deflector Shield Type:         RSS-M
    Shield Point Ratio:         1/6
-                                                           Of the 18 Kesix-class cruises built, all remain in service. Construction of the class
-   Max Shield Power:           22                       continues at a rate of three vessels per year.
+                                                           
+   Max Shield Power:           22                       
 Combat Efficiency:
 Point Value:                   225
+
+
+
+
+
+During the 2360s, the Romulans had been accused of being one-trick-ponies, a power
+that had produced only one truly exceptional warship design in decades. The Kesix
+finally makes up for that, and has been regarded as one of the finest cruisers fielded by
+the Romulan Navy in decades. This rugged and much loved vessel is built to blaze a
+trail before the fleet’s main body and is a symbol of Romulan technical prowess.
+The Kesix is literally built around a pair of massive RPL-5 plasma weapons, a one-two
+knockout punch that is the envy of many fleets. Her forward mounted plasma cannons
+are a massive improvement upon the old RPW-G type and have finally given credence to
+the design. Her top speed of warp 9.6 is moderately faster than the official fleet speed of
+warp 9.4 and has gotten ships of the class clear of danger on more than one occasion.
+Her sensor suite is easily the finest in the Empire, and the Romulans have taken to using
+the Kesixs as heavy scouts when the use of smaller vessels may prove to be inappropriate.
+Of the 18 Kesix-class cruises built, all remain in service. Construction of the class continues at a rate of three vessels per year.
 
 
 
