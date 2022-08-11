@@ -111,18 +111,24 @@ shields were almost secondary to bringing her computer systems,
 sensors and crew support facilities up to modern specifications. The 
 Leviathan has since become the second most prolific type of Warbird
 next to the D’deridex and serves as the backbone of their fleet.
+
+
 The H type Bloodhawk was developed with the Leviathan as a
 dedicated intelligence asset. Great care went into improving her
 cloaking performance and increasing her uncloaked sensor return. Like  
 the Peregrine, the Bloodhawk was a fine warship but was much more
 difficult to field and was quickly pulled from production. Naturally, only
 the most loyal crews are chosen for service aboard the Bloodhawks.
+
+
 The I type Raptor was a spirited attempt to add a massive set of 
 plasma torpedoes to the class at the expense of several other systems.
 Her shields and disruptor systems are adequate for the job, but the class
 was not all it was hoped it would be. Plans exist to refit the six remaining
 vessels of the type as dedicated command and control ships, though this
 has as yet failed to take place.
+
+
 The J type Decius is the second attempt to upgrade the aging
 D’deridex, and in this it has been more of a success than the Kamarak.
 Great care was taken in improving her fields of fire and shield systems
@@ -130,8 +136,11 @@ while a 35% increase in structural integrity has built a greater degree of
 resiliency into the hull. The end result was a vessel that had finally
 outstripped the D’deridex as a front line combatant. However, both  
 types are still in production with talk of upgrading the existing B type
-D’deridexs to the J standard in the next ten years. If this plan comes to
-pass, the Romulans will plan to do so at a rate of four units per year, just as they did with the Leviathans.
+D’deridexs to the J standard in the next ten years. 
+
+
+If this plan comes to pass, the Romulans will plan to do so at a rate of four units per year, 
+just as they did with the Leviathans.
 The K type Terex is a massively complex and over gunned upgrade of  
 the Decius class and is currently the most powerful ship type in the  
 Romulan inventory. However, the class has been slow to reach fleet
@@ -143,50 +152,47 @@ that the class may give way to an even more powerful L type Avatar
 class in the next few years, though these rumors are unconfirmed. If
 true, the Romulans may finally be poised to shift the balance of power in
 their favor along the Neutral Zone.
+
+
+
 Of the 80 A type Warbirds produced, none remain in active service.
 Thirty were refit to type G specifications, 27 were destroyed, four are
 reported missing, presumed destroyed, 7 were scrapped, two are in the
 Imperial Naval Training Command, two have been sold to private
 interests within the Empire, 1 is in reserve status and one, the Tomed,
 was captured by the Federation on stardate 4/7510. 7 have been
-captured by or defected to the Romulan Free States. The A type is no
-longer in production and was discontinued in 2372.  
-Of the 82 type B D’Deridex-class warbirds produced, 42 remain in
-active service. 34 have been destroyed, 5 have been scrapped and 1 is  
-listed as missing, presumed lost. The type B is still in production at a
-rate of 2 new units per year. 
-Of the 37 type C Talon-class warbirds built, 9 remain in active service.
-25 have been destroyed and three were scrapped. This type of warbird
-is no longer being produced. 
-Of the 15 type D Sparrowhawk-class warbirds built, 7 remain in active
-service. 5 have been destroyed, two are listed as lost, presumed  
-destroyed and one has been captured by the Romulan Free States. The
-Sparrowhawk is no longer in production and was discontinued in 2379.
-Of the 19 E type Peregrine-class warbirds built, 8 remain in active
-service. 8 have been destroyed, 1 is listed as missing, presumed lost,
-one has been scrapped and one, the Pi’kaht was captured by Starfleet
-on stardate 4/8002. The Peregrines are no longer in production and
+captured by or defected to the Romulan Free States. 
+
+
+- The A type is no longer in production and was discontinued in 2372. 
+   
+- Of the 82 type B D’Deridex-class warbirds produced, 42 remain in active service. 34 have been destroyed, 5 have been scrapped and 1 is listed as missing, presumed lost. 
+  
+- The type B is still in production at a rate of 2 new units per year. 
+  
+- Of the 37 type C Talon-class warbirds built, 9 remain in active service. 25 have been destroyed and three were scrapped. This type of warbird is no longer being produced. 
+  
+- Of the 15 type D Sparrowhawk-class warbirds built, 7 remain in active service. 5 have been destroyed, two are listed as lost, presumed  
+destroyed and one has been captured by the Romulan Free States. The Sparrowhawk is no longer in production and was discontinued in 2379.
+
+- Of the 19 E type Peregrine-class warbirds built, 8 remain in active service. 8 have been destroyed, 1 is listed as missing, presumed lost,
+one has been scrapped and one, the Pi’kaht was captured by Starfleet on stardate 4/8002. The Peregrines are no longer in production and
 were discontinued in 2379. 
-Of the 20 F type Kamarak-class warbirds built, 15 remain in active 
-service. Five have been destroyed. The F type warbird is still produced
-at a rate of two new vessels per year.    
-Of the 42 G type Leviathan-class warbirds placed in service, twelve
-were built specifically as that class and 30 were refit from type A
-Warbirds. 34 remain in active service while 6 have been destroyed, 1
-was scrapped and Starfleet captured one, the Rimnak, shortly after its
+
+- Of the 20 F type Kamarak-class warbirds built, 15 remain in active  service. Five have been destroyed. The F type warbird is still produced at a rate of two new vessels per year.   
+
+- Of the 42 G type Leviathan-class warbirds placed in service, twelve were built specifically as that class and 30 were refit from type A
+Warbirds. 34 remain in active service while 6 have been destroyed, 1 was scrapped and Starfleet captured one, the Rimnak, shortly after its
 construction in 2378. Production of the class was discontinued in 2378.
-Of the 10 H type Bloodhawk-class warbirds built, 7 remain in active
-service. 2 have been destroyed and one is listed as lost, presumed
-destroyed. The Bloodhawk is no longer in production and building was  
-suspended in 2379. 
-Of the 10 I type Raptor-class warbirds built, six remain in service and
-four have been destroyed. Production of the class ended in 2379.
-Of the 21 J type Decius-class warbirds constructed, 20 remain in
-active service with one listed as destroyed. The Decius remains in
-production at a rate of 2 new vessels per year.
-Of the 17 K type Terex-class warbirds built, 16 remain in active
-service with one listed as destroyed. The Terex remains in production at
-a rate of 2 new vessels per year.
+
+- Of the 10 H type Bloodhawk-class warbirds built, 7 remain in active service. 2 have been destroyed and one is listed as lost, presumed
+destroyed. The Bloodhawk is no longer in production and building was suspended in 2379. 
+
+- Of the 10 I type Raptor-class warbirds built, six remain in service and four have been destroyed. Production of the class ended in 2379.
+
+- Of the 21 J type Decius-class warbirds constructed, 20 remain in active service with one listed as destroyed. The Decius remains in production at a rate of 2 new vessels per year.
+  
+- Of the 17 K type Terex-class warbirds built, 16 remain in active service with one listed as destroyed. The Terex remains in production at a rate of 2 new vessels per year.
 
 
 
