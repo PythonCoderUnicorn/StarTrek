@@ -156,3 +156,32 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 75492, Cherokee,Cheyenne, superscout, "Alfras Fleet Yards, Deneb V ", February 2368  ,  November 2370  ,  May 2371    ,     Active
 76129, Zuni ,Cheyenne, superscout, "Newport News Fleet Yards, Earth",    July 2369  , April 2372 ,September 2372 , Active
 77237 , Mohican,Cheyenne, superscout,  "Utopia Planitia Fleet Yards, Mars", August 2370 ,May 2373 , December 2373, Active
+60247, Saber, saber, escort,  "Avondale Group, Ferrata Docks, Rigellium, Rigel II",  November 2341 , April 2344,  August 2344 , Active
+60436 ,Cutlass ,saber, escort, "Avondale Group, Ferrata Docks, Rigellium, Rigel II",  November 2341 , April 2344,  August 2344 , Active
+60438,Scimitar,saber, escort,  "Avondale Group, Ferrata Docks, Rigellium, Rigel II",  November 2341 ,April 2344 , August 2344 , Active
+60522, Katana ,saber, escort,  "Utopia Planitia Fleet Yards, Mars ",  December 2341  , April 2344      , August 2344   ,   Active
+60873 , Pike ,saber, escort,   "Seskon Trella, Chagala, Tellar  ",    January 2342  ,  May 2344     ,    September 2344  , Active
+61481 , Halberd ,saber, escort,  "Spacedock, San Francisco, Earth ",   February 2342 ,  May 2344     ,    October 2344   ,  Lost
+61622,Spear ,saber, escort,  "Seskon Trella, Chagala, Tellar  ",   March 2342  ,    June 2344    ,    November 2344  ,  Active
+61873 ,Warhammer ,saber, escort,"Utopia Planitia Fleet Yards, Mars ",  May 2342    ,    August 2344   ,   January 2345 ,    Active
+61874,Khopesh,saber, escort, "Utopia Planitia Fleet Yards, Mars ", May 2342   ,     August 2344    ,  January 2345   ,  Active
+61945, Reaver,saber, escort, "Chandley Works, Caravalia, Mars ",   June 2342    ,   August 2344  ,    February 2345   , Active
+61947,Yeager ,saber, escort,  "Chandley Works, Caravalia, Mars ",  June 2342   ,    September 2344  , February 2345 ,   Lost
+63225 ,Broadsword ,saber, escort,  "Utopia Planitia Fleet Yards, Mars ",  March 2343 , August 2345  ,December 2345  , Active
+63249,Longsword,saber, escort,  "Utopia Planitia Fleet Yards, Mars ",   March 2343 , August 2345  ,December 2345  , Active
+63255, Knife,saber, escort, "Utopia Planitia Fleet Yards, Mars ",  March 2343 , August 2345  ,December 2345  , Active
+63261 ,Dagger ,saber, escort,  "Utopia Planitia Fleet Yards, Mars ",  March 2343 , August 2345  ,December 2345  , Active
+63279,Bayonet , saber, escort, "Utopia Planitia Fleet Yards, Mars ", March 2343 , August 2345 , December 2345   , Lost
+63361 ,Rapier  ,saber, escort,  "Chandley Works, Caravalia, Mars ",  March 2343 , August 2345  ,December 2345  , Active
+63362 ,Edwards,saber, escort, "Chandley Works, Caravalia, Mars ",  April 2343   ,   September 2345  , January 2346    , Active
+63363 ,Crossbow ,saber, escort, "Chandley Works, Caravalia, Mars ", April 2343   ,   September 2345  , January 2346  ,  Active
+63637, Stiletto ,saber, escort, "Chandley Works, Caravalia, Mars ", May 2343    ,    October 2345   ,  February 2346   , Active
+63638, Arquebus,saber, escort, "Chandley Works, Caravalia, Mars ",   May 2343    ,    October 2345   ,  February 2346  ,  Active
+64784 ,Lance,saber, escort, "Shor Ta’kel, Central Docks, 40 Eridani ",  November 2343  , March 2346   ,    July 2346 ,       Lost
+64785,White,saber, escort,  "Shor Ta’kel, Central Docks, 40 Eridani ",November 2343  , March 2346    ,   July 2346    ,    Active
+64786 ,Polearm ,saber, escort, "Shor Ta’kel, Central Docks, 40 Eridani ",  November 2343  , March 2346   ,    July 2346    ,    Active
+64787,Javelin ,saber, escort, "Shor Ta’kel, Central Docks, 40 Eridani ", November 2343  , March 2346    ,   July 2346   ,     Active
+66248 , Quarterstaff,saber, escort, "Hakon Yards, Galena ",  April 2345  ,    August 2347  ,    December 2347  ,  Lost
+66249,Sickle,saber, escort, "Hakon Yards, Galena ", May 2345     ,   August 2347  ,    December 2347   , Active
+66250 , Claymore ,saber, escort,  "Hakon Yards, Galena ", May 2345    ,    August 2347    ,  December 2347  ,  Active
+66251 ,Battleaxe ,saber, escort,  "Hakon Yards, Galena ",  May 2345     ,   September 2347  , January 2348  ,   Active

@@ -392,11 +392,6 @@ harmonize the warp fields generated. The primary hull bears a striking resemblan
 the Galaxy Class, though it is much smaller. Someone serving on a Constellation would marvel            Conclusion: The problems with the Cheyenne Class are similar to those with the Constellation
 at the new staterooms aboard the Cheyenne. The wide elliptical primary hull allows room size            and seem to prove that two nacelles are, in general, the best way to go. Those problems aside,
 
-20 SUPERSCOUTS: “CHEYENNE” CLASS
-
-Number             Name                Builder                                              Laid Down        Launched         Commissioned     Status
-
-
 
 
 the Cheyenne Class has performed well, much
@@ -424,6 +419,14 @@ Complement:                50          Officers                                 
                            250         Enlisted Crew                                                              AL2 Life Support System
                            0           Passengers (Normal – Up to 100 maximum)                                              (System Contractor: A’Alakon Landiss, Divallax, Andor)
                            300         Total Crew (Standard)
+
+
+
+
+
+
+
+
 
 
 
@@ -465,35 +468,17 @@ Design: The Saber Class is one of the smallest vessels in general Fleet service.
 
 Number               Name                 Builder                                              Laid Down       Launched         Commissioned     Status
 
-NCC-60247            Saber                Avondale Group, Ferrata Docks, Rigellium, Rigel II   November 2341   April 2344       August 2344      Active
-NCC-60436            Cutlass              Avondale Group, Ferrata Docks, Rigellium, Rigel II   November 2341   April 2344       August 2344      Active
-NCC-60438            Scimitar             Avondale Group, Ferrata Docks, Rigellium, Rigel II   November 234!   April 2344       August 2344      Active
-NCC-60522            Katana               Utopia Planitia Fleet Yards, Mars                    December 2341   April 2344       August 2344      Active
-NCC-60873            Pike                 Seskon Trella, Chagala, Tellar                       January 2342    May 2344         September 2344   Active
-NCC-61481            Halberd              Spacedock, San Francisco, Earth                      February 2342   May 2344         October 2344     Lost
-NCC-61622            Spear                Seskon Trella, Chagala, Tellar                       March 2342      June 2344        November 2344    Active
-NCC-61873            Warhammer            Utopia Planitia Fleet Yards, Mars                    May 2342        August 2344      January 2345     Active
-NCC-61874            Khopesh              Utopia Planitia Fleet Yards, Mars                    May 2342        August 2344      January 2345     Active
-NCC-61945            Reaver               Chandley Works, Caravalia, Mars                      June 2342       August 2344      February 2345    Active
-NCC-61947            Yeager               Chandley Works, Caravalia, Mars                      June 2342       September 2344   February 2345    Lost
-NCC-63225            Broadsword           Utopia Planitia Fleet Yards, Mars                    March 2343      August 2345      December 2345    Active
-NCC-63249            Longsword            Utopia Planitia Fleet Yards, Mars                    March 2343      August 2345      December 2345    Active
-NCC-63255            Knife                Utopia Planitia Fleet Yards, Mars                    March 2343      August 2345      December 2345    Active
-NCC-63261            Dagger               Utopia Planitia Fleet Yards, Mars                    March 2343      August 2345      December 2345    Active
-NCC-63279            Bayonet              Utopia Planitia Fleet Yards, Mars                    March 2343      August 2345      December 2345    Lost
-NCC-63361            Rapier               Chandley Works, Caravalia, Mars                      March 2343      August 2345      December 2345    Active
-NCC-63362            Edwards              Chandley Works, Caravalia, Mars                      April 2343      September 2345   January 2346     Active
-NCC-63363            Crossbow             Chandley Works, Caravalia, Mars                      April 2343      September 2345   January 2346     Active
-NCC-63637            Stiletto             Chandley Works, Caravalia, Mars                      May 2343        October 2345     February 2346    Active
-NCC-63638            Arquebus             Chandley Works, Caravalia, Mars                      May 2343        October 2345     February 2346    Active
-NCC-64784            Lance                Shor Ta’kel, Central Docks, 40 Eridani               November 2343   March 2346       July 2346        Lost
-NCC-64785            White                Shor Ta’kel, Central Docks, 40 Eridani               November 2343   March 2346       July 2346        Active
-NCC-64786            Polearm              Shor Ta’kel, Central Docks, 40 Eridani               November 2343   March 2346       July 2346        Active
-NCC-64787            Javelin              Shor Ta’kel, Central Docks, 40 Eridani               November 2343   March 2346       July 2346        Active
-NCC-66248            Quarterstaff         Hakon Yards, Galena                                  April 2345      August 2347      December 2347    Lost
-NCC-66249            Sickle               Hakon Yards, Galena                                  May 2345        August 2347      December 2347    Active
-NCC-66250            Claymore             Hakon Yards, Galena                                  May 2345        August 2347      December 2347    Active
-NCC-66251            Battleaxe            Hakon Yards, Galena                                  May 2345        September 2347   January 2348     Active
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -563,18 +548,18 @@ in computer simulations of the two spaceframes under construction and Star Fleet
 
 Number                 Name                   Builder                                                 Laid Down            Launched               Commissioned          Status
 
-NCC-72380              Nova                   Utopia Planitia Fleet Yards, Mars                       April 2368           June 2370              September 2370        Active
-NCC-72381              Equinox                Utopia Planitia Fleet Yards, Mars                       May 2368             July 2370              October 2370          Lost
+NCC-72380              Nova                   "Utopia Planitia Fleet Yards, Mars ",                      April 2368           June 2370              September 2370        Active
+NCC-72381              Equinox                "Utopia Planitia Fleet Yards, Mars ",                      May 2368             July 2370              October 2370          Lost
 NCC-80471              Solstice               Baikonur Cosmodrome, Earth                              January 2373         April 2375             November 2375         Active
 NCC-80484              Ecliptic               Baikonur Cosmodrome, Earth                              January 2373         April 2375             November 2375         Active
 NCC-80489              Perigee                Baikonur Cosmodrome, Earth                              January 2373         May 2375               November 2375         Active
 NCC-80493              Eclipse                Baikonur Cosmodrome, Earth                              February 2373        May 2375               November 2375         Active
 NCC-80499              Apogee                 Baikonur Cosmodrome, Earth                              February 2373        June 2375              December 2375         Active
-NCC-81271              Balboa                 Utopia Planitia Fleet Yards, Mars                       September 2373       January 2376           April 2376            Active
-NCC-81286              Leif Ericson           Utopia Planitia Fleet Yards, Mars                       September 2373       January 2376           May 2376              Active
-NCC-81303              Da Gama                Chandley Works, Caravalia, Mars                         October 2373         February 2376          June 2376             Active
-NCC-81321              Vespucci               Chandley Works, Caravalia, Mars                         November 2373        March 2376             December 2376         Active
-NCC-82135              Pathfinder             Chandley Works, Caravalia, Mars                         March 2376                                                        Building
+NCC-81271              Balboa                 "Utopia Planitia Fleet Yards, Mars ",                      September 2373       January 2376           April 2376            Active
+NCC-81286              Leif Ericson           "Utopia Planitia Fleet Yards, Mars ",                      September 2373       January 2376           May 2376              Active
+NCC-81303              Da Gama                "Chandley Works, Caravalia, Mars ",                         October 2373         February 2376          June 2376             Active
+NCC-81321              Vespucci               "Chandley Works, Caravalia, Mars ",                         November 2373        March 2376             December 2376         Active
+NCC-82135              Pathfinder             "Chandley Works, Caravalia, Mars ",                         March 2376                                                        Building
 
 
 Engineering: The original Pathfinder proposal called for the Shuvinaaljis Warp Technologies LF-35      these named after Terran explorers. An additional ship, Pathfinder, was added in 2376. Funding
@@ -670,15 +655,15 @@ she is far more efficient in the Warp 7-8 cruising range, allowing for a longer 
 Number                 Name                    Builder                                                  Laid Down         Launched         Commissioned     Status
 
 NCC-74205              Defiant                 Antares Ship Yards, Bajor                                July 2366         November 2370    August 2372      Lost
-NCC-74210              Valiant                 Utopia Planitia Fleet Yards, Mars                        July 2366         December 2370    September 2372   Lost
-NCC-75225              Starlord                Utopia Planitia Fleet Yards, Mars                        October 2367      January 2370     March 2370       Active
-NCC-75516              Rutledge                Spacedock, San Francisco, Earth                          March 2368        May 2370         August 2370      Active
-NCC-75633              Defiant                 Utopia Planitia Fleet Yards, Mars                        December 2368     March 2371       June 2371        Active *
+NCC-74210              Valiant                 "Utopia Planitia Fleet Yards, Mars ",                       July 2366         December 2370    September 2372   Lost
+NCC-75225              Starlord                "Utopia Planitia Fleet Yards, Mars ",                       October 2367      January 2370     March 2370       Active
+NCC-75516              Rutledge                " Spacedock, San Francisco, Earth ",                         March 2368        May 2370         August 2370      Active
+NCC-75633              Defiant                 "Utopia Planitia Fleet Yards, Mars ",                       December 2368     March 2371       June 2371        Active *
 NCC-76028              Victory                 Earth Station McKinley, Earth                            May 2369          July 2371        October 2371     Active
 NCC-76383              Vindicator              Earth Station McKinley, Earth                            October 2369      December 2371    March 2372       Active
 NCC-76478              Stormbringer            M’Yengh Yards, Shzerensohr, Cait                         December 2369     February 2372    June 2372        Active
 NCC-77028              Shadowhawk              Alfras Fleet Yards, Deneb V                              June 2370         September 2372   January 2373     Active
-NCC-79568              Valiant                 Utopia Planitia Fleet Yards, Mars                        May 2372          September 2374   January 2375     Active **
+NCC-79568              Valiant                 "Utopia Planitia Fleet Yards, Mars ",                       May 2372          September 2374   January 2375     Active **
 NCC-80126              Malestrom               Newport News Fleet Yards, Earth                          November 2372     March 2375       August 2375      Active
 
 * - Originally commissioned as U.S.S. Sao Paulo, it was renamed Defiant in 2375 by order of the Chief of Star Fleet Operations.
