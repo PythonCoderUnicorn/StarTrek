@@ -1,36 +1,64 @@
 
 
+# Romulan Ship Recognition
 
 
-
-In the mid-2340s, Starfleet intelligence began to get “sniffs” of a new Romulan warship type in operation across the Neutral Zone. Although  
+In the mid-2340s, Starfleet intelligence began to get “sniffs” of a new Romulan warship type in operation across the Neutral Zone. 
+Although  
 Starfleet had not made contact with the Empire in several decades by this 
 point, there always existed a keen interest in what their neighbors across  
 the no-mans-land were up to. Long range scans revealed grainy images of 
 a vessel of massive proportions, at least twice the size of and Federation          
-starship and with an unusual power signature that defied the analysis of the best minds at Starfleet Engineering. Numerous attempts to penetrate the  Star Empire for information about this new vessel failed, and for many years Starfleet counted itself lucky that the Romulans had chosen to isolate themselves from the rest of the Alpha Quadrant. It wasn’t until 2364 that  the starship Enterprise got a first detailed look at the new Romulan behemoth, and the news wasn’t good. 
+starship and with an unusual power signature that defied the analysis of the best minds 
+at Starfleet Engineering. Numerous attempts to penetrate the  Star Empire for information 
+about this new vessel failed, and for many years Starfleet counted itself lucky that the 
+Romulans had chosen to isolate themselves from the rest of the Alpha Quadrant. It wasn’t 
+until 2364 that  the starship Enterprise got a first detailed look at the new Romulan behemoth,
+ and the news wasn’t good. 
+
+
 In the years since, much has been learned about the Warbird-class of 
-Romulan battlecriusers. It is now known that the early versions of the class were badly under gunned and underpowered and were barely a match for the line starships of the day. It wasn’t until a modernization program  
+Romulan battlecriusers. It is now known that the early versions of the 
+class were badly under gunned and underpowered and were barely a match for the line 
+starships of the day. It wasn’t until a modernization program  
 started in 2356 that the Warbird began to grow as a serious contender in  
-the field of galactic brinkmanship. From the start however, the Warbird was a wonderland of technological innovation and seemingly limitless potential.   
+the field of galactic brinkmanship. From the start however, the Warbird was a wonderland 
+of technological innovation and seemingly limitless potential.   
 At the heart of the new class is a forced quantum singularity powerplant  
 that provides power to her primary systems. Although the output is on par 
 with a traditional M/AM arrangement, the advantage comes from never      
 having to refuel the vessel during its operational lifetime. Once the reactor  
-is brought on line, it stays that way. The tradeoff comes at the expense of a slightly lower top speed and manpower intensive maintenance needs. 
+is brought on line, it stays that way. The tradeoff comes at the expense of a 
+slightly lower top speed and manpower intensive maintenance needs. 
 Over the years, the Romulans have continually upgraded the class and        
 regularly abandon old models as new ones come on line. Different engine, 
 disruptor and torpedo weapons have produced nearly a dozen subtypes of  
-the class with some, like the B type D’Deridex remaining in production while others, like the type E Peregrine have fallen out of favor. Losses during the Dominion and Raven conflicts have brought about an additional six variants of the Warbird hullform in the last decade with more expected to follow. 
-Each new generation of Warbird improves upon the last in some degree or    another, and the Romulans have become masters at finding new ways to  
+the class with some, like the B type D’Deridex remaining in production while others, 
+like the type E Peregrine have fallen out of favor. Losses during the Dominion and 
+Raven conflicts have brought about an additional six variants of the Warbird hullform 
+in the last decade with more expected to follow. 
+
+
+Each new generation of Warbird improves upon the last in some degree or    
+another, and the Romulans have become masters at finding new ways to  
 expand the capabilities of their most cherished warship design.  
 To date, Starfleet has captured three Warbirds of various types, though   
 only the type E Peregrine-class Pi’kaht was taken with its quantum 
-singularity core intact and running. Although all three vessels have yielded an enormous wealth of data, Starfleet has as yet been unable to reverse engineer the powerplant or at least restart the cores of the two remaining vessels. 
+singularity core intact and running. Although all three vessels have 
+yielded an enormous wealth of data, Starfleet has as yet been unable to 
+reverse engineer the powerplant or at least restart the cores of the two remaining vessels. 
+
+
 Current speculation holds that the cores are produced at a 
-dedicated facility and the ship is built around the massive engine in space. The type A Warbird entered service in 2337 and immediately entered  wide scale production. In retrospect, the class was grossly underpowered 
-and poorly gunned and was a poor match for existing Federation or Klingon  vessels of the day. However, the Warbird did demonstrate an enormous   
-leap forward in the Romulan’s construction capabilities and techniques and  was an ominous portent of things to come in the next few years.  
+dedicated facility and the ship is built around the massive engine in space. 
+The type A Warbird entered service in 2337 and immediately entered  wide scale production. 
+In retrospect, the class was grossly underpowered 
+and poorly gunned and was a poor match for existing Federation or Klingon  vessels of the day. 
+However, the Warbird did demonstrate an enormous   
+leap forward in the Romulan’s construction capabilities and techniques and  was an ominous 
+portent of things to come in the next few years.  
+
+
 The type B D’deridex was the direct result of information gleaned about 
 the capabilities of the new Federation Galaxy-class starships. She was 
 built with a completely new tactical suite and greater speed in mind. The  
@@ -38,28 +66,40 @@ D’deridex was envisioned as a specific counter to that perceived threat,
 though at a massive cost. Despite extensive losses of the D’deridexs  
 during the Dominion and Raven conflicts, the ships of this type are still  
 considered to be prestige assignments.   
+
+
 The type C Talon was developed alongside the more powerful D’deridex 
 class as an easier to build alternative to the grossly expensive flagship.     
 Her suite of older but reliable RPL-3 plasma weapons were chosen over  
 the then new and rare RTA-S torpedoes along with the easier to produce 
 RWW-I disruptor banks. The Talons have never been choice assignments 
 and took enormous losses during the Dominion and Raven conflicts.     
+
+
 The type D Sparrowhawk was an experiment in turning the class into an   
-all plasma gun platform. Slightly weaker shields and a poor torpedo array  marred the otherwise great potential of the class, and only a few were built.  
+all plasma gun platform. Slightly weaker shields and a poor torpedo array 
+marred the otherwise great potential of the class, and only a few were built.  
+
+
 The type E Peregrine built upon the lessons learned from the   
 Sparrowhawk and sports an all disruptor tactical array capable of a 
 withering rate of fire. Upgraded heavy shields and weapons made the type  
 E more sluggish in her handling, but the class was a complete success   
 otherwise. The Peregrines were also grossly expensive to build and   
 maintain and construction ended in 2379. 
+
+
 The type F Kamarak was the first serious attempt to improve on the  
-D’deridex design and has been only a partial success. Upgraded structural  systems, torpedo capacity, and shields came at the cost of a small  
+D’deridex design and has been only a partial success. Upgraded structural  systems, 
+torpedo capacity, and shields came at the cost of a small  
 measure of maneuverability, disruptor rate of power and secondary power  
 generation. Although the Kamarak is in all respects superior to the  
 D’deridex, most in the fleet find the elder type to be a more balanced   
 defensive platform. One place the Kamarak does excel in over the   
 D’deridex however is exploration, and the class has done much to expand   
-the borders of the Empire in the last decade. Although the fleet’s smaller science vessels are fine at what they do, only the Kamarak‘s possess the  larger ship borne sensor platforms and telescopes that were specifically  designed for the class.                       
+the borders of the Empire in the last decade. Although the fleet’s smaller 
+science vessels are fine at what they do, only the Kamarak‘s possess the  larger 
+ship borne sensor platforms and telescopes that were specifically  designed for the class.                       
 
 
 
