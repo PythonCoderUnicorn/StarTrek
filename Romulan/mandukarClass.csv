@@ -1,0 +1,51 @@
+
+// Mandukar Class Destroyer
+
+model , A, B, C
+date_entered_service, 4/4008, 5/5109, 4/6803
+hull_superstructure_points, 70, 76, 82
+damage_chart, B, B , B
+size_length_m,372, 370, 372
+size_width_m, 177, 177, 177
+size_height_m, 90, 90, 90
+transporters_6_person, 5, 5, 5
+transporters_combat_10_person, 3,3,3
+transporters_cargo_small, 2,2,2
+transporters_cargo_large, 2,2,2
+cloaking_device, RCE, RCE, RCE
+cloaking_power_requirements, 38, 38, 38
+crew_officers, 65,65,65
+crew_enlisted, 305,305,305
+passengers, 20,20,20
+evacuation_limit, 4000,4000,4000
+shuttlecraft, 3,3,3
+engines_power_units_total, 98,145,156
+engine_power_movement_ratio, 4/1,4/1,4/1
+warp_engine_type, RIWA-1, RIWD-1B, RIWD-1B
+warp_engine_number, 2,2,2
+warp_engine_power_units, 35,50,50
+cruising_speed, 6,6.5,6.5
+emergency_speed, 8.5,9.3,9.4
+impulse_engine_type, RIF-3, RIG-7, RIF-3
+impulse_engine_number, 1,1,2
+impulse_engine_power_units, 28,45, 28
+auxillary_power, 10,14,16
+reserve_power,5,7,8
+weapon_beam_type, RB-11, RWW-I, RWW-Y
+weapon_beam_number, 8,8,8
+weapon_beam_firing_arcs, "2 f, 2 f/p, 2 f/s, 2a", " 4 f/p, 4 f/s", "2 f, 2 f/p, 2 f/s, 2 a"
+chart, V, Y, Y
+max_power, 9,10,10
+power_plus3, (1-10), (1-10), (1-10)
+power_plus2, (11-16), (11-17), (11-17)
+power_plus1, (17-21), (18-24), (18-24)
+missile_weapon_type, RPL-3, RTA-S, RPL-3
+missile_weapon_number, 6,12,6
+missile_weapon_firing_arcs, "6 f/p/s", "4 f, 2 f/p, 2f/s, 4 a", "6 f/p/s"
+missile_chart, T, S,T
+missile_power_to_arm, 8,1,8
+missile_damage, RL-3, 10, RL-3
+deflector_shield_type, RSP-1, RSM-5, RSS-2
+shield_point_ratio, 1/4, 1/5, 1/5
+max_shield_power, 18, 20, 25
+combat_efficiency_point_value, 136, 165, 195
