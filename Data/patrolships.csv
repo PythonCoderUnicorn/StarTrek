@@ -132,3 +132,27 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 59427, Ja_Fadey_Mountains, Steamrunner, destroyer, Hakon Yards - Galena, August 2341, November 2344, april 2345, lost
 59753, Charitum_Montes, Steamrunner, destroyer, "Chiokis Starship Construction - Thelavor, Andor",August 2341, November 2344, april 2345, active
 60045, Kilamanjaro, Steamrunner, destroyer, "Chandley Works - Caravalia, Mars", October 2341, January 2345, june 2345, active
+71618 ,Cheyenne ,Cheyenne, superscout,"Utopia Planitia Fleet Yards, Mars", September 2349 , June 2352, November 2352 ,Active
+71620,Ahwahnee,Cheyenne, superscout, "Utopia Planitia Fleet Yards, Mars", September 2349 ,June 2352 ,November 2352 ,Lost
+71701, Navajo,Cheyenne, superscout,"Avondale Group, Ferrata Docks, Rigellium, Rigel II",  October 2349 ,July 2349,December 2352,Active
+71703,Comanche,Cheyenne, superscout,"Avondale Group, Ferrata Docks, Rigellium, Rigel II", October 2349 ,July 2349 , December 2352  , Active
+71711,Arapaho ,Cheyenne, superscout, "Avondale Group, Ferrata Docks, Rigellium, Rigel II",  October 2349 ,    July 2349      ,  December 2352 ,   Active
+71712 ,Kiowa ,Cheyenne, superscout,  "Avondale Group, Ferrata Docks, Rigellium, Rigel II",  October 2349 ,    August 2349  ,    December 2352  ,  Active
+71736 , Seminole,Cheyenne, superscout, "Avondale Group, Ferrata Docks, Rigellium, Rigel II",  October 2349,     July 2349  ,      January 2353  ,   Active
+71801,Crow  ,Cheyenne, superscout,  "Utopia Planitia Fleet Yards, Mars",   December 2349 ,   September 2349,   February 2353,    Lost
+72095,Black Hawk  ,Cheyenne, superscout, "San Francisco Fleet Yards, Earth", March 2361   ,    January 2364   ,  May 2364     ,    Active
+72121,Apache , Cheyenne, superscout,  "San Francisco Fleet Yards, Earth",  May 2361 ,       March 2364  ,     August 2364  ,    Active
+72122, Shawnee,Cheyenne, superscout, "San Francisco Fleet Yards, Earth",  June 2361 , March 2364  , August 2364   ,   Active
+72555,Chickasaw ,Cheyenne, superscout,  "San Francisco Fleet Yards, Earth",  December 2362 ,   September 2365 ,  February 2366 ,   Active
+72696,Mohawk ,Cheyenne, superscout,  "San Francisco Fleet Yards, Earth",    October 2363   ,  July 2366   ,     December 2366   , Active
+72707 ,Iroquois ,Cheyenne, superscout, "San Francisco Fleet Yards, Earth", November 2363 , August 2366 ,  January 2367 , Active
+72996 ,Cayuse ,Cheyenne, superscout, "San Francisco Fleet Yards, Earth", March 2364  ,     January 2367 , May 2367  ,  Active
+74201,Choctaw ,Cheyenne, superscout,  "Antares Ship Yards, Bajor",  June 2366 , April 2368 , September 2368, Lost
+74296 ,Tarhe ,Cheyenne, superscout,  "Antares Ship Yards, Bajor",  September 2366 ,  June 2369  ,      November 2369,    Active
+74583 , Tonkawa ,Cheyenne, superscout,  "Port Copernicus Fleet Yards, Luna",  November 2366 ,   August 2369   ,   January 2370  ,   Active
+74666,Pawnee ,Cheyenne, superscout, "Earth Station McKinley, Earth ",  May 2367  ,  March 2370  , August 2370  , Active
+75020 ,Cochise ,Cheyenne, superscout, "Spacedock, San Francisco, Earth",  August 2367 , June 2370 , November 2370 , Active
+75369,Seneca,Cheyenne, superscout, "Alfras Fleet Yards, Deneb V ",  December 2367 ,October 2370 , April 2371 , Lost
+75492, Cherokee,Cheyenne, superscout, "Alfras Fleet Yards, Deneb V ", February 2368  ,  November 2370  ,  May 2371    ,     Active
+76129, Zuni ,Cheyenne, superscout, "Newport News Fleet Yards, Earth",    July 2369  , April 2372 ,September 2372 , Active
+77237 , Mohican,Cheyenne, superscout,  "Utopia Planitia Fleet Yards, Mars", August 2370 ,May 2373 , December 2373, Active
