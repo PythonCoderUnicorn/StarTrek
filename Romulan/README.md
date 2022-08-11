@@ -28,6 +28,16 @@ Rules and Klingon Ship Statistics compiled by:
 
 - Pyre Class
 - Nova Class
+- Rath Class
+- Vastam Class
+- Warhawk Class
+- Nova Class
+- Kesix Class
+- Hathos Class
+- Deathstorm Class
+- Avian Class
+- Algeron Class
+- Battlehawk Class
 
 
 
