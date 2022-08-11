@@ -1,42 +1,5 @@
 
 
-Credits
-Romulan Ship Recognition Manual
-2385 Edition
-
-Star Trek Starship Combat Simulator Phase II
-Rules and Klingon Ship Statistics compiled by:
-       Travis J. Offenberger
-       Kenneth G.R. Minick
-
-STAR TREK is a Trademark of Paramount Pictures Corporation
-
-Star Trek Starship Tactical Combat Simulator Phase II revisions
-courtesy of Sporadic Enterprises.
-
-Distributed free of charge.
-
-
-
-Warbird Class Battlecruiser
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -188,121 +151,7 @@ a rate of 2 new vessels per year.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mandukar Class Destroyer
+## Mandukar Class Destroyer
 
 For years after their introduction to fleet service, the
 Manukar-class destroyer was considered to be a pariah, the
@@ -358,7 +207,23 @@ remain in active service. Production continues at four new units per year.
 
 
 
+```
+Credits
+Romulan Ship Recognition Manual
+2385 Edition
 
+Star Trek Starship Combat Simulator Phase II
+Rules and Klingon Ship Statistics compiled by:
+       Travis J. Offenberger
+       Kenneth G.R. Minick
+
+STAR TREK is a Trademark of Paramount Pictures Corporation
+
+Star Trek Starship Tactical Combat Simulator Phase II revisions
+courtesy of Sporadic Enterprises.
+
+Distributed free of charge.
+```
 
 
 
@@ -396,47 +261,4 @@ remain in active service. Production continues at four new units per year.
  
 
 
-Romulan Plasma Weapon chart:  Romulan Vessel Scenario Point Values 
-Range     RL-4  RL-5 TL-6     Rath (AC)                       280
-     1      40   56   64      Algeron (CR)                    187
-     2      40   56   64      Avian (CR)                      192
-     3      40   56   64      Battlehawk (CR)                 124
-     4      40   56   64      Deathstorm (CR)                 181
-     5      30   56   64      Hathos (CR)                     142
-     6      30   56   64      Kesix (CR)                      225
-     7      22   48   64      Pyre (BC)                       151
-     8      20   48   64      Warhawk (BC)                    205
-     9      10   48   56      Nova (BC)                       140
-    10       8   48   56      Warbird type B D'deridex (BC)   245
-    11       6   32   56      Warbird type C Talon (BC)       205
-                              Warbird type D Sparrowhawk
-    12      4    32   56      (BC)                            207
-    13      2    20   40      Warbird type E Peregrine (BC)   209
-    14           16   40      Warbird type F Kamarak (BC)     261
-                              Warbird type G Leviathan
-    15           12   32      (BC)                            177
-                              Warbird type H Bloodhawk
-    16           8    32      (BC)                            189
-    17                20      Warbird type I Raptor (BC)      297
-    18                12      Warbird type J Decius (BC)      276
-    19                 8      Warbird type K Terex (BC)       297
-    20                 6      Mandukar type A (DD)            136
-                              Mandukar type B Mandelar
-                              (DD)                            165
-                              Mandukar type C Majyk (DD)      195
-                              Vastam (SC)                      73
-
-  The Romulan Ship Recognition Manual 2385 Edition
-
-
-
-
-This PDF is distributed FREE of charge by Sporadic Enterprises
-
-For use with..The Star Trek Starship Tactical Combat Simulator Phase II
-
-
-
-
-TAR TREK is a Trademark Of Paramount Pictures Corporation
 
