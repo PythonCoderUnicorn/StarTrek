@@ -185,3 +185,15 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 66249,Sickle,saber, escort, "Hakon Yards, Galena ", May 2345     ,   August 2347  ,    December 2347   , Active
 66250 , Claymore ,saber, escort,  "Hakon Yards, Galena ", May 2345    ,    August 2347    ,  December 2347  ,  Active
 66251 ,Battleaxe ,saber, escort,  "Hakon Yards, Galena ",  May 2345     ,   September 2347  , January 2348  ,   Active
+72380,Nova,nova,surveryor, "Utopia Planitia Fleet Yards, Mars ",   April 2368   , June 2370  , September 2370  , Active
+72381,Equinox ,nova,surveryor,   "Utopia Planitia Fleet Yards, Mars ",  May 2368 ,July 2370 , October 2370  , Lost
+80471 , Solstice ,nova,surveryor, "Baikonur Cosmodrome, Earth ",  January 2373,April 2375 , November 2375 ,Active
+80484 , Ecliptic  ,nova,surveryor,  "Baikonur Cosmodrome, Earth ",January 2373 ,  April 2375, November 2375 , Active
+80489 ,Perigee   ,nova,surveryor, "Baikonur Cosmodrome, Earth ", January 2373, May 2375, November 2375 , Active
+80493 ,Eclipse  ,nova,surveryor,  "Baikonur Cosmodrome, Earth ",February 2373 ,May 2375  , November 2375 , Active
+80499 , Apogee   ,nova,surveryor, "Baikonur Cosmodrome, Earth ",  February 2373 , June 2375 , December 2375 , Active
+81271 , Balboa,nova,surveryor,  "Utopia Planitia Fleet Yards, Mars ",  September 2373 ,January 2376 , April 2376 ,  Active
+81286  ,Leif Ericson ,nova,surveryor, "Utopia Planitia Fleet Yards, Mars ",  September 2373,January 2376 , May 2376 ,  Active
+81303 , Da Gama  ,nova,surveryor,  "Chandley Works, Caravalia, Mars ",  October 2373 , February 2376  ,  June 2376   , Active
+81321  ,Vespucci  ,nova,surveryor,  "Chandley Works, Caravalia, Mars ",  November 2373, March 2376 , December 2376 ,Active
+82135 , Pathfinder ,nova,surveryor,  "Chandley Works, Caravalia, Mars ",  March 2376     ,0,0, Building
