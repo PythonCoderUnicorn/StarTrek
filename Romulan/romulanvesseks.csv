@@ -1,0 +1,28 @@
+
+// Romulan Plasma Weapon chart:  
+
+Range, RL-4 , RL-5 , TL-6 , Romulan Vessel , Scenario Point Values 
+0 , 0, 0, 0, Rath (AC), 280
+1 ,40,56,64,Algeron (CR) ,187
+2,40 ,56 ,64 ,Avian (CR) , 192
+3,40 ,56,64,Battlehawk (CR),124
+4 ,40,56 ,64 ,Deathstorm (CR) ,181
+5 ,30,56 ,64,Hathos (CR),142
+6 ,30,56 ,64,Kesix (CR), 225
+7,22 ,48 ,64 , Pyre (BC),151
+8,20 ,48 ,64 , Warhawk (BC) ,205
+9 ,10 ,48, 56,Nova (BC) , 140
+10,8 ,48 ,56 ,Warbird type B D'deridex (BC),245
+11 , 6,32,56, Warbird type C Talon (BC) ,205
+12 ,4 ,32,56 ,Warbird type D Sparrowhawk(BC) ,207
+13 ,2 ,20 ,40, Warbird type E Peregrine (BC),209
+14 ,0,16, 40,Warbird type F Kamarak (BC),261
+15,0,12,32 ,Warbird type G Leviathan(BC) ,177
+16 ,0,8 ,32 ,Warbird type H Bloodhawk(BC) ,189
+17,0,0,20,Warbird type I Raptor (BC),297
+18,0,0, 12, Warbird type J Decius (BC) ,276
+19,0,0,8, Warbird type K Terex (BC),297
+20 ,0,0,6,Mandukar type A (DD),136
+0,0,0,0,Mandukar type B Mandelar (DD),165
+0,0,0,0,Mandukar type C Majyk (DD), 195
+0,0,0,0,Vastam (SC) ,73
