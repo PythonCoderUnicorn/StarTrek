@@ -197,3 +197,14 @@ NCC_number, name, class, type, builder, laid_down, launched, commissioned, statu
 81303 , Da Gama  ,nova,surveryor,  "Chandley Works, Caravalia, Mars ",  October 2373 , February 2376  ,  June 2376   , Active
 81321  ,Vespucci  ,nova,surveryor,  "Chandley Works, Caravalia, Mars ",  November 2373, March 2376 , December 2376 ,Active
 82135 , Pathfinder ,nova,surveryor,  "Chandley Works, Caravalia, Mars ",  March 2376     ,0,0, Building
+74205 ,Defiant ,deviant,escort, "Antares Ship Yards, Bajor ", July 2366 , November 2370  ,  August 2372   ,   Lost
+74210 , Valiant ,deviant,escort,  "Utopia Planitia Fleet Yards, Mars ", July 2366   ,  December 2370  ,  September 2372 ,  Lost
+75225,Starlord  ,deviant,escort, "Utopia Planitia Fleet Yards, Mars ", October 2367  ,    January 2370  ,   March 2370  ,     Active
+75516,Rutledge ,deviant,escort,  " Spacedock, San Francisco, Earth ",   March 2368   ,     May 2370   ,      August 2370  ,    Active
+75633,Defiant ,deviant,escort,  "Utopia Planitia Fleet Yards, Mars ",  December 2368   ,  March 2371   ,    June 2371    ,    Active*
+76028 ,Victory  ,deviant,escort,  "Earth Station McKinley, Earth  ",   May 2369    ,      July 2371    ,    October 2371  ,   Active
+76383 ,Vindicator ,deviant,escort,  "Earth Station McKinley, Earth  ",  October 2369   ,   December 2371  ,  March 2372    ,   Active
+76478 ,Stormbringer ,deviant,escort,   "M’Yengh Yards, Shzerensohr, Cait  ", December 2369  ,   February 2372   , June 2372     ,   Active
+77028 , Shadowhawk ,deviant,escort,  "Alfras Fleet Yards, Deneb V ",  June 2370   ,      September 2372  , January 2373   ,  Active
+79568 ,Valiant ,deviant,escort,  "Utopia Planitia Fleet Yards, Mars ", May 2372      ,    September 2374 ,  January 2375 ,    Active**
+80126 ,Malestrom ,deviant,escort,  "Newport News Fleet Yards, Earth  ", November 2372  ,   March 2375     ,  August 2375   ,   Active

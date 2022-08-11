@@ -620,13 +620,18 @@ THE NOVA CLASS SURVEYOR NOVA (ST 72380) AT WARP
 
 THE NOVA CLASS SURVEYOR PATHFINDER (ST 82135) IN ORBIT AROUND THE CLASS N PLANET PACFICIA
 
+
+
+
+
+
+
+
+
 ESCORTS
 
-                                                                      DEFIANT
-                                                                      CLASS ESCORT
-
-
-
+DEFIANT
+ CLASS ESCORT
 
 Few starships have experienced “growing pains” like the Defiant class. Developed as a response         Tactical: The Defiant class mounts a devastating weapons array up front - four Type XII pulse
 to first contact with the Borg Collective, she goes against almost every tenet of Federation           phaser cannon and two Type X phaser arrays. She also has two Mk 90 photon torpedo
@@ -651,20 +656,6 @@ have greatly improved the ship’s handling characteristics. Top speed dropped t
 she is far more efficient in the Warp 7-8 cruising range, allowing for a longer endurance.             Collective in 2367 and the defeat at Wolf 359, her critics were silenced and construction began
 
 10 ESCORTS: “DEFIANT” CLASS
-
-Number                 Name                    Builder                                                  Laid Down         Launched         Commissioned     Status
-
-74205              Defiant                 Antares Ship Yards, Bajor                                July 2366         November 2370    August 2372      Lost
-74210              Valiant                 "Utopia Planitia Fleet Yards, Mars ",                       July 2366         December 2370    September 2372   Lost
-75225              Starlord                "Utopia Planitia Fleet Yards, Mars ",                       October 2367      January 2370     March 2370       Active
-75516              Rutledge                " Spacedock, San Francisco, Earth ",                         March 2368        May 2370         August 2370      Active
-75633              Defiant                 "Utopia Planitia Fleet Yards, Mars ",                       December 2368     March 2371       June 2371        Active *
-76028              Victory                 Earth Station McKinley, Earth                            May 2369          July 2371        October 2371     Active
-76383              Vindicator              Earth Station McKinley, Earth                            October 2369      December 2371    March 2372       Active
-76478              Stormbringer            M’Yengh Yards, Shzerensohr, Cait                         December 2369     February 2372    June 2372        Active
-77028              Shadowhawk              Alfras Fleet Yards, Deneb V                              June 2370         September 2372   January 2373     Active
-79568              Valiant                 "Utopia Planitia Fleet Yards, Mars ",                       May 2372          September 2374   January 2375     Active **
-80126              Malestrom               Newport News Fleet Yards, Earth                          November 2372     March 2375       August 2375      Active
 
 * - Originally commissioned as U.S.S. Sao Paulo, it was renamed Defiant in 2375 by order of the Chief of Star Fleet Operations.
 ** - Originally procured as Hurricane, it was renamed Valiant in 2377 in honor of the original ship.
