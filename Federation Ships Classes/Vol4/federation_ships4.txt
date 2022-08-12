@@ -298,10 +298,11 @@ forty ships to one hundred. In addition, the remaining vessels of the old Dopple
 classes have been recalled from mothballs and pressed into service on the closer runs, where
 there slower speeds are not as much an issue.
 
+
+
+
+
 SHIP CLASSIFICATIONS
-
-
-
 
 Star Fleet ships and small craft are classified by type and by sequence within that type. The list of
 classifications (by approval of the Federation Commissioner for Star Fleet) is issued periodically,
@@ -328,13 +329,19 @@ Cruisers                                                    FR      Frigate     
                                                              SS     Superscout                                                                            CR       Courier
                                                              ST     Scout                                                                                 RB       Runabout
 
+
+
+
+
+
+
+
+
+
+
+
 FLEET STRUCTURE
-
-                                                                      DEPARTMENT OF THE
-                                                                      STAR FLEET
-
-
-
+DEPARTMENT OF THE STAR FLEET
 
 The Department of the Star Fleet was founded in 2161 under the Articles of the Federation              Council, the CINC is the senior military officer and holds the rank of Fleet Admiral. Star Fleet
 ratified in that year by Earth, Vulcan, Alpha Centauri, Andoria, and Tellar. Due to the recent         Operating Forces are delegated across three lines – the Chief of Star Fleet Operations, the Chief
@@ -358,23 +365,16 @@ Forces of the Fleet.
 Day-to-day control of the Operating Forces of the Fleet is handled by the Commander-in-
 Chief of the Star Fleet. Nominated by the President and confirmed by the Federation Security
 
-UNITED FEDERATION OF PLANETS
-OFFICE OF THE SECRETARY OF THE STAR FLEET
-
-UNITED FEDERATION OF PLANETS
-OFFICE OF THE CHIEF OF STAR FLEET OPERATIONS
-
-UNITED FEDERATION OF PLANETS
-    STAR FLEET OPERATING FORCES
-
-UNITED FEDERATION OF PLANETS
-     STAR FLEET SUPPORT FORCES
-
-                                                                                                      STAR FLEET
-                                                                                                      HEADQUARTERS
 
 
 
+
+
+
+
+
+
+STAR FLEET HEADQUARTERS
 
 Star Fleet Headquarters is located in and around the city of San Francisco on Earth. It also shares
 space with Star Fleet Academy, located on the Presidio. The actual “Headquaters” building,
@@ -405,11 +405,16 @@ Oakland Bay and San Mateo bridges in the 2200’s.                              
                                                                                                     civilian communications company lease time and bandwith on Star Fleet comm systems as
 Star Fleet Headquarters also serves as the central communication nexus for the Federation.          both emergency backup channels and for occasional extra-bandwith needs.
 
-                                                                                                    EXPLORATION
-                                                                                                    COMMAND
 
 
 
+
+
+
+
+
+
+EXPLORATION COMMAND
 
 Exploration Command is the heart-and-soul of the Star Fleet. Though less than half the size of
 TacFleet, this includes mostly dedicated scout and survey vessels that have no essential military   Exploration Command truly shone with the introduction of the Constitution class heavy cruisers
@@ -466,10 +471,15 @@ during the war. Construction of large explorers has been halted, but significant
 role vessels like the Sovereign and Intrepid classes have been funded as they can serve both
 Exploration Command and TacFleet equally well.
 
-                                                                       TACFLEET
 
 
 
+
+
+
+
+
+TACFLEET
 
 Though the primary charter of the Star Fleet is to serve as an exploratory and research entity,          shields to become the Saladin class destroyer.
 the Star Fleet also serves to defend the Federation from foreign aggressors and TacFleet is the
@@ -539,10 +549,15 @@ TacFleet.
 The Dominion War did for the TacFleet in the 2370’s much as the Four Year’s War did for them
 in the 2240’s. Construction of Explorer-type vessels were halted as all available dockyard space
 
-                                                                     RAPID DEPLOYMENT
-                                                                     FORCE
 
 
+
+
+
+
+
+
+RAPID DEPLOYMENT FORCE
 
 
 The Rapid Deployment Force is a special unit under TacFleet. Designed to be quickly deployed          capability.
@@ -566,6 +581,13 @@ The RDF has been employed with excellent results, including against the alien pr
 visited Earth in 2286, the Tolmed Incident, both Borg Invasions, and in the early days of the         more ships to be detached and assigned to exploration and other non-TacFleet duties during
 Dominion War. However, the elements that formed the RDF took dreadful losses in all of                peacetime without putting the safety of the Federation at risk.
 these engagements, and the current RDF is a shadow of it’s former self in both numbers and
+
+
+
+
+
+
+
 
 
 FLEETS OF THE FEDERATION
