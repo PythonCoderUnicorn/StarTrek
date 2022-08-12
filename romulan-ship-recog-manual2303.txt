@@ -134,72 +134,16 @@ Romulan starships from Stardate 1/8001 to present day,
 
 
 
+— 5 
+name, class, model_numbers, date_entering_service, approx_num_constructed, superstructure_points, damage_chart, size_height_m, size_width_m, size_height_m ,weight_mt , cargo_units_SCI, cargo_capacity_mt, landing_capability, control_computer_type, transporter_standard_9person, transporter_combat_20person, cargo , crew , troops ,cloaking_device_type , total_power_units , movement_point_ratio_unloaded , movement_point_ratio_loaded ,warp_engine_type ,warp_engine_number, power_units_available ,stress_charts, max_cruising_speed_unloaded , max_cruising_speed_loaded , emerg_speed_unloaded, emerg_speed_loaded, impulse_engine_type, power_units_available , beam_weapon_type , number, firing_arcs, firing_chart, max_power, damage_mod_3, damage_mod_2, damage_mod_1, deflector_shield_type, shield_point_ratio, combat_efficiency, WDF
 
-M-4 (Wings Of Justice) Class IX Troop Transport 
-
-
-
-construction_data = { }
-Data Reliability: D
-model_numbers: ' 'Type 1 
-date_entering_service: ' '2/08 
-Major Data Source: 'Project Grey Ghost; Klingon Sector Intelligence'
-approx_num_constructed = = 150
-
-hull_data = { }
-superstructure_points : 14
-damage_chart : 'B' 
-size_length_m : 270
-size_width_m :180
-size_height_m : 50
-weight_mt : 126600 
-cargo_units_SCI : 6000 
-cargo_capacity_mt :300000 
-landing_capability : false 
+M-4 (Wings Of Justice) Class IX Troop Transport, D, Type 1 , 2/08 , 150, 14, 'B' , 270, 180, 50, 126600 ,6000 ,300000 ,false ,'R4M', 8, 8, 4, 84, 1800 , 'none', 40 , 4/1, 7/1, RWF-1, 2 ,18, GL, warp 7, warp 4, warp 9, warp 6, RID-1 , 4, RB-7a, 2, '1 port', M, 4, "(1-2)", "(4-9)",  "(10. 14)", RSE, '1/2', 5, 56.0, 6.0
 
 
-equipment_data = { } 
-control_computer_type : 'R4M'
-transporters : [ { } ] 
-standard_9person : 8
-combat_20person : 8
 
-cargo = 4
-crew = 84 
-troops = 1800 
-cloaking_device_type = 'none'
+ 
 
-engines_power = { }
-Total Power Units Available — 40 the way and secure the found-
-Movement Point Ratio — a ations of the Road to the Stars,
-Loaded 7/1 for he will be borne on the
-Warp Engine Type — owe wings of justice.
-Power Units Available 18 Arenius Triario
-Stress Charts — GL
-Maximum Safe Cruising Speed — Commander
-Jnloaded Wana According to The Eridam Papers,
-Emergency Speed — this historic statement was made by
-Unloaded Warps .
-Loaded Warp6 Commander Triario as the Romulan
-Impulse Engine Type — RID-1 fleet departed for a great battle with the
-Power Units Available — 4 Lays . . .
-w And Firine D Corillians. Triario was victorious and re-
-eapons And Firing Data:
-Beam Weapon Type — RB-7a turned a hero.
-Number— 2
-Firing Arcs — 1 port, Istbd
-Firing Chart M
-Maximum Power — 4
-Damage Modifiers —
-+3 (1 — 3)
-+2 (4 9)
-+1 (10. 14)
-Shields Data:
-Deflector Shield Type — RSE
-Shield Point Ratio — 12 a, a
-Maximum Shield Power — 5 —=il oo,
-Combat Efficiency: D- 56.0 ‘i
-WDF- 6.0
+
 
 
 
@@ -254,37 +198,37 @@ rew— . . . -«
 Troops — 700 thought to be operating in the civil sec-
 shuttiocran — 4 tor, but, until close scans are possible,
 Eengines_power = { } this will remain speculation. If the ex-
-Total Power Units Available — 38 . . . . .
-Movement Point Ratio — pected confirmation is forthcoming, in-
+total_power_units — 38 . . . . .
+movement_point_ratiopected confirmation is forthcoming, in-
 Jnloaded 3) telligence will upgrade the Data Relia-
-Warp Engine Type — RWE-1 bility to B, for several of these vessels
+warp_engine_type RWE-1 bility to B, for several of these vessels
 Number — 2 . .
-Power Units Available — 13 are suspected to be operating in the
-Stress Charts — LL j
-Maximum Safe Cruising Speed — Triangle. -
+power_units_available — 13 are suspected to be operating in the
+stress_charts — LL j
+max_cruising_speed — Triangle. -
 Unloaded Warp7 The class is named from the Romu-
 Loaded Warp6 oe .
-Emergency Speed — lan temar vastari (night flyers), in refer-
+emerg_speed_unloaded— lan temar vastari (night flyers), in refer-
 Unloaded Warp 8 ence to a large reptilian bird of Hann-
 Loaded Warp7 . . . .
-Impulse Engine Type . RID-3 rileth, solid black in color. In keeping
-Power Units Available — 12 with its namesake, the assault ships re-
+impulse_engine_type. RID-3 rileth, solid black in color. In keeping
+power_units_available — 12 with its namesake, the assault ships re-
 Weapons And Firing Data: portedly are painted midnight black.
-Beam Weapon Type— RB-7a
+beam_weapon_type— RB-7a
 Number — 2
-Firing Arcs — 1 port, 1 stbd
-Firing Chart — M
-Maximum Power 4
-Damage Modifiers —
+firing_arcs— 1 port, 1 stbd
+firing_chart — M
+max_power4
+damage_mod_ —
 | +3 (1 ~ 3)
 +2 (4 9)
 +1 (10 — 14)
 Shields Data:
-Deflector Shield Type — RSH
-. Shield Point Ratio — 12 oc _ SSS =|
-Maximum Shield Power — 8 Ts >=. E
+deflector_shield_type— RSH
+. shield_point_ratio— 12 oc _ SSS =|
+max_shields_power — 8 Ts >=. E
 a Ve —=
-Combat Efficiency: D- 63.2 — eae SE a
+combat_efficiency: D- 63.2 — eae SE a
 WDF- 6.0 \ . —_
 } = ae
 Assault Ships 5
@@ -330,36 +274,36 @@ crew :— 550 is thought to mount ten of the most
 Shuttiecraft— 1S powerful disruptors available and six
 Eengines_power = { } 06 photon torpedo bays, capable of laying
 Otal rower Units Avaliadbie— . 7 . 2
-Movement Point Ratio — 5/1 down a withering barrage in all direc-
+movement_point_ratio5/1 down a withering barrage in all direc-
 Warp Engine Type— nwor tions. It is expected to change the bal-
-Power Units Available — 24 ance of power when it is brought to the
-Stress Charts — G'L .
-Maximum Safe Cruising Speed — Warp6 borders. Reportedly, four of these ships
+power_units_available — 24 ance of power when it is brought to the
+stress_charts — G'L .
+max_cruising_speed — Warp6 borders. Reportedly, four of these ships
 Impulse Eroine Troe Mehl are nearing completion, and reported
-Power Units Available — 28 production quotas of four per year are
+power_units_available — 28 production quotas of four per year are
 Weapons And Firing Data: not encouraging.
-Beam weapon Type— See onks of The class is named from the Romu-
-Firing Arcs — 2 pif, 2fwd, 2's, lan morlasasi steJam (exploding star).
+beam_weapon_type— See onks of The class is named from the Romu-
+firing_arcs— 2 pif, 2fwd, 2's, lan morlasasi steJam (exploding star).
 2sa,2,ap
-Firing Chart — V
-Maximum Power — 9
-Damage Modifiers —
+firing_chart — V
+max_power— 9
+damage_mod_ —
 +3 (1 — 10)
 +2 (11 — 16)
 +4 (17 — 21)
 Missile Weapon Type— RP-3
 Number — 6
-Firing Arcs — 1 port, 2 fwd,
+firing_arcs— 1 port, 2 fwd,
 1 stbd, 2 aft
-Firing Chart — Q
+firing_chart — Q
 Power ToArm — 1
 Damage — 10
 . - : ;' wr —
 Shields Data: a ema tans ior a
-Deflector Shield Type — RSO as i ae, eS ceey: -
-Shield Point Ratio — . 13 =, LEA sappy
-Maximum Shield Power 15
-Combat Efficiency: D- 103.0 hh a
+deflector_shield_type— RSO as i ae, eS ceey: -
+shield_point_ratio— . 13 =, LEA sappy
+max_shields_power 15
+combat_efficiency: D- 103.0 hh a
 WDF- 112.0
 6 Battleships
 
@@ -400,28 +344,28 @@ Shuttlecraft— None light, a trend that continued until the
 engines And Power Date: 20 a a0 introduction of the Type 6 about Star-
 Movement Point Rate 2/1 2/1 2/1 date 1/9804. This newer model carried
 i" — . on
-Warp Engine Type — awn soe ; an upgraded beam weapon. and
+warp_engine_type awn soe ; an upgraded beam weapon. and
 Number — : a .
-Power Units Available — No So So mounted a more eS oan engine:
-Stress Charts — — 2 throu
-Maximum Safe Cruising Speed — Warp 7 Warp? warp? existing vessels of Types g
-Emergency Speed — mae. Rog” RID3 were not refitted, but were relegated to
+power_units_available — No So So mounted a more eS oan engine:
+stress_charts — — 2 throu
+max_cruising_speed — Warp 7 Warp? warp? existing vessels of Types g
+emerg_speed_unloaded— mae. Rog” RID3 were not refitted, but were relegated to
 Impulse Engine Type— “3 4 ; a
-Power Units Available — 5 ) 12 duties wenn ne empire yes <
+power_units_available — 5 ) 12 duties wenn ne empire yes <
 iri through 9 showed cosmetic changes
 Weapons And Firing Data:
-Beam Weapon Type — Be a Bee the Type 6, but about Stardate 2/0510,
-Firing Arcs — 1fip,1fis If's, 1fip NP It's the Type 10 was introduced with new-
+beam_weapon_type — Be a Bee the Type 6, but about Stardate 2/0510,
+firing_arcs— 1fip,1fis If's, 1fip NP It's the Type 10 was introduced with new-
 Mantra Pov > 4 6 style shields and more _ powerful
-Maximum Power — 2 : V Is in this
-Damage Modifiers - None a4) weapons and engines. Vessels |
+max_power— 2 : V Is in this
+damage_mod_ - None a4) weapons and engines. Vessels |
 fe - 1 6) (5 ~ 9) class were put into the reserve fleets
 - (7 — 10) (10 — 13)
 | about Stardate 2/14.
 Shields Data: RSD RSD RSE Of the approximately 300 built,
 po Snield Point Rate — 11 11 1.2 about 150 currently serve in the reserve
-Maximum Shield Power — ® ° ° fleet. It is known that at least 90 have
-| Combat Efficiency: = _D- 760 on 5 been sold to the private sector; one
+max_shields_power — ® ° ° fleet. It is known that at least 90 have
+| combat_efficiency: = _D- 760 on 5 been sold to the private sector; one
 wor | f T Type 7, and one Type 10
 ype 5, one Type 7, € typ
 operate exclusively in the Triangle.
@@ -461,25 +405,25 @@ Other Data: sure of the entire ship to unknown envi-
 Crew— 135 135 ronments put them in constant danger.
 Shatieoratt— None None These risks were unacceptable to the
 Eengines_power = { } Romulan High Command, so the class
-Total Power Units Available — 20 23 was reassigned as cruisers to supple-
+total_power_units — 20 23 was reassigned as cruisers to supple-
 Wore cnaetypen RWD-2 RWO-2 ment the fleets. It evidently saw no
 Number | ' greater success in this role, for it was
-Power Units Available — 18 18 ; -
-Stress Charts — o/a oa removed from active service about
+power_units_available — 18 18 ; -
+stress_charts — o/a oa removed from active service about
 nase Warpe Wares Stardate 2/0806. The Type 2 mounted
-Impulse Engine Type — RIB-1 RIB-3 better, bank-mounted weaponry and a
-Power Units Available = ; ° more powerful impulse drive.
+impulse_engine_type— RIB-1 RIB-3 better, bank-mounted weaponry and a
+power_units_available = ; ° more powerful impulse drive.
 Weapons oT en RR.2 RB-7 Of the approximately 100 built, half
 Number — 6 6 are assigned to reserve fleets. Eighteen
-Firing Arcs — 1p/a,4fwd,1s/a 1 p/a, 4fwd,1s/a é'
-Firing Chart — K J have been sold to the civil sector, where
+firing_arcs— 1p/a,4fwd,1s/a 1 p/a, 4fwd,1s/a é'
+firing_chart — K J have been sold to the civil sector, where
 Sermaaa Mouifiere— Sone 4 they are used as private research ves- -
 +2 (1 — 6) sels; two operate exclusively within the
 - a Triangle.
 Sens ata eld Type— asp _ The class is named for Vadaso
 ~ Shield Point Ratio— 11 11 Stelri (glider in the stars), an asteroid
-Maximum Shield Power — 8 "8 in the Romulan home system. Ancient
-: Combat Efficiency: WOR, 3 ae legend is reported to state that this
+max_shields_power — 8 "8 in the Romulan home system. Ancient
+: combat_efficiency: WOR, 3 ae legend is reported to state that this
 _ . . glider was a returning message from
 the gods, directing the Romulans to fol-
 ae low it on its road through the stars.
@@ -524,34 +468,34 @@ crew :f 220 a8 introduction of the Type 5, approxi-
 ultiecranm — F ° e .
 cnaines And P D mately Stardate 2/00. This version is re-
 ngines An ower Vata:
-Total Power Units Available — 35 37 ported to carry a small plasma weapon
+total_power_units — 35 37 ported to carry a small plasma weapon
 Movement Point Ratio— 3/1 3/1 and improved impulse drive system.
-Warp Engine Type — RWD-1 RWD-1 .
+warp_engine_type RWD-1 RWD-1 .
 Number — 2 2 Even so, the V-2 did not prove popular,
-Power Units Available — 16 16 .
-Stress Charts — 0/0 0/0 and has been replaced by the V-5 and
-Maximum Safe Cruising Speed — Warp6 Warp6 V-6 cruisers.
+power_units_available — 16 16 .
+stress_charts — 0/0 0/0 and has been replaced by the V-5 and
+max_cruising_speed — Warp6 Warp6 V-6 cruisers.
 Eme Speed — Warp 7 Warp7 ;
 Impulse Engine Type_— RIB.2 RIB.3 Of the approximately 70 Hunters
-Power Units Available — 3 built, about half are reported to be in
+power_units_available — 3 built, about half are reported to be in
 Weapons And Firing Data: reserve fleets and about 20 are repor-
-Beam Weapon Type — RB-4 RB-4 . ;
+beam_weapon_type — RB-4 RB-4 . ;
 Number — 6 6 tedly working as research vessels for
-Firing Chart atip. 21's, 2aft 2p. 24s. 2am private firms. This vessel has not yet
-Maximum Power — 6 6 been scanned at close range, and plans
-Damage Modifiers — 4) 4-9) given are highly speculative.
+firing_chart atip. 21's, 2aft 2p. 24s. 2am private firms. This vessel has not yet
+max_power— 6 6 been scanned at close range, and plans
+damage_mod_ — 4) 4-9) given are highly speculative.
 2 2 ) 3 i The ship is named from the Romu-
 Plasma Weapon Type — None RPL-1 lan hathos (hunter), likely in reference
 | Number to its mission in the Exploration Divi-
 iring Arcs — fwd :
-Firing Chart — E sion.
+firing_chart — E sion.
 Power To Arm — 10
 Damage — See Chart
 Shields Data:
-Deflector Shield Type — RSG RSJ
-Shield Point Ratio 11 11
-Maximum Shield Power — 12 14
-Combat Efficiency: D- 54.0 59.5
+deflector_shield_type— RSG RSJ
+shield_point_ratio11 11
+max_shields_power — 12 14
+combat_efficiency: D- 54.0 59.5
 WOF- 12.8 23.1 Emme
 eee B
 Cruisers 9
@@ -587,7 +531,7 @@ Seige hell any — 4000 mt 4000 mt 2 mounted a more powerful impulse drive syste
 landing_capability : — None None . . . ‘
 improved disruptors, which accounted for its greater
 equipment_data = { } _
-control_computer_type : R4M R4M combat efficiency.
+control_computer_type : R4M R4M combat_efficiency.
 Te aaa person ; , The V-4s were painted by crewmembers in a vari-
 Emergency 20-person 2 2 ety of patterns. These ships, though popular with their
 é 1 1 ° ,
@@ -596,31 +540,31 @@ Other Data: .
 crew :— 160 160 Stardate 2/16 for more powerful designs. Of the ap-
 Shuttlecraft — 2 2 proximately 135 built, about 65 are in reserve fleets.
 Eengines_power = { } Six are reported to be used as training vessels, and
-Total Power Units Available — 32 35
-Movement Point Ratio — 31 ry two are used as spaceborn | museums, one each
+total_power_units — 32 35
+movement_point_ratio31 ry two are used as spaceborn | museums, one each
 Warp Engine Type— RWC-2 RWC-2 stationed at Remus and at Corill. Eighteen are known
 umber 2 ° . . 8
-Power Units Available — 15 15 to be operating in the civil sector.
-Stress Charts — NO N-Q / j
+power_units_available — 15 15 to be operating in the civil sector.
+stress_charts — NO N-Q / j
 Manimum Sefe Cruising Speed— a Warpé On Stardate 1/9611, nine of these vessels are
-Emergency Speed — Warp 7 Warp? known to have been sent into the Triangle to liberate
-impulse Engine Type ie — nie nibs a small system from the Klingons. The Romulans pres-
+emerg_speed_unloaded— Warp 7 Warp? known to have been sent into the Triangle to liberate
+impulse_engine_typeie — nie nibs a small system from the Klingons. The Romulans pres-
 Weapons And Firing Data: sed the attack against the three D-7s protecting the
-Beam Weapon Type — RB-4 RB-8 . . . -
+beam_weapon_type — RB-4 RB-8 . . . -
 Number — 6 6 system, immediately destroying two and driving the
 ririne Chert- 4 Pla, 2IWG, 28'8 2 pia, 2 fwd, 28/8 other away. Flushed with victory, the Romulan com-
-Maximum Power — 6 5 mander sent five of his group after the fleeing enemy,
+max_power— 6 5 mander sent five of his group after the fleeing enemy,
 ) ) fiers — ° .
 Damage Moditiers 4-2) 4-4) but they encountered nine D-7s and three D-10s arriv-
 ' . . . ° a
 < 5 Oy lay ing to reinforce the area. The Romulans flew into a
 Shields Dat } classic trap laid by the Klingon battlegroup, and three
 elias Vata: .
-“Deflector Shield Type _ RSG RSJ were destroyed before getting off one shot. The re-
+“deflector_shield_type_ RSG RSJ were destroyed before getting off one shot. The re-
 Shield Point Ratio— 11 11 ri : ;
 ssevienuen Ghieid Power— 13 yA maining Romulans miraculously crippled four of the
 - Klingon vessels before one was crippled itself and the
-Combat Efficiency: D- 50.7 55.1 a | fled. The Kli band d th
+combat_efficiency: D- 50.7 55.1 a | fled. The Kli band d th
 WOF- 19.2 246 remaining vessel fled. The Klingons abandone e
 effort and withdrew from the area.
 oe o_ This battle caused a stir in the Klingon High Com-
@@ -675,44 +619,44 @@ Power Requirement — 15 15 bow-mounted plasma weapon, but this
 Other Data: version did not prove to be as combat-
 Shuttlecraft ee 5/0 efficient as the earlier model and has
 Eengines_power = { } not been reported in any great num-
-Total Power Units Available — 35 38 bers.
-Movement Point Ratio — 3/1 3/1 ; j
-Warp Engine Type — RWD-1 RWE-1 Of the approximately 80 built,
+total_power_units — 35 38 bers.
+movement_point_ratio3/1 3/1 ; j
+warp_engine_type RWD-1 RWE-1 Of the approximately 80 built,
 Number Avavlab ° ‘3 about 50 are assigned to reserve fleets.
 ower Units Available 6 : -
-Stress Charts — 0/0 7 Several are used as training vessels,
-Maximum Safe Cruising Speed — Warp6 Warp7 : j S
-Emergency Speed Warp 7 Warp8 and eight are reported to be in use a
-Impulse Engine Type — RIB-2 RID-3 private research vessels or cruisers.
-. Power Units Available — 3 V2 The class is named from the Romu-
+stress_charts — 0/0 7 Several are used as training vessels,
+max_cruising_speed — Warp6 Warp7 : j S
+emerg_speed_unloadedWarp 7 Warp8 and eight are reported to be in use a
+impulse_engine_type— RIB-2 RID-3 private research vessels or cruisers.
+. power_units_available — 3 V2 The class is named from the Romu-
 Weapons And Firing Data: - i
-Beam Weapon Type — RB-5 RB-5 lan ralaaram ocala (fire from the sky),
+beam_weapon_type — RB-5 RB-5 lan ralaaram ocala (fire from the sky),
 Number — 4 4 in reference to its military capabilities.
-Firing Arcs - 2pa,2sa 2pa,2sa
-Firing Chart V V
-Maximum Power — 5 5
-Damage Modifiers —
+firing_arcs- 2pa,2sa 2pa,2sa
+firing_chart V V
+max_power— 5 5
+damage_mod_ —
 +3 (1 10) (1 — 10)
 +2 (11 16) (11 16)
 +] (17 — 21) (17 — 21)
-Beam Weapon Type — RB-6
+beam_weapon_type — RB-6
 Number 2
-‘ Firing Arcs — fwd
-Firing Chart T
-Maximum Power — 6
-Damage Modifiers — +2 (1 — 18)
+‘ firing_arcs— fwd
+firing_chart T
+max_power— 6
+damage_mod_ — +2 (1 — 18)
 Missile Weapon Type None RPL-1
 Number 1 SS
-‘ Firing Arcs fwd WT — ae —
-Firing Chart — E mf ae ie.
+‘ firing_arcsfwd WT — ae —
+firing_chart — E mf ae ie.
 Power ToArm 10
 Damage — See Chart — vs
 ees — "
 Shields Data: tens
-Deflector Shield Type — RSJ RSJ = -
+deflector_shield_type— RSJ RSJ = -
 Shield Point Ratio— 11 a ey
-Maximum Shield Power 14
-Combat Efficiency: D- 61.3 61.7
+max_shields_power 14
+combat_efficiency: D- 61.3 61.7
 WDF- 43.8 28.4
 Cruisers 11
 
@@ -768,42 +712,42 @@ Ce 308 300 308 it is speculated that this model would
 Enaines AndP Dat have been an even match for a Constitu- ,
 ngines And Power a: . .
 
-Total Power Units Available — 40 40 52 tion Class cruiser.
+total_power_units — 40 40 52 tion Class cruiser.
 
 Movement Point Ratio— 4/1 4/1 4/1 ; .
 
 Warp Engine Type— RWF-1 RWF-1 RWG-1 with the Type 5, introduced about
-Number — 2 2 2 Stardate 2/11, the combat efficiency im-
-Power Units Available — 18 18 . . °
-Stress Charts — G/L G/L GIL proved because its more powerful dis-
-Maximum Safe Cruising Speed — were? Warp? Webs ruptors, more efficient shields, and
+Number — 2 2 2 Stardate 2/11, the combat_efficiency im-
+power_units_available — 18 18 . . °
+stress_charts — G/L G/L GIL proved because its more powerful dis-
+max_cruising_speed — were? Warp? Webs ruptors, more efficient shields, and
 
 mergency Speed — arp arp -
 
 Impulse Engine Type— RID-1 RID-1 RID-1 stronger superstructure. At this time, all
 
-3 Power Units Available ‘ ‘ ‘ Type 1s were recalled for refitting to the
+3 power_units_available ‘ ‘ ‘ Type 1s were recalled for refitting to the
 Weapons And Firing Data: ap.6 ap. _— new configuration, and, by Stardate 2/
 Number — 6, in 3 banks of 2 6, in 3 banks of 2 6, in 3 banks of 2 13, this process had been completed.
-Firing Arcs 2p'f,2fwd,2f's 2p f,2fwd,2f's 2p'f,2 fwd, 2f's . . . .
-Firing Chart — T Ww W The Type 5 remained in service until
-Maximum Power — 5 6 6 about Stardate 2/22, when all had been
-Damage Modifiers —
+firing_arcs2p'f,2fwd,2f's 2p f,2fwd,2f's 2p'f,2 fwd, 2f's . . . .
+firing_chart — T Ww W The Type 5 remained in service until
+max_power— 5 6 6 about Stardate 2/22, when all had been
+damage_mod_ —
 +3 - (1 8) (1 - 8) converted to the Type 7.
 4 1 ~ 18) y ym 7 20 The Type 7, introduced on Stardate
 Plasma Weapon Type — RPL-2 RPL-2 RPL-2 2/1607, mounted improved engines and
 Number — 1 1 1 ;
-Firing Arcs — fwd fwd fwd was structurally improved. Vessels of
-Firing Chart — M M M this type are expected to remain a
+firing_arcs— fwd fwd fwd was structurally improved. Vessels of
+firing_chart — M M M this type are expected to remain a
 Power To Arm — 15 15 15 . .
 Damage — See Chart See Chart See Chart mainstay of the active Navy.
 Shields Data: _ Of the approximately 100 V-6s built,
 
-Deflector Shield Type — RSN RSO RSO nearly all remain in active service. One
+deflector_shield_type— RSN RSO RSO nearly all remain in active service. One
 
 Shield Point Ratio— 1/2 1.3 13 .
-Maximum Shield Power — 15 15 15 operates as a private research vessel,
-Combat Efficiency: —D- 78.6 96.0 113.7 appearing infrequently in the Triangle.
+max_shields_power — 15 15 15 operates as a private research vessel,
+combat_efficiency: —D- 78.6 96.0 113.7 appearing infrequently in the Triangle.
 WODF- | 628 75.4 S40 The class is named from the Romu-
 lan s’‘ten vastam (gallant wing).
 12 Cruisers
@@ -858,56 +802,56 @@ Eengines_power = { } for the Romulan Navy, as exemplified by this Project
 pple Power Soils Available “ a4 Grey Ghost report of an incident between two V-7s
 ovement Point Ratio — 4/1 4/1 : ; ; ;
 
-Warp Engine Type — RWF-1 RWF-1 and two Klingon L-9Class frigates. The V-7s, investigat-
+warp_engine_type RWF-1 RWF-1 and two Klingon L-9Class frigates. The V-7s, investigat-
 sero oe Available. a e ing asteroid clusters, detected the Klingons as they
 StressCharts— Git GiL approached. Both V-17s cloaked and deployed. As the
-Maximum Safe Cruising Speed — Warp7 Warp7 . . . h id
-Emergency Speed — Warp 9 Warp9 unsuspecting Klingons began surveying the asteroids,
+max_cruising_speed — Warp7 Warp7 . . . h id
+emerg_speed_unloaded— Warp 9 Warp9 unsuspecting Klingons began surveying the asteroids,
 
-Impulse Engine Type RID-2 gi? the V-7s decloaked and opened fire, only to have the
+impulse_engine_typeRID-2 gi? the V-7s decloaked and opened fire, only to have the
 
 Klingons disappear from view and sensor, obviously
 Weapons And Firing Data: ; oo ; ;
 
-Beam Weapon Type — RB-5 RB-5 taking advantage of cloaking capabilities acquired in
+beam_weapon_type — RB-5 RB-5 taking advantage of cloaking capabilities acquired in
 ay outa ttt the technological exchange. In the waiting game that
 Mane cna y y followed, all four ships remained cloaked and invisible
 
 er— . .
-Damage Modifiers — to sensors for several hours. Finally, one of the Klingon
+damage_mod_ — to sensors for several hours. Finally, one of the Klingon
 «13 i pi Ay na) commanders became impatient and attempted to warp
 ‘ °
 +1 (17 — 21) (17 — 21) away from the area. Unfortunately, his path of depar-
 
 Bea meson Type — - Fe sank ture resulted in a collision and catastrophic explosion.
-Firing Arcs — - fwd The remaining ships immediately decloaked, only to
-Firing Chart — - Ww
+firing_arcs— - fwd The remaining ships immediately decloaked, only to
+firing_chart — - Ww
 
-| Maximum Power — - p find themselves lying aft to aft, which put the Klingon
-Damage Modifiers — ; 4-8) at a disadvantage because of its lack of torpedoes to
+| max_power— - p find themselves lying aft to aft, which put the Klingon
+damage_mod_ — ; 4-8) at a disadvantage because of its lack of torpedoes to
 2 - 8 19) the rear. It suffered serious damage and surrendered
 
 Missile Weapon Type — None ae to the Romulan commander, who allowed the Klingon
-Firing Arcs - Swe dat to leave after surrendering the cloaking device.
+firing_arcs- Swe dat to leave after surrendering the cloaking device.
 
-Firing Chart — - H The class is named for a meteorological distur-
+firing_chart — - H The class is named for a meteorological distur-
 Damage - 5 bance peculiar to Remus. As described in The Eridam
 
 Pasa weapon Type— APL None Papers, twice per Remus year, a hot wind blows across
 
 umber — ‘ . °
 
-Firing Arcs — fwd the northern hemisphere for as long as five days. Min-
+firing_arcs— fwd the northern hemisphere for as long as five days. Min-
 
 pring Chat “ eral particles from the western cliffs are borne aloft by
 Damage — See Chart the winds, and, at night, their phosphorescense causes
 Shields Data: the hemisphere-wide nightglow that gives the weather
 
-Deflector Shield Type — RSK RSL : : ;
+deflector_shield_type— RSK RSL : : ;
 
-Shield Point Ratio — 12 13 phenomenon its name aye mosaram (white wind).
-Maximum Shield Power — 13 14
-Combat Efficiency: D/WDF- 79.6/45.0 88.5/49.8
+shield_point_ratio— 12 13 phenomenon its name aye mosaram (white wind).
+max_shields_power — 13 14
+combat_efficiency: D/WDF- 79.6/45.0 88.5/49.8
 Cruisers 13
 
 oAKS V-8 (Bird Of Prey) Class VI Crui fA
@@ -948,35 +892,35 @@ Power Requirement — 18 1S Romulan military actions. For many years, these ves-
 Other Data: ss +50 sels were believed to be the mainstay of the Romulan
 Se orate — None None fleet, but improved intelligence reveals that this was
 Eengines_power = { } a misconception.
-Total Power Units Available — 26 28 The vessel was designed to carry the RPL-2 plasma
+total_power_units — 26 28 The vessel was designed to carry the RPL-2 plasma
 vow ment eo Ratio av C A weapon; because of its size and bulk, the Type 1 ships
 Warp Engine Type— RWC-1 -j ' ' '
 Number— <. é 136 meters long, actually were built around the 110-
-Power Units Available — 12 12 ;
+power_units_available — 12 12 ;
 StressCharts— M/P M/P foot-long weapon. The other major feature of the Type
 Ernergoncy Speedan Speed — Warpe Warde 1 was the use of new shielding technology. The Type
-impulse Engine Type ae Mee 4, with upgraded disruptors, was introduced to over-
+impulse_engine_typeae Mee 4, with upgraded disruptors, was introduced to over-
 Wwe ts alabdie — . ° °
 ™ , ° >. come the inadequate firepower of earlier models.
 Weapons And Firing Data: . . .
-Beam Weapon Type — RB-4 RB-6 Of the approximately 100 ships built, about 40 are
+beam_weapon_type — RB-4 RB-6 Of the approximately 100 ships built, about 40 are
 Number — q 2 assigned to reserve fleets. Six have been modified and
-Firing Arcs — port/fwd/stbd port fwd stbd a . ;
-Firing Chart — J T sold to the civil sector, including two Type 1s, one each
-Damage Modifiers — ° ° of Type 2 and Type 3, and two Type 4s, all of which
+firing_arcs— port/fwd/stbd port fwd stbd a . ;
+firing_chart — J T sold to the civil sector, including two Type 1s, one each
+damage_mod_ — ° ° of Type 2 and Type 3, and two Type 4s, all of which
 +3 4 . —_ operate in and out of the Triangle.
 “4 (7 ~ 10) - The class is named for the Romulan vas hatham
 Plasma Weapon Type — Pee nPlee (bird of prey), in reference to a huge, flying predator,
 u r— .
-Firing Arcs — fwd fwd reportedly native to Romulus, but so revered that they
-Firing Chart M M
+firing_arcs— fwd fwd reportedly native to Romulus, but so revered that they
+firing_chart M M
 Power To Arm — 15 15 have been transplanted to several of the conquered
 Damage — See Chart See Chart worlds in the empire. Living for nearly 100 years, these
 Shields Data: < ash avians can reach nearly giant proportions, some hav-
-Deflector Shield Type — RSE ° . . . .
+deflector_shield_type— RSE ° . . . .
 Shield Point Ratio— 12 12 ing wingspans as wide as 50 feet and weighing as
-Maximum Shield Power 8 11 much as 400 pounds.
-Combat Efficiency: D- 57.5 63.5
+max_shields_power 8 11 much as 400 pounds.
+combat_efficiency: D- 57.5 63.5
 WDF- 21.4 32.0
 ———“a 2
 a eee
@@ -1017,36 +961,36 @@ Power Requirement — 6 's device. This vessel reportedly became
 Other Data: seo seo extremely popular with front line com-
 Shuttlecraft — 2 2 manders, because of its ability to de-
 Eengines_power = { } liver multiple plasma weapon strikes. It
-Total Power Units Available — 28 34 ;
+total_power_units — 28 34 ;
 Movement Paint Ratio ae oo did not, however, address the speed
 Warp Engine Type— RWC. RWC-2 problem still seen in the concurrent
 umber 2
-Power Units Available — 12 15 Type 4 V-8, and several power plant
-Stress Charts — MP N/OQ j
-Maximum Safe Cruising Speed — Warp4 Wary 6 changes resulted in the successful Type
-Emergency Speed — Warp6 Warp7 6.
-Impulse Engine Type — RIC-2 RIC-2 i . .
+power_units_available — 12 15 Type 4 V-8, and several power plant
+stress_charts — MP N/OQ j
+max_cruising_speed — Warp4 Wary 6 changes resulted in the successful Type
+emerg_speed_unloaded— Warp6 Warp7 6.
+impulse_engine_type— RIC-2 RIC-2 i . .
 Power Unite Anailable— ; , Of the approximately 180 V 9s con
 i structed, about 160 remain in active ser-
 Weapons And Firing Data: .
-Beam Weapon Type — RB-6 RB-6 vice; of these, some are known to be
+beam_weapon_type — RB-6 RB-6 vice; of these, some are known to be
 Number — 4, in 2 banks of 2 4,in2 banks of 2 ; i
-Firing Arcs — 2 oltis, 2 aft Doitis, 2 of assigned to Romulan Intelligence as
-Firing Chart — T T training vessels. There are reports of
-Maximum Power — 6 6 h | . wae
-Damage Modifiers — these vessels operating within the
+firing_arcs— 2 oltis, 2 aft Doitis, 2 of assigned to Romulan Intelligence as
+firing_chart — T T training vessels. There are reports of
+max_power— 6 6 h | . wae
+damage_mod_ — these vessels operating within the
 +2 (1 — 18) (1 — 18) i
 Plasma Weapon Type — RPL-1 RPL-1 Triangle. .
 Number — 2 2 The class is named from the Romu-
-Firing Arcs F F ; :
-Firing Chart — E c lan temar vastaram (night flyer), in re-
+firing_arcsF F ; :
+firing_chart — E c lan temar vastaram (night flyer), in re-
 Power To Arm — 10 chan 10 oy ference to a small, nocturnal, flying pre-
 amage— o0ee ar t ° °
 shields D 3 “ees dator native to Remus. The Eridam Pa-
 "Dellector Shield Type — ast _— pers state that they were the source of
 Shield Point Ratio— 12 12 many ancient legends and myths about
-Maximum Shield Power " " invisible predators from another di
-Combat Efficiency: D- 63.5 70.4 .
+max_shields_power " " invisible predators from another di
+combat_efficiency: D- 63.5 70.4 .
 WDF- 42.4 42.4 MENSION.
 Cruisers 15
 
@@ -1101,44 +1045,44 @@ rew— . ° .
 Troops — 520 320 590 ges shieies. or weapons: these were
 Shuttlecraft — 5 5 5 itted as the lype with a plasma
 Eengines_power = { } weapon and more efficient shielding.
-Total Power Units Available — 40 41 44 . . .
-Movement Point Ratio — 4/1 a1 4/1 The 50 vessels in the final shipment also
+total_power_units — 40 41 44 . . .
+movement_point_ratio4/1 a1 4/1 The 50 vessels in the final shipment also
 Warp Engine Type- swo RW) We were delivered completely stripped,
-Power Units Available 18 16 18 and these were fitted as the Type 5, with
-Stress Charts — L/N 0/0 L . . .
-Maximum Safe Cruising Speed — Warp6 Warp7 Warp7 fore and aft mounted photon tor
-Emergency Speed — Warp8 Warp9 Werp8 pedoes reminiscent of the Klingon D-
-Impulse Engine Type — KIC-2 RIC-2 - “ ¢-
-Power Units Available — 4 5 4 uM Class. Types 3 and 4 are modified
+power_units_available 18 16 18 and these were fitted as the Type 5, with
+stress_charts — L/N 0/0 L . . .
+max_cruising_speed — Warp6 Warp7 Warp7 fore and aft mounted photon tor
+emerg_speed_unloaded— Warp8 Warp9 Werp8 pedoes reminiscent of the Klingon D-
+impulse_engine_type— KIC-2 RIC-2 - “ ¢-
+power_units_available — 4 5 4 uM Class. Types 3 and 4 are modified
 - e 1s.
 Weapons And Firing Data: yp
-Beam Weapon Type — RB-6 RB-6 RB-10 Although 172 of these ships have
+beam_weapon_type — RB-6 RB-6 RB-10 Although 172 of these ships have
 er — 4 4 4 :
 Firing Aves 2p. 24s 2pf.2t's 2p. 2t's entered Romulan service, they are not
 pang Chart : : : liked by their commanders or crews,
 aximum Fower — °
-Damage Modifiers — many of whom consider them to be
+damage_mod_ — many of whom consider them to be
 +3 - - (1 — 8)
 2 (1 — 18) (1 18) (9 — 16) enemy vessels. In recent years, the
 +4 - - (17 — 20) Romulans have begun deploying many
 Missile Weapon Type — None None RP-3 . s 3 .
 Number — - - 2 of the approximately 160 remaining in
-Firing Chart — - - Awe tan active service along the Klingon bor-
+firing_chart — - - Awe tan active service along the Klingon bor-
 Power To Arm — - - ders in direct violation of the signed ac-
 Damage — - ~ 0
 Plasma Weapon Type— None RPL-1 None cords. ;
 Number q ~ The class is named for the
-Firing Arcs — - fwd - , .
-Firing Chart — . E - vas’kalabam (bird of storms), a small,
+firing_arcs— - fwd - , .
+firing_chart — . E - vas’kalabam (bird of storms), a small,
 Power To Arm — - 10 ~ . :
 Damage — - See Chart - flying predator of Remus. These noctur
 Shields Date nal avians are often seen gliding on the
 i : . 6 e . .
-Deflector Shield Type — RSG RSK RS! rising winds before a storm and it is
-Shield Point Ratio — 17 12 13 . . .
-Maximum Shield Power — 11 13 11 See ot “ mpnee travelling nen
+deflector_shield_type— RSG RSK RS! rising winds before a storm and it is
+shield_point_ratio— 17 12 13 . . .
+max_shields_power — 11 13 11 See ot “ mpnee travelling nen
 in vanguard of a
-Combat Efficiency: D- 58.6 76.6 93.0 reds oF miles e vang
+combat_efficiency: D- 58.6 76.6 93.0 reds oF miles e vang
 WDF- 30.8 36.6 58.2 storm.
 16 Cruisers
 
@@ -1185,44 +1129,44 @@ Other Data: or interior fires.
 crew :— 205 205 .
 Shuttlecraft — > r Ail of the approximately 70 vessels
 Eengines_power = { } built are in active service. Reports re-
-Total Power Units Available — 42 42 veal that ten of both types are being
-Movement Point Ratio — 3/1 3/1 .
-Warp Engine Type — RWD.-1 RWD-1 manufactured per year, which recent
+total_power_units — 42 42 veal that ten of both types are being
+movement_point_ratio3/1 3/1 .
+warp_engine_type RWD.-1 RWD-1 manufactured per year, which recent
 Number — | 2 2 rapid build-up has alarmed both the
-Power Units Available — 16 16 .
-Stress Charts — 0/0 0/0 Klingons and UFP.
-Maximum Safe Cruising Speed — Warp6 Warp6 ; .
-Emergency Speed Warp? Warp7 The class Is named from the Romu
-Impulse Engine Type — RIE-1 RIE-1 lan galan stelri (seeker of stars), in refer-
-Power Units Available — 10 10 . . . . .
+power_units_available — 16 16 .
+stress_charts — 0/0 0/0 Klingons and UFP.
+max_cruising_speed — Warp6 Warp6 ; .
+emerg_speed_unloadedWarp? Warp7 The class Is named from the Romu
+impulse_engine_type— RIE-1 RIE-1 lan galan stelri (seeker of stars), in refer-
+power_units_available — 10 10 . . . . .
 ence to its mission in the Exploration
 Weapons And Firing Data: viel
-Beam Weapon Type — RB-10 RB-10 Division.
+beam_weapon_type — RB-10 RB-10 Division.
 Number — 4, in 2 banks of 2 4,in2 banks of 2
-Firing Arcs — 2f'p,2f's 2f/p,2fi/s
-Firing Chart U U
-Maximum Power — 8 8
-Damage Modifiers —
+firing_arcs— 2f'p,2f's 2f/p,2fi/s
+firing_chart U U
+max_power— 8 8
+damage_mod_ —
 +3 (1 ~ 8) (1 — 8)
 +2 (9 — 16) (9 — 16)
 +1 (17 — 20) (17 ~ 20)
 Missile Weapon Type — None RP-2
 Number - 3
-Firing Arcs — - 2 fwd, 1 aft
-Firing Chart — H
+firing_arcs— - 2 fwd, 1 aft
+firing_chart — H
 Power To Arm — - 1
 Damage — 8 pre
 Plasma Weapon Type RPL-2 None ——
 Number — 1 ~~. ——
-Firing Arcs fwd ., IE —"
-Firing Chart — M SS —
+firing_arcsfwd ., IE —"
+firing_chart — M SS —
 Power To Arm — 15 ~
 Damage — See Chart .
 Shields Data:
-Deflector Shield Type — RSH RSK
+deflector_shield_type— RSH RSK
 Shield Point Ratio— 12 1.2
-Maximum Shield Power — 10 14
-Combat Efficiency: D- 76.9 84.3
+max_shields_power — 10 14
+combat_efficiency: D- 76.9 84.3
 WDF- 58.2 52.4
 Cruisers 17
 
@@ -1272,40 +1216,40 @@ Other Data: . .
 Crew— 420 420 high-powered disruptors.The Comet
 Shuttlecralt— 6 6 saw combat early in its career and
 Eengines_power = { } | -
-Total Power Units Available — 52 52 proved itself to be a formidab © Oppo
-Movement Point Ratio — 4/1 4/1 nent. The Type 2, introduced about
+total_power_units — 52 52 proved itself to be a formidab © Oppo
+movement_point_ratio4/1 4/1 nent. The Type 2, introduced about
 Warp Engine Type— BWGel awerl Stardate 2/18, mounted improved
-Power Units Available — 24 24 photon weaponry and disruptors.
-Stress Charts — GL Gil . V-27s buil
-Maximum Safe Cruising Speed — Warp7 Warp 7 Of the approximately 50 V-27s built,
-Emergency Speed — Warp 9 Warp 9 all are in active service. These ships are
-Impulse Engine Type — RID-1 RID-1 ;
-Power Units Available — 4 4 being produced at a rate of about ten
+power_units_available — 24 24 photon weaponry and disruptors.
+stress_charts — GL Gil . V-27s buil
+max_cruising_speed — Warp7 Warp 7 Of the approximately 50 V-27s built,
+emerg_speed_unloaded— Warp 9 Warp 9 all are in active service. These ships are
+impulse_engine_type— RID-1 RID-1 ;
+power_units_available — 4 4 being produced at a rate of about ten
 Weapons And Firing Data: per year, a number that has alarmed
-Beam Weapon Type — RB-10 RB-11 ;
+beam_weapon_type — RB-10 RB-11 ;
 Number — 4, in 2 banks of 2 4, in2 banks of 2 both the Klingons and UFP commands
-Firing Arcs — 2p f.2fs 2pf,2f's because the balance of power could
-Firing Chart — U V . . . .
-Maximum Power — 8 9 easily be swayed with the introduction
-Damage Modifiers 48) 40) of large numbers of a ship of this power.
+firing_arcs— 2p f.2fs 2pf,2f's because the balance of power could
+firing_chart — U V . . . .
+max_power— 8 9 easily be swayed with the introduction
+damage_mod_ 48) 40) of large numbers of a ship of this power.
 +2 (8 — 16) (11 16) The class is named from the Romu-
 +1 (17 — 20) (17 — 21) -
-Beam Weapon Type— RB-6 RB-6 lan takara morlatta (comet of destruc
+beam_weapon_type— RB-6 RB-6 lan takara morlatta (comet of destruc
 Number — 2, ina bank 2, in a bank tion), in reference to a comet that for-
 rin? Choste th =i merly traveled through the Romulan
-Firing Chart— T T
-Maximum Power — 6 6 - le. Ac-
-Damage Modifiers— +2 1-18) ") - 18) home system on a 40 year cycle. Ac
+firing_chart— T T
+max_power— 6 6 - le. Ac-
+damage_mod_— +2 1-18) ") - 18) home system on a 40 year cycle. Ac
 Missile Weapon Type — RP-2 RP-3 cording to The Eridam Papers, this
 Number — 2 2
-| Firing Arcs — 1 fwd, 1 aft 1 fwd, 1 aft comet was seen by early Romulans as
-Firing Chart — H Q a bearer of death and destruction. It was
+| firing_arcs— 1 fwd, 1 aft 1 fwd, 1 aft comet was seen by early Romulans as
+firing_chart — H Q a bearer of death and destruction. It was
 Power To Arm — 1 1
 Damage — 8 10 destroyed by the Romulan navy shortly
 Shields Data: after inter-planetary travel was estab-
-Deflector Shield Type — RSN RSN lished.
+deflector_shield_type— RSN RSN lished.
 Shield Point Ratio— 12 1.2
-Maximum Shield Power — 15 15
+max_shields_power — 15 15
 CombatEfficiency: D- , 93.8 95.2
 WDF- 64.2 79.6
 18 Cruisers
@@ -1372,7 +1316,7 @@ Total Power Links Ava sic RWG-1 Zone, following Federation ships that approac
 7 a .
 Warp Engine Type. 2 : sensors range of any Fede ification of the
 Warp Engine Typ 24 ade exact identifi
-Power Units Available — GL ne 7 the Zone. This has dh s added to the confusion con-
+power_units_available — GL ne 7 the Zone. This has dh s added to the confusion con-
 ow arp . . a . ;
 StressCharts— Speed — Warp 7 Warp9 vessel impossible, ana nas f these cruisers.
 ximum Safe Cruising Sp Warp9 3 . t disposition o
@@ -1387,19 +1331,19 @@ ber — 4fwd,1p.1s,1pa,1s recorded in e
 num Arcs WwW 6 there are no tion vessels, most experts agre
 ining a 6 . ' .
 Manbnurn Power— ° , these ships and bet een a V-30 and an Enterprise
-Damage Modifiers — (1 ~ 8) (9 16) that an encounter be a fairly even match of firepower.
+damage_mod_ — (1 ~ 8) (9 16) that an encounter be a fairly even match of firepower.
 +3 9 16), (17 ~ 20) Class cruiser would bea f Klingon encounters with
 if ne RP-3 substantiated reports o . . V-30s repor-
 Ne 3 Un n received, with the
 Missile Weapon Type — 2 fwd, 1 aft these vessels have bee
 Number — - Q ictorious in all cases. ;
-Firing Arcs — 1 tedly being victor 35 built, all remain on active
+firing_arcs— 1 tedly being victor 35 built, all remain on active
 Power To Arm — - None . border areas. Current intellig
 Damage — Type— APL ; duty assigned to as seven Winged Defenders
 eapo - n
 Oe Rnbee we - ports ina aided pervect
-Firing Arcs ~- = i aadead p , ‘de-
-Firing Chart — 8 - are being is named from the Romulan vas
+firing_arcs~- = i aadead p , ‘de-
+firing_chart — 8 - are being is named from the Romulan vas
 ree mee enn the class ), in reference to a small, fly-
 Damage — RSL letham (winged defender) in These small birds have
 ields Data: RSL 13 tive to ; ,
@@ -1407,7 +1351,7 @@ Defector Shield Type — 13 13 ing vreau’ . fight to the death to defend their
 Shield Point Ratio— been know lans
 imum Shield Power — 131.3 —_ -grown Romulans.
 Maxima 129.8 103.3 driving away even full-g
-Combat Efficiency: Wor. 98.9
+combat_efficiency: Wor. 98.9
 ! Cruisers 19
 
 iN Ai
@@ -1444,31 +1388,31 @@ Other Data Types 2 and 3 had slight interior and cosmetic changes,
 ata: . , * °
 crew :— 16 16 but they did not really address the issue of mission
 Eengines_power = { } suitability and represented no real improvement over
-Total Power Units Available — 8 13 he 7 2 1. The T medi hij howeve
+total_power_units — 8 13 he 7 2 1. The T medi hij howeve
 Movement Point Ratio 1/2 1/1 tne ype e type 4 remedied t Sy owever, and
-Warp Engine Type — RWA-1 RWB-1 has not been changed in over 20 years; it has a larger,
+warp_engine_type RWA-1 RWB-1 has not been changed in over 20 years; it has a larger,
 Number — 1 1 —— - .
-Power Units Available — 6 10 more powerful warp engine and impulse engine and
-Stress Charts — K/M KO upgraded weaponry. By Stardate 2/0412, all vessels of
-Maximum Safe Cruising Speed — Warp7 Warp6 i Lye : oo
-Emergency Speed — Warp8 Warp 7 this class still in service are thought to have been con-
-Impulse Engine Type — RIA-2 RIA-3
-Power Units Available — 2 3 verted to Type 4. . .
+power_units_available — 6 10 more powerful warp engine and impulse engine and
+stress_charts — K/M KO upgraded weaponry. By Stardate 2/0412, all vessels of
+max_cruising_speed — Warp7 Warp6 i Lye : oo
+emerg_speed_unloaded— Warp8 Warp 7 this class still in service are thought to have been con-
+impulse_engine_type— RIA-2 RIA-3
+power_units_available — 2 3 verted to Type 4. . .
 Of the approximately 1,500 P-2s built, about 950
 Weapons And Firing Data: ; En. oo.
-Beam Weapon Type — RB-2 RB-2a are in active service, about 50 are assigned to reserve
+beam_weapon_type — RB-2 RB-2a are in active service, about 50 are assigned to reserve
 Number — 2 . 2 . fleets, and about 350 have been lost or destroyed. Best
-Firing Arcs lfip/a,1fis‘a 1 f'p’/a, 1f's’a _F
-Firing Chart— K K count shows 117 vessels operating in the civil sector;
+firing_arcslfip/a,1fis‘a 1 f'p’/a, 1f's’a _F
+firing_chart— K K count shows 117 vessels operating in the civil sector;
 Me Power — 2 3 |
-Damage Modifiers — sone ° of these, two Type 1s, one Type 2, and two Type 4s
+damage_mod_ — sone ° of these, two Type 1s, one Type 2, and two Type 4s
 +3 iP S operate almost exclusively in the Triangle.
 4 - (10 — 14) The Eridam Papers indicate that the class derives
 Shields Data: _ its name from a small creature of Romulan mythology,
 Det eee oe, — BoA ase a familiar kept by Monan the Seer. The legend says
 Well oin atlo— i ° °
-Maximum Shield Power — 5 10 that one day, while Monan was away, bandits attemp-
-Combat Efficiency: D- 343 55.7 ted to enter his abode and steal his treasures. They
+max_shields_power — 5 10 that one day, while Monan was away, bandits attemp-
+combat_efficiency: D- 343 55.7 ted to enter his abode and steal his treasures. They
 WOF- 1.6 4.2 were surprised by this strange little reptile, which at-
 tacked without care for its safety. Upon his return
 home, Monan found seven dead bandits and his famil-
@@ -1514,26 +1458,26 @@ Other Data: in the Type 3. By Stardate 2/0612, all
 crew :— 12 12 . .
 Shuttlecraft- None None Type 1s and Type 2s in service were
 Eengines_power = { } refitted with the newer weapons.
-Total Power Units Available — 10 10 Of the approximately 960 P-3s built,
+total_power_units — 10 10 Of the approximately 960 P-3s built,
 Movement Point Ratio 1/2 1/2 . fc . ; ~ _- .
 Sub tight Engine Type— RSLA RSLA about 650 are in active service, about
 umber 1 1 j
 Sovarliaie Availebie i 1 "0 are tn reserve Hees and aout
-Stress Charts — HJ HJ ave een tost or estroyed. Intelli-
+stress_charts — HJ HJ ave een tost or estroyed. Intelli-
 Weapons And Firing Data: gence estimates show about 100 Type
-Beam Weapon Type— RB-2 AB-2 1/Type 2s and 30 Type 3s in use in the
-Firing Arcs — 1f's, 1f'p 1 fip, 1's civil sector; of these, two Type 1s, two
+beam_weapon_type— RB-2 AB-2 1/Type 2s and 30 Type 3s in use in the
+firing_arcs— 1f's, 1f'p 1 fip, 1's civil sector; of these, two Type 1s, two
 Che < .
 Mon onurn Power — ; ; Type 2s, and one Type 3 are based in
-Damage Modifiers None the Triangle.
+damage_mod_ None the Triangle.
 +3 (1 ~ 4) ,
 2 (5 9) The class is reportedly named for
 +1 (10 14) the Caladan Mountains of Remus,
 Shields Data: j ity.
-Deflector Shield Type ASA asc which are reputed to protect the city
+deflector_shield_typeASA asc which are reputed to protect the city
 Shield Point Ratio— 11 12 states on their leeward sides from the
-Maximum Shield Power — 5 10 . constant and violent winds and also
-Combat Efficiency: D- 38.3 39.8 bd from marauders.
+max_shields_power — 5 10 . constant and violent winds and also
+combat_efficiency: D- 38.3 39.8 bd from marauders.
 WDF- 1.6 4.2 aie ah,
 SW
 — }
@@ -1603,29 +1547,29 @@ Other Data: made the ships more structurally
 Crew— 16 sound, probably because of the added
 Shumlecralt None support required for the tandem warp
 Eengines_power = { } .
-oyotal Power Units Available — 20 engines. .
-Movement Point Ratio — vi , As of this date, only one type is be-
+oyotal power_units_available — 20 engines. .
+movement_point_ratiovi , As of this date, only one type is be-
 Warp engine lype— li be i ice. It obviously has
 Number — 2 ieved to be in service. It o y
 mower dots Available” aM proven effective in its gunboat/systems
 otress Charts — 1. @ ,
-Maximum Safe Cruising Speed — Warp6 patrol role, and it is being used along
-Emergency Speed — i Federation borders and those of the
-Impulse Engine Type — -2 | |
-Power Units Available — 2 Triangle. Of the 220 acquired in the ex-
+max_cruising_speed — Warp6 patrol role, and it is being used along
+emerg_speed_unloaded— i Federation borders and those of the
+impulse_engine_type— -2 | |
+power_units_available — 2 Triangle. Of the 220 acquired in the ex-
 Weapons And Firing Data: — change, about 200 are'in active service.
-Beam Weapon Type— 4, in banks of 2 Six have been been seen in the Triangle
-Firing Arcs — 2pf's,2pas operating in the civil sector.
+beam_weapon_type— 4, in banks of 2 Six have been been seen in the Triangle
+firing_arcs— 2pf's,2pas operating in the civil sector.
 F Chart — K
-Maximum Power — 3 The class is said to have been
+max_power— 3 The class is said to have been
 Pama (1. 4) named for the famous Praetor Comilius,
 +2 (5 9) who, after suffering several serious de-
 | oN feats at the hands of his enemies, with-
 Shields Data: . hold out for
-Deflector Shield Type — RSC drew to his capital city to h¢
-Shield Point Ratio — Ve six years against the massive armies
+deflector_shield_type— RSC drew to his capital city to h¢
+shield_point_ratio— Ve six years against the massive armies
 Maximum Shiela fowers " that each had assembled. He negotiated
-Combat Efficiency: WO er an alliance with one of his adversaries
+combat_efficiency: WO er an alliance with one of his adversaries
 and broke the siege, later conquered his
 remaining enemies, and brought peace
 to his people that lasted a century.
@@ -1884,19 +1828,19 @@ Eengines_power = { } a os os several years of service, the destroyers began
 Movement Point Ratio— “ 2/1 2/1 2/1 undergoing minor changes to the hull configura-
 Warp Engine Type— RWB eT RWB nwo tion and interior layout, and, beginning with the
 umber— e °
-Power Units Available — 10 10 10 Type 6, the weapons mountings were increased
-Stress Charts — M/P MP M/P .
-Maximum Safe Cruising Speed — Warp 6 Warp6 Warp 6 from four to six.
+power_units_available — 10 10 10 Type 6, the weapons mountings were increased
+stress_charts — M/P MP M/P .
+max_cruising_speed — Warp 6 Warp6 Warp 6 from four to six.
 Emergency Speed— warp? Warp? warp? The Type 7, with this new weapons arrange-
-ie power Units Available — 3 3 5 ment, a more powerful impulse engine, and
+ie power_units_available — 3 3 5 ment, a more powerful impulse engine, and
 iri ici | | rance
 Weapons And Firing Data: more efficient shields, made its appea
-Beam Weapon Type— ee ee RB 2a about Stardate 2/0803. A cloaking device also
+beam_weapon_type— ee ee RB 2a about Stardate 2/0803. A cloaking device also
 umber — .
-Firing Arcs — 2fip,2fs 2fp.2fs 2fp,2aft,2f's was installed on the Type 7. Reports from the
+firing_arcs— 2fip,2fs 2fp.2fs 2fp,2aft,2f's was installed on the Type 7. Reports from the
 i bethaata ; ‘ . Klingons indicate these were useful in escort
 aximum Power — 2 2 3 : ;
-Damage Modifiers — None None at duties. Many times, Klingon long-range sensor
+damage_mod_ — None None at duties. Many times, Klingon long-range sensor
 ' - - 1
 , ; _ . is 9) scans of Romulan convoys would show few es-
 + : - (10 ~ 14) | contact would reveal five
@@ -1907,7 +1851,7 @@ Power ToArm— - 1° os os mere dream.
 — - 2e Ch t ,
 Pamege “ee “ Of the approximately 250 T-2s built, about
 Shields Data: . .
-Deflector Shield Type — RSD RSC RSE 150 are in reserve fleets and another 20 are being
+deflector_shield_type— RSD RSC RSE 150 are in reserve fleets and another 20 are being
 Sel ae i? \2 used as training vessels. Only five of these ships
 {— e .
 “me mos “59 53.4 ans have been sold to the civil sector, all of which
@@ -1964,36 +1908,36 @@ _ 11 . . .
 Shuttiecraft — \'8 18 Intercepted subspace radio transmissions show
 , , that, on Stardate 2/1911, a convoy escorted by three
 Eengines_power = { } Y
-Total Power Units Available — 35 35 T-5s was attacked by six Klingon D-18B destroyers.
-Movement Point Ratio — 2/1 3/1 With kill. the R ; d their shi
+total_power_units — 35 35 T-5s was attacked by six Klingon D-18B destroyers.
+movement_point_ratio2/1 3/1 With kill. the R ; d their shi
 Warp Engine Type— RWC-2 RWC-2 ith great skill, the Romulans maneuvere eir snips
 umber — 2 j i
 Sones Units Available 6 6 and destroyed the Klingon group one by one, until
-Stress Charts — N/Q N/Q only one enemy vessel remained. This Klingon was
+stress_charts — N/Q N/Q only one enemy vessel remained. This Klingon was
 aximum Safe Cruising Speed — Warp6 Warp6 :
-Emergency Speed — Warp8 Warp? heavilydamaged and was not able to flee or destruct
-impulse Engine Type oe RIBS and was captured after a spirited boarding action. The
+emerg_speed_unloaded— Warp8 Warp? heavilydamaged and was not able to flee or destruct
+impulse_engine_typeoe RIBS and was captured after a spirited boarding action. The
 ! Val — ° ° . .
 Ww And Firine Dat Romulan losses in this incident were one 7-5 damaged
 e : ° .
 ‘team Weapon Troe Reg ap. beyond repair and abandoned (likely destroyed), one
 Number — 8, in 4 banks of 2 8, in 4 banks of 2 damaged but still under its own power, and the flagship
-Firing Arcs — 2p,2f,2s,2a 2p,2f,2s,2a
-Firing Chart — N N undamaged.
-Damage Modifiers — ® ® Of the approximately 240 T-5s built, more than 180
+firing_arcs— 2p,2f,2s,2a 2p,2f,2s,2a
+firing_chart — N N undamaged.
+damage_mod_ — ® ® Of the approximately 240 T-5s built, more than 180
 3 a ?) " ~ 4) remain in active service. At this time, it is estimated
 + — . .
 - +1 (10 — 13) fo ha) that 15 of these ships are being produced per year.
 Missile Weapon Type— None RP-2 About 20 have been placed in reserve fleets, and none
-Firing Arcs — = f is known to be in the civil sector.
+firing_arcs— = f is known to be in the civil sector.
 pring Chat - The class is named from the Romulan ocala sindari
 Damage — - . 8 (fire swarm), in reference to an insectoid found on the
 Shields Data: ot asc planet Korma’‘ahve. About the size of a Terran gnat,
 eflector Shield Type — RSE :
 Shield Point Ratio— 1/2 12 these creatures travel in swarms of thousands. Al-
-Maximum Shield Power — 6 8 though they are not aggressive in nature, physical con-
+max_shields_power — 6 8 though they are not aggressive in nature, physical con-
 g y gg phy
-Combat Efficiency: —_D- 64.3 62.6 tact with them is extremely painful. As a by-product
+combat_efficiency: —_D- 64.3 62.6 tact with them is extremely painful. As a by-product
 WOF- 37.2 49.6 of their nervous system, they secrete an acid that burns
 the skin on contact.
 28 Destroyers
@@ -2039,38 +1983,38 @@ Other Data: Nearly all of the approximately 110 T-
 crew :22 \22 10s remain in active service.
 Shuttlecraft 1 1
 Eengines_power = { } , Named for the reemea, a brightly-
-Total Power Units Available — 34 40 colored bird native to Corill, these de-
+total_power_units — 34 40 colored bird native to Corill, these de-
 Movement Point Ratio 3/1 3/1 . . .
 Warp Engine Type— RWC-2 RWC-2 stroyers are painted by their crews in
 Number a 2 2 striking rainbow colors. Because no two
 ower Units Available 15 5 . .
-Stress Charts NO N/Q of these vessels look alike, the paint
-Maximum Safe Cruising Speed Warp6 Warp6 +4 -
+stress_charts NO N/Q of these vessels look alike, the paint
+max_cruising_speed Warp6 Warp6 +4 -
 Emergency Speed— Warp? Warp? scheme may be used for positive recog
-Impulse Engine Type — RIC-2 RIE-1 nition; the scheme for seven of these
-Power Units Available — 4 10 P °
+impulse_engine_type— RIC-2 RIE-1 nition; the scheme for seven of these
+power_units_available — 4 10 P °
 vessels is recorded in Star Fleet com-
 Weapons And Firing Data:
-Beam Weapon Type — RB-8 RB-8 puters.
+beam_weapon_type — RB-8 RB-8 puters.
 Number 4 4
-Firing Arcs 2fp,2fs 2fp.2fs
-Firing Chart N N
-Maximum Power 6 6
-Damage Modifiers —
+firing_arcs2fp,2fs 2fp.2fs
+firing_chart N N
+max_power6 6
+damage_mod_ —
 3 (1 — 4) (1 ~ 4)
 +2 (5 ~ 9) (5 9)
 = (10 — 13) (10 — 13)
 Missile Weapon Type — None RP-3
 Number 1
-Firing Arcs fwd
-Firing Chart — Q
+firing_arcsfwd
+firing_chart — Q
 Power To Arm - 1 ——————}
 Damage ° 10 5 ——- =~ re == mn — Mowe,
 Shields Data: —A oa - WSF _
-Deflector Shield Type — RSE RSE a Eecaedl » ae
-Shield Point Ratio — 1:2 1:2 \\S
-Maximum Shield Power — 8 8 ye NY
-Combat Efficiency: D- 56.3 57.7 WY
+deflector_shield_type— RSE RSE a Eecaedl » ae
+shield_point_ratio— 1:2 1:2 \\S
+max_shields_power — 8 8 ye NY
+combat_efficiency: D- 56.3 57.7 WY
 WDF- 24.8 33.1 —_— ———,
 Destroyers 29
 
@@ -2133,37 +2077,37 @@ Crew— 120 122 weapons, more powerful engine, and
 Shuttlecralt— : 2 more efficient shields.
 
 Eengines_power = { } - Of the approximately 250 R-4s built,
-Total Power Units Available — 26 28 oo, ! :
+total_power_units — 26 28 oo, ! :
 Movement Point Ratio— 3/1 3/1 about 200 remain in active service and
-Warp Engine Type — RWF-1 RWEF-2 . .
+warp_engine_type RWF-1 RWEF-2 . .
 
 Number about 20 are in reserve fleets. About
-Power Units Available ~ a 8 Stardate 2/1307, an A-4 escorting a
+power_units_available ~ a 8 Stardate 2/1307, an A-4 escorting a
 tress Charts — .
 
-Maximum Safe Cruising Speed — Warp7 Warp? group of three freighters was taken by
-Emergency Speed — Warp g Warps j ; ;
+max_cruising_speed — Warp7 Warp? group of three freighters was taken by
+emerg_speed_unloaded— Warp g Warps j ; ;
 
-Impulse Engine Type — nae 8 mies a mutinous crew :and disappeared with
-Power Units Available — 10 10 the freighters into the Triangle, where
+impulse_engine_type— nae 8 mies a mutinous crew :and disappeared with
+power_units_available — 10 10 the freighters into the Triangle, where
 
 Weapons And Firing Data: it operates currently. Intelligence re-
-Beam Weapon type— 80 fee ports state that the Romulan govern-
+beam_weapon_type— 80 fee ports state that the Romulan govern-
 
 Firing Arcs- 1 pa, 2fwd,1s/a 1p a,2fwd,1s/a ment has put a bounty on the crew
-Firing Chart L N F j . .
-Maximum Power — 6 6 members capture and/or elimination.
-Damage Modifiers a8) sa) The class is named for the mularr,
+firing_chart L N F j . .
+max_power— 6 6 members capture and/or elimination.
+damage_mod_ a8) sa) The class is named for the mularr,
 +2 (4 8) (5 9) a large, flying reptile native to Corill.
 | (9-12) 10 ~ 13) The creature’s protective nature pro-
 
 Shields Data: vi he v | its name.
 
-Deflector Shield Type — RSC RSE des the vesse
+deflector_shield_type— RSC RSE des the vesse
 Shield Point Ratio— 12 1.2
-Maximum Shield Power — 5 8
+max_shields_power — 5 8
 
-Combat Efficiency: D- 43.9 53.2
+combat_efficiency: D- 43.9 53.2
 
 WDF- 14.8 16.4
 
@@ -2309,7 +2253,7 @@ firin Chart 2 pa, 4twd, 28/2 that the vessels were not quite suited
 elon iy laa a for their mission of support for cutters
 ; a and gunboats in systems defense. As
 Shiekis Data: hype asp with most Romulan ships, these vessels
-Shield Point Ratio ge ; were not very comfortable and did not
+shield_point_ratioge ; were not very comfortable and did not
 lend themselves to prolonged duty. Be-
 Combat EMorenoy: | o- ee cause of this, they were reassigned to
 | guard border outposts as the Q-4 (Pro-
@@ -2362,20 +2306,20 @@ Power Requirement "e "0 engine nacelles, which are easily-
 Other Data: 7 7 identified on sensor scan. Project Grey
 Shuttlecraft — 1 Ghost was unable to confirm that these
 Eengines_power = { } vessels had warp capability, as origi-
-Total Power Units Available — 27 27 nally reported.
+total_power_units — 27 27 nally reported.
 Sub-Llght Engine Tyne — RSLA RSLA The Q-4 class, like its predecessor,
 paectinie Available : 5 is wellarmed. Mounting ten disruptors
 Weapons And Firing Data: in five banks, it has a very effective field
 were hei tlle dad ib insbenkeot2 1,in S banks of 2 of fire. The only improvement ‘0 the
-Firing Arcs — 4p a, 2fwd,4sia 4p a, 2fwd, 4s a ship weaponry has been with the Type
+firing_arcs— 4p a, 2fwd,4sia 4p a, 2fwd, 4s a ship weaponry has been with the Type
 Manoa power — ‘ y 9, which carries an improved version of
-Damage Modifiers — F the RB-7, known as the RB-7a. By Star-
+damage_mod_ — F the RB-7, known as the RB-7a. By Star-
 . ig 3. date 2/1204, all Type 3s scanned had
 +1 (10 — 14) (10 — 14) been refitted with the RB-7a and given
 Shields Data: the uprated R4M computer system to
 Deflector oPield Type — fee fe handle the added firepower.
-Maximum Shield Power — 7 7 Of the approximately 450 Q-4s
-Combat Efficiency: D- 48.9 48.9 built, almost 370 remain in active ser-
+max_shields_power — 7 7 Of the approximately 450 Q-4s
+combat_efficiency: D- 48.9 48.9 built, almost 370 remain in active ser-
 WOF- 21.0 30.0 vice and about 40 have been assigned
 . to active reserve groups within the Em-
 pire.
@@ -2436,25 +2380,25 @@ Nocera pomtateee no h® wa The $-3 underwent _ internal
 Warp Engine Type— RWA-2 — RWA-2 RWB-1 RWB-2 changes that did not effect the overall
 ber— 2 2 2 2 .
 see Available 9 9 10 1 performance of the vessel until the Type
-Stress Charts — J/M J/M M/P N/P : /
-Maximum Safe Cruising Speed — Warp6 Warp6 Warps Warp6 8 was introduced about Stardate 2
-Emergency Speed — Warp7 Warp 7 Warp7 Warp7 0000. This new type mounted more
+stress_charts — J/M J/M M/P N/P : /
+max_cruising_speed — Warp6 Warp6 Warps Warp6 8 was introduced about Stardate 2
+emerg_speed_unloaded— Warp7 Warp 7 Warp7 Warp7 0000. This new type mounted more
 Impulse Engine Type— RIA-3 BLAS RIA-S As powerful engines and weapons than
 Weapons And Firing Data: earlier versions; the overall warp speed
 
-Beam Weapon Type— _ RB-1 RB-2 RB-7 RB-7 was increased. The final modification
+beam_weapon_type— _ RB-1 RB-2 RB-7 RB-7 was increased. The final modification
 fing Ace hv 2 oo . ». 2t's to this class was the Type 11, introduced
 Firing Char S ‘ ; } about Stardate 2/0910; this version had
 
 é m T— P .
-Damage Modifiers — None None _ an impressive array of weapons and an
+damage_mod_ — None None _ an impressive array of weapons and an
 2 - - i ae aa upgraded shield system.
 Shields Dat At this time, all vessels of this class
 ieigds Vata: .
 
-Deflector Shield Type — RSB RSB RSB RSC are believed to have been removed
-Shield Point Ratio — v1 i i Ie from active duty. Of the nearly 800 ves-
-Maximum Shield Power — 7 7 7 7 .
+deflector_shield_type— RSB RSB RSB RSC are believed to have been removed
+shield_point_ratio— v1 i i Ie from active duty. Of the nearly 800 ves-
+max_shields_power — 7 7 7 7 .
 
 CombatEfficiency: D 466 46.6 49.6 88.6 sels constructed, about 400 were placed
  WOF- 05 16 46 92 into reserve status and about 200 are
@@ -2511,29 +2455,29 @@ Other Data: ing crews when exploring new worlds
 C 2 ; ; vyecs
 Shuttiecraft — Sone with their own starfaring capabilities.
 Eengines_power = { } Due to its inability to perform its
-Total Power Units Available — 23 assigned tasks, the Swift Wings were
+total_power_units — 23 assigned tasks, the Swift Wings were
 Movement Point Ratio 2/1 .
-Warp Engine Type — RWB-1 not produced in any great number and
+warp_engine_type RWB-1 not produced in any great number and
 see A vailab - were not modified or upgraded. Of the
 e tS AvallaDdDie A .
 StressCharts— MiP approximately 160 vessels produced,
 emergency Spee Speed Was about 100 are known to be operating in
-impulse Engine Type — RIB-2 the civil sector, many within the
+impulse_engine_type— RIB-2 the civil sector, many within the
 er Units Available — 3 . .
 eee es Triangle. Project Grey Ghost found no
 Weapons And Firing Data: . -
-Beam Weapon Type — RB-7 evidence of any use in the Romulan re
+beam_weapon_type — RB-7 evidence of any use in the Romulan re
 Number — 2 serve fleets.
-Firing Arcs — 1 fp, 1f's
-Firing Chart J The class is named from the Romu-
+firing_arcs— 1 fp, 1f's
+firing_chart J The class is named from the Romu-
 Damene Moditlere—- ‘ lan delon vastam (swift wing), in refer-
 +2 (1 — 6) ence to its atmospheric capabilities.
 + (7 10)
 Shields Data:
 Deflector Shield Type— RSB
-Shield Point Ratio — 11
-Maximum Shield Power— 7
-Combat Efficiency: D- 33.1
+shield_point_ratio— 11
+max_shields_power— 7
+combat_efficiency: D- 33.1
 WODF- 46
 ea ———__
 fT et chile eget Ye
@@ -2584,34 +2528,34 @@ Standard 9-person banks of two dis ruptors, giving the
 rg ; .
 Other Dat scout a better field of fire and increasing
 er Vata: . —
-Crow — 42 42 its combat efficiency beyond that of the
+Crow — 42 42 its combat_efficiency beyond that of the
 Shuttiecrant — None None CS-2 (Graceful Flyer), which it is be-
 Eengines_power = { } - lieved to have also replaced. The class
-otal Power Units Available — 23
+otal power_units_available — 23
 Movement Point Ratio— 2/1 2/7 reportedly leads the Romulan expan-
 ial pl dca AWDe AWD sion efforts spinward.
 umber— | ;
-Power Units Available 18 18 Of the approximately 450 vessels
-Stress Charts — O/Q o/O .
-Maximum Safe Cruising Speed — Warp? Warp 7 built, about 400 are reported to remain
-Emergency Speed — Warps Warps in active service and about 20 have been
+power_units_available 18 18 Of the approximately 450 vessels
+stress_charts — O/Q o/O .
+max_cruising_speed — Warp? Warp 7 built, about 400 are reported to remain
+emerg_speed_unloaded— Warps Warps in active service and about 20 have been
 mpulse Engine Type— x .
-Power Units Available— 5 5 placed in reserve fleets. Best estimates
+power_units_available— 5 5 placed in reserve fleets. Best estimates
 Weapons And Firing Data: now give 19 Type 1s operating in the
-Beam Weapon Type — RB-7a RB-7a civil sector; plans for a vessel now be-
+beam_weapon_type — RB-7a RB-7a civil sector; plans for a vessel now be-
 Number — 2 4,in2 banks of 2 ;
-Firing Arcs fwd 2f'p, 2f's lieved to be one of these have been
-Firing Chart — M M .
+firing_arcsfwd 2f'p, 2f's lieved to be one of these have been
+firing_chart — M M .
 Maxinum Power — 4 4 purchased from Orion sources in the
-Damage Modifiers — Triangle.
-+3 1-3] (1 — 3) , .
+damage_mod_ — Triangle.
++3 1-3] "(1-2)" , .
 +2 4 9) (4. 9) This class is named for Talas
 ei (10 - 14) (10 ~ 14) Mosarum (Wind Carrier), an ancient
 Shields Data; wt asc ney Romulan chieftain said to have carried
 eflector Shie e— , Sc . . .
-Shield Point Ratio — 1/2 12 the winds of Romulus with him as he
-Maximum Shield Power — 6 6 travelled his territories. This leader sup-
-Combat Efficiency: D- "eo a posedly waited to attack his enemies
+shield_point_ratio— 1/2 12 the winds of Romulus with him as he
+max_shields_power — 6 6 travelled his territories. This leader sup-
+combat_efficiency: D- "eo a posedly waited to attack his enemies
 WDF- . ) until storms were brewing in the area,
 and then would lead his armies into bat-
 tle in the vanguard of the winds and
@@ -2695,7 +2639,7 @@ iring Data: .2f's treatie se ve At th Bir
 dFiring . 2f/p the f the nry. rong
 Bea ber— sm d Ss ingons, ithin
 Num —— . rove 1 se ve Kling e, Wi
-Firing Arcs — (1 3) fimp of these to the Klin device.
+firing_arcs— (1 3) fimp of these to the Klin device.
 Marea Rower— (4 9) ° ty, seven ere given d cloaking j design ep
 imu ers 14) rea Ww me his J
 Max e Modifi (10 t lingons) ; fthe fa S of t he Romt
@@ -2763,27 +2707,27 @@ loration Divisions were refitted to Type
 Other Data: | ye a 3s. Of the approximately 250 built, only
 Shuttlecraft — 4 4 about 150 remain in active service;
 Eengines_power = { } about 60 each are assigned to the Col-
-Total Power Units Available — 35 44 . . ve es
-Movement Point Ratio — onization and Military Divisions, and
+total_power_units — 35 44 . . ve es
+movement_point_ratioonization and Military Divisions, and
 Unloaded 3 a about 30 to the Exploration Division.
 oade
-Warp Engine Type — RWD-1 RWF-1 Although the navy has stopped
+warp_engine_type RWD-1 RWF-1 Although the navy has stopped
 Number— 2 2 ; it j ill ji
-Power Units Available — 16 _ contracting for the Type 1, it is still in
-Stress Charts — oO GI production and being sold to the civil
-Maximum Safe Cruising Speed — Th d . f
+power_units_available — 16 _ contracting for the Type 1, it is still in
+stress_charts — oO GI production and being sold to the civil
+max_cruising_speed — Th d . f
 Unloaded Warp 6 Warp? sector. The current production rate for
 Loaded Warp 4 Warp 4 the navy is estimated to be 10 Type 3s
-Emergency Speed — ..
+emerg_speed_unloaded— ..
 Unloaded Warp? Warp9 per year and for the civil sector a total
 Loaded Warp 5 Warp6 .f . .
-Impulse Engine Type — RIB-2 RID-2 of about 15 per year, of which ten are
-Power Units Available — 3 8 Type 3s and five are Type 1s. Like other
+impulse_engine_type— RIB-2 RID-2 of about 15 per year, of which ten are
+power_units_available — 3 8 Type 3s and five are Type 1s. Like other
 Weapons And Firing Data: None None Romulan commercial vessels, some of
 Shields Data: these ships are owned and operated
 Deflector Shield Type— RSG RSH ith} ;
-Shield Point Ratio — 1/1 11 within the Fiangle.
-Maximum Shield Power — 12 a The class is named for the graffler,
+shield_point_ratio— 1/1 11 within the Fiangle.
+max_shields_power — 12 a The class is named for the graffler,
 CombatEfficiency: —D- 44.5 41.5 an amphibian native to Perhonies.
 WDF- 0 0 These small creatures have pouches
 that line their undersides and have an
@@ -2844,21 +2788,21 @@ Movement Point Ratio— stations capable of beaming 14 troop-
 Loaded 6 ers per station. This allows 242 soldiers
 Loaded 6/1 3 .
 Warprengine Type - owe to be beamed to the surface every two
-Power Units Available — 8 minutes or the entire contingent of
-Stress Charts — G . ;
-Maximum Safe Cruising Speed — troops in less than 30 minutes. The re-
+power_units_available — 8 minutes or the entire contingent of
+stress_charts — G . ;
+max_cruising_speed — troops in less than 30 minutes. The re-
 Unloaded warp? maining cargo transporters are used to
 Loaded Warp 4 ; h
-Emergency Speed — Wares beam down support equipment sucn as
+emerg_speed_unloaded— Wares beam down support equipment sucn as
 ener Warp6 armored vehicles and artillery.
-Impulse Engine Type — RID-1 Of the approximately 90 built,
-Power Units Available — 4 p .
+impulse_engine_type— RID-1 Of the approximately 90 built,
+power_units_available — 4 p .
 Ww A 4 Firine Data: \ nearly all are in active service. Current
 sepone Andre Meta: “ne production rates on this vessel are esti-
 Shields Data:
-Deflector Shield Type — RSK mated at eight per year.
-Shield Point Ratio — V2 The /-7 is not as widely used by the
-Maximum Shield Power 9 civil sector as are the other freight car-
+deflector_shield_type— RSK mated at eight per year.
+shield_point_ratio— V2 The /-7 is not as widely used by the
+max_shields_power 9 civil sector as are the other freight car-
 wombat srmeieney: OF. ae riers of the Star Navy, likely because of
 the recall/refit clause reported to be re-
 quired of all civilian purchasers. It is es-
@@ -2929,37 +2873,37 @@ Shuttlecraft — ; unsuccessful modifications attempting
 
 Eengines_power = { } to allow the design to use the RWD-1
 
-Total Power Units Available — 33 35 44 warp engine to its fullest capacity; the
+total_power_units — 33 35 44 warp engine to its fullest capacity; the
 
-Movement Point Ratio — . .
+movement_point_ratio. .
 Unloaded 3/1 2/1 a Type 9 altered the hull configuration,
 Loaded 5/1 5/1 7/1 relieving the problem. The Type 9 also
 
 Warp Engine Type— RWD-1 RWD-1 RWF-1 . .
 
 Number — 2 2 2 had slightly more maneuvering power,
-Power Units Available — 16 16 18 greater superstructure strength, and
-Stress Charts — OO 0,0 GL i P
-Maximum Safe Cruising Speed — the ability to tow twice as much Cargo.
+power_units_available — 16 16 18 greater superstructure strength, and
+stress_charts — OO 0,0 GL i P
+max_cruising_speed — the ability to tow twice as much Cargo.
 Unloaded Warp6 Warp 6 Warp? . /
 Loaded Warp4 Warp4 Warp4 The Type 14, capable of pulling 25%
-Emergency Speed — more cargo than the Type 9 at higher
+emerg_speed_unloaded— more cargo than the Type 9 at higher
 Unloaded Warp7 Warp7 Warp9 .
 Loaded Warp 5 Warp 5 Warp 6 warp speeds, mounts more efficient
 Impulse Engine Type— RIB-1 RIC-2 RID-2 , i
-Power Units Available — 2 4 R shies and aan ; h
+power_units_available — 2 4 R shies and aan ; h
 - rrent production estimates show
 * Weapons And Firing Data: None None None urrent production 6s
 Cndaite Dat about 15 of these vessels being pro-
 elias Vata: .
 
-Deflector Shield Type — RSG RSG RSK duced a year. Of the approximately 700
+deflector_shield_type— RSG RSG RSK duced a year. Of the approximately 700
 Shield Point Ratio— A, a 1.2 vessels built, about 500 remain in ser-
-Maximum Shield Power — 12 12 12 . . ;
+max_shields_power — 12 12 12 . . ;
 
 _. . vice with the navy. Something over 100
 
-Combat Efficiency: D- 47.8 51.2 47.2  k
+combat_efficiency: D- 47.8 51.2 47.2  k
 
 WDF- 0 0 0 have been sold to the civil sector.
 : The class is named from the Romu-
@@ -3015,15 +2959,15 @@ crew :— 32 SO popular is this ship that its man-
 Passengers — 40 Pop . 'p . .
 Shuttlecraft — 1 ufacturer began selling it to private in-
 Eengines_power = { } dustry within six months after its deliv-
-Total Power Units Available — 36 ery to the navy. It is estimated that over
+total_power_units — 36 ery to the navy. It is estimated that over
 Movement Point Ratio—
 Unloaded 2/1 250 of these vessels have been sold to
 Loaded 4/1 . . _
 Warp Engine Type-— RWC.2 private industry, and several of these
 Number — 2 are owned and operated by private con-
-Power Units Available — 15 . .
-Stress Charts NO cerns located in the Triangle. Produc-
-Maximum Safe Cruising Speed — j j j ic ,
+power_units_available — 15 . .
+stress_charts NO cerns located in the Triangle. Produc-
+max_cruising_speed — j j j ic ,
 nloodadt Warp 6 tion capacity of this vessel is estimated
 - Loaded | ; Warp 4 at ten per year for the navy and 20 per
 mergency Speed — , .
@@ -3033,10 +2977,10 @@ mpulse Engine Type .
 Power Finite Available 5 tor Baydron, the senator from Messala,
 Weapons And Firing Data: None who was instrumental in establishing
 Shields Data: the current trade accords.
-Deflector Shield Type — RSD
-Shield Point Ratio 11
-Maximum Shield Power — 8
-Combat Efficiency: D- 44.9
+deflector_shield_type— RSD
+shield_point_ratio11
+max_shields_power — 8
+combat_efficiency: D- 44.9
 WDOF- -0
 Freighters 41
 
@@ -3086,20 +3030,20 @@ P 4/1
 Warp Engine Type RWD-1 known to be owned and operated out
 Number oa sable 1 of the Triangle. With current production
 ower Units Valle ; 2) . .
-Stress Charts — NO capacity estimated at 15 per year for
-Maximum Safe Cruising Speed Warp? the navy and 20 per year for the civil
+stress_charts — NO capacity estimated at 15 per year for
+max_cruising_speed Warp? the navy and 20 per year for the civil
 Loaded Warp 5 sector, these ships will be a common
-Emergency Speed — ; ‘aht f t
+emerg_speed_unloaded— ; ‘aht f t
 Unloaded Warp 8 sight for many years to come.
 Loaded Warp 6 The class takes its name from
-Impulse Engine Type — RIC-2 ;
-Power Units Available 4 Moorabbin, a wellknown trade center
+impulse_engine_type— RIC-2 ;
+power_units_available 4 Moorabbin, a wellknown trade center
 Weapons And Firing Data: None on Gorwah.
 Shields Data:
 Deflector Shield Type— RSJ
-Shield Point Ratio 11
-Maximum Shield Power — 15
-Combat Efficiency: D- 48.8
+shield_point_ratio11
+max_shields_power — 15
+combat_efficiency: D- 48.8
 WDF- 0
 a
 = = a /
@@ -3156,16 +3100,16 @@ Passengers — 8 9 requirements. It is found either ground-
 
 Eengines_power = { } based or attached to an outpost or orbi-
 
-Total Power Units Available 14 20 tal station, probably due to the vessel's
+total_power_units 14 20 tal station, probably due to the vessel's
 Movement Point Ratio— 1/1 1/1 .
-Warp Engine Type — RWA-1 RWA-2 size, but some are known to be carried
+warp_engine_type RWA-1 RWA-2 size, but some are known to be carried
 Number — 2 2 . .
-Power Units Available — 7 5 aboard Class V or larger vessels. The
-Stress Charts — M/O J/M H-4 carries out courier and VIP transport
-Maximum Safe Cruising Speed — Warp6 Warp7 . fc .
-Emergency Speed — Warp7 Warp8 duties for both the Navy and govern-
-Impulse Engine Type — RIA-2 RIA-2 ment agencies throughout the Empire;
-Power Units Available 2 2 -
+power_units_available — 7 5 aboard Class V or larger vessels. The
+stress_charts — M/O J/M H-4 carries out courier and VIP transport
+max_cruising_speed — Warp6 Warp7 . fc .
+emerg_speed_unloaded— Warp7 Warp8 duties for both the Navy and govern-
+impulse_engine_type— RIA-2 RIA-2 ment agencies throughout the Empire;
+power_units_available 2 2 -
 i as It is not armed, it is not usually seen
 
 Weapons And Firing Data: None None , +a:
@@ -3173,14 +3117,14 @@ in sensitive areas.
 
 Shields Data: Are
 
-Deflector Shield Type — RSA RSA Production of the Type 1 appears
+deflector_shield_type— RSA RSA Production of the Type 1 appears
 Shield Point Ratio— 14 11 to have slowed drastically after the in-
-Maximum Shield Power — 5 5 .
+max_shields_power — 5 5 .
 
 troduction of the Type 2. Sources report
 ici - 29 .
 
-Combat Efficiency: |. ° ee that as more and more of the Type 2s
+combat_efficiency: |. ° ee that as more and more of the Type 2s
 became available, the Type 1s were
 taken out of production, and those
 existing models were refit and modified
@@ -3241,22 +3185,22 @@ encores pees i] passenger quarters reportedly make
 Other Data: ; ; the ship unpopular with travelers and
 Passengers — 14 14 crews alike; when it is used as a courier,
 Eengines_power = { } i} the crew :are said to often occupy the
-Total Power Units Available — 8 10
-Movement Point Ratio — 3 13 unused staterooms. Named for an early
-warp Engine Type — BWA RWA2 explorer of Romulus, this craft per-
+total_power_units — 8 10
+movement_point_ratio3 13 unused staterooms. Named for an early
+warp_engine_type BWA RWA2 explorer of Romulus, this craft per-
 umber-— «
-Power Units Available — 6 8 petuates the tradition that adventurers
-Stress Charts — K/M Jit : ; :
-Maximum Safe Cruising Speed — Warp? Warp? and explorers neither live nor travel in
-Emergency Speed — Warp8 Warp8 comfort. Because of Romulan need to
+power_units_available — 6 8 petuates the tradition that adventurers
+stress_charts — K/M Jit : ; :
+max_cruising_speed — Warp? Warp? and explorers neither live nor travel in
+emerg_speed_unloaded— Warp8 Warp8 comfort. Because of Romulan need to
 Impulse E Type— RIA-2 RIA-2 | 7
 Oo ower Units Available — 9 2 | conserve resources, and because it is
 Weapons And Firing Data: None None if unnecessary to maintain an armament
 , system for vessels that are exposed to
 Shields Data:
 Deflector Shield Type— RSA RSA 1} the hazards of the border areas for only
-Shield Point Ratio — 1 11 ° . °
-Maximum Shield Power — 6 Ps 1) abrief period, these ships are unarmed.
+shield_point_ratio— 1 11 ° . °
+max_shields_power — 6 Ps 1) abrief period, these ships are unarmed.
 CombatEfficiency: 0 424 50.9 | The Type 3 appears to have com-
 “WDF- 0 0 17 pletely replaced the Type 1s within the
 ’ fleet, but some Type 1s still remain in
@@ -3322,14 +3266,14 @@ Eengines_power = { } place them in their mountings. Once
 pial Power Ynits Available ae placed, the components can be fitted
 Warp Engine Type— RWD-| properly by the small work pods listed
 umber — ‘ ; - 0.
-Power Units Available — 15 as shuttlecraft in the tender’s statistics.
-Stress Charts N/O
-Maximum Safe Cruising Speed — Warp 7 These small pods also have retractable
-Emergency Speed — Warp8 arms that are used for final fitting or
-impulse Engine Type RIBS positioning. The pods are also capable
+power_units_available — 15 as shuttlecraft in the tender’s statistics.
+stress_charts N/O
+max_cruising_speed — Warp 7 These small pods also have retractable
+emerg_speed_unloaded— Warp8 arms that are used for final fitting or
+impulse_engine_typeRIBS positioning. The pods are also capable
 Weapons And Firing Data: Nore of completing most external repair jobs
 Shields Date- with the wide array of attachments for
-Deflector Shield Type — RSD their little arms. If more detailed work
+deflector_shield_type— RSD their little arms. If more detailed work
 Ce eeee eee ower . than the pod can perform is required,
 CombatEfficiency: D- 13,6 _pecialiyeulted engineers will finish the
 WDF- 0 JOD.
@@ -3402,13 +3346,13 @@ Other Data: sea ye are still on station and functioning at
 Other Personnel — 150 220 normal capacity. An additional F-2 was
 Shuttiecran— 2 2 built in orbit around Freeman’s Port in
 Eengines_power = { } le i - the Triangle; operated by a private con-
-Impulse Engine Type — RIPG-1 RIPG-1 cern, it takes advantage of that planet's
-Power Units Available — 16 16 port to draw customers.
+impulse_engine_type— RIPG-1 RIPG-1 cern, it takes advantage of that planet's
+power_units_available — 16 16 port to draw customers.
 Weapons And Firing Data: None None The class is named from the Romu-
 Se en ahiaid Type— asp ase lan narvasam stelas (nest of stars), in
-Shield Point Ratio — 1 11 reference to its construction role in the
-Maximum Shield Power — 6 15 Road to the Stars.
-Combat Efficiency: D- 37.2 53.1
+shield_point_ratio— 1 11 reference to its construction role in the
+max_shields_power — 6 15 Road to the Stars.
+combat_efficiency: D- 37.2 53.1
 WDF- 0 0
 46 Construction/Repair Facilities
 
@@ -3528,7 +3472,7 @@ a — = . e , .
 apon Type T 8 . Starda Romu
 restumber . - 8 4 See Chart pleted by is named from the
 inn Ares<- - See Cha The class . f birds).
-Firing Chart — ~ - ‘calanam (territory o firing
+firing_chart — ~ - ‘calanam (territory o firing
 - Power To Arm — : RSN 13 fan vas ca ttached diagram for
 Damage — RSJ 12 15 See a
 G
@@ -3540,56 +3484,9 @@ hield Point Ra = 207.3 | Borde
 Maximnurn Shield Power «147.8 49.2 1238 Orbita
 . : p- 9.6
 cy:
-Combat Efficien WOF- ;
+combat_efficiency WOF- ;
 
-| Pi EL, Pom, f | fea
-Ja aN ae PR '/
-: rr, r
-A i ) ; i A > be
-: q ld  , \ Oe fs HH A
-i 75 1B . r " i A
-: ve a\ ae wAy | t 1 a
-ae i | sn a> &
-B i bat | A B i i
-T | | : a ‘ ny
-| \bl ig AA Sn ae Vs
-ny ad ay ren
-' A Hy \ aes Se C
-| el gail’. " NR a |
-ah. I ie {*,
-2 | ee | i di = oat mh | ' ¢
-(AWN — itd (Ele by
-ients NI \ eel AG
-: < Nfiy —( Na
-i E : } a i iy h
-|| \ SS hi di | B Vf ' Vv A wn ¥
-(AINS nd a al
-a t iw a ft PN
-B B | Sica Mi ‘oni
-| ‘s 5 i i i- 7 7
-f A : ‘ fon fh a ' . Bio ie : ify iy
-ry Fi HI | | | r | i )
-te? ; | ts ' i vi
-ae afm Jane B i Le
-7 ea : : {
-__ W -# a . ‘i ; | B A of pie. B i die
-S i fh, i ae i i i y v Y | bs 7 ,
-9° as
-- ee A any p Ai A
-Oc eee ee ee | AL ibe
-g 3 ied | Y | A » ‘ SSeS
-—_ ‘ C li) ey ii NE y
-® ¢ vl irap) 1 Nt’ ‘axial
-a <a ps <i) | abe:
-2G i aie A B B
-as | | 1 viN ‘al as = A B
-$5 Ig Pe i rN ata Ah , A é » 0
-az AL _galily: A ) N A aL 8 | | ae
-3 (i : vA, | | C C
-| 4 . Lai : aaee ee:
-ue ge edt: oy -) | Cc
-a ; , t y
-iB B B
+
 
 The Romulan Ship Recognition Manual is intended for Star Fleet personnel with a “need to know”
 concerning information on the Romulan Star Navy. This comprehensive study discloses, for the first
