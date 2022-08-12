@@ -1,0 +1,1060 @@
+
+Ships of the Star Fleet
+ONE HUNDRED AND NINETIETH EDITION
+
+
+
+
+By    Admiral Chris Wallace
+
+
+
+
+Star Fleet Operations / Star Fleet Advanced Starship Design Bureau
+
+                                                                                                       Masthead
+                                                                                                                   CHIEF EDITOR AND PUBLISHER
+                                                                                                                       Admiral Chris Wallace
+                                                                                                                  Chief of Star Fleet Operations
+                                                                                                                       LAYOUT CONSULTANT
+                                                                                                                           Sakura Shinguji
+                                                                                                                      Panda Press Interstellar
+                                                                                                                     PROJECT COORDINATOR
+                                                                                                                   Captain Belldandy Morisato
+                                                                                                         Star Fleet Advanced Starship Design Bureau
+                                                                                                                         STRATEGIC EDITOR
+                                                                                                                 Commander Natsumi Tsujimoto
+                                                                                                                    Star Fleet Operating Forces
+                                                                                                                       PRODUCTION EDITOR
+                                                                                                                   Rear Admiral Kurt Roithinger
+                                                                                                                       Star Fleet Command
+                                                                                                                         TECHNICAL EDITOR
+                                                                                                                     Admiral Alex Rosenzweig
+                                                                                                         Star Fleet Department of Technical Services
+                                                                                                                    ENGINEERING CONSULTANT
+                                                                                                                  Lieutenant Commander Skuld
+                                                                                                                    Star Fleet Operating Forces
+                                                                                                                          SYSTEMS ANALYST
+                                                                                                                 Rear Admiral Carsten Pedersen
+                                                                                                       Star Fleet Office of Research and Development
+                                                                                                                           NAVAL LIASON
+                                                                                                                  Rear Admiral John Scharmen
+                                                                                                                       Star Fleet Operations
+                                                                                                                             GRAPHICS
+Copyright © 2378 by the Star Fleet Spacecraft Design Advisory Commission, Star Fleet Command,                       Commodore David Pipgras
+Utopia Planitia Spacedock, Mars.                                                                             Region Five Office of Graphic Design
+                                                                                                                     HISTORICAL CONSULTANT
+This document prepared and published by Team Neko and Team Kempo for the Starfleet                             Lieutenant General Scott A. Akers
+Spacecraft Design Advisory Commission.                                                                           Office of the Star Fleet Historian
+                                                                                                                           SUPPORT STAFF
+Memory Alpha Cataloging Data:                                                                                   Doctor Richard Sternbach, PhD.
+UFPI ITP/SP SOTSF23772378                                                                                          Doctor Michael Okuda, PhD.
+                                                                                                                 Doctor Graham Kennedy, PhD.
+This edition of Ships of the Star Fleet is authorized for viewing only in member star systems of the              Doctor Bernd Schneider, PhD.
+United Federation of Planets, its territories and possessions, affiliated star systems, and select
+independent or neutral star systems.
+
+This document and its entire contents Copyright © 2005 Panda Productions.
+
+All rights reserved. We request that no part of this document be reproduced in any form or by any means, or stored on
+any electronic server (ftp or http) without the written permission of the publishers. Permission to make one printout for
+personal use is hereby granted.
+
+It is produced purely for informational and recreational purposes on a not-for-sale, not-for-profit, free-distribution basis.
+
+This book follows the form and layout of the Ships of the Star Fleet books published by Mastercom Data Center. Though
+inspired by those works, this work is not intended to be a copyright infringement of them.
+
+This document includes schematics, data, and images from Paramount Pictures, Mateen Greenway, Scifi-Art.com, the
+WolfPack, and other sources. Where possible, permission has been obtained to use them in this document. Any display of
+copyrighted material in the document is not intended as an infringement of the rights of any of the copyright holders.
+
+This is a publication of Panda Productions, Post Office Box 52663, Bellevue, Washington, 98015-2663.
+
+Created and published in the United States of America.
+
+CONTENTS
+
+
+
+
+     Preface                                                Appendix
+                                                       17   About the Publishing Team
+01   State of the Fleet                                18   Credits
+02   Ship Classifications                              19   Team Kempo
+                                                       20   Author’s Notes
+     Fleet Structure                                   21   Art Credits
+03   Department of the Star Fleet
+04   Department of the Star Fleet Organization Chart
+05   Star Fleet Headquarters
+06   Exploration Command
+07   TacFleet
+08   Rapid Deployment Force
+
+     Fleets of the Federation
+09   The First Fleet
+10   The Second Fleet
+11   The Fourth Fleet
+12   The Fifth Fleet
+13   The Sixth Fleet
+14   The Seventh Fleet
+15   The Twelfth Fleet
+16   The Seventeenth Fleet
+
+PREFACE
+
+
+
+
+This one hundred and ninetieth edition of Ships of the Star Fleet continues the tradition of this        The publishers of the 190th edition of Ships of the Star Fleet are indebted to the members of Team
+publication in providing the most comprehensive data on the ships of the line of Star Fleet.             Kempo and Team Neko for their assistance in both the compilation of data and layout duties.
+This information has been organized to make it easy for the reader to locate the data desired.           The publishers also wish to thank Admiral Alex Rosenzweig of the Department of Technical
+The individual vessel listings (which appear in chart form) display a ship’s current navigational        Services for providing needed technical information. Commodore David Pipgras of the Office
+contract code number, the date the ship’s keel was laid, the date the vessel was launched from           of Graphic Design lent his talents to the logos seen herein, while other members of this illustrious
+dock to begin acceptance trials, and the date that ship was commissioned into the Star Fleet.            Office rendered the beautiful views of the ships themselves. And a final thank you to the
+Terran local calendar dates have been used for all entries, regardless of the shipyard’s location.       members of the Star Fleet Press Corp who took the beautiful pictures of the ships seen within.
+The illustrations accompanying most starship sections show the side, fore, aft, bottom, and top
+views of each starship. In addition, the Starship Development Project Logo (where known) for             The publication schedule for Ships of the Star Fleet is as follows:
+each class is on the first page of each entry. We have also included a picture of the ship in            Volume One           -        January
+service.                                                                                                 Volume Two           -        February
+                                                                                                         Volume Three         -        March
+As it has been since the 150th issue, Ships of the Star Fleet is broken up into six separate sections.   Volume Four          -        April
+The first three installments deal with the vessels that make up the Star Fleet: Volume One covering      Volume Five          -        May
+Cruisers, Volume Two covering Patrol Combatants (dreadnoughts, frigates, and destroyers), and            Volume Six           -        June
+Volume Three finishing up with Scouts and Escorts. The next two installments deal with the Star
+Fleet itself. Volume Four will provide coverage on Star Fleet organization, including TacFleet, the      Compilation of data for the 191st edition (2378-9) has already begun, and comments or
+Rapid Deployment Force, and the Star Fleet Reserve Force. Volume Five showcases Star Fleet               additional data are welcome. Information or material should be directed to the Starfleet
+facilities such as starbases, spacedocks, shipyards, and repair facilities. And finally, Volume Six      Spacecraft Design Advisory Commission, Publications Group, Utopia Planitia Spacedock, Mars.
+covers the specialized ground-combat forces of the Star Fleet, including the Star Fleet Marine
+Corps and the groups that make up the Star Fleet Special Operations Command. All of these                                                                                             Admiral Chris Wallace
+are of major importance to the effectiveness of the Star Fleet.                                                                                                                Chief of Star Fleet Operations
+                                                                                                                                                                                                  March 2377
+
+SHIPS OF THE STAR FLEET
+
+STATE OF THE FLEET
+
+
+
+
+It has been a little over a year since the defeat of the Dominion and their Breen and Cardassian           funding to modernize and re-equip the Star Fleet for extended combat operations.
+Allies. Though the Federation Alliance proved victorious, the cost was staggering with Starfleet
+suffering almost two thousand ships and over a million men lost.                                           The Federation entered the war with close to 3,500 Class One starships. At the signing of the
+                                                                                                           Armistice, that number had fallen to below 1,800. In addition, the loss of Command-level officers
+The charter of the Star Fleet has always been to defend and explore the Federation. Whilst the             and the experience they carried have been extremely damaging to the Fleet. Now-Admiral
+ideal is a balance of offensive, defensive, and exploratory capabilities, political and budgetary          Wallace began the rebuilding of the Star Fleet. Plans call for the force to be up to 2100 ships
+realities often make this ideal an impossible one to achieve. The Star Fleet has only so large a           by 2380 and 2500 ships by 2385. These new ships will need trained crews to man them, so a
+ship budget, and since the 2340’s has pushed for the design and construction of “multi-mission”            parallel program to enhance and expand Starfleet Academy has also been implemented, as
+starship platforms that could perform all three roles, to various degrees. With the Federation-            well as accelerated training for Lieutenant Commanders and Commanders who have shown
+Klingon Alliance and the “disappearance” of the Romulans from everyday affairs, ships like the             exceptional ability to advance them to Captain rank and starship command postings.
+New Orleans class were developed more as explorers than combat vessels. When war broke out
+between the Federation and the Cardassian Union in 2355, the New Orleans class were unable                 Currently, the Star Fleet is concentrating on the rapid introduction of vessels of the Intrepid and
+to serve in combat missions due to their lack of photon torpedo launchers. While this problem              Norway classes to augment the Fleet, as both can be produced quickly and inexpensively.
+was quickly rectified, the months that these vessels spent away from the fighting placed                   Construction of the larger Sovereign class has been increased from the current one to two per
+heavy demands on the Ambassador and Steamrunner class ships. Star Fleet learned from the                   year (with those vessels already under construction continuing their accelerated build and
+Cardassian War, and by the mid-2360’s the new Akira and Norway classes had entered service,                fitting-out schedules). Akira class construction will remain at current levels for the time being, as
+greatly enhancing the force-projection capabilities of the Fleet.                                          sufficient numbers exist to meet slated patrol duties.
+
+The destruction of the Galaxy class cruiser U.S.S. Odyssey (CKE 71832) by Jem’Hadar forces in              Construction of large explorers has been curtailed in favor of dedicating resources to the
+the Gamma Quadrant spurred the Federation into a war footing. Upon assuming the position                   Intrepid and Norway. Construction funds for five additional Nottingham class vessels have been
+of Chief of Fleet Operations in 2373, Rear Admiral Chris Wallace embarked on a program to                  placed on hold, pending a thorough review of both the class and large explorers in general.
+increase the size and strength of TacFleet, primarily by increasing production of Akira and                As for the Galaxy class, the Galaxy (CKE 70637) is being uprated to Galaxy (II) specs during her
+Intrepid class starships, as well as rushing the final three Galaxy (II) class starships into production   extensive repair layover and is scheduled to return to Fleet service in six-to-nine months. Both
+and beginning full-scale construction of the Sovereign class. He also fought hard for additional           Challenger and Venture are in need of a new warp-core installation after damage involved in
+
+the Battle for Earth, and both will probably also undergo conversion to Galaxy (II) specifications     ACHIEVING A 2500-SHIP FLEET
+as it is an all-around superior platform.
+                                                                                                       The planned 2500-ship fleet is shown in the last column of Table 1-1. These numbers may be
+While Explorer construction is being curtailed, scout and escort construction will continue to be      influenced by many factors. The deactivation of older, front-line vessels ahead of schedule
+strong. The Aquila class of scouts has been approved, with six hulls being funded. The Defiant         (especially Excelsior and Miranda); the cancellation or cutback of some construction programs;
+class, with seven ships currently in service, will also probably see additional units acquired.        and a changing in the “direction” of the Fleet’s primary mission profile in the coming eight-year
+                                                                                                       period are all possible occurrences that could affect Star Fleet’s ability to maintain a “2500-ship”
+For the moment, the older Miranda and Soyuz class ships will continue their tours of duty. However,    fleet.
+losses in the Dominion War for these vessels was extensive, and designs for a replacement class
+of ships are currently being drawn up by the Starfleet Spacecraft Design Advisory Commission.
+                                                                                                       TABLE 1-1. STAR FLEET STRENGTH (January 2378)
+The current goals for the Star Fleet, then, are an increase from the current 1800 Class One                                                                  2375    2376    2377    2380    2385
+starships in 2377 to 2100 vessels in 2380 and 2500 in 2385. While this represents a net reduction of
+1000 ships from the 2375 levels entering the War, the net reduction to TacFleet will only be 250       Active Ships                                          3384    1865    1954    2200    2500
+and they will have far more of the latest and most advanced models at their disposal.                  TacFleet Ships                                        2046    1073    1112    1500    1750
+
+                                                                                                       Active Ships
+                                                                                                       Cruisers
+                                                                                                                 CH                                          312     239     247     284     317
+                                                                                                                 CS                                          00      00      00      00      00
+                                                                                                                 CG                                          85      39      43      90      125
+                                                                                                                 CD                                          00      00      00      00      00
+                                                                                                                 CKE                                         09      10      11      14      16
+                                                                                                                 CE                                          61      48      50      63      77
+                                                                                                                 CA                                          151     91      95      115     155
+                                                                                                                 CL                                          57      30      31      34      40
+                                                                                                                 CP                                          21      03      03      10      20
+                                                                                                                 CT                                          01      01      01      01      01
+                                                                                                       Frigates
+                                                                                                                 FH                                          47      24      25      30      35
+                                                                                                                 FR                                          240     110     110     120     140
+                                                                                                                 FF
+                                                                                                       Destroyers
+                                                                                                                 DH                                          115     115     115     115     115
+                                                                                                                 DD                                          100     107     107     116     126
+                                                                                                       Scouts
+                                                                                                                 SS                                          45      38      38      38      38
+                                                                                                                 ST                                          340     190     195     232     262
+                                                                                                       Patrol Combatants
+                                                                                                                 DN                                          02      02      02      04      05
+                                                                                                                 CO                                          05      06      04      05      05
+                                                                                                                 PKA/PA                                      110     75      85      100     125
+                                                                                                       Shuttlecarriers                                       01      01      01      01      01
+                                                                                                       Space Control Ships                                   03      03      03      03      03
+                                                                                                       Fleet Auxiliaries
+                                                                                                                 Transports                                  78      49      54      97      113
+                                                                                                                 Transport/Tugs                              375     281     304     328     357
+                                                                                                                 Tenders                                     150     117     120     138     162
+                                                                                                                 Combat Support                              150     81      81      93      110
+
+CRUISERS                                                                                                FRIGATES
+
+The cruiser remains the focal point of the new Fleet strategy and shipbuilding program, including       Though ships of the New Orleans and Norway classes continue to serve well, it has been decided
+the 5 ships of the Sovereign class; the 2 Galaxy and 7 Galaxy (II) class; 23 Akira class; 10 Intrepid   to begin preliminary work on a future replacement rather than restarting the production lines.
+class; 24 Nebula Class; 22 Excelsior Class; 3 Niagara class; 4 Challenger class; 15 Ambassador          The Sullivans class of tactical frigate now stands at ten vessels. The earlier Mk. I and Mk. II spec
+Class; 2 Nottingham class and 2 Prometheus class.                                                       vessels are expected to be modified during general layover to the Mk. III spec of the last three.
+In 2371, Star Fleet approved construction of a new class of large exploratory cruisers, known as
+the Nottingham class. Designed to slot in below the Galaxy / Galaxy (II) class in size and overall      DESTROYERS
+mission capabilities, they do carry the latest technology. Five vessels were approved, but with
+the onset of the Dominion War, only two vessels were laid down. Funding for the third vessel was        No new destroyer-type construction is planned for the foreseeable future. The twenty planned
+authorized in 2377 and the final two are expected to receive funding during the next budget             Alaric (DD 77831) class heavy destroyers will serve as supplement to the earlier Steamrunner and
+process.                                                                                                Freedom classes when they start entering service in 2380. None of these vessels have a very
+The five vessels of the Sovereign class proved their worth during the war, and will soon be joined      effective scientific capability and additional examples are not being considered at this time.
+by a fifth. An additional ten vessels of this class have been approved, with construction moving
+to two a year.                                                                                          SCOUTS
+The Intrepid class will quickly become the backbone of the new fleet, as they are quick and
+inexpensive to produce, and offer excellent multi-mission capabilities. Currently forty vessels are     The only new scoutship currently under active production is the Aquila (ST 77453) class, six of
+planned, at the rate of five a year. This class proved to be a popular and valuable diplomatic          which have been authorized to replace the six century-old Cygnus class of scouts. Most of the
+courier during the war, and one of the scheduled new builds, U.S.S. Jaguar (CE 74750), will be          exploration fleet consists of older ships, but due to the narrowness of their mission parameters,
+built as a template for a possible new series of Diplomatic Cruisers when she goes active in early      they are still more than capable of fulfilling their intended role.
+2380. It is hoped this will prove a more cost-effective platform then the single Bradbury class         A handful of Yeager class scouts were built during the war from components of Intrepid and
+diplomatic cruiser.                                                                                     other classes, but their “Frankenstein” nature has proven to be of rather dubious value and all
+The Prometheus class deep-space tactical cruiser, while proving to be a powerful design, is             are planned for immediate retirement.
+feared to be too expensive and complicated to build in large numbers and only the prototype             The Oberth class currently make up the bulk of the scout fleet, with the swift Cheyenne’s being
+is in service.                                                                                          used on deep-range mapping missions for later follow-up by Sovereign, Galaxy, and Intrepid
+                                                                                                        class vessels. The twelve vessels of the Nova class will help supplement the Oberth’s in this role.
+
+
+
+
+TABLE 1-2. STAR FLEET SHIPBUILDING PROGRAM
+
+Number/ Type                                                                                   2380          2381            2382            2383           2384            2385
+
+CKE 78505              Large Exploratory Cruiser/Nottingham class                              01            00              01              00             00              00
+CH 73811               Heavy Cruiser/Sovereign class                                           02            02              02              02             02              02
+CL 60590               Light Cruiser/Nebula class                                              02            02              03              04             05              05
+CE 74655               Cruiser/Intrepid class                                                  05            05              05              05             10              10
+CG 62497               Battlecruiser/Akira class                                               05            05              05              05             05              05
+DN 73820               Dreadnought/Entente class                                               01            00              00              00             00              00
+DD 77831               Destroyer/Alaric class                                                  04            04              04              04             02              02
+ES 74205               Escort/Defiant class                                                    05            05              05              10             10              10
+ST 77453               Scout/Aquila class                                                      02            01              01              00             00              00
+TR 64381               Transport/MacPherson class                                              10            10              10              10             10              10
+
+PATROL COMBATANTS
+
+Two of the four vessels of the Entente class dreadnought have completed their outfitting and
+are now on patrol duties. At this time, there are no plans for any additional dreadnought
+construction, nor is Star Fleet actively looking at any new designs.
+The new Defiant class of escort is currently entering full production with a final build rate of
+five per year expected around 2380. At this time funding for twenty of these vessels has been
+approved, though that number is expected to at least double, if not triple, in the years ahead
+as these ships look to be an excellent value.
+
+SHUTTLECARRIERS
+
+At this time, no additional vessels of the Courageous class have been built and funding for the
+second through fourth vessels has been formally cancelled before construction could begin. As
+for Courageous herself, she is expected to remain close to Romulan space for the time being.
+
+SPACE CONTROL SHIPS
+
+Mistrusted and misunderstood since their inception in 2285, the Space Control ship’s future
+remains with the three vessels of the Griffon class, which performed great service during the
+Dominion War. However, Star Fleet has yet to convince the Federation Council to fund additional
+vessels. Perhaps their heavy role in the rebuilding process might change this but, at this time, it is
+expected that these three ships will remain the limit.
+
+COMMAND SHIPS
+
+The large Fleet actions against the Dominion reinforced the need for Star Fleet to begin
+consideration of building more Command Cruisers. Though three vessels of the Sovereign-based
+Whitehall class have been constructed, they are far too expensive for additional production. A
+proposal has been drafted for a command ship based on the Intrepid class cruiser. It is currently
+under review by the ASDB and SSDAC.
+
+FLEET AUXILLIARY VESSELS
+
+With the massive movement of supplies, materials, and personnel needed to begin the task
+of rebuilding the Federation, a large number of auxiliary ships have been authorized for
+construction. The MacPherson (TR 64381) class will be more than doubled in size from the current
+forty ships to one hundred. In addition, the remaining vessels of the old Doppler and Dollond
+classes have been recalled from mothballs and pressed into service on the closer runs, where
+there slower speeds are not as much an issue.
+
+SHIP CLASSIFICATIONS
+
+
+
+
+Star Fleet ships and small craft are classified by type and by sequence within that type. The list of
+classifications (by approval of the Federation Commissioner for Star Fleet) is issued periodically,
+updating a system begun in 2208. Star Fleet’s current list, based on a format developed in 2290,
+seeks to offer the most comprehensive definition of the types and missions undertaken by the
+ships of the Star Fleet.
+
+The following classifications are contained on the current list.
+
+Class One Vessels                                   Frigates                                            Patrol Combatants                          Specialized
+                                                            FH      Heavy Frigate                               DN   Dreadnought                          CO       Command Ship
+Cruisers                                                    FR      Frigate                                     DNF  Dreadnought-Frigate                  SC       Shuttlecarrier
+        CH     Heavy Cruiser                                FF      Fast Frigate                                BB   Battleship                           SO       Space Control Ship
+        CS     Strike Cruiser                               FS      Small Frigate                               CKV Large Carrier
+        CG     Battlecruiser                                FT      Strategic Frigate                           CVS  Strike Carrier                Class One Auxilliaries
+        CD     Through-Deck Cruiser                                                                             CV   Carrier
+        CKE    Large Exploratory Cruiser            Destroyers                                                  PKA  Large Perimeter Action Ship   Support Ships
+        CE     Exploratory Cruiser                         DH       Heavy Destroyer                             PA   Perimeter Action Ship                TR       Transport
+        CA     Cruiser                                     DD       Destroyer                                   ET   Escort                               TT       Transport-Tug
+        CL     Light Cruiser                               DF       Fast Destroyer                              CV   Corvette                             TE       Tender
+        CT     Tactical Cruiser                            DS       Super Destroyer                             FT   Fighter-Interceptor                  TU       Tug
+        CP     Patrol Cruiser                                                                                                                             SP       Combat Support Ship
+                                                    Scouts                                                                                                SM       Medical Ship
+                                                             SS     Superscout                                                                            CR       Courier
+                                                             ST     Scout                                                                                 RB       Runabout
+
+FLEET STRUCTURE
+
+                                                                      DEPARTMENT OF THE
+                                                                      STAR FLEET
+
+
+
+
+The Department of the Star Fleet was founded in 2161 under the Articles of the Federation              Council, the CINC is the senior military officer and holds the rank of Fleet Admiral. Star Fleet
+ratified in that year by Earth, Vulcan, Alpha Centauri, Andoria, and Tellar. Due to the recent         Operating Forces are delegated across three lines – the Chief of Star Fleet Operations, the Chief
+ending of the Earth-Romulan War, at the time the military forces of Earth were the largest and         of Communications, and the Commandant of the Star Fleet Academy. Of these three, Star Fleet
+most-advanced of the five original signatories, and it was decided that Star Fleet Command             Operations is by far the largest and the subject of this Volume.
+would be formed along the lines of the Terran Space Navy. Therefore, Fleet Headquarters was
+located in San Francisco on Terra, home of the Terran Navy. However, Star Fleet Command                The Chief of Star Fleet Operations oversees a vast array of personnel, equipment, vessels, and
+maintains facilities throughout the Federation.                                                        facilities. Due to the power and authority of the position, the Chief of Star Fleet Operations
+                                                                                                       generally holds the rank of Fleet Admiral. However, precedent has been set for more junior
+The charter of the Star Fleet is to serve as the exploratory, diplomatic, and defensive agency         officers to hold the position, including Rear Admirals James Kirk in 2270 and Chris Wallace, who
+of the United Federation of Planets. When formed in 2161, the Star Fleet integrated the various        held the post from 2372-2376.
+military forces of Earth, Andoria, and Tellar. The introduction of the Daedalus class in 2164 marked
+the first class commissioned and operated under the auspices of the UFP.                               A complete breakdown of the Office of the Chief of Star Fleet Operations is outside of the scope
+                                                                                                       of this Volume. Instead, we will present an overview of the Exploration Command, TacFleet, and
+The Star Fleet is headed by the Secretary of the Star Fleet, who serves on the Cabinet of the          the Rapid Deployment Force, as well as a brief review of the active Federation Fleets.
+President of the United Federation of Planets. The Secretary is nominated by the President and
+confirmed by the Federation General Assembly. The Secretary of the Star Fleet oversees the
+civilian bureaucracy of the Star Fleet as well as ensuring civilian control over the Operating
+Forces of the Fleet.
+
+Day-to-day control of the Operating Forces of the Fleet is handled by the Commander-in-
+Chief of the Star Fleet. Nominated by the President and confirmed by the Federation Security
+
+UNITED FEDERATION OF PLANETS
+OFFICE OF THE SECRETARY OF THE STAR FLEET
+
+UNITED FEDERATION OF PLANETS
+OFFICE OF THE CHIEF OF STAR FLEET OPERATIONS
+
+UNITED FEDERATION OF PLANETS
+    STAR FLEET OPERATING FORCES
+
+UNITED FEDERATION OF PLANETS
+     STAR FLEET SUPPORT FORCES
+
+                                                                                                      STAR FLEET
+                                                                                                      HEADQUARTERS
+
+
+
+
+Star Fleet Headquarters is located in and around the city of San Francisco on Earth. It also shares
+space with Star Fleet Academy, located on the Presidio. The actual “Headquaters” building,
+which houses the offices of the Admiralty, is located on Angel Island in San Francisco Bay and is
+accessed by under-bay maglev and airtram. Other sections, such as Star Fleet Operations, are
+located along the San Francisco waterfront and Marin County.
+
+Star Fleet Headquarters is mostly located above ground, but the Star Fleet Operations Situation
+Room is located deep underground for both protection and due to the sheer size of the facility.
+The centerpiece of the facility is a hundred-meter diameter holo-projection globe showing the
+entire volume of the Federation. From here, the Chief of Star Fleet Operations and their staff
+monitor and administer all Star Fleet vessels and installations and their deployments.
+
+The Headquarters facility suffered extensive damage during an attack by Breen forces in 2376
+and is still being repaired and rebuilt. A new Operations Center was completed in early 2377 and
+work in now progressing on a new Administrative Center. For the time being, most administrative
+functions have been moved to the offices on Spacedock, while the Federation Council is using
+space donated by the Office of the Presidency in Paris, France, Earth. Star Fleet Headquarters is
+expected to be completely rebuilt by 2381.
+
+The loss of the Golden Gate Bridge severed the primary maglev arterial into Star Fleet
+Headquarters, so additional aerial tram stations have been built at the more “popular”
+
+destinations in addition to the main Transport Nexus. Reconstruction of the bridge is expected to   Star Fleet maintains very large relay stations in both polar geostationary positions. These stations
+be finished in late 2379, though there is some debate as whether to maintain the original design    serve as funneling points for all inbound and outbound comm traffic. There is a secondary array
+architecture or to replace the entire span with a high-capacity system as was done with the         located at Alcatraz Island that links with the array aboard Spacedock in orbit over the city for
+Oakland Bay and San Mateo bridges in the 2200’s.                                                    Fleet control traffic. In addition to Star Fleet and official Federation communications, many large
+                                                                                                    civilian communications company lease time and bandwith on Star Fleet comm systems as
+Star Fleet Headquarters also serves as the central communication nexus for the Federation.          both emergency backup channels and for occasional extra-bandwith needs.
+
+                                                                                                    EXPLORATION
+                                                                                                    COMMAND
+
+
+
+
+Exploration Command is the heart-and-soul of the Star Fleet. Though less than half the size of
+TacFleet, this includes mostly dedicated scout and survey vessels that have no essential military   Exploration Command truly shone with the introduction of the Constitution class heavy cruisers
+application. However, the mighty Galaxy / Galaxy (II) and swift Intrepid classes are considered     in 2245. These vessels were marvels of technology and went on to become highly successful.
+part of Exploration Command, as are the new Sovereign class.
+                                                                                                    As tensions with the Klingon and Romulan Empires increased, Exploration Command gradually
+Exploration Command is the oldest component of the Star Fleet, formed in 2161 at the same           started to get pushed aside by the requirements of TacFleet. The last Bonhomme Richard class
+time as the Star Fleet itself. The Daedalus class of starships, designed by Earth for use in the    heavy cruiser was produced in 2250 and it would be a full decade before the next generation of
+Romulan War, were converted to an exploratory role at the end of that conflict in 2160. They        explorers, the Achernar class, would start construction. During that time, however, TacFleet was
+were the first class of vessels commissioned under the auspices of the UFP and served for close     awarded contracts for the construction of the Coronado class through-deck cruiser, the Surya
+to thirty years before being supplanted by newer classes.                                           and Coventry class frigates, the Detroyat class heavy destroyer.
+
+The Daedalus class had been retired from service in 2196 with the introduction of the new           The situation began to improve in the early 2270’s after the imposition of the Organian Peace
+Horizon class. Named after a Daedalus class vessel that had been lost in 2168, it was a             Treaty in 2267 and the withdrawl of the Romulans in 2268 to far-less adversarial role. The surviving
+refinement of that class, offering better warp dynamics due to a smaller secondary hull and         heavy cruisers were uprated to a mix of Enterprise, Constitution (II) and Endeavor class vessels.
+more efficient coaxial warp nacelles. It also quickly supplanted the Lincoln class, which was       Exploration Command’s biggest gain was the construction of 33 Tikopai class heavy cruisers,
+developed in the late 2170’s after a number of Daedalus class ships were lost in a period of only   almost all of which were built to an exploratory role (in fact, they were originally to be classified
+a few years.                                                                                        as Exploratory Cruisers).
+
+By 2215, Star Fleet designers had started to determine that a flat, saucer-shaped primary hull      The Kzin Incursion of 2272 began to favor TacFleet, with the Surya class being uprated to the
+provided a more warp-dynamic structure than the spheres used in earlier classes, and the            new, more powerful Avenger class heavy frigate. However, Exploration Command was not
+Hermes class scout was introduced in limited quantities.                                            completely left out. The new Daran class of fast frigate was as capable an explorer as she was
+
+a frigate thanks to the fitting of the SSDGI (Sciential Sensory Data-Gathering & Interpretation)
+exploratory suite. Eight Avenger class heavy frigates were also returned to the yards in 2285 and
+converted to the Endurance class of explorers.
+
+After peace was obtained with the Klingon and Romulan Empires, Exploration Command
+began to exert more influence on the structure and composition of the Star Fleet. The Excelsior
+class, first produced in response to the requirements of TacFleet, had morphed into a first-class
+explorer replacing the Enterprise (II) class. The Constellation class of deep-space explorers was
+developed and entered service around this time, as well.
+
+As peace continued, Exploration Command began to enjoy budgets and priorities they had not
+seen since the founding of the Star Fleet. The new Ambassador class of heavy cruiser, though
+extremely powerful, was an explorer of the highest caliber. As the 2340’s arrived, plans were
+drawn for an even more powerful and advanced explorer, the Galaxy class. The sheer scope of
+the project absorbed huge amounts of the Star Fleet shipbuilding and material budget, but the
+six ships produced were the marvels of their day. Exploration Command funding continued to
+be strong, with the Sovereign, Nova, and Intrepid classes coming online between 2366-2371.
+
+The declaration of hostilities between the Federation and the Dominion in 2372 severely
+impacted Exploration Command. TacFleet was given direct control of all Miranda/Soyuz,
+Galaxy/Galaxy (II), and Intrepid class cruisers, though the Sovereigns were kept under EC
+control. In addition, Exploration Command facilities along the front-lines were absorbed into the
+TacFleet command structure.
+
+When the War ended in 2376, these ships and facilities were returned to the operational control
+of Exploration Command, though TacFleet’s new mission means that some, such as the Galaxy
+(II) class, can and are called upon to perform TacFleet missions.
+
+Currently the emphasis is on the restoration of TacFleet, due to the massive losses it suffered
+during the war. Construction of large explorers has been halted, but significant numbers of multi-
+role vessels like the Sovereign and Intrepid classes have been funded as they can serve both
+Exploration Command and TacFleet equally well.
+
+                                                                       TACFLEET
+
+
+
+
+Though the primary charter of the Star Fleet is to serve as an exploratory and research entity,          shields to become the Saladin class destroyer.
+the Star Fleet also serves to defend the Federation from foreign aggressors and TacFleet is the
+department tasked with the job.                                                                          However, single-nacelle starships were somewhat unwieldy compared to their dual-nacelle
+                                                                                                         counterparts and the Loknar class frigate was designed in 2221 and began volume production
+With close to 60% of the first-tier starships assigned to it, TacFleet is the largest Operational Unit   the following year. The introduction of both vessels helped turn the tide during future
+within Star Fleet. However, many of these vessels, such as the Nebula and Excelsior classes are          engagements.
+multi-mission vessels usually “loaned” to the Exploration Command and are controlled by them.
+In general, vessels of the Akira, Steamrunner, New Orleans, and Defiant classes are controlled           TacFleet’s stature and power grew rapidly during the decade of warfare between the Klingons
+directly by TacFleet.                                                                                    and Federation. TacFleet officers soon filled most of the senior posts within the Star Fleet
+                                                                                                         operating forces structure and by 2235 the first TacFleet officer was named as Commander in
+TacFleet was founded in 2218 shortly after the disastrous first contact with the Klingon Empire. The     Chief. They’re influence in starship design and procurement was also becoming more powerful.
+force structure of the Star Fleet at the time was geared towards exploration and the Federation          Though designed from the outset as an Explorer, the Constitution Class Starship Design Project
+was woefully ill-equipped to handle a serious military conflict. Star Fleet began development of         team had enough TacFleet people on it that the vessel also became the premiere combat
+purely military-aspect vessels and created TacFleet as an operational command structure for              vessel of it’s day when they entered service in 2245. The new Surya class of frigate was proposed
+them.                                                                                                    in 2238 and began to enter service in 2242. Three years later, an improved version known as the
+                                                                                                         Coventry also started production.
+At the time, the Star Fleet was composed mostly of Horizon and Lincoln class cruisers, with the
+Hermes class scout starting to enter service. None of these vessels were designed for combat             In addition to new starships, TacFleet was granted it’s own facilities and the basic and advanced
+and early losses against Klingon raiders was high. Star Fleet launched a crash-course program to         curricula at Star Fleet Academy was modified as well to teach more strategy and tactics in
+improve the offensive structure of the Fleet. By 2220 the Larson class destroyer entered service         addition to the pure sciences.
+and was rushed to the front lines. The Hermes class was also upgraded with better weapons and
+
+When the Klingon Empire invaded Axanar in 2246 to start the Four Year’s War, TacFleet once            and resources were dedicated to TacFleet ships. TacFleet also was granted operational control
+again rose to the forefront of the Star Fleet. The five ships of the Constitution class then in       over the almost the entire Exploration Command fleet, which included the Galaxy, Galaxy (II),
+service proved themselves to be without equal as a combat platform, and the Surya class saw           and Intrepid classes.
+significant action during the conflict.
+                                                                                                      Though the Federation was victorious, TacFleet suffered greatly. Entering the war with over 2100
+The end of the Four Years War was not the end of trouble with the Klingons and Federation,            ships in 2374, half of these ships were gone by the end of the war just two years later.
+however. Both sides continued an uneasy truce along their border and TacFleet was able to see
+a number of new projects, including the Detroyat class heavy destroyer and Coronado class             With the Dominion War now over, TacFleet’s stature is secure for the time being. The Federation
+through-deck cruiser come to fruition. Also, additional heavy cruisers of the Bonhomme Richard        Alliance was born out of common necessity rather than any sense of goodwill amongst the
+had been built based on the success of the Constellation class. The Romulan incursion across          members. Though the Alliance remains intact, it remains to be seen how the Romulans and
+the Neutral Zone by a single Bird of Prey in 2266 also boosted funding for TacFleet vessels and       Klingons plan to proceed in the post-Dominion era.
+personnel.
+                                                                                                      While Exploration Command has regained control of their elements, enhanced funding for
+The smoldering tensions burst into open flame again in the Organia system in 2267. However,           TacFleet will continue to ensure that losses suffered by the Akira and Norway classes are made-
+before either side’s Fleet could engage in combat, the inhabitants of that world negated              up. Plans are for TacFleet to be built up to 1750 ships by 2385. In addition to continued production
+each side’s starships and imposed what would become known as the Organian Peace Treaty,               of Akira, Norway and Defiant class vessels, Star Fleet has approved the production of two new
+preventing hostilities by either side against the other.                                              classes of Command Ship as well as providing funding necessary to maintain the six Entente
+                                                                                                      class vessels and production of a third Griffon class space control ship. Though a final decision
+As the tension with the Star Fleet had increased TacFleet’s power and prestige, the sudden            has not yet been made, TacFleet is actively fighting for the production of the Prometheus class
+ending of hostilities started to erode that. As peace with both the Klingons and Romulans             tactical cruiser.
+continued into the 2270’s, Exploration Command began to garner more and more resources
+from TacFleet. When the Tzin launched an incursion into Federation Space at Tau Ceti in 2272,
+TacFleet was again the priority for the six months of combat before the Federation defeated
+them at Zetar. However, it soon was made public that Star Fleet had been involved in
+operations against the Kzin since 2269 and not only TacFleet, but the entire Star Fleet operating
+budget were severely curtailed. By 2282 both TacFleet and the Rapid Deployment Force were
+severely weakened, as what money was being spent was going to fund Exploration vessels
+like the Tikopai and Endurance classes. With renewed Klingon activity in the mid-2280’s and an
+apparent renewing of ties with the Romulans, Star Fleet funding in general was increased, with
+more TacFleet-friendly classes entering service.
+
+The signing of the Khitomer Accords in 2293, followed by the Treaty of Algernon in 2311, brought
+an era of unrivaled peace and prosperity descended upon the Federation. Star Fleet began
+to switch more and more of it’s shipbuilding budget to the construction of multi-role vessels
+such as the Excelsior and Ambassador class and construction of TacFleet-specific ships waned.
+Exploration Command began to re-assert itself and the balance of power shifted back to them
+and away from TacFleet. As the decades rolled onwards, Exploration Command was able to
+secure massive budgets to develop and procure the premiere classes of the Fleet, such as the
+Galaxy, Intrepid, and Sovereign classes. However, hostilities with the Cardassian Union did allow
+TacFleet to procure vessels more-tailored to their own needs, such as the Akira and Norway
+classes. And the Borg incursion of 2367 shifted a significant portion of Star Fleet’s R&D budget to
+TacFleet.
+
+The Dominion War did for the TacFleet in the 2370’s much as the Four Year’s War did for them
+in the 2240’s. Construction of Explorer-type vessels were halted as all available dockyard space
+
+                                                                     RAPID DEPLOYMENT
+                                                                     FORCE
+
+
+
+
+The Rapid Deployment Force is a special unit under TacFleet. Designed to be quickly deployed          capability.
+to trouble spots anywhere in the Federation, the RDF is broken up into smaller operational units
+that are created from currently-assigned Fleet assets in an area. Generally built along 75%           Star Fleet Operations and TacFleet are giving serious consideration to revising the concept in
+TacFleet and 25% Support Command vessels, the composite ships that make up the RDF can be             general, and how it would be employed, specifically, to make it a more effective deterrent and
+assembled inside of 48 hours and then deployed as a unit to the trouble-spot.                         tool. Consideration include assigning more powerful assets, such as the Sovereign and Galaxy
+                                                                                                      (II) class starships to the RDF to boost the current mix of TacFleet Akira and Steamrunner class
+The RDF was created in 2266 after the Romulan Neutral Zone launched a covert attack against           ships that form the bulk of the RDF. There are also plans to increase production and distribution
+the Federation’s Neutral Zone Outposts by a single Bird of Prey. At the time, only the Constitution   of the R4-type “tactical starbases” to help shore-up the Federation perimeter and provide a
+class starship Enterprise was anywhere near the area. If this had been a concerted invasion, as       more organized and cohesive “fall-back” position to prevent the deep gains into Federation
+opposed to a probe of Federation defenses, Star Fleet would have been ill-prepared to respond         territory that the Dominion were able to accomplish. Plans are also underway for a special set of
+to it quickly.                                                                                        RDF/TacFleet communications relay stations to ensure that elements are able to communicate
+                                                                                                      and coordinate with each other outside of the basic Fleet communications relay system, which
+Due to it’s nature, the RDF is composed of swift vessels such as Intrepid, Defiant, Norway, and       was subjected to extensive jamming, spoofing, and attack during the war. In addition, there are
+Akira class ships - all of which can attain and maintain a high-warp speed and pack a solid           plans to perform expanded tactical training at both the Task Force and Fleet levels to better
+tactical suite. It is expected that these ships will serve as the opening “picket” to engage and      prepare for possible future conflicts.
+slow the enemy advance long enough for larger Fleet elements to be formed and deployed.
+                                                                                                      It is hoped that these, and other measures that may be taken, will allow the RDF to perform
+The RDF has been employed with excellent results, including against the alien probe that              it’s function better, faster, and with lower casualties. In addition, having a refined RDF will allow
+visited Earth in 2286, the Tolmed Incident, both Borg Invasions, and in the early days of the         more ships to be detached and assigned to exploration and other non-TacFleet duties during
+Dominion War. However, the elements that formed the RDF took dreadful losses in all of                peacetime without putting the safety of the Federation at risk.
+these engagements, and the current RDF is a shadow of it’s former self in both numbers and
+
+
+FLEETS OF THE FEDERATION
+
+                                                                                                 FIRST FLEET
+
+
+
+
+Fleet Strength: 310 Ships (145 TacFleet, 108 Exploration, 57 Auxiliary)
+Fleet Commander: Fleet Admiral James Suvadine
+Fleet Headquarters: Bennu Station
+Fleet Flagship: USS Trinculo (NCC-71867)
+
+Located in the southwest rimward area of the Beta Quadrant, the First Fleet’s patrol area includes the Talos Star Group and the former area of the T’Kon Empire. There Fleet performs extensive
+mapping missions in this unexplored area and contains a number of Cheyenne class superscouts and Nova and Oberth class surveyors. Two task forces are assigned to exploration, centered on
+the Galaxy class CKE Trinculo and the Ambassador class CH Yamaguchi.
+
+
+
+FIRST FLEET DEPLOYMENT
+
+TaskForce              Task Force Commander                    Flagship                        Commanding Officer                   Home Port                    Deployment Area
+
+Task Force 11          Fleet Admiral James Suvadine            Trinculo (CKE 71867)            Captain Sasha Kethali                Bennu Station                Rimward Exploration
+Task Force 12          Rear Admiral Mandi Hermann              Rutledge (ES 74215)             Rear Admiral Mani Hermann            Station Nikola Tesla         Patrol
+Task Force 13          Commodore Selon                         Ronald E. McNair (CL 61829)     Captain T’Spar                       Station Lewis B. Puller      Patrol
+Task Force 14          Rear Admiral Triola                     Intrepid (CH 10521)             Captain Robert Schneider             Station Nikola Tesla         Exploration
+Task Force 15          Vice Admiral Michelle Kwan              Yamaguchi (CH 26510)            Captain Dwen Howell                  Bennu Station                Rimward Exploration
+Task Force 16          Rear Admiral Mark Vinson                Arthur C. Clarke (CS 63544)     Rear Admiral Mark Vinson             Station Lewis B. Puller      Patrol
+
+                                                                                                  SECOND FLEET
+
+
+
+
+Fleet Strength: 241 Ships (156 TacFleet, 49 Exploration, 36 Auxiliary)
+Fleet Commander: Fleet Admiral Willow Rosenberg
+Fleet Headquarters: Dark Silence Station
+Fleet Flagship: USS Werner von Braun (NCC-72069)
+
+The Second Fleet patrols patrol and defends of the “southern” edge of the Federation in the Beta Quadrant. This includes the Gorn Hegemony and Tholian Assembly. Most of the Klingon Empire
+also borders Second Fleet space. Due to the proximity to two less-than-friendly powers, the 49 ships from Exploration Command include a Galaxy (II) vessel, as well as a heavier-than average mix
+of Ambassador, and Nebula class ships. TacFleet assets are mostly New Orleans and Norway classes, with a good mix of Akiras. Fleet Admiral Rosenberg is a well-regarded tactical and strategic
+officer, and her appointment to the Second at the end of the Dominion War has been well-received by the Commanding Officers under her.
+
+
+
+SECOND FLEET DEPLOYMENT
+
+TaskForce              Task Force Commander                    Flagship                         Commanding Officer                   Home Port                            Deployment Area
+
+Task Force 21          Fleet Admiral Willow Summers            Werner von Braun (CKE 72069)     Rear Admiral Seth Boreanaz           Dark Silence Station                 Gorn Border
+Task Force 22          Fleet Captain Gerri Wampler             Highlander (CH 10530)            Fleet Captain Gerri Wampler          Starbase 63                          Klingon Border
+Task Force 23          Commodore M’reth                        Valdemar (CH 26198)              Captain Danjette Pedersen            Dark Silence Station                 Exploration
+Task Force 24          Commodore Seiji Amasawa                 Akira (CS 62497)                 Captain Yuko Harada                  Starbase 251                         Tholian Border
+Task Force 25          Rear Admiral Marco Pagott               Tripoli (CL 65897)               Captain M’Giia                       Chattahooche Station                 Patrol
+
+                                                                                                FOURTH FLEET
+
+
+
+
+Fleet Strength: 204 Ships (70 TacFleet, 93 Exploration, 41 Auxiliary)
+Fleet Commander: Fleet Admiral Dinky Rodriguez
+Fleet Headquarters: Cascade Station
+Fleet Flagship: USS Magellan (NCC-72381)
+
+The Fourth Fleet patrols the Rimward southwestern quadrant of the Federation. Due to the completely unexplored nature of this area, over half of the Fourth Fleet is composed of assets from
+Exploration Command. Fleet Admiral Rodriguez has spent his entire career in Exploration Command, and the Fourth is one of only two Fleets currently under the command of an EC-branch officer
+(the other being the Seventeenth). As for the TacFleet assets, they are primarily older New Orelans and Steamrunner ships.
+
+
+
+
+FOURTH FLEET DEPLOYMENT
+
+TaskForce               Task Force Commander                    Flagship                      Commanding Officer                  Home Port                    Deployment Area
+
+Task Force 41           Fleet Admiral Dinky Rodriguez           Magellan (CKE 72381)          Captain Esteban Tuero               Cascade Station              Rimward Exploration
+Task Force 42           Rear Admiral T’Val                      Zhukov (CH 23136)             Captain Brian Zamora                Cascade Station              Rimward Exploration
+Task Force 43           Commodore Shren                         Bonaventure (CH 10542)        Captain Kathal Mswreth              Starbase 269                 Patrol
+Task Force 44           Fleet Captain Fio Piccolo               Bellerophon (CA 74705)        Captain Alan Withers                Starbase 301                 Exploration
+Task Force 45           Rear Admiral Renee Bunford              Athena (CL 61896)             Fleet Captain Goksel Tobias         K’Ehyler Station             Patrol
+
+                                                                         FIFTH FLEET
+
+
+
+
+Fleet Strength: 227 Ships (121 TacFleet, 58 Exploration, 48 Auxiliary)
+Fleet Commander: Admiral Chris Wallace
+Fleet Headquarters: Nexus Spacedock, Galena, Obsidian System
+Fleet Flagship: USS Bright Star (NCC-71875)
+
+The Fifth Fleet was originally tasked with the patrol, defense, and exploration of the underside of the Federation. Nexus Spacedock is located along ancient trading routes that linked areas of the
+Federation, the Klingon Empire, and the Cardassian Union. As such, it was a major focal point of the Dominion War and the structure of the Fifth Fleet has been bolstered to ensure the safety of
+commerce and transport in the area. With the dissolution of the Tenth Fleet, those assets were given to the Fifth, whose area of operation has been expanded to include the Cardassian Union
+border and Breen space.
+
+
+
+FIFTH FLEET DEPLOYMENT
+
+TaskForce              Task Force Commander                    Flagship                   Commanding Officer                    Home Port                     Deployment Area
+
+Task Force 51          Admiral Chris Wallace                   Bright Star (CKE 71875)    Captain Nausicaä Miyazaki             Spacedock Nexus               Coreward Exploration
+Task Force 52          Rear Admiral Kurt Roithinger            Destiny (CA 74691)         Fleet Captain Stephen Idell           Starbase 514                  Patrol
+Task Force 53          Vice Admiral Sharon Campbell            Pendragon (BB 2005)        Fleet Captain Teri Halsey             Spacedock Nexus               Cardassian Union Border
+Fifth MEU              Lieutenant General Scott Akers          Kensington (CH 75016)      Brigadier Diana Hoff                  Greywolf Station              Cardassian Union Border
+
+                                                                                                  SIXTH FLEET
+
+
+
+
+Fleet Strength: 107 Ships (49 TacFleet, 37 Exploration, 21 Auxiliary)
+Fleet Commander: Admiral Craig Pollock
+Fleet Headquarters: Deep Space Three
+Fleet Flagship: USS Cicero (NCC-75001)
+
+The Sixth Fleet patrols and explores the coreward section of the Federation and therefore the Fleet composition is close to even between TacFleet and Exploration Command vessels. The Sixth Fleet
+also helps patrol and defend the Core Worlds with the Seventh, and the Fleet suffered heavy losses at the Battle of Wolf 359.
+
+
+
+
+SIXTH FLEET DEPLOYMENT
+
+TaskForce               Task Force Commander                    Flagship                        Commanding Officer                    Home Port                     Deployment Area
+
+Task Force 61           Admiral Craig Pollock            Cicero (CH 75001)                      Captain Alec Zanari                   Deep Space Three              Coreward Exploration
+Task Force 62           Rear Admiral Giovanna Amati      Leeds (CL 70352)                       Captain Estefano Nasif                Deep Space Five               Coreward Exploration
+Task Force 63           Commodore John Riseley-Pritchard Thunderchild (CS 63549)                Captain James Bakken                  Deep Space Three              Patrol
+
+                                                                                                SEVENTH FLEET
+
+
+
+
+Fleet Strength: 289 Ships (160 TacFleet, 77 Exploration, 52 Auxiliary)
+Fleet Commander: Fleet Admiral Lamia Jedrek
+Fleet Headquarters: Spacedock
+Fleet Flagship: USS Sovereign (NCC-75000)
+
+The Seventh Fleet is charged with the defense of the core worlds and some of the most powerful and advanced ships are assigned to this fleet, including the lead Sovereign class vessel and a
+number of Nebula class ships, including the Lexington. The Fleet was savaged during the Dominion War and has received a number of new assets. The Seventh also explores coreward of Federation
+space with the First Fleet, and Exploration Command has assigned the Galaxy class starship USS Challenger to the Seventh.
+
+
+
+
+SEVENTH FLEET DEPLOYMENT
+
+TaskForce              Task Force Commander                    Flagship                        Commanding Officer                  Home Port             Deployment Area
+
+Task Force 71          Fleet Admiral Lamia Jedrek              Sovereign (CH 75000)           Captain Beryl E. Washington          Starbase 10           Romulan Neutral Zone
+Task Force 72          Rear Admiral Bob Vosseller              Challenger (CKE 71099)         Rear Admiral Bob Vosseller           Starbase 185          Coreward Exploration
+Task Force 73          Fleet Admiral Michael Smith             Starlord (ES 74225)            Fleet Captain Joe Podesta            Deep Space 4          Patrol
+Task Force 74          Commodore Mark Hanford                  Lexington (CL 61832)           Commodore Mark Hanford               Starbase 10           Patrol
+Task Force 75          Rear Admiral William Owens              Excalibur (CH 26517)           Captain Steve Buchman                Deep Space 4          Patrol
+Task Force 76          Vice Admiral Roy Fokker                 Macross (CS 62498)             Captain Claudia Grant                Starbase 10           Patrol
+
+                                                                                                     TWELFTH FLEET
+
+
+
+
+Fleet Strength: 210 Ships (147 TacFleet, 40 Exploration, 33 Auxiliary)
+Fleet Commander: Fleet Admiral Kharak Alsera
+Fleet Headquarters: Starbase 343
+Fleet Flagship: USS Galaxy (NCC-70637)
+
+The Twelfth Fleet is the first line of defense along the Romulan Neutral Zone. As such, it is heavily geared toward TacFleet assets, with three Olympus class dreadnoughts and one each of the Entente
+class dreadnought and Griffon class battleship assigned to it, as well as a large number of Akira class cruisers and most of the Defiant class escorts. Exploration Command assets include the Galaxy
+(II), Sovereign, and Intrepid classes. The Twelfth also patrols and defends the Core Worlds, with support from the Sixth Fleet. Fleet Admiral Alsera is a skilled tactician and her performance against
+the Klingons during the short Klingon-Cardassian War earned her the respect of their warrior caste, who awarded her the honorary title of Thought Admiral.
+
+
+
+TWELFTH FLEET DEPLOYMENT
+
+TaskForce              Task Force Commander                    Flagship                            Commanding Officer                    Home Port              Deployment Area
+
+Task Force 121         Fleet Admiral Kharak Alsera             Galaxy (CKE 70637)                  Captain Yawara Inokuma                Starbase 343           Exploration
+Task Force 122         Vice Admiral William Anderson           Entente (DN 73280)                  Captain Kara Iczer                    Starbase 343           Romulan Neutral Zone
+Task Force 123         Rear Admiral Robert Westfall            Krazny Oktyabr (BB 72201)           Rear Admiral Robert Westfall          Troubador Station      Patrol
+Task Force 124         Rear Admiral Lorne Adama                Battlestar (DN 23110)               Captain David Crowl                   Outpost 4              Romulan Neutral Zone
+Task Force 125         Rear Admiral David Heath                Marko Ramius (DN 23102)             Fleet Captain Donna Stewart           Starbase 12            Klingon Border
+Task Force 126         Commodore Seileach Corleigh             Phoenix (CL 65420)                  Commodore Seileach Corleigh           Troubador Station      Klingon Border
+
+                                                                                       SEVENTEENTH FLEET
+
+
+
+
+Fleet Strength: 187 Ships (75 TacFleet, 69 Exploration, 43 Auxiliary)
+Fleet Commander: Fleet Admiral Kharak Alsera
+Fleet Headquarters: Starbase Seventeen
+Fleet Flagship: USS Venture (NCC-71854)
+
+The Seventeenth Fleet works with the Fourth in patrolling and exploring the rimward section of the Federation, and is composed along the lines of the Fourth.
+
+
+
+SEVENTEENTH FLEET DEPLOYMENT
+
+TaskForce               Task Force Commander                    Flagship                         Commanding Officer                   Home Port                 Deployment Area
+
+Task Force 171          Fleet Admiral Kharak Alsera             Venture (CKE 71854)              Captain Miriya Santavas              Starbase 224              Rimward Exploration
+Task Force 172          Rear Admiral Kith Vokh                  Laputa (CS 64552)                Fleet Captain Sheeta Tauel           Camelot Station           Patrol
+Task Force 173          Commodore Lillian Norris                Adelphi (CH 26849)               Captain Mandar Othera                Starbase 193              Patrol
+Task Force 174          Fleet Captain Isao Takahata             Traveller (CA 74716)             Captain Sasha Kethali                Starbase 201              Exploration
+Task Force 175          Commodore Kfazz Sadeng                  Monitor (CL 61826)               Fleet Captain Jarrod Blaine          Freedom III Station       Rimward Exploration
+
+APPENDICES
+
+                                       ABOUT THE PUBLISHING TEAM
+
+
+
+
+Chief Editor and Publisher: Admiral Chris Wallace                                                   Layout Consultant: Sakura Shinguji
+The current Chief of Star Fleet Operations, Admiral Wallace also served as the Executive Director   Ms. Shinguji serves as the Director of Publications for Panda Press Interstellar.
+of the Galaxy and Galaxy (II) Class starship development projects and is a former Chairman of
+the Advanced Starship Design Bureau. He was the Commanding Officer of both the U.S.S. Bright
+Star and U.S.S. Galaxy.
+
+
+
+
+Project Coordinator: Captain Belldandy Morisato                                                     Strategic Editor: Commander Natsumi Tsujimoto
+Captain Morisato has served as the Project Coordinator for most of DTS and ASDB’s technical         Commander Tsujimoto serves as the Tactical Officer aboard the U.S.S. Bright Star and served
+publications. She is the Executive Officer of the U.S.S. Bright Star.                               on the battle planning and management staffs for most of the Dominion War’s largest
+                                                                                                    engagements.
+
+Production Editor: Rear Admiral Kurt Roithinger                  Technical Editor: Admiral Alex Rosenzweig                          Engineering Consultant: Lieutenant Commander Skuld
+The former commander of the Space Station Nexus, Rear            Admiral Rosenzweig is the current Director of the Star Fleet       The Chief Engineering Officer of the U.S.S. Bright Star,
+Admiral Roithinger has worked on a number of Star Fleet          Department of Technical Services, as well as the Director of the   Commander Skuld served on the Galaxy (II) Class Starship
+projects.                                                        Office of Technical Information. He has chaired numerous Star      Development Project and is considered one of the top field
+                                                                 Fleet committees and panels, including the commission that         engineers in Star Fleet.
+                                                                 oversaw the loss of the U.S.S. Enterprise at Veridian III.
+
+
+
+
+Systems Analyst: Rear Admiral Carsten Pedersen                   Naval Liaison: Rear Admiral John Scharmen                          Graphics: Commodore David Pipgras
+Considered one of the premiere designers at Star Fleet R&D,      Admiral Scharmen serves as the Naval Liaison between Star          Commodore Pipgras is the Director of the Region Five Office of
+Admiral Pedersen has lent his talents to most of the starship    Fleet Operations and the Star Fleet Spacecraft Design Advisory     Graphic Design.
+designs put into production over the past decade.                Commission.
+
+
+
+
+Historical Liason: Lieutenant General Scott A. Akers             Support Staff: Doctor Rick Sternbach                               Support Staff: Doctor Michael Okuda
+General Akers serves as the Chief Historian of Star Fleet and    Doctor Sternbach serves on the Advanced Propulsion Unit            Doctor Okuda serves on the Advanced Propulsion Unit of the
+assisted with the background histories of each class.            of the Advanced Starship Design Bureau. He was a senior            Advanced Starship Design Bureau. He was a senior member
+                                                                 member of the Galaxy, Sovereign, Intrepid, and Defiant Class       of the Galaxy, Sovereign, Intrepid, and Defiant Class Starship
+                                                                 Starship Development Projects.                                     Development Projects.
+
+
+
+
+Support Staff: Doctor Graham Kennedy                                                                                                Senior Consultant: Dr. Bernd Schneider, PhD.
+A senior analyst with the Daystrom Technical Institute, Doctor                                                                      Dr. Schneider is the Dean of the School of Astronautics at
+Kennedy provided technical data for this publication.                                                                               Annapoilis. He is considered an expert of Vulcan and other
+                                                                                                                                    alien spacecraft and has written numerous articles for PPI.
+
+                                                                    CREDITS
+
+
+
+TEXT CREDITS
+
+   CHRIS WALLACE, KURT ROITHINGER, ALLYSON DYAR, DAFYDD NEAL DYAR
+
+COVER ILLUSTRATION
+
+   KURT ROITHINGER
+
+STARSHIP DEVELOPMENT PROGRAM AND FLEET YARD LOGOS
+
+   DAVID PIPGRAS, RICK STERNBACH and MICHAEL OKUDA
+
+PERSONNEL PLAQUES
+
+   CHRIS WALLACE AND KURT ROITHINGER
+
+                                                                                                                                TEAM KEMPO
+
+
+
+
+Definition & Conception
+
+Team Kempo is the designation for the Advanced Starship Design Bureau’s Research and                  codename.
+Development Testing Group, which is assigned to the Utopia Planitia Fleet Yards.
+                                                                                                      The Bright Star remains the primary “testbed” ship for the ASDB, and most of the new technologies
+When he was named Chairman of the ASDB, then Rear Admiral Chris Wallace chose the first               developed for use within the Star Fleet are tested first on this vessel. In 2372, the Bright Star was
+Galaxy (II) Class Large Exploratory Cruiser, the U.S.S. Bright Star (CKE 71875) to serve as the       joined by the U.S.S. Werner von Braun (CKE 72069), which was designated as ASDB’s Engineering
+Test-Bed Vessel of the ASDB. The Galaxy (II) Class was the most advanced starship class in            Testbed vessel to test advanced and theoretical propulsion systems and technologies along
+existence at the time, and the sheer size and volume makes it a good platform for testing new         with Bright Star.
+propulsion, computer, and tactical systems. In point of fact, the Galaxy (II) / Bright Star was the
+first installation of the LF-41B and LF-46 engines, Type XII phaser, and the M-16 Bio-Neural Gel
+Pack Isolinear III computer system.
+
+As opposed to using the specialized prototype test crew (Cathedral Unit), the original test crew
+for the Bright Star were selected from various personnel who were chosen for their particular
+skills and experience aboard Galaxy and Nebula class starships. This was due to the significant
+changes that had been incorporated into the Galaxy (II) class as well as Admiral Wallace’s
+desire to train an R&D testing crew who would also serve as the ship’s Command Crew. It was
+thus composed of some of Starfleet’s best officers in each discipline, and all are considered
+experts in their respective fields. Of Bright Star’s original Command Crew, five were members
+of the Federation Kempo Team for 2370, and they therefore chose “Team Kempo” as their
+
+
+TEAM KEMPO • STARSHIP U.S.S. BRIGHT STAR
+         LAUNCH CREW (2370)
+
+                                                                                                                   AUTHOR’S NOTES
+
+
+Welcome to the Second Edition of Ships of the Star Fleet: 2377-78. This project was first started in         happen to belong to) that happened to be of that class. For the Freedom Class I used the listing
+1999 as a resource for fans on the ships of the Next Generation / Deep Space Nine / Voyager                  from the Trekmania site (www.trekmania.net). The rest…I made up. *grin*
+era. In 2003, I decided to do a major update and added some more of the “canon” ships, as
+additional information is available for them.                                                                A(nother) note about Registry numbers. I subscribe to the theory that registry numbers are
+                                                                                                             assigned sequentially, with higher-numbered vessels (in general) being constructed after lower-
+Since 1997, I have been publishing a journal titled Dockyard Review, which has showcased                     numbered ones. This really threw a wrench in things, since it looks like almost *every* ship class
+ships from 2290-2380. Being a fan of Mastercom Data Center’s Ships of the Star Fleet: 2290-91, I             known predates the Galaxy, which we know did not enter service until 2357. However, I asked
+decided to do something similar and chose 2377-78 for my first volume since that is the “current”            myself what if the Galaxy class was not a revolutionary design, but instead was based on an
+Star Trek timeline for many of us.                                                                           established design lineage? Perhaps the New Orleans was the revolutionary design, and the
+                                                                                                             Galaxy and Nebula took their cues from her? Also, we know up until 2344 that relations with the
+As you can tell, I have not attempted (at least at this time) to include all the ships known to exist        Klingons had become stormy (if the Enterprise C had not been at Nerandra III, there would have
+in the Star Trek universe of the late 2300’s. This is primarily because when I first started, most of        eventually been war as “Yesterday’s Enterprise” showed us) so very powerful vessels like the Akira
+these vessels are little more than a class name, ship name, and NCC number. Therefore, I have                might have been developed in response to the threat of war. When this threat evaporated,
+insufficient information on them to really create an entry for them. Here in the United States I             peaceful explorers like the Galaxy class could be built. I plotted out all the construction dates
+did not get the excellent Star Trek Fact Files which showcase so many of these designs (like the             from the first edition and found they made no sense. So I spent three days re-doing them all.
+Freedom and Apollo, for example). Instead, I decided to settle on the more “popular” ones, at                From 2364 onwards, it gets dicey, but I did the best I could do. :-)
+least within some fan circles. However, that does not mean what you see here is all that there
+will ever be. This is the third edition of this resource and I hope to continue revising it in the future.   The information contained within this volume is purely the conjecture of myself and is not meant
+You will also notice there are very few “fan” designs. In general, those designs are showcased               to be deemed official or “canon” in any way. I have, where possible, used official Paramount
+in Starfleet Prototype and Dockyard Review. Fortunately, Star Trek: The Magazine provided me                 sources for information. Where that has failed, I have gone to the web and other books. I
+with much of the data found in the Fact Files, as well as people starting to create CG artwork of            am indebted to Rick Sternbach, Michael and Denise Okuda, and the rest of the Star Trek Art
+some of the “missing” classes like the Niagara, Freedom, and Challenger, which allowed me to                 Department folks for providing information. Thanks also go to Alex Jaegar at ILM for his data on
+add them into the 2003 update.                                                                               the Akira class battlecruiser and Alex Rosenzweig for providing a listing of many of the names
+                                                                                                             and NCC numbers included herein. I’d also like to double (as opposed to single) out Graham
+I know that there were probably hundreds of vessels of the Steamrunner, New Orleans, Saber,                  Kennedy’s Daystrom Technical Institute (http://www.ditl.org) and Bernd Schneider’s Ex Astris
+and other classes. However, I did not want to fill the book with pages of names, so I limited the            Scientia (http://www.ex-astris-scientia.org) pages for the helpful technical information they
+entries to a single page. For naming conventions, I started first with “canon” names and NCC                 provided. And a final *big* thank you to Mateen Greenway (http://mateengreenway.simplen
+numbers (those seen or referenced on screen). Next, I went with studio models and other printed              et.com), Peter Savin and the gang at Scifi-Art.com (http://www.scifi-art.com) and the talented
+sources from Paramount (like the Encyclopedia). Next, I choose names and NCC numbers from                    folks who contribute to SciFi-Meshes.com (http://www.scifi-meshes.com) for providing the high-
+active chapters of STARFLEET: The International Star Trek Association (whom the publisher’s                  quality graphics seen throughout this book.
+
+                                                                                                                            ART CREDITS
+
+
+STARSHIP MODEL CREDITS – ALL VOLUMES
+
+    AKIRA CLASS MODELS BY: Cyrille Lefevre, Peter Savin and Mike Wright (www.scifi-art.com)
+    AMBASSADOR CLASS MODELS BY: Cyrille Lefevre and Peter Savin (www.scifi-art.com)
+    CHEYENNE CLASS MODELS BY: Tom Bijl (www.scifi-art.com)
+    DEFIANT CLASS MODELS BY Mike Wright (www.scifi-art.com) and Mateen Greenway (mateengreenway.simplenet.com)
+    ENTENTE CLASS MODELS BY: Trevor Morris and Ralph Schoberth (trekmeshes.starfleet.ch) and Mateen Greenway (mateengreenway.simplenet.com)
+    GALAXY CLASS MODELS BY: Mateen Greenway (mateengreenway.simplenet.com)
+    GALAXY (II) CLASS MODELS BY: Chris Setterington (trekmeshes.starfleet.ch)
+    INTREPID CLASS MODELS BY: Mateen Greenway (mateengreenway.simplenet.com)
+    NEBULA CLASS MODELS BY: Mateen Greenway (mateengreenway.simplenet.com)
+    NEW ORLEANS CLASS MODELS BY: Tom Bijl (www.scifi-art.com)
+    NORWAY CLASS ILLUSTRATIONS BY: Doug Drexler (Star Trek Encyclopedia)
+    NORWAY CLASS MODELS BY: Rob Caves (www.geocities.com/SoHo/Village/1210/index.htm)
+    NOVA CLASS MODELS BY: Scifi-art.com (www.scifi-art.com)
+    SABER CLASS MODELS BY: Mike Wright (www.scifi-art.com)
+    SOVEREIGN CLASS MODELS BY: Ralph Schoberth (www.scifi-art.com)
+    STEAMRUNNER CLASS MODELS BY: Cyrille Lefevre and Mojoman (www.scifi-art.com)
+
+STARSHIP ART CREDITS – VOLUME ONE
+
+    THE USS VICTORY (CE 9754) EXPLORING A TYPE VI GASEUOUS CLOUD
+             Scifi-art.com (http://www.scifi-art.com)
+    THE USS STARGAZER (CE 2893) UNDERGOING REPAIR AND REFIT AT XENDI STARBASE 9 FOLLOWING HER RECOVERY IN 2364
+             Dak Phoenix (http://www.PHOENIX-ARCHETYPES.com)
+    EXCELSIOR CLASS ENGAGING KLINGON BIRDS OF PREY
+             Lee Scheinbeim (http://www.scfi-meshes.com)
+    THE USS EXCELSIOR (CH 2000) PREPARES TO LEAVE PORT ON HER NEXT MISSION
+             Flat Eric (http://www.scfi-meshes.com)
+     THE USS MAAT (CH 10794) CATALOGING NEBULAE
+             Admiral Valkyrien (http://www.scfi-meshes.com)
+    THE USS EXCALIBUR (CH 26517) ENTERS EARTH ORBIT
+             Scifi-art.com (http://www.scifi-art.com)
+
+STARSHIP MODEL CREDITS – ALL VOLUMES
+
+    AKIRA CLASS MODELS BY: Cyrille Lefevre, Peter Savin and Mike Wright (www.scifi-art.com)
+    AMBASSADOR CLASS MODELS BY: Cyrille Lefevre and Peter Savin (www.scifi-art.com)
+    CHEYENNE CLASS MODELS BY: Tom Bijl (www.scifi-art.com)
+    DEFIANT CLASS MODELS BY Mike Wright (www.scifi-art.com) and Mateen Greenway (mateengreenway.simplenet.com)
+    ENTENTE CLASS MODELS BY: Trevor Morris and Ralph Schoberth (trekmeshes.starfleet.ch) and Mateen Greenway (mateengreenway.simplenet.com)
+    GALAXY CLASS MODELS BY: Mateen Greenway (mateengreenway.simplenet.com)
+    GALAXY (II) CLASS MODELS BY: Chris Setterington (trekmeshes.starfleet.ch)
+    INTREPID CLASS MODELS BY: Mateen Greenway (mateengreenway.simplenet.com)
+    NEBULA CLASS MODELS BY: Mateen Greenway (mateengreenway.simplenet.com)
+    NEW ORLEANS CLASS MODELS BY: Tom Bijl (www.scifi-art.com)
+    NORWAY CLASS ILLUSTRATIONS BY: Doug Drexler (Star Trek Encyclopedia)
+    NORWAY CLASS MODELS BY: Rob Caves (www.geocities.com/SoHo/Village/1210/index.htm)
+    NOVA CLASS MODELS BY: Scifi-art.com (www.scifi-art.com)
+    SABER CLASS MODELS BY: Mike Wright (www.scifi-art.com)
+    SOVEREIGN CLASS MODELS BY: Ralph Schoberth (www.scifi-art.com)
+    STEAMRUNNER CLASS MODELS BY: Cyrille Lefevre and Mojoman (www.scifi-art.com)
+
+STARSHIP ART CREDITS – VOLUME ONE
+
+    THE USS VICTORY (CE 9754) EXPLORING A TYPE VI GASEUOUS CLOUD
+             Scifi-art.com (http://www.scifi-art.com)
+    THE USS STARGAZER (CE 2893) UNDERGOING REPAIR AND REFIT AT XENDI STARBASE 9 FOLLOWING HER RECOVERY IN 2364
+             Dak Phoenix (http://www.PHOENIX-ARCHETYPES.com)
+    EXCELSIOR CLASS ENGAGING KLINGON BIRDS OF PREY
+             Lee Scheinbeim (http://www.scfi-meshes.com)
+    THE USS EXCELSIOR (CH 2000) PREPARES TO LEAVE PORT ON HER NEXT MISSION
+             Flat Eric (http://www.scfi-meshes.com)
+     THE USS MAAT (CH 10794) CATALOGING NEBULAE
+             Admiral Valkyrien (http://www.scfi-meshes.com)
+    THE USS EXCALIBUR (CH 26517) ENTERS EARTH ORBIT
+             Scifi-art.com (http://www.scifi-art.com)
+    COMING HOME
+             Nick Bacon and Tom Bijil (http://www.scifi-art.com)
+    THE USS SUTHERLAND (CL 72015) CONFIGURED WITH A DEEP SPACE SENSORDOME
+             Scifi-art.com (http://www.scifi-art.com)
+    THE USS RONALD E. MCNAIR (CL 61829) ON PATROL
+             Scifi-art.com (http://www.scifi-art.com)
+    AN AFT VIEW OF THE USS SUTHERLAND (CL 72015), SHOWING HER HANGER DECK
+             Scifi-art.com (http://www.scifi-art.com)
+    THE USS NIAGARA (CF 28205) ON PATROL
+             The Red Admiral (http://www.trekmania.net/)
+    THE USS VENTURE (CKE 71854) DURING REFIT AFTER THE DOMINION WAR
+             Deks (http://www.scfi-meshes.com)
+    THE USS CHALLENGER (NCC 71099) ON A DEEP-SPACE SURVERY MISSION
+             Tom Bijl (http://www.scifi-art.com)
+    CHALLENGER CLASS STARSHIP
+             The Red Admiral (http://www.trekmania.net/)
+
+    THE USS CHALLENGER (CL 57476) DURING HER SHAKEDOWN CRUISER
+             The Red Admiral (http://www.trekmania.net/)
+    THE USS PANTHER CITY (CG 63543) EXPLORING THE BADLANDS NEAR DEEP SPACE NINE
+             Scifi-art.com (http://www.scifi-art.com)
+    THE USS KANEDA (CG 63352) ON PATROL
+             Scifi-art.com (http://www.scifi-art.com)
+    THE USS BRIGHT STAR (CKE 71875) - THE FIRST GALAXY (II) CLASS LARGE EXPLORATORY CRUISER
+             Captain Braxton (webmaster@quantum2k.de)
+    THE USS WERNER VON BRAUN (CKE 72069) PERFORMING DEEP-SPACE MAPPING
+             Big Boy T (http://www.scifi-art.com)
+    THE USS BRIGHT STAR ENGAGES A CARDASSIAN GALOR CLASS CRUISER DURING “OPERATION RETURN”
+             Sean Quigly (http://www.scifi-art.com)
+    THE USS DESTINY (CR 74691) PAYS A VISIT TO ALPHA V
+             Tim Feel (http://www.scfi-meshes.com)
+    THE USS INTREPID (NCC 74655) TRACKING A CLASS B comET
+             Vaaceman (vaaceman@hotmail.com)
+    THE USS ENTERPRISE (CH 1701-E) - THE SIXTH VESSEL TO CARRY THIS MOST FAMOUS OF NAMES
+             Alex Zervas (http://www.alex.freeisp.co.uk)
+    THE SOVEREIGN CLASS HEAVY CRUISER USS KENSINGTON (CH 75016) ON PATROL NEAR STARBASE FIVE
+             Desktop Starships (http://www.desktopstarships.com)
+    THE USS PROMETHEUS (CT 74913) ON PATROL
+             Ed Giddings (http://www.quantumss.freeserve.co.uk)
+    THE USS PROMETHEUS (CT 74913) TESTS HER MULTI-VECTOR ASSAULT MODE
+             Ed Giddings (http://www.quantumss.freeserve.co.uk)
+    THE USS PR0METHEUS (CT 74913) DURING HER LAUNCH FROM DEEP SPACE FIVE
+             Unknown
+    NOTTINGHAM CLASS STARSHIP
+             John H. Harris (http://www.totmm.com)
+
+STARSHIP ART CREDITS – VOLUME TWO
+
+    THE ENTENTE CLASS DREADNOUGHT USS ENTENTE (DN 73280) ENTERS AN UNCHARTED STAR SYSTEM
+            Eric Peterson (http://www.wolf359a-anet-stl.com) and GEO W. PROCTOR
+    THE ENTENTE CLASS DREADNOUGHT USS MIR (DN 73281) AND THE NEBULA CLASS CRUISER USS ULYSSES (CL 66808) ON JOINT PATROL NEAR THE BREEN / FEDERATION BORDER
+            Eric Peterson (http://www.wolf359a-anet-stl.com)
+    THE COMMAND SHIP USS WHITEHALL (CO 75100) SETS COURSE TO TAKE COMMAND OF THE FLEET AT CHIN’TOKA
+            Ralph (http://www.scfi-meshes.com)
+    THE USS MAGNY-COURS (FR 65718) AND A BORG CUBE DURING THE SECOND BATTLE FOR EARTH
+            Tom Bijl (http://www.scifi-art.com)
+    THE NEW ORLEANS CLASS FRIGATE USS ARLEIGH BURKE (FR 57291) EXPLORING A NEW NEBULA
+            Tom Bijl (http://www.scifi-art.com)
+    A PAINTING OF THE NORWAY CLASS FRIGATE USS BUDAPEST (FR 64923)
+            (STAR TREK ART DEPARTMENT)
+    THE SULLIVANS CLASS TACTICAL FRIGATE
+            Starship USS O’Banon (http://seatonmarine.tripod.com/index2.htm)
+    THE FREEDOM CLASS STARSHIP
+            The Red Admiral (http://www.trekmania.net/)
+    THE STEAMRUNNER CLASS HEAVY DESTROYER USS RAINIER (DH 53278) IS BACKLIT BY A PULSAR
+            Cyrille Lefevre and Mojoman (http://www.scifi-art.com)
+    A DRAMTIC SHOT OF THE USS KILAMANJARO (DD 60045) CRASH-LANDING AFTER AN ENGAGEMENT WITH DOMINION FORCES
+
+
