@@ -36,3 +36,11 @@ Before the Dominion War, the Federation had about 3,500 Class 1 starships, but a
 ### Volume 2
 
 119th issue, 2377-2378 by Chris Wallace. Patrol Combatants.
+
+
+### Volume 3
+
+
+### Volume 4
+
+119th issue, 2377-2378. Starfleet Operating Forces
