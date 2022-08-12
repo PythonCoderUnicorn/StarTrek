@@ -98,6 +98,7 @@ ORBITAL AND DEEP — SPACE STATIONS
 Introduction
 
 SCOPE OF THIS MANUAL
+
 The Romulan Star Empire maintains an active navy This manual describes the major ships of the Star Navy
 about three-fourths the size of Star Fleet. This large and moa- on which enough information exists to give an overview to
 ern navy is considered to be of major importance in attaining authorized Star Fleet Intelligence personnel and line officers
@@ -106,7 +107,9 @@ i national goals, and in maintaining the security of the Star a comprehensive an
 Empire. The Star Navy has personnel numbering millions limitations of space. It is designed for general reading and
 and supports extensive production facilities that have been quick reference.
 responsible for outputting large quantities of modern, high- This manual furnishes an historical background of
-{ firepower weapons during the past few years. Romulan starships from Stardate 1/8001 to present day,
+firepower weapons during the past few years. 
+
+
 The goals of the Star Empire are being achieved by direct along with discussions of each ship, including its weaknesses
 use of military power and by more subtle means as well. In and strengths, its known sphere of operations, and such com-
 his address to the UFP Intelligence Community Symposium bat data as is available. The overall reliability of the data
@@ -120,70 +123,53 @@ are preparing to come out in the open.
 In this context, and in consideration of superpower
 competition, it is to be assumed that Romulan national goals
 are hostile to those of the United Federation of Planets.
-<= ——— a
-t~ spe ae — _————
-( SS eS = SS
-SS _ > ne, P—~2 = —_—_———
-SSS - / m2 4 Ss _ _ er
-IS —— Orne STP TO —
-ss iy > a SESEE
-Yo (= Cen
-aT SEQ [ated ay See ee
-a ee ; ——, Gee > > aay r/ — LER > FOSS = —_ >
-—— a “ T e Se, = ar) pil a ee Se Pd
-AK << pL BB a Se
-( PTS | —— = ne Ree et SKN
-po ——— ASRS (] fees SOS,
-2 AS FS, | a _ —~ SS S55 in
-A FEES “SO ANE Sear Pee? wD)
-A See < —
-a ie -— _— / Da 7 Ss eA ¥ a ae
-\ x _ - _ - ee AAG < > ; a
-N Sa —~ ——— A ~ SL
-| ~ a AS. i, |
-fir Ww
-N Ye -
-\
-LQ
-LN Introduction 3
 
-N} , , :
-OAK M-4 (Wings Of Justice) Class IX Troop Transport , *€
-Aly iN
-ee oe meme er rteme. oe rere Ne re) ee Lae eC
-GIT ong ei edan 6 weenie: Lie | sie Pe : ~
-« = raps } Se IL —
-—== ss
-a“ + oe pe :
-Notes:
-M-4 Wings Of Justice) Known Sphere Of Operation: Con-
-Construction Data: Data Reliability: D
-Model Numbers — Type 1 . . :
-Date Entering Service 2/08 Major Data Source: Project Grey
-Approx. Number Constructed— ™ Ghost; Klingon Sector Intelligence
-Hull Data: . The M-4 assault ship, reportedly
-; Superstructure Points — 14 . .
-Damage Chart — B capable of carrying up to 300,000 metric
-ae ona - om tons of cargo or 1,800 troops and their
-Width — 180m equipment, is thought to be the main
-Height —
-Weight 126,600 mt transport for Romulan ground forces.
-Cargo . Introduced about Stardate 2/08, intelli-
-Cargo Units — 6000 SCU
-Cargo Capacity — 300,000 mt gence reports that the vessels have par-
-anding Capability — None ticipated in several invasions. Of the
-Equipment Data: : :
-Control Computer Type — SANs more than 150 built, nearly all remain
-Transporters — in active service. Intelligence reports
-Standard 9-person : show no record of any being sold to the
-“ Cargo cet : civil sector, and none are known to be
--loaking Device Type— one . . .
-OtherD operating outside the empire.
-Crew 84 The vessel likely is named in refer-
-ooPs oh 1800 ence to the following quote:
-uttiecralt— e e
-cnaines And P D The Romulan soldier will lead
-ngines And Power Data:
+Romulan starships from Stardate 1/8001 to present day,
+
+
+
+
+
+
+
+
+
+
+M-4 (Wings Of Justice) Class IX Troop Transport 
+
+
+
+construction_data = { }
+Data Reliability: D
+model_numbers: ' 'Type 1 
+date_entering_service: ' '2/08 
+Major Data Source: 'Project Grey Ghost; Klingon Sector Intelligence'
+approx_num_constructed = = 150
+
+hull_data = { }
+superstructure_points : 14
+damage_chart : 'B' 
+size_length_m : 270
+size_width_m :180
+size_height_m : 50
+weight_mt : 126600 
+cargo_units_SCI : 6000 
+cargo_capacity_mt :300000 
+landing_capability : false 
+
+
+equipment_data = { } 
+control_computer_type : 'R4M'
+transporters : [ { } ] 
+standard_9person : 8
+combat_20person : 8
+
+cargo = 4
+crew = 84 
+troops = 1800 
+cloaking_device_type = 'none'
+
+engines_power = { }
 Total Power Units Available — 40 the way and secure the found-
 Movement Point Ratio — a ations of the Road to the Stars,
 Loaded 7/1 for he will be borne on the
@@ -214,7 +200,15 @@ Shield Point Ratio — 12 a, a
 Maximum Shield Power — 5 —=il oo,
 Combat Efficiency: D- 56.0 ‘i
 WDF- 6.0
-4 Assault Ships
+
+
+
+
+
+
+
+
+
 
 K 7 . 7 ° ‘ .
 OAKS M-8 (Nightwing) Class VIII Assault Ship AR
@@ -231,27 +225,27 @@ a es —— —— ( a ee y I Pa DN.
 M . , Notes:
 -8 (Nightwing) CLASS Vill ASSAULT SHIP
 , Known Sphere Of Operation: Con-
-Construction Data: fli
+construction_data = { }fli
 Hull/Ship Numbers — ict areas
 Model Numbers - Type 1 ; ‘lity:
-Date Entering Service — 2/14 Data Reliability. D .
-Approx. Number Constructed — 100 Major Data Source: Project Grey
-Hull Data: Ghost; Triangle Sector Intelligence
+date_entering_service: ' '— 2/14 Data Reliability. D .
+approx_num_constructed = — 100 Major Data Source: Project Grey
+hull_data = { }Ghost; Triangle Sector Intelligence
 Superstructure Points — 12 Useful for both troops and cargos,
-Damage Chart — B .
+damage_chart : B .
 Size the M-8 assault ships are reported to
 3 t } °
-Width — oon be the second most important troop
+size_width_m :oon be the second most important troop
 Height: 72m carriers in the Romulan Navy. Although
-Weight— 103,500 mt
+weight_mt :_m :— 103,500 mt
 Cargo the M-8s do not carry as many troops
-Cargo Units — 2000 SCU .
-Cargo Capacity — 100,000 mt as do the M-4s, they are capable of
-Landing Capability — None keeping pace with any fast-moving
-Equipment Data: fleet, as well as being more maneuver-
-Control Computer Type — R4M .
-Transporters — able than their counterparts and carry-
-Standard 9-person : ing more effective shields.
+cargo_units_SCI : 2000 SCU .
+cargo_capacity_mt :100,000 mt as do the M-4s, they are capable of
+landing_capability : — None keeping pace with any fast-moving
+equipment_data = { } fleet, as well as being more maneuver-
+control_computer_type : R4M .
+transporters : [ { } ] able than their counterparts and carry-
+standard_9person = ing more effective shields.
 ombat 2U-person . °
 Largecargo. 3 Of the approximately 100 built,
 GIOSning Device Type = None nearly all are in active service. Approx-
@@ -259,7 +253,7 @@ Cae ose: a0 imately 60 vessels of this class are
 rew— . . . -«
 Troops — 700 thought to be operating in the civil sec-
 shuttiocran — 4 tor, but, until close scans are possible,
-Engines And Power Data: this will remain speculation. If the ex-
+Eengines_power = { } this will remain speculation. If the ex-
 Total Power Units Available — 38 . . . . .
 Movement Point Ratio — pected confirmation is forthcoming, in-
 Jnloaded 3) telligence will upgrade the Data Relia-
@@ -308,33 +302,33 @@ Pod a) samaabenmmeeeieds uae iN csr ‘g} > y oy
 ye
 Notes:
 Z-1 (Nova) CLASS XIill BATTLESHIP Known Sphere Of Operation: Em-
-Construction Data: ire |
-Model Numbers — Type 1 pire interior ; .
-Date Entering Service — 2/21 Data Reliability: E
+construction_data = { }ire |
+model_numbers: ' 'Type 1 pire interior ; .
+date_entering_service: ' '— 2/21 Data Reliability: E
 Rptd. Number Constructed — 2 Mai ; ; .
 ajor Data Source: Project Grey
 cee cesarean Pon se Ghost data acquisition
-Damage Chart — e Z-1 is the largest, most power-
+damage_chart : e Z-1 is the largest, most power-
 C The Z-7 is the largest tp
 Si .
 Length 400m ful, and newest ship to enter Romulan
 Wath oaom Naval service, and the Navy’s first
 eight — m . .
-Weight — 212,000 mt battleship to be commissioned. This
+weight_mt :_m : — 212,000 mt battleship to be commissioned. This
 09196 wrgo Units — 400SCU vessel is reported to incorporate all of
-; Cargo Capacity — 20,000 mt the most-modern technology available
+; cargo_capacity_mt :20,000 mt the most-modern technology available
 anaing Capability — one , ; ‘ .
 ing eepawy to the Star Empire, making it a formid-
-Equipment Data:
-Control Computer Type — R6M able foe. a
-Transporters — . Commissioned into the home fleet
+equipment_data = { }
+control_computer_type : R6M able foe. a
+transporters : [ { } ] . Commissioned into the home fleet
 andard 9-person . .
 Emergency 20-person 6 on Stardate 2/2111, according to moni-
 Cloakin Device Type— None tored transmissions, this ship has never
 Other Data: been sent into a frontline area. The Z-17
-Crew — 550 is thought to mount ten of the most
+crew :— 550 is thought to mount ten of the most
 Shuttiecraft— 1S powerful disruptors available and six
-Engines And Power Data: 06 photon torpedo bays, capable of laying
+Eengines_power = { } 06 photon torpedo bays, capable of laying
 Otal rower Units Avaliadbie— . 7 . 2
 Movement Point Ratio — 5/1 down a withering barrage in all direc-
 Warp Engine Type— nwor tions. It is expected to change the bal-
@@ -380,9 +374,9 @@ Notes:
 Known Sphere Of Operation: Em-
 ) - ul Flyer) CLASS V COURIER | |
 CS-2 (Gracet yer) pire-wide use
-Construction Data: ; 7 So
-Model Numbers — Type 2 Type 6 ape 10 Data Reliability: A
-Date Entering Service — sed we ies 110 Major Data Source: Type 10 vessel
+construction_data = { }; 7 So
+model_numbers: ' 'Type 2 Type 6 ape 10 Data Reliability: A
+date_entering_service: ' '— sed we ies 110 Major Data Source: Type 10 vessel
 structed — a .
 eee Mamwereon is in Star Fleet possession; captured
 Hull Data:
@@ -390,13 +384,13 @@ Superstructure Points — 7 ‘ A Romulan data | |
 Seg 170 Cnent— “ The ships in this class were used
 “Length — eo jean a for long-range courier missions for
 Height—- 30m. 31m 31m many years. Carrying light armament,
-Weight — 42,100 1m F900 fetoornt they were used extensively along the
+weight_mt :_m : — 42,100 1m F900 fetoornt they were used extensively along the
 Cargo Units— 2g 8CU eu sooo Federation borders and in the Triangle.
 ai Yes Yes Yes Because they can sustain Warp 7
-Landing Capability — ms 2S
+landing_capability : — ms 2S
 Dat speeds, they have been used as VIP
-Equipment Data:
-q Control Computer Type — R2M R3M RSM transport throughout the Star Empire.
+equipment_data = { }
+q control_computer_type : R2M R3M RSM transport throughout the Star Empire.
 vee ndend® person 1 1 About Stardate 1/8608, the CS-2
 Emergency 20-person ! Type 2 was introduced into service to
 Other Data: vie nie ie replace the Type 1; though quite suita-
@@ -447,26 +441,26 @@ AN Li)
 Atodh
 fi - , | p——————__ | — ra
 V-1 (Starglider) CLASS V CRUISER Notes: |
-Construction Data: Known Sphere Of Operation:
-Model Numbers — Type 1 Type 2 Romulan interior
-Approx. Number Constructed — 0 a0 Data Reliability: D ,
-Hull Data: Major Data Source: Project Grey
+construction_data = { }Known Sphere Of Operation:
+model_numbers: ' 'Type 1 Type 2 Romulan interior
+approx_num_constructed = — 0 a0 Data Reliability: D ,
+hull_data = { }Major Data Source: Project Grey
 Superstructure Points — 10 11 Ghost
 Damage Chart— ° © Soon after its introduction into
 Length — om oe exploratory service, the V-17 vessels
-Height — 40m 40m were found to be unsuitable for their
+size_height_m : 40m 40m were found to be unsuitable for their
 canoe 48,700 mt p2,000m mission. The cramped quarters and
-Cargo Units — 120SCU 120 SCU work areas would not permit extensive
-Cargo Capacity — 6000 mt 6,000 mt ;
-Landing Capability— Yes Yes onboard research and testing, which
-Equipment Data: meant that the ships were compelled
-control Computer Type — R3M R3M to land on most worlds to carry out their
+cargo_units_SCI : 120SCU 120 SCU work areas would not permit extensive
+cargo_capacity_mt :6000 mt 6,000 mt ;
+landing_capability :— Yes Yes onboard research and testing, which
+equipment_data = { } meant that the ships were compelled
+control_computer_type : R3M R3M to land on most worlds to carry out their
 Standard 9-person 1 1 studies. Not only were such atmos-
 Snel ; ; pheric operations difficult, but the expo-
 Other Data: sure of the entire ship to unknown envi-
 Crew— 135 135 ronments put them in constant danger.
 Shatieoratt— None None These risks were unacceptable to the
-Engines And Power Data: Romulan High Command, so the class
+Eengines_power = { } Romulan High Command, so the class
 Total Power Units Available — 20 23 was reassigned as cruisers to supple-
 Wore cnaetypen RWD-2 RWO-2 ment the fleets. It evidently saw no
 Number | ' greater success in this role, for it was
@@ -505,28 +499,28 @@ Romulan interior
 V-2 (Hunter) CLASS Vil CRUISER So
 C ( D Data Reliability: F
 onstruction Data: . ; .
-Model Numbers — Type 2 Type 5 Major Data Source: Project Grey
-Date Entering Service — 1/91 2/00 Ghost data acquisition
-Approx. Number Constructed — 40 30 .
+model_numbers: ' 'Type 2 Type 5 Major Data Source: Project Grey
+date_entering_service: ' '— 1/91 2/00 Ghost data acquisition
+approx_num_constructed = — 40 30 .
 Hull Dat The V-2 Class, first encountered by
 ata: , P .
-" Superstructure Points — 14 14 Project Grey Ghost, is believed to have
+" superstructure_points : 14 Project Grey Ghost, is believed to have
 Sumage Chart — C c been built for research missions, much
 Length — 150m 153m like the Federation research cruisers
-Height — 40m hon are. Reportedly, spacious laboratory
-- Weight — 88,600 mt 88,700 mt facilities and shuttlebays for cargo stor-
+size_height_m : 40m hon are. Reportedly, spacious laboratory
+- weight_mt :_m : — 88,600 mt 88,700 mt facilities and shuttlebays for cargo stor-
 argo . . . .
-Cargo Units — 240 SCU 125 SCU age make this ship an oddity in the
+cargo_units_SCI : 240 SCU 125 SCU age make this ship an oddity in the
 Landing copeptin— Nees Room Romulan navy. Several recent combat
-Equipment Data: encounters with the Klingons and
-Control Computer Type — R4M R4M forces to the coreward have proved the
-Transporters — :
+equipment_data = { } encounters with the Klingons and
+control_computer_type : R4M R4M forces to the coreward have proved the
+transporters : [ { } ] :
 Standard 9-person 3 3 vessel to be undergunned and unsuita-
 Emergency 20-person 2 2 ble for combat.
 Cargo 1 1
 Cloaking Device Type — None None Several attempts were made to up-
 Other Data: gun the ship, with the last being the
-crew f 220 a8 introduction of the Type 5, approxi-
+crew :f 220 a8 introduction of the Type 5, approxi-
 ultiecranm — F ° e .
 cnaines And P D mately Stardate 2/00. This version is re-
 ngines An ower Vata:
@@ -577,31 +571,31 @@ hotu md i \ F pi
 ; Notes:
 V-4 (Wing Of Vengance) CLASS VI CRUISER . So ,
 Known Sphere Of Operation: Empire interior.
-Construction Data: ee
-Model Numbers — Type! Type 2 Data Reliability: D ;
-Date Entering Service — 1/30 1/94 Major Data Source: Klingon sector intelligence
-Approx. Number Constructed — 80 60 ;
+construction_data = { }ee
+model_numbers: ' 'Type! Type 2 Data Reliability: D ;
+date_entering_service: ' '— 1/30 1/94 Major Data Source: Klingon sector intelligence
+approx_num_constructed = — 80 60 ;
 WD The V-4 class has, by far, the most unusual design
 Hu Sumorstructure Points — 12 13 to come from Romulan engineers; fashioned like a
 gomage Chart— C C giant wing, it was created not only for aesthetics but
 ~ Length- 85m 85m for combat. When the vessels were first introduced,
 Width 195m 195m . :
-Height — 60 m 60m they were intended to lead an expansion effort, but
-- Weight — 65,600 mt 66,800 mt the war between the Klingons and Federation caused
-“Cargo Units — 80 SCU 80SCU them to be sent to patrol the Klingon border. The Type
+size_height_m : 60 m 60m they were intended to lead an expansion effort, but
+- weight_mt :_m : — 65,600 mt 66,800 mt the war between the Klingons and Federation caused
+“cargo_units_SCI : 80 SCU 80SCU them to be sent to patrol the Klingon border. The Type
 Seige hell any — 4000 mt 4000 mt 2 mounted a more powerful impulse drive system and
-Landing Capability — None None . . . ‘
+landing_capability : — None None . . . ‘
 improved disruptors, which accounted for its greater
-Equipment Data: _
-Control Computer Type — R4M R4M combat efficiency.
+equipment_data = { } _
+control_computer_type : R4M R4M combat efficiency.
 Te aaa person ; , The V-4s were painted by crewmembers in a vari-
 Emergency 20-person 2 2 ety of patterns. These ships, though popular with their
 é 1 1 ° ,
 aia crews, were removed from service sometime after
 Other Data: .
-Crew — 160 160 Stardate 2/16 for more powerful designs. Of the ap-
+crew :— 160 160 Stardate 2/16 for more powerful designs. Of the ap-
 Shuttlecraft — 2 2 proximately 135 built, about 65 are in reserve fleets.
-Engines And Power Data: Six are reported to be used as training vessels, and
+Eengines_power = { } Six are reported to be used as training vessels, and
 Total Power Units Available — 32 35
 Movement Point Ratio — 31 ry two are used as spaceborn | museums, one each
 Warp Engine Type— RWC-2 RWC-2 stationed at Remus and at Corill. Eighteen are known
@@ -656,23 +650,23 @@ NU PU A
 S JVM
 Notes:
 V-5 (Skyfire) CLASS VII/VIIl CRUISER Known Sphere Of Operation:
-Construction Data: Romulan interior
+construction_data = { }Romulan interior
 ShioClaas ype! vype 2 Data Reliability: D
-Date Entering Service — 1/96 2/00 Major Data Source: Project Grey
-Approx. Number Constructed — 40 40 Ghost: Klingon Sector Intelligence
-Hull Data: - ht
+date_entering_service: ' '— 1/96 2/00 Major Data Source: Project Grey
+approx_num_constructed = — 40 40 Ghost: Klingon Sector Intelligence
+hull_data = { }- ht
 Superstructure Points — 17 18 The V-5 Class, apparently broug
 Demege Chart B B | into service to supplement the V-2
 ee Length — 160m 160 m Class, combines the need for a military
 Hotght— 233m eam vessel with that of a research vessel.
-Weight — 93,500 mt 114,300 mt Though it reportedly is quite capable
+weight_mt :_m : — 93,500 mt 114,300 mt Though it reportedly is quite capable
 Cargo . . 93
 Cargo Units 170SCU 190 SCU for combat roles in which the V-2 ts a
-Cargo Capacity — e008 mt B00 mt failure, it fills its research roles less well.
+cargo_capacity_mt :e008 mt B00 mt failure, it fills its research roles less well.
 .Anainc apability e °
 E i y one one The Type 1 mounted an impressive
 quipment Data: . .
-Control Computer Type — R4M R4M array of disruptors with very good fields
+control_computer_type : R4M R4M array of disruptors with very good fields
 en ctandard9-person 3 3 of fire. The Type 2, introduced about
 Emergency 20-person 2 2 Stardate 2/00, saw the removal of the
 Cargo 1 1 . . :
@@ -680,7 +674,7 @@ Cloaking Device Type RCC RCC forward firing disruptors in favor of a
 Power Requirement — 15 15 bow-mounted plasma weapon, but this
 Other Data: version did not prove to be as combat-
 Shuttlecraft ee 5/0 efficient as the earlier model and has
-Engines And Power Data: not been reported in any great num-
+Eengines_power = { } not been reported in any great num-
 Total Power Units Available — 35 38 bers.
 Movement Point Ratio — 3/1 3/1 ; j
 Warp Engine Type — RWD-1 RWE-1 Of the approximately 80 built,
@@ -733,37 +727,37 @@ i aml
 . J y
 Notes:
 V-6 (Gallant Wing) CLASS X/XIil CRUISER Known Sphere Of Operation: Em-
-Construction Data: pire-wide use
+construction_data = { }pire-wide use
 
-Model Numbers — Type 1 yypes yype? Data Reliability: A
+model_numbers: ' 'Type 1 yypes yype? Data Reliability: A
 
 Ship Class — X .
 
-Date Entering Service — 2/09 2/11 2/16 Major Data Source: Combat re-
+date_entering_service: ' '— 2/09 2/11 2/16 Major Data Source: Combat re-
 
-Approx. Number Constructed — 30 50 20 po rts
+approx_num_constructed = — 30 50 20 po rts
 
-Hull Data: | The V-6 Class was considered to be
+hull_data = { }| The V-6 Class was considered to be
 
 Superstructure Points — 20 22 26 ; :
 
-Damage Chart — B B B the ultimate replacement to fill the need
+damage_chart : B B B the ultimate replacement to fill the need
 
 Size Lye
 Length — 172m 172m 172m for botha military vessel and a research
-Width — 250m 252m 252m vessel. Designed much like Star Fleet
-Height — 47m 48m 48m . rT
-Weight — 140,500 mt 144,000 mt 190,000 mt research cruisers, they are well-
+size_width_m :250m 252m 252m vessel. Designed much like Star Fleet
+size_height_m : 47m 48m 48m . rT
+weight_mt :_m : — 140,500 mt 144,000 mt 190,000 mt research cruisers, they are well-
 
 Cargo . . _
 Carga Units — 250 SCU 250 SCU 250 SCU equipped for research duties for com
-Cargo Capacity — 12,500 mt 12,500 mt 12,500 mt bat.
+cargo_capacity_mt :12,500 mt 12,500 mt 12,500 mt bat.
 
-Landing Capability — None None None At the time of their introduction
+landing_capability : — None None None At the time of their introduction
 
-Equipment Data:
-Control Computer Type — R5M R5M R5M about Sta rdate 2/09, they were the most
-Transporters — 4 , , powerful ships in the fleet. The Type 1
+equipment_data = { }
+control_computer_type : R5M R5M R5M about Sta rdate 2/09, they were the most
+transporters : [ { } ] 4 , , powerful ships in the fleet. The Type 1
 tand . .
 Emergency 20-person 2 2 2 mounted six of the most powerful dis-
 Cargo 2 2 2 i .
@@ -828,31 +822,31 @@ SS” Li oe if 4 Y.
 Ps fa os
 BRERA,
 V-7 (Whitewind) CLASS |IX/X CRUISER Notes:
-Construction Data: Known Sphere Of Operation: Klingon borders
+construction_data = { }Known Sphere Of Operation: Klingon borders
 
-Model Numbers — Type 1 Type 3 P Pp
+model_numbers: ' 'Type 1 Type 3 P Pp
 
 Ship Class — . Ix x Data Reliability: C
 
 Agpraie Mur hor Conctructead— 22 a Major Data Source: Project Grey Ghost
 
-Hull Data: Like their counterparts in the V-6 Class, the V-7s
+hull_data = { }Like their counterparts in the V-6 Class, the V-7s
 
 Superstructure Points — 18 18 were designed for multiple roles, with spacious in-
 
 ong age Chart — 7: ° teriors and complete onboard research facilities.
 Length — 140m 140m The Type 1 entered service about Stardate 2/12
-Width — 260m 260m . . . .
+size_width_m :260m 260m . . . .
 
-Height — 48m 48m and is still being produced as a support ship, even
+size_height_m : 48m 48m and is still being produced as a support ship, even
 
 Cerone 139,500 mt maaom though it is not as efficient in combat as later models.
-‘Cargo Units — 320 SCU 320 SCU Mounting the RPL-2 plasma weapon and a cloaking
+‘cargo_units_SCI : 320 SCU 320 SCU Mounting the RPL-2 plasma weapon and a cloaking
 
-Landing Capability — ooo e200 mt device, the Type 1 is capable of operating alone.
+landing_capability : — ooo e200 mt device, the Type 1 is capable of operating alone.
 
-Equipment Data: The Type 3, introduced about Stardate 2/17, is the
-Control Computer Type — R4M R6M pre ferred model of the class. It mounts two additional
+equipment_data = { } The Type 3, introduced about Stardate 2/17, is the
+control_computer_type : R4M R6M pre ferred model of the class. It mounts two additional
 orStandard 9-person 4 4 disruptors and three photon torpedoes, and it has more
 Emergency 20-person 4 4 efficient shields.
 Cargo 2 2 . .
@@ -860,7 +854,7 @@ Cloaking Device Type — RCC RCD Of the approximately 80 V-7s built, nearly all 
 Power Requirement — "8 22 main in active service. Current production of the
 Other Data: a0 409 Whitewind is estimated at six per year.
 Shuttlecraft — 6 6 The aft weaponry of the V-7s has set the standard
-Engines And Power Data: for the Romulan Navy, as exemplified by this Project
+Eengines_power = { } for the Romulan Navy, as exemplified by this Project
 pple Power Soils Available “ a4 Grey Ghost report of an incident between two V-7s
 ovement Point Ratio — 4/1 4/1 : ; ; ;
 
@@ -927,25 +921,25 @@ er ae as
 Notes:
 . ird Of Prey) CLASS VI CRUISER
 V8 (B y) Known Sphere Of Operation: Triangle; Romulan
-Construction Data: . .
-Model Numbers — Type 1 Type4 interior
+construction_data = { }. .
+model_numbers: ' 'Type 1 Type4 interior
 Yate Entering Service — 20 oe Data Reliability: A
 A _ Number Constructed — ,
 ALLIS Major Data Source: Combat reports; Triangle Sec-
-Hull Data: .
+hull_data = { }.
 Superstructure Points — 15 15 tor Intelligence
-Damage Chart — 8 B On Stardate 2/0710, a V-8 was encountered by a
+damage_chart : 8 B On Stardate 2/0710, a V-8 was encountered by a
 o/Ze . ° °
 Length — 136m 136m Star Fleet cruiser patrolling the Neutral Zone, the first
 Helght— 47m am such contact in over 100 years and the very first visual
-- Weight - 67,100 mt 68,000 mt contact with a Romulan war vessel. The incursion into
+- weight_mt :_m : - 67,100 mt 68,000 mt contact with a Romulan war vessel. The incursion into
 a eeargo Units — 48 SCU 48 SCU Federation space obviously was intended to test UFP
-Cargo Capacity — 2800 mt covew Tm defenses, and the V-8 destroyed several listening posts
-Landing Capability None None ;
+cargo_capacity_mt :2800 mt covew Tm defenses, and the V-8 destroyed several listening posts
+landing_capability : None None ;
 Eoul Det and bases before being heavily damaged by the Feder-
 uipmen ata: ° ° .
-/ Control Computer Type — R4M R4M ation vessel and self-destructing to avoid capture. Be-
-Transporters — ce i : :
+/ control_computer_type : R4M R4M ation vessel and self-destructing to avoid capture. Be-
+transporters : [ { } ] ce i : :
 Standard 9-person , cause of this incident, and because these ships were
 Emergency 20-person encountered in increasing numbers afterward, this ves-
 Cargo . _ .
@@ -953,7 +947,7 @@ Cloaking Device Type — RCC RCC sel, more than any other, has been identified w
 Power Requirement — 18 1S Romulan military actions. For many years, these ves-
 Other Data: ss +50 sels were believed to be the mainstay of the Romulan
 Se orate — None None fleet, but improved intelligence reveals that this was
-Engines And Power Data: a misconception.
+Eengines_power = { } a misconception.
 Total Power Units Available — 26 28 The vessel was designed to carry the RPL-2 plasma
 vow ment eo Ratio av C A weapon; because of its size and bulk, the Type 1 ships
 Warp Engine Type— RWC-1 -j ' ' '
@@ -999,30 +993,30 @@ Notes:
 Known Sphere Of Operation: Fed-
 V-9 (Night Flyer) CLASS VI CRUISER eration borders
 Data Reliability: C
-Construction Data: ; Po
+construction_data = { }; Po
 Modal Numbhare— Type 1 Type6 Major Data Source: Triangle Sector
-Date Entering Service - 2/08 2/15 j
-Approx. Number Constructed — 110 70 | ntel ligence
+date_entering_service: ' '- 2/08 2/15 j
+approx_num_constructed = — 110 70 | ntel ligence
 sna ata: The V-9 Class, created from plans
 Superstructure Points — 15 16 for the older V-8 (Bird Of Prey) Class,
 samage Chart — 8 S was constructed in response to the
 Length — 136m 136m need for increased firepower and
-Width — 190m 190m - .
-Height — 57m 57m speed. Its similarity to the V-8 on casual
+size_width_m :190m 190m - .
+size_height_m : 57m 57m speed. Its similarity to the V-8 on casual
 Caro 69,400 mt 70,900 mt inspection is responsible for the pro-
-Cargo Units — 80 SCU 80 SCU longed myth that the V-8 was the
-Cargo Capacity — 4000 mt 4000 mt :
-Landing Capability — None None mainstay of the Romulan Navy.
+cargo_units_SCI : 80 SCU 80 SCU longed myth that the V-8 was the
+cargo_capacity_mt :4000 mt 4000 mt :
+landing_capability : — None None mainstay of the Romulan Navy.
 Equipment Date: 5 une lms was introduced about
-Control Computer Type — R4M R4M tardate 2/ . It was the first vesse
-Transporters — :
+control_computer_type : R4M R4M tardate 2/ . It was the first vesse
+transporters : [ { } ] :
 Standard 9-person 3 3 in the Romulan fleet to carry two
 cane 20-person : ‘ plasma weapons, and it had an impres-
 Cloaking Device Type — RCC RCC sive array of disruptors and a cloaking
 Power Requirement — 6 's device. This vessel reportedly became
 Other Data: seo seo extremely popular with front line com-
 Shuttlecraft — 2 2 manders, because of its ability to de-
-Engines And Power Data: liver multiple plasma weapon strikes. It
+Eengines_power = { } liver multiple plasma weapon strikes. It
 Total Power Units Available — 28 34 ;
 Movement Paint Ratio ae oo did not, however, address the speed
 Warp Engine Type— RWC. RWC-2 problem still seen in the concurrent
@@ -1074,27 +1068,27 @@ wT
 V-11 (Stormbird) CLASS VII/X CRUISER Notes:
 C D Known Sphere Of Operation: Em-
 onstruction Data: . .
-Model Numbers — Type 1 Type 2 Type § pire-wide use
+model_numbers: ' 'Type 1 Type 2 Type § pire-wide use
 Ship Class — Vil | : Shas 2
-Date Entering Service — 2/09 2/12 2/17 Data Reliability: A
-Approx. Number Constructed — 80 40 50 Major Data Source: Klingon ver-
+date_entering_service: ' '— 2/09 2/12 2/17 Data Reliability: A
+approx_num_constructed = — 80 40 50 Major Data Source: Klingon ver-
 P *. . .
 sion in Star Fleet possession; Klingon
 Hull Data:
 Superstructure Points — 20 20 a" Sector Intelligence
-Damage Chart — C .
+damage_chart : C .
 Size os Because of the Romulan-Klingon
 sngth — 220 ; ;
 Wicgh com 152m 166m technological exchange treaties, the
-Height — 55m 55m 57m H j .
-Weight — 96,600 mt 136,300 mt 141,200 mt eons agreed fon Romulan plas 2 5
+size_height_m : 55m 55m 57m H j .
+weight_mt :_m : — 96,600 mt 136,300 mt 141,200 mt eons agreed fon Romulan plas 2 5
 Cargo crul
-Cargo Units — 120SCU 120SCU 120SCU _ .
-Cargo Capacity — 6000 mt 6000 mt 6000 mt weapons and several old-style cloaking
-Landing Capability — None None None devices. These vessels, delivered Star-
-Equipment Data: date 2/09, 2/12, and 2/17 became the
-Control Computer Type — R4M R4M R5M V-11 Class
-Transporters — .
+cargo_units_SCI : 120SCU 120SCU 120SCU _ .
+cargo_capacity_mt :6000 mt 6000 mt 6000 mt weapons and several old-style cloaking
+landing_capability : — None None None devices. These vessels, delivered Star-
+equipment_data = { } date 2/09, 2/12, and 2/17 became the
+control_computer_type : R4M R4M R5M V-11 Class
+transporters : [ { } ] .
 Standard 9-person 3 3 3 Th vessels in the initial ship-
 Combat22 pecon ment were stripped of their weapons
 Combat 22-person 5 5 5 '
@@ -1106,7 +1100,7 @@ C 350 355 350
 rew— . ° .
 Troops — 520 320 590 ges shieies. or weapons: these were
 Shuttlecraft — 5 5 5 itted as the lype with a plasma
-Engines And Power Data: weapon and more efficient shielding.
+Eengines_power = { } weapon and more efficient shielding.
 Total Power Units Available — 40 41 44 . . .
 Movement Point Ratio — 4/1 a1 4/1 The 50 vessels in the final shipment also
 Warp Engine Type- swo RW) We were delivered completely stripped,
@@ -1162,35 +1156,35 @@ L) =
 Notes:
 . " ,
 V-20 (Star Seeker) CLASS Vil CRUISER Known Sphere Of Operation: Em-
-Construction Data:  re<tasi
-Model Numbers — Type 1 Type 2 pire wide USC .
-Date Entering Service —: 2/17 2/19 Data Reliability: D
+construction_data = { } re<tasi
+model_numbers: ' 'Type 1 Type 2 pire wide USC .
+date_entering_service: ' '—: 2/17 2/19 Data Reliability: D
 -N berC tructed — 40 25 . .
 Approx. Number Constructe Major Data Source: Project Grey
 Hull Data:
 Superstructure Points — 16 17 Ghost |
-Damage Chart — Cc Cc The V-20 Type 1 was introduced
+damage_chart : Cc Cc The V-20 Type 1 was introduced
 iZ@ .
 Length — 110m 112m about Stardate 2/18, with the Type 2
 woth — term IGM brought into service about a year later.
-Height — 21m 21m . ;
-Weight — 91,500 mt 93,400 mt The differences between the two are in
+size_height_m : 21m 21m . ;
+weight_mt :_m : — 91,500 mt 93,400 mt The differences between the two are in
 Cargo -
-Cargo Units — 150 SCU 150 SCU the missile weapon types and the
-Cargo Capacity — 7500 mt 7500 mt shields, as well as in the superstructure
-Landing Capability — None None strength
-Equipment Data: .
-Control Computer Type — R4M R4M The vessel is reputed to be roomy,
-Transporters — by Romulan standards. Because the in-
+cargo_units_SCI : 150 SCU 150 SCU the missile weapon types and the
+cargo_capacity_mt :7500 mt 7500 mt shields, as well as in the superstructure
+landing_capability : — None None strength
+equipment_data = { } .
+control_computer_type : R4M R4M The vessel is reputed to be roomy,
+transporters : [ { } ] by Romulan standards. Because the in-
 Standard 9-person 2 2 . .
 Emergency 20-person 2 2 terior of the ship is compartmented for
 Cargo 1 1 ' ; i :
 Cloaking Device Type — RCC acc combat, the vessel Ss survivability is
 Power Requirement — 15 15 much greater in case of a hull rupture
 Other Data: or interior fires.
-Crew — 205 205 .
+crew :— 205 205 .
 Shuttlecraft — > r Ail of the approximately 70 vessels
-Engines And Power Data: built are in active service. Reports re-
+Eengines_power = { } built are in active service. Reports re-
 Total Power Units Available — 42 42 veal that ten of both types are being
 Movement Point Ratio — 3/1 3/1 .
 Warp Engine Type — RWD.-1 RWD-1 manufactured per year, which recent
@@ -1249,25 +1243,25 @@ ae ee ; i } —
 ~/ \
 V-27 (Comet Of Destruction) CLASS XII CRUISER Notes: .
 Known Sphere Of Operation: Em-
-Construction Data: . id
+construction_data = { }. id
 pete Eataneeens ane pype2 pire-wide use
 ate Entering Service — ° peg
-Approx. Number Constructed — 30 20 Data Reliability. C
+approx_num_constructed = — 30 20 Data Reliability. C
 Hull Dat Major Data Source: Combat re-
 u ata: .
 Superstructure Points — 25 26 ports; Romulan Sector Intelligence
 gamage Chart— c C The V-27 Class, like the V-30 Class,
 Length — 190m 190m its counterpart, was designed to pro-
-Width — 305m 305m P J
-Height — 120m 120m vide flagships for the Romulan Navy
-- Weight — 188,700 mt 193,400 mt that would keep parity with new
+size_width_m :305m 305m P J
+size_height_m : 120m 120m vide flagships for the Romulan Navy
+- weight_mt :_m : — 188,700 mt 193,400 mt that would keep parity with new
 argo “
-SCargo Units — 440 SCU 440 SCU Klingon and Star Fleet vessels. These
-Cargo Capacity — 22,000 mt 22,000 mt ;
-Landing Capability — None None vessels are very seldom seen operating
-Equipment Data: alone outside a fleet and will always be
-Control Computer Type — : R5M R6M found with a destroyer escort group ac-
-Transporters — .
+Scargo_units_SCI : 440 SCU 440 SCU Klingon and Star Fleet vessels. These
+cargo_capacity_mt :22,000 mt 22,000 mt ;
+landing_capability : — None None vessels are very seldom seen operating
+equipment_data = { } alone outside a fleet and will always be
+control_computer_type : : R5M R6M found with a destroyer escort group ac-
+transporters : [ { } ] .
 Standard 9-person 4 4 companying them.
 coon ny enero ; ; Introduced about Stardate 2/16, the
 Cargo 2 2 '
@@ -1277,7 +1271,7 @@ pedoes both fore and aft and the newes
 Other Data: . .
 Crew— 420 420 high-powered disruptors.The Comet
 Shuttlecralt— 6 6 saw combat early in its career and
-Engines And Power Data: | -
+Eengines_power = { } | -
 Total Power Units Available — 52 52 proved itself to be a formidab © Oppo
 Movement Point Ratio — 4/1 4/1 nent. The Type 2, introduced about
 Warp Engine Type— BWGel awerl Stardate 2/18, mounted improved
@@ -1341,13 +1335,13 @@ on iodel Numbers — 2/17 e 0° Project Grey Ghos arful of all Romulan war
 Appron Nuteber Constructed — 20 The V-30' the new-style design, the cruiser
 Approx. Num ips. E lifying the : . “i
 31 ships. Exemp . ositions.
-Hull Data: | 30 C fl like a bird and has variable wing p 1 mounts
+hull_data = { }| 30 C fl like a bird and has variable wing p 1 mounts
 Superstructure Points — C looks bout Stardate 2/17, the Type os
 Demage Chart — 7m 187m Introduced abou ive covering fire in all
 See 293 San ight disruptors arranged to gi RPL-3
 Length — 293m 94m eight IsSrup t lasma weapon, the '
-Height — 200,100 mt 202,200 mt directions. The newest p device, allows the V-30 to
-Weight — 40 SCU coupled with the cloaking € d deliver a devastating
+size_height_m : 200,100 mt 202,200 mt directions. The newest p device, allows the V-30 to
+weight_mt :_m : — 40 SCU coupled with the cloaking € d deliver a devastating
 
 Cargo . 40SCU 2000 mt ndard Romulan tactics an te 2/19
 Cargo Capacity None None use sta introduced’about Stardate 2/19,
@@ -1359,7 +1353,7 @@ ee R6M R6M mounts the new RP-3 photo
 Ps n . .
 
 Sao entra! Computer Type— , 4 aft. ed as flagships or focal points of a
-Transporters — 2 - are us S-
+transporters : [ { } ] 2 - are us S-
 Standard 3-person n : 1 vss | of which have three or four of these ve
 
 Cog Perso RCE RCE fleet, several o hem. The V-30 is being deployed
@@ -1373,7 +1367,7 @@ rew — . '
 
 Shuticcral~ 68 “ the ta ‘shadowing’ missions along the Neue
 , ta: ; cently for just outsi
-Engines And Power Data: 68 41 ie ing a course parallel to and j h
+Eengines_power = { } 68 41 ie ing a course parallel to and j h
 Total Power Links Ava sic RWG-1 Zone, following Federation ships that approac
 7 a .
 Warp Engine Type. 2 : sensors range of any Fede ification of the
@@ -1427,29 +1421,29 @@ h eee eee
 So
 Notes:
 P-2 (Ranajmar) CLASS Il CUTTER Known Sphere Of Operation: Empire-wide use
-Construction Data: woe wooed Data Reliability: B
+construction_data = { }woe wooed Data Reliability: B
 9del Numbers — ype ype . . . .
-Date Entering Service 1/92 2/01 Major Data Source: Triangle sector intelligence
-Approx. Number Constructed — 500 950 Common to the Romulan borders, P-2s also may
-Hull Data: be found in planetary systems where Romulan law is
+date_entering_service: ' '1/92 2/01 Major Data Source: Triangle sector intelligence
+approx_num_constructed = — 500 950 Common to the Romulan borders, P-2s also may
+hull_data = { }be found in planetary systems where Romulan law is
 Superstructure Points — 3 4 ; ;
-Damage Chart — C C not fully established. Usually assigned in groups of
+damage_chart : C C not fully established. Usually assigned in groups of
 Size tan
 Length 47m 47m three to five, these cutters are quite capable of handling
-Width — 30m 30m civil vessels.
-Height — 12m 12m T lisk to hi t d . . t .
-Weight— 8,300 mt 15,000 mt ype 1 is Known to Nave entered Service jus prior
+size_width_m :30m 30m civil vessels.
+size_height_m : 12m 12m T lisk to hi t d . . t .
+weight_mt :_m :— 8,300 mt 15,000 mt ype 1 is Known to Nave entered Service jus prior
 Cargo
-Cargo Units — 10SCU rOSCU to the outbreak of the Four Years War between the
-Cargo Capacity — 500 mt 500 mt Klingons and the Federation; used to defend newly-ac-
+cargo_units_SCI : 10SCU rOSCU to the outbreak of the Four Years War between the
+cargo_capacity_mt :500 mt 500 mt Klingons and the Federation; used to defend newly-ac-
 anding Capability — Yes Yes ,
-Landing Capability es “ quired areas along the Triangle, it was reported to be
-Equipment Data: . . -
-Control Computer Type — R2M ROM underpowered and undergunned to handle its mission.
+landing_capability : es “ quired areas along the Triangle, it was reported to be
+equipment_data = { } . . -
+control_computer_type : R2M ROM underpowered and undergunned to handle its mission.
 Other Data Types 2 and 3 had slight interior and cosmetic changes,
 ata: . , * °
-Crew — 16 16 but they did not really address the issue of mission
-Engines And Power Data: suitability and represented no real improvement over
+crew :— 16 16 but they did not really address the issue of mission
+Eengines_power = { } suitability and represented no real improvement over
 Total Power Units Available — 8 13 he 7 2 1. The T medi hij howeve
 Movement Point Ratio 1/2 1/1 tne ype e type 4 remedied t Sy owever, and
 Warp Engine Type — RWA-1 RWB-1 has not been changed in over 20 years; it has a larger,
@@ -1496,30 +1490,30 @@ LN IN
 + ie fA G PY
 Se
 P-3 (Caladan) CLASS Il CUTTER Built to supplement the P-2s, the
-Construction Data: P-3s are used in groups of two or three
-Model Numbers — Type 1 Type 3 ‘ . .
-Date Entering Service — 1/95 2/04 in the more hostile areas of the Empire.
-Approx. Number Constructed 210 745 Unlike the P-2s, however, the P-3s have
-Hull Data: ili
+construction_data = { }P-3s are used in groups of two or three
+model_numbers: ' 'Type 1 Type 3 ‘ . .
+date_entering_service: ' '— 1/95 2/04 in the more hostile areas of the Empire.
+approx_num_constructed = 210 745 Unlike the P-2s, however, the P-3s have
+hull_data = { }ili
 6. mucture Points — ; ; no warp drive capability, but rely ona
-Damage Chart — K B powerful impulse engine for their man-
+damage_chart : K B powerful impulse engine for their man-
 izé '
 Length — ae a euver power. These ships are transfer-
-Width — 32m 32m red from one system to another by a
+size_width_m :32m 32m red from one system to another by a
 eight— ] 1 1? . . .
-Weight — 5100 mt 7060 mt special carrier designed to carry up to
+weight_mt :_m : — 5100 mt 7060 mt special carrier designed to carry up to
 Cargo . . . ;
-Cargo Units — 10SCU soscu nine ane time, which can be trans
+cargo_units_SCI : 10SCU soscu nine ane time, which can be trans
 argo Capacity — 500 mt 500mt orte reely.
-Landing Capability — Yes ves P y
+landing_capability : — Yes ves P y
 Equi eDat The Type 1 was found to be under-
 ipment Data: ;
 Control Computer Type- RIM RIM gunned. This fault was corrected by ad-
-Transporters — None None ding slightly more powerful weapons
+transporters : [ { } ] None None ding slightly more powerful weapons
 Other Data: in the Type 3. By Stardate 2/0612, all
-Crew — 12 12 . .
+crew :— 12 12 . .
 Shuttlecraft- None None Type 1s and Type 2s in service were
-Engines And Power Data: refitted with the newer weapons.
+Eengines_power = { } refitted with the newer weapons.
 Total Power Units Available — 10 10 Of the approximately 960 P-3s built,
 Movement Point Ratio 1/2 1/2 . fc . ; ~ _- .
 Sub tight Engine Type— RSLA RSLA about 650 are in active service, about
@@ -1588,27 +1582,27 @@ oe eee een
 a? o_ fe
 Notes: .
 P-12 (Comilius) CLASS Il CUTTER Known Sphere Of Operation: Fed- |
-Construction Data: eration and Triangle borders
+construction_data = { }eration and Triangle borders
 Oe eS Type | Data Reliability: B
-Date Entering Service — 2/14 .
-Approx. Number Constructed — 220 Major Data Source: Klingon ver- |
-Hull Data: sion in Star Fleet possession; Klingon |
+date_entering_service: ' '— 2/14 .
+approx_num_constructed = — 220 Major Data Source: Klingon ver- |
+hull_data = { }sion in Star Fleet possession; Klingon |
 soloed sector intelligence |
 Size These Klingon vessels were traded
 > — 54m . .
 Width __ 23m to the Romulans beginning Stardate 2,
-Height — Oot 1409, largely because of pressure on the
+size_height_m : Oot 1409, largely because of pressure on the
 taht 4,
 Cargo _ Klingons to replace the structurally-
 Cerce Canscity— 360 mt weak N-8 (Klingon K-3) vessels. The P-
-Landing Capability - Yes 12s also were altered to mount Romu-
-Equipment Data: lan engines, weapons systems, and
-Control Computer Type — R3M . a .
+landing_capability : - Yes 12s also were altered to mount Romu-
+equipment_data = { } lan engines, weapons systems, and
+control_computer_type : R3M . a .
 Transporters None shields, but the modifications actually
 Other Data: made the ships more structurally
 Crew— 16 sound, probably because of the added
 Shumlecralt None support required for the tandem warp
-Engines And Power Data: .
+Eengines_power = { } .
 oyotal Power Units Available — 20 engines. .
 Movement Point Ratio — vi , As of this date, only one type is be-
 Warp engine lype— li be i ice. It obviously has
@@ -1859,33 +1853,33 @@ Sx 7 , NY \7 / | © yo" “sO
 gy N J /
 Notes:
 T-2 (Death Talon) CLASS IV DESTROYER Known Sphere Of Operation: Empire interior
-Construction Data: Data Reliability: C
+construction_data = { }Data Reliability: C
 Model Numbers Type 1 Type 3 Type 7 Major Data Source: Border patrol contact re-
 ate ntering ervice—
-Approx. Number Constructed — 80 90 70 ports
+approx_num_constructed = — 80 90 70 ports
 / -
-Hull Data: | Introduced about Stardate 1/8905 and as
+hull_data = { }| Introduced about Stardate 1/8905 and as
 Superstructure Points — 8 8 10 signed as groups to various fleets in the Romulan
-Damage Chart — B B B .
+damage_chart : B B B .
 Size navy, the T-2s were designed for escort and pat-
 Length 115m 120m 120m .
-Width — 165m 165m 165m rol duties. Though they had no room to spare
-Height — som som ome for leisure, and though the quarters and work
+size_width_m :165m 165m 165m rol duties. Though they had no room to spare
+size_height_m : som som ome for leisure, and though the quarters and work
 | — , t . ° ,
 cargo 8 Ftp stent " areas were quite cramped, the class is consi-
-Cargo Units — 45SCU 40SCU 40SCU n mfortable by early stan-
-Cargo Capacity — 2250 mt 2000 mt 2000 mt dered to be roomy a dco orta Y y
-Landing Capability — Yes Yes Yes dards.
-Equipment Data: | After Stardate 1/9902, vessels appeared in
+cargo_units_SCI : 45SCU 40SCU 40SCU n mfortable by early stan-
+cargo_capacity_mt :2250 mt 2000 mt 2000 mt dered to be roomy a dco orta Y y
+landing_capability : — Yes Yes Yes dards.
+equipment_data = { } | After Stardate 1/9902, vessels appeared in
 Sonne RSM R3M RSM which the hull had been modified to hold a
 Standard 9-person 2 2 2 plasma weapon. After Stardate 2/0001, the first
-Coney Person | Type 3s appeared, with increased length, weight,
-Cloaking Device Type None None Ace and crew complement. The firepower of the new
+Coney Person | Type 3s appeared, with increased length, weight_mt :_m :,
+Cloaking Device Type None None Ace and crew :complement. The firepower of the new
 ower Requirement — ~ . a .
 " type was more than double its original configura-
 Other Data: 105 110 112 tion, and the newer shields gave a combat effi-
 Shuttlecraft— None None None ciency three times greater than the Type 1. After
-Engines And Power Data: a os os several years of service, the destroyers began
+Eengines_power = { } a os os several years of service, the destroyers began
 / ° . - . 7
 Movement Point Ratio— “ 2/1 2/1 2/1 undergoing minor changes to the hull configura-
 Warp Engine Type— RWB eT RWB nwo tion and interior layout, and, beginning with the
@@ -1942,24 +1936,24 @@ Sz | |
 Notes:
 T-5 (Fire Swarm) CLASS V/VI DESTROYER Known Sphere Of Operation: Klingon border
 p p 9
-Construction Data: Data Reliability: D (upgrade)
+construction_data = { }Data Reliability: D (upgrade)
 ShipClsee vype Vype4 Major Data Source: Klingon sector intelligence;
-Date Entering Service sed 210 — Project Grey Ghost encounters
+date_entering_service: ' 'sed 210 — Project Grey Ghost encounters
 rox. mbe ns _— . °
 7 ho OEMS After Stardate 2/1001, the 7-5 Class of high-fire-
 ull Data:
 Superstructure Points — 9 10 power destroyers appears to have become the
 Sine genet c c mainstay of the Romulan navy on the Klingon border.
 Length— 180m 180m The Type 1 was a replacement for the 7-2(Death Talon)
-Width — 0m 140m destroyer, with a more powerful engine and more pow-
-Height — 40m 40m Y Pp ; ; g p .
-. Weight — 59,300 mt 68,200 mt erful disruptors, thus giving it a greater combat effi-
-* Cargo Units — 40SCU 40 SCU ciency than its counterpart. After some small variations
-, Cargo Capacity — 2000 mt 2000 mt on the overall design, the Type 4 was introduced and
+size_width_m :0m 140m destroyer, with a more powerful engine and more pow-
+size_height_m : 40m 40m Y Pp ; ; g p .
+. weight_mt :_m : — 59,300 mt 68,200 mt erful disruptors, thus giving it a greater combat effi-
+* cargo_units_SCI : 40SCU 40 SCU ciency than its counterpart. After some small variations
+, cargo_capacity_mt :2000 mt 2000 mt on the overall design, the Type 4 was introduced and
 anding Capability — None None . ‘ .
 immediately saw success as a combat vessel. This
-Equipment Data: h . h F . .
-Control Computer Type — R4M R4M model was heavier than the earlier models, causing it
+equipment_data = { } h . h F . .
+control_computer_type : R4M R4M model was heavier than the earlier models, causing it
 TS ard ®-person ; ; to be slightly slower at warp speeds and not quite as
 Emergency 20-person 2 2 maneuverable; however, this was offset by the in-
 Cargo 1 1 y
@@ -1969,7 +1963,7 @@ Other Data: not to be taken lightly.
 _ 11 . . .
 Shuttiecraft — \'8 18 Intercepted subspace radio transmissions show
 , , that, on Stardate 2/1911, a convoy escorted by three
-Engines And Power Data: Y
+Eengines_power = { } Y
 Total Power Units Available — 35 35 T-5s was attacked by six Klingon D-18B destroyers.
 Movement Point Ratio — 2/1 3/1 With kill. the R ; d their shi
 Warp Engine Type— RWC-2 RWC-2 ith great skill, the Romulans maneuvere eir snips
@@ -2017,23 +2011,23 @@ AN Va \
 VOR
 ] One) CLASS VI DESTROYER Notes:
 T-10 (Bright One} Known Sphere Of Operation: Bor-
-Construction Data: der
-Model Numbers — Type 1 Type2 ; .
-Date Entering Service — 2/16 2/21 Data Reliability: C
-Approx. Number Constructed — 90 20 Major Data Source: Border patrol
+construction_data = { }der
+model_numbers: ' 'Type 1 Type2 ; .
+date_entering_service: ' '— 2/16 2/21 Data Reliability: C
+approx_num_constructed = — 90 20 Major Data Source: Border patrol
 Hull Data:
 Superstructure Points — 10 11 contact reports ;
-Damage Chart — 8 B The 7-70s were designed to replace
+damage_chart : 8 B The 7-70s were designed to replace
 Si °
 7 Length 140m 140m the older 7-2 (Death Talon) models in
 wien som 52m patrol missions, and, therefore, several
 21g ,
-Weight — 61,300 mt 63,400 mt of the shortcomings of the older ships
+weight_mt :_m : — 61,300 mt 63,400 mt of the shortcomings of the older ships
 Cargo ° °
-Cargo Units — 85SCU 85SCU were eliminated. Reportedly, the most
-Cargo Capacity — 4250 mt 4250 mt notable was the size and arrangement
-Landing Capability None None of the crew quarters, though Class B
-Equipment Data: ;
+cargo_units_SCI : 85SCU 85SCU were eliminated. Reportedly, the most
+cargo_capacity_mt :4250 mt 4250 mt notable was the size and arrangement
+landing_capability : None None of the crew :quarters, though Class B
+equipment_data = { } ;
 Control Computer Type R4M R4M plans show the vessels to be small and
 Transporters ; 5 cramped compared to similar Federa-
 otandarda 3-person .
@@ -2042,9 +2036,9 @@ Cargo 1 1 ; _
 Cloaking Device Type — RCC RCC cent years mount a larger impulse en
 Power Requirement — 15 15 gine and house a photon torpedo.
 Other Data: Nearly all of the approximately 110 T-
-crew 22 \22 10s remain in active service.
+crew :22 \22 10s remain in active service.
 Shuttlecraft 1 1
-Engines And Power Data: , Named for the reemea, a brightly-
+Eengines_power = { } , Named for the reemea, a brightly-
 Total Power Units Available — 34 40 colored bird native to Corill, these de-
 Movement Point Ratio 3/1 3/1 . . .
 Warp Engine Type— RWC-2 RWC-2 stroyers are painted by their crews in
@@ -2096,37 +2090,37 @@ Notes:
 
 R-4 (Mularr) CLASS Vi ESCORT Known Sphere Of Operation:
 
-Construction Data: Triangle and Klingon borders
-Model Numbers — Type 1 Type 5 op open,
+construction_data = { }Triangle and Klingon borders
+model_numbers: ' 'Type 1 Type 5 op open,
 
-Date Entering Service — 2/04 2/08 Data Reliability: C (upgrade)
+date_entering_service: ' '— 2/04 2/08 Data Reliability: C (upgrade)
 
-Approx. Number Constructed — 85 170 Major Data Source: Project Gre
+approx_num_constructed = — 85 170 Major Data Source: Project Gre
 
 J
 
-Hull Data: Ghost encounters
+hull_data = { }Ghost encounters
 Superstructure Points — 8 8 . .
 
-Damage Chart — C C Designed strictly as escort vessels
+damage_chart : C C Designed strictly as escort vessels
 
 Size, , vac vac and used only for convoy or fleet sup-
 ength— m is6mM
 Width 147m 147m port, R-4s are very rarely seen alone,
-Height — 38m 38m . : : -
-Weight 69.500 mt 71.900 mt according fo Project Grey oot infor
+size_height_m : 38m 38m . : : -
+weight_mt :_m : 69.500 mt 71.900 mt according fo Project Grey oot infor
 
 Cargo mation. Norma assigned in groups
-Cargo Units — 100 SCU 100 SCU . Y J k J .
-Cargo Capacity — 5000 mt 5000 mt of five to seven, they are known to be
+cargo_units_SCI : 100 SCU 100 SCU . Y J k J .
+cargo_capacity_mt :5000 mt 5000 mt of five to seven, they are known to be
 
-Landing Capability — None None sufficient in firepower to deter most
+landing_capability : — None None sufficient in firepower to deter most
 
 Eau enrol Comput T R3M R3M enemies.
 
 ontro!l Computer I ype — :
 
-Transporters — . | Though several Type 1 vessels re-
+transporters : [ { } ] . | Though several Type 1 vessels re-
 standard 9-person - 2 main on active duty, most have been
 Emergency 20-person ] 1 . ;
 
@@ -2138,7 +2132,7 @@ Crew— 120 122 weapons, more powerful engine, and
 
 Shuttlecralt— : 2 more efficient shields.
 
-Engines And Power Data: - Of the approximately 250 R-4s built,
+Eengines_power = { } - Of the approximately 250 R-4s built,
 Total Power Units Available — 26 28 oo, ! :
 Movement Point Ratio— 3/1 3/1 about 200 remain in active service and
 Warp Engine Type — RWF-1 RWEF-2 . .
@@ -2150,7 +2144,7 @@ tress Charts — .
 Maximum Safe Cruising Speed — Warp7 Warp? group of three freighters was taken by
 Emergency Speed — Warp g Warps j ; ;
 
-Impulse Engine Type — nae 8 mies a mutinous crew and disappeared with
+Impulse Engine Type — nae 8 mies a mutinous crew :and disappeared with
 Power Units Available — 10 10 the freighters into the Triangle, where
 
 Weapons And Firing Data: it operates currently. Intelligence re-
@@ -2220,7 +2214,7 @@ Supers Chart — . , po hat in hese Em
 Damage on nt O0SCU ted that, der, t lingon r-
 86501 osc or bor in the K ope
 Size t 500 m p . on . t lly
-Width — 10SCU Yes are ting Ss well. ents wine were not a noen
+size_width_m :10SCU Yes are ting Ss well. ents wine were not a noen
 Height 500 mt in there te from oo K-3s trade uested tha parison
 . } — c bd -
 wes _ Yes R2M repo the Klingo s having cunted vompa' the
@@ -2288,24 +2282,24 @@ ne a ay ii
 Nex <e zal 4|3
 Notes:
 Q-1 (Great Defender) CLASS Ill MONITOR _ Known Sphere Of Operation:
-Construction Data: Triangle and Klingon borders; Empire
-Model Numbers — Type 1 interior
-Date Entering Service ted — ‘eo Data Reliability: €
-Hull Data: Major Data Source: Subspace radio
+construction_data = { }Triangle and Klingon borders; Empire
+model_numbers: ' 'Type 1 interior
+date_entering_service: ' 'ted — ‘eo Data Reliability: €
+hull_data = { }Major Data Source: Subspace radio
 Superstructure Points — 6 communications monitored by Triangle
 Saaage Chart— 8 sector intelligence
 Length — 130m About Stardate 1/9109, just prior to
-Height — 35m the outbreak of the Four Years War, the
+size_height_m : 35m the outbreak of the Four Years War, the
 Cargo 15,300 mt first of these monitors began active ser-
 Cargo Units 20SCU vice guarding systems bordering the
-Landing Capability — None Triangle area and Klingon territories to
+landing_capability : — None Triangle area and Klingon territories to
 Equipment Date: coreward. As the war progressed, their
-Control Computer Type — R2M numbers were increased, likely because
+control_computer_type : R2M numbers were increased, likely because
 Standard 9-person 2 the Romulans feared a possible inva-
 Other Data: sion by either of their foes.
 Cee oth = This class is powered by the Romu-
 lan Sub-Light Engine Class A and car-
-Engines And Power Data: ie -” ries no impulse drive system. These
+Eengines_power = { } ie -” ries no impulse drive system. These
 + rte gl tin - aoa vessels mount eight disruptors in four
 Number — 2 banks, making them formidable oppo-
 Powter ARS AVEIa ne — 9 nents for rebels and pirates. It was dur-
@@ -2350,14 +2344,14 @@ ame
 Notes:
 Known Sphere Of Operation:
 Q-4 (Protector) CLASS IV MONITOR Klingon border
-Construction Data: Type3 Type9 Data Reliability: C (upgrade)
-Date Entering Service — 2/00 2/08 Major Data Source: Border patrol
-Approx. Number Constructed — 160 280 contact reports: Project Grey Ghost
+construction_data = { }Type3 Type9 Data Reliability: C (upgrade)
+date_entering_service: ' '— 2/00 2/08 Major Data Source: Border patrol
+approx_num_constructed = — 160 280 contact reports: Project Grey Ghost
 Mee cepanstructure Points — 5 6 short-range scans
 Damage Chart— B B Probably built to replace the Q-7
 oe ength 152m 152m (Great Defender), the vessels of the Q-4
-Height — om On Class are more suited for prolonged
-_ Weight— 25,000 mt 29,000 mt duty. Vessels near the border are equip-
+size_height_m : om On Class are more suited for prolonged
+_ weight_mt :_m :— 25,000 mt 29,000 mt duty. Vessels near the border are equip-
 «900 argo Units — 12SCU 125CU ped with Sub-Light Class A engines.
 Lendin cote 500m Room When these ships first appeared on the
 frontiers, it was believed that the Romu-
@@ -2367,7 +2361,7 @@ Cloaking Device Type — RCB RCB the ships look peculiar with their three
 Power Requirement "e "0 engine nacelles, which are easily-
 Other Data: 7 7 identified on sensor scan. Project Grey
 Shuttlecraft — 1 Ghost was unable to confirm that these
-Engines And Power Data: vessels had warp capability, as origi-
+Eengines_power = { } vessels had warp capability, as origi-
 Total Power Units Available — 27 27 nally reported.
 Sub-Llght Engine Tyne — RSLA RSLA The Q-4 class, like its predecessor,
 paectinie Available : 5 is wellarmed. Mounting ten disruptors
@@ -2401,43 +2395,43 @@ Ba HE ~~ — \ | | J __ Grmormrancevates
 
 S-3 (Free Flight) CLASS Ill/IV SCOUT Notes: |
 
-Construction Data: | Known Sphere Of Operation: Em-
+construction_data = { }| Known Sphere Of Operation: Em-
 
-Model Numbers — Type 1 Pes Type 8 wre! pire interior
+model_numbers: ' 'Type 1 Pes Type 8 wre! pire interior
 
 Ship Class — Hi IV , opts
 
-Date Entering Service — 1/82 1/87 2/00 2/09 Data Reliability: C
+date_entering_service: ' '— 1/82 1/87 2/00 2/09 Data Reliability: C
 
-Approx. Number Constructed — 200 370 150 84 Major Data Source: Contact reports
+approx_num_constructed = — 200 370 150 84 Major Data Source: Contact reports
 
-Hull Data: : from border conflicts; Project Grey
+hull_data = { }: from border conflicts; Project Grey
 
 Superstructure Points — 5 5 5 6 Lees
 
-Damage Chart — B fb B B Ghost data acquisition
+damage_chart : B fb B B Ghost data acquisition
 
 oie ength 30 m 30m 30 m 20m This reserve-status class was once
-Width — 132m 132m 132 m 132m in the forefront of early coreward and
-Height — 30m 30m m 30m : .
+size_width_m :132m 132m 132 m 132m in the forefront of early coreward and
+size_height_m : 30m 30m m 30m : .
 
-Weight — 15,580mt 15,830mt 26,780mt 30,900mt spinward advances, accounting for a re-
+weight_mt :_m : — 15,580mt 15,830mt 26,780mt 30,900mt spinward advances, accounting for a re-
 
 Cargo Soi secu | wee 1eSCU -108CU ported 60% of the contacts made with
 
 argo Units — ol ae . . :
-Cargo Capacity — 500 mt 500 mt 500 mt 500 mt new civilizations. Known from its intro-
+cargo_capacity_mt :500 mt 500 mt 500 mt 500 mt new civilizations. Known from its intro-
 
-Landing Capability — ee Yes = ves duction for its speed and maneuverabil-
+landing_capability : — ee Yes = ves duction for its speed and maneuverabil-
 
-Equipment Data:
-Control Computer Type — R3M R3M R3M R4M ity, the Type 1 was found only to be
-Transporters — - lacking in the power of its weaponry.
+equipment_data = { }
+control_computer_type : R3M R3M R3M R4M ity, the Type 1 was found only to be
+transporters : [ { } ] - lacking in the power of its weaponry.
 é é 2 1 1 ; .
 Standard 3-person By Stardate 1/8707, the Type 3 is known
 Other Data: 0 7 - i to have been introduced, and, by Star-
 Shuttlecraft — None None None None date 1/9902, the Type 1 no longer
-Engines And Power Data: existed in the fleet.
+Eengines_power = { } existed in the fleet.
 Nocera pomtateee no h® wa The $-3 underwent _ internal
 Warp Engine Type— RWA-2 — RWA-2 RWB-1 RWB-2 changes that did not effect the overall
 ber— 2 2 2 2 .
@@ -2496,27 +2490,27 @@ NE Sa pimea
 Se
 Notes:
 S-4 (Swift Wing) CLASS IV SCOUT Known Sphere Of Operation: Em-
-Construction Data: pire-wide use as civilian craft
+construction_data = { }pire-wide use as civilian craft
 Model Numbers - Type 1 Data Reliability: C
-Date Entering Service — 1/94 ‘ ;
-Approx. Number Constructed - 150 Major Data Source: Triangle sector
-Hull Data: intelligence
+date_entering_service: ' '— 1/94 ‘ ;
+approx_num_constructed = - 150 Major Data Source: Triangle sector
+hull_data = { }intelligence
 DamageChart— B The S-4 Class was commissioned
 Size to lead the expansion into the galactic
 Length 120m eye ° , . :
-Width — 60m trailing arm. To accomplish its mission,
+size_width_m :60m trailing arm. To accomplish its mission,
 Wasa oo mt this class needed speed and man-
 eight — 2/, m a eo.
 Cargo euverability; it is reported that these
 Cardo Capacity ad sleek ships were a real joy to fly in the
-Landing Capability — Yes atmosphere due to their responsive
-Equipment Data: . manual controls. Its light armament
+landing_capability : — Yes atmosphere due to their responsive
+equipment_data = { } . manual controls. Its light armament
 Transporters "ype eM was a liability, making the vessels un-
 Standard 3-person | suitable for combat roles and endanger-
 Other Data: ing crews when exploring new worlds
 C 2 ; ; vyecs
 Shuttiecraft — Sone with their own starfaring capabilities.
-Engines And Power Data: Due to its inability to perform its
+Eengines_power = { } Due to its inability to perform its
 Total Power Units Available — 23 assigned tasks, the Swift Wings were
 Movement Point Ratio 2/1 .
 Warp Engine Type — RWB-1 not produced in any great number and
@@ -2567,23 +2561,23 @@ y i i y ~
 Notes:
 S-9 (Wind Carrier) CLASS V SCOUT Known Sphere Of Operation: Em-
 p
-Construction Data: pire frontiers
-Model Numbers — Type 1 Type4 : Vityys
-Date Entering Service — 2/10 2/14 Data Reliability. E (new) a
-Approx. Number Constructed — 266 182 Major Data Source: Transmissions
-Hull Data: monitored by Project Grey Ghost
+construction_data = { }pire frontiers
+model_numbers: ' 'Type 1 Type4 : Vityys
+date_entering_service: ' '— 2/10 2/14 Data Reliability. E (new) a
+approx_num_constructed = — 266 182 Major Data Source: Transmissions
+hull_data = { }monitored by Project Grey Ghost
 Superstructure Points — 7 7 . _
-Damage Chart — C C _ The S-9 Class probably was de
+damage_chart : C C _ The S-9 Class probably was de
 Size . ; signed to replace the older S-4 (Swift
 t — 2 i 2 . °
 Width 120 oon Wing) as a front-line scout vessel capa-
-Height — 20m 20m atic
+size_height_m : 20m 20m atic
 Weght— 44.300 m1 oe n00 mnt ble of combat and exploration duties.
 Cargo The inadequate weaponry of its pre-
-Cargo Units — 60 SCU 60SCU — 7+
-Cargo Capacity — 3000 mt 3000 mt decessor corrected by the addition of
-Landing Capability — Yes Yes more powerful disruptors and more ef-
-Equipment Data: ficient shields, the Type 1 was a vast
+cargo_units_SCI : 60 SCU 60SCU — 7+
+cargo_capacity_mt :3000 mt 3000 mt decessor corrected by the addition of
+landing_capability : — Yes Yes more powerful disruptors and more ef-
+equipment_data = { } ficient shields, the Type 1 was a vast
 Control ter Type — R3M R3M |
 Travsportern. or rype improvement. The Type 4 mounts two
 Standard 9-person banks of two dis ruptors, giving the
@@ -2592,7 +2586,7 @@ Other Dat scout a better field of fire and increasing
 er Vata: . —
 Crow — 42 42 its combat efficiency beyond that of the
 Shuttiecrant — None None CS-2 (Graceful Flyer), which it is be-
-Engines And Power Data: - lieved to have also replaced. The class
+Eengines_power = { } - lieved to have also replaced. The class
 otal Power Units Available — 23
 Movement Point Ratio— 2/1 2/7 reportedly leads the Romulan expan-
 ial pl dca AWDe AWD sion efforts spinward.
@@ -2664,8 +2658,8 @@ Damage en ade fo edo irst scout shi .
 ; 00 n mM torp first tions
 Size th— 47,8 hoton the etra
 Leng be en
-Width — 5 SCU ne ence is believed to deep-space tofore have
-Height — 250 mt influ S-11 is ice for ich there The
+size_width_m :5 SCU ne ence is believed to deep-space tofore have
+size_height_m : 250 mt influ S-11 is ice for ich there The
 o vs the loaking a ooos winic ital ships. that
 1 — oa rri ‘ cap Is
 : argo Unite M use ne nd Klingon ‘ly by larger ntly now ee as for
@@ -2741,26 +2735,26 @@ Notes: —
 Known Sphere Of Operation: Em-
 pire-wide use
 I-4 (Graffler) CLASS VII/IX FREIGHTER Data Reliability: C
-Construction Data: Major Data Source: Triangle Sector
+construction_data = { }Major Data Source: Triangle Sector
 Model Numbers Type 1 Type 3 Intelligence
 Ship Class — vil Ix
-Date Entering Service - 1/98 5/08 Introduced about Stardate 1/98, the
-Approx. Number Constructed — 80 160 Type 1 was consid ered to be state-of-
-Hull Data: the-art in freighter design at the time
+date_entering_service: ' '- 1/98 5/08 Introduced about Stardate 1/98, the
+approx_num_constructed = — 80 160 Type 1 was consid ered to be state-of-
+hull_data = { }the-art in freighter design at the time
 Superstructure Points — 15 15 . . .
-Damage Chart — B B but it was soon realized that it was un-
+damage_chart : B B but it was soon realized that it was un-
 Size j
 Length— 3a0 mn oa0 me derpowered for the cargo it could carry
-Width — 180m 180m in its internal cargo bays. The Type 3,
-Height — .
+size_width_m :180m 180m in its internal cargo bays. The Type 3,
+size_height_m : .
 Weght— 86.00 mt 728 700s introduced about Stardate 2/0801,
 Cargo . a mounted a more powerful drive system
-Cargo Units — 8000 SCU 9400 SCU 4
-Cargo Capacity — 400,000 mt 470,000 mt that was capable of maintaining higher
-Landing Capability — None None warp speeds. There was a trade-off in
-Equipment Data: his ji
+cargo_units_SCI : 8000 SCU 9400 SCU 4
+cargo_capacity_mt :400,000 mt 470,000 mt that was capable of maintaining higher
+landing_capability : — None None warp speeds. There was a trade-off in
+equipment_data = { } his ji
 Control Computer Type— aaM ean this ncreased performance and that
-Transporters — was the slight loss of maneuverability
+transporters : [ { } ] was the slight loss of maneuverability
 Standard 9-person 2 2 ; . ‘ :
 Small cergo 3 Fs and available shielding. By Stardate 2,
 Large cargo 3 3 12, all Type 1s in the Military and Exp-
@@ -2768,7 +2762,7 @@ Cloaking Device Type — None None . a og .
 loration Divisions were refitted to Type
 Other Data: | ye a 3s. Of the approximately 250 built, only
 Shuttlecraft — 4 4 about 150 remain in active service;
-Engines And Power Data: about 60 each are assigned to the Col-
+Eengines_power = { } about 60 each are assigned to the Col-
 Total Power Units Available — 35 44 . . ve es
 Movement Point Ratio — onization and Military Divisions, and
 Unloaded 3 a about 30 to the Exploration Division.
@@ -2817,32 +2811,32 @@ nl Se a Te OY, ee ot We enna uae i | Pom ae i ’ oq
 rom A PI TS
 Notes:
 l-7 (Vespin) CLASS Xi FREIGHTER . “own Sphere Of Operation: Em-
-Construction Data: pire-wide USG 7
+construction_data = { }pire-wide USG 7
 Hull/Ship Numbers — Data Reliability: C
-Model Numbers — Type . . .
-Date Entering Service — 2/13 Major Data Source: Triangle Sector
-Approx. Number Constructed — 90 Intelligence
-Hull Data: Though designed to be used as a
+model_numbers: ' 'Type . . .
+date_entering_service: ' '— 2/13 Major Data Source: Triangle Sector
+approx_num_constructed = — 90 Intelligence
+hull_data = { }Though designed to be used as a
 ture Points — 1 . .
 Damage Chant 8 freighter, the /-7 can be converted into
 Se ength Om a troop transport on short notice, a part
-Width — 182m of the contract for service that has
+size_width_m :182m of the contract for service that has
 _ 4 . .
 Weght— 121/000 mt proven its worth. The ships are capable
 Cargo | ner of carrying 480,000 metric tons of cargo
-Cargo Units — 9600 SCU
-Cargo Capacity — 480,000 mt or up to 3,200 troops. When the /-7 en-
+cargo_units_SCI : 9600 SCU
+cargo_capacity_mt :480,000 mt or up to 3,200 troops. When the /-7 en-
 tanding Capability — None tered service approximately Stardate 2
-Equipment Data: were assigned to the Militar
-Control Computer Type — R4M 13, they e€ ; 19) ; y
-Transporters — and Outpost Divisions, which made
+equipment_data = { } were assigned to the Militar
+control_computer_type : R4M 13, they e€ ; 19) ; y
+transporters : [ { } ] and Outpost Divisions, which made
 Standard 9-person 2 . : .
 Emergency 20-person 1 them easily accessible for conversion
 Small cargo 4 and put them under the command of
 arge cargo -_.. . .
 Cloaking Device Type— None the divisions that would require their
 Other Data: services. .
-Crew — a6 When the /-7is used to carry troops,
+crew :— a6 When the /-7is used to carry troops,
 Shuttlecraft — 4
 , half of the cargo transporters are re-
 Sra real Power Units Avetiable— 40 moved and replaced with 16 transporter
@@ -2893,47 +2887,47 @@ X i i A } = icin
 = ' se
 Notes:
 J-3 (Starlifter) CLASS VI/IX FREIGHTER . Known Sphere Of Operation: Em-
-Construction Data: pire-wide use
+construction_data = { }pire-wide use
 
-Model Numbers — Type 2 Type9 Type 14 Data Reliability: C
+model_numbers: ' 'Type 2 Type9 Type 14 Data Reliability: C
 
 Ship Class — Vi Vil 1X . . .
 
-Date Entering Service — 1/90 1/98 2/12 Major Data Source: Triangle Sector
+date_entering_service: ' '— 1/90 1/98 2/12 Major Data Source: Triangle Sector
 
-Approx. Number Constructed — 330 260 110 Intelligence
+approx_num_constructed = — 330 260 110 Intelligence
 
-Hull Data: oy ; One of the oldest transport ships in
+hull_data = { }oy ; One of the oldest transport ships in
 arst ture ts — 1 12 12 .
 
 DamageChart— A A A known space, the J-3 Class tug is de-
 
 an Lg0m La0n ston signed to tow cargo arranged in pods
 ength— oUM ‘ ,
-Width — 242m 242m 242m attached one to the other in a chain be-
-Height — 81m 81m 81m . .
+size_width_m :242m 242m 242m attached one to the other in a chain be-
+size_height_m : 81m 81m 81m . .
 
-Weight — 78,700 mt 81,700 mt 122,300mt hind the ship.
+weight_mt :_m : — 78,700 mt 81,700 mt 122,300mt hind the ship.
 
 Cargo About Stardate 1/90, the Type 2 was
-Internal Cargo Units — 10SCU 10SCU 10SCU . . . .
-Internal Cargo Capacity — 500 mt 500 mt 500 mt introduced into service; although it
+Internal cargo_units_SCI : 10SCU 10SCU 10SCU . . . .
+Internal cargo_capacity_mt :500 mt 500 mt 500 mt introduced into service; although it
 
 anding Capability — None None None ae. ee ee
 
-Equipment Data: capabilities of later models, it is still in
+equipment_data = { } capabilities of later models, it is still in
 
-Control Computer Type — R4M R4M R4M production, because of its reliability and
+control_computer_type : R4M R4M R4M production, because of its reliability and
 
-Transporters — .
+transporters : [ { } ] .
 Standard 9-person , , the need for a vessel to move cargos In
 Cargo 1 1 1 its specific tonnage range. By Stardate
 
 Other Data: 1/98, the class had undergone several
-Crew — 34 36 32 = os . .
+crew :— 34 36 32 = os . .
 Shuttlecraft — ; unsuccessful modifications attempting
 
-Engines And Power Data: to allow the design to use the RWD-1
+Eengines_power = { } to allow the design to use the RWD-1
 
 Total Power Units Available — 33 35 44 warp engine to its fullest capacity; the
 
@@ -2993,34 +2987,34 @@ a. =< Be at)
 otes:
 J-4 (Baydron) CLASS V TRANSPORT N
 Known Sphere Of Operation: Em-
-Construction Data: . id
-Model Numbers — Type 1 pire-wide use
-Date Entering Service — 1/96 : tho
-Approx. Number Constructed — 250 Me semis B Tri le Sect
+construction_data = { }. id
+model_numbers: ' 'Type 1 pire-wide use
+date_entering_service: ' '— 1/96 : tho
+approx_num_constructed = — 250 Me semis B Tri le Sect
 ajor Data Source: Triangle Sector
-Hull Data: .
+hull_data = { }.
 Superstructure Points — 8 Intelligence
 comage Chart — C The J-4, which transports cargo in
 Length— 200m pods that are pushed from behind, en
 i — 5 - '
 Height yom tered service about Stardate 1/96 and
-- Weight — 55,600 mt has not been modified. These vessels
+- weight_mt :_m : — 55,600 mt has not been modified. These vessels
 argo .
-Internal Cargo Units — 60 SCU are extremely reliable and easy to main-
-Internal Cargo Capacity — 3000 mt : : -
+Internal cargo_units_SCI : 60 SCU are extremely reliable and easy to main-
+Internal cargo_capacity_mt :3000 mt : : -
 Cargo Transport Capacity 160,000 mt tain, which makes them very cost effec
-Landing Capability — None tive. It carries slightly more cargo and
-Equipment Data: is more maneuvérable than the J-8 but
-Control Computer Type — R4M - . . ;
+landing_capability : — None tive. It carries slightly more cargo and
+equipment_data = { } is more maneuvérable than the J-8 but
+control_computer_type : R4M - . . ;
 Transporters is not as fast; it requires fewer crew-
 standard 9-person members and has facilities for 40 pass-
 mergency 20-person .
 Cargo . engers. Of the more than 240 built for
 Other Data: the navy, about 180 remain in service.
-Crew — 32 SO popular is this ship that its man-
+crew :— 32 SO popular is this ship that its man-
 Passengers — 40 Pop . 'p . .
 Shuttlecraft — 1 ufacturer began selling it to private in-
-Engines And Power Data: dustry within six months after its deliv-
+Eengines_power = { } dustry within six months after its deliv-
 Total Power Units Available — 36 ery to the navy. It is estimated that over
 Movement Point Ratio—
 Unloaded 2/1 250 of these vessels have been sold to
@@ -3063,29 +3057,29 @@ r/
 Notes:
 - ] | RANSPORT .
 3-8 (Moorabbin) CRs WY 1 S Known Sphere Of Operation: Em-
-Construction Data: .
-Model Numbers — Type 1 pire-wide USE
-Date Entering Service — 2/00 Data Reliability: A
-Approx. Number Constructed a0 Major Data Source: Vessel in Star
-Hull Data: F] .
+construction_data = { }.
+model_numbers: ' 'Type 1 pire-wide USE
+date_entering_service: ' '— 2/00 Data Reliability: A
+approx_num_constructed = a0 Major Data Source: Vessel in Star
+hull_data = { }F] .
 eet possession
 Superstructure Points — 10
 Damage Chart- C The J-8, which tows cargo pods
 ize ° °
 Length 201 Nn similar to but smaller than those towed
 Height pen by the J-3, entered service about Star-
-_ Weight — 35,700 mt date 2/00 and has not been changed or
-«99° rernal Cargo Units — 1OSCU modified since. Of the approximately
-Internal Cargo Capacity — 500 mt 200 ships built for the navy, more than
+_ weight_mt :_m : — 35,700 mt date 2/00 and has not been changed or
+«99° rernal cargo_units_SCI : 1OSCU modified since. Of the approximately
+Internal cargo_capacity_mt :500 mt 200 ships built for the navy, more than
 L jntcepabiity Nowe 160 remain in service
 anding Capadilily — one .
-Equipment Data: This vessel has been so successful
+equipment_data = { } This vessel has been so successful
 transporte RSM that the manufacturer began placing
 Standard 9-person 2 them inthe civil sector shortly after their
 Smali'cargo introduction, and they are probably the
 OM ew 67 most common small transport vessels
 Shuttlecraft 3 built by the Romulans to date. It is esti-
-Engines And Power Data: mated that over 250 ships of this type
+Eengines_power = { } mated that over 250 ships of this type
 fora! Power Soits Maliavle~ 20 have been manufactured and sold to
 Unloaded 2/1 private industry. Several of these are
 P 4/1
@@ -3130,37 +3124,37 @@ H-4 (PRAETOR) CLASS || WARPSHUTTLE motes:
 
 Known Sphere Of Operation: Em-
 
-Construction Data: . .
+construction_data = { }. .
 
-Model Numbers — Type 1 Type 2 pire-wide USE
-Date Entering Service — 1/90 2/10 Data Reliability: A
+model_numbers: ' 'Type 1 Type 2 pire-wide USE
+date_entering_service: ' '— 1/90 2/10 Data Reliability: A
 A x. N berC t ted 1400 1000 . .
 PPPOE LILIES Major Data Source: Vessel in Star
-Hull Data: . . . .
+hull_data = { }. . . .
 Superstructure Points — 2 2 Fleet possession; Triangle Sector Intel-
-Damage Chart — Cc C ligence
+damage_chart : Cc C ligence
 Size .
 Length — 20m 20m The more popular of the two major
 Melon aa aim warpshuttles, the H-4 lives up to its
-Weight — 9970 mt 10,840 mt name (Praetortranslates as ‘leader’). Its
+weight_mt :_m : — 9970 mt 10,840 mt name (Praetortranslates as ‘leader’). Its
 Cé .
 oe Sargo Units — 10SCU 10SCU spacious quarters are the most luxuri-
-Cargo Capacity — 500 mt 500 mt ous of all Romulan shuttles, and, there-
-Landing Capability — Yes Yes .
+cargo_capacity_mt :500 mt 500 mt ous of all Romulan shuttles, and, there-
+landing_capability : — Yes Yes .
 fore, makes for the most desired and
 
-Equipment Data:
+equipment_data = { }
 
-Control Computer Type — R2M R3M comfortable travel. With a crew of two
+control_computer_type : R2M R3M comfortable travel. With a crew :of two
 
-Transporters — None None and passenger facilities for eight, it is
+transporters : [ { } ] None None and passenger facilities for eight, it is
 Other Data: ; ; considered to be large for the mission
 
 rew— . .
 
 Passengers — 8 9 requirements. It is found either ground-
 
-Engines And Power Data: based or attached to an outpost or orbi-
+Eengines_power = { } based or attached to an outpost or orbi-
 
 Total Power Units Available 14 20 tal station, probably due to the vessel's
 Movement Point Ratio— 1/1 1/1 .
@@ -3193,7 +3187,7 @@ existing models were refit and modified
 as Type 2s. The Type 2s use a newer,
 lighter version of the same engine,
 which requires less space and allows
-for more room in the crew compart-
+for more room in the crew :compart-
 ments.
 
 Of the approximately 2500 H-4
@@ -3222,31 +3216,31 @@ te ME iv C)) yO \ @ \) \ —— a”
 — bine EAT ea ! : _. te ae er iB
 Notes:
 H-5 (Ras Lovah) CLASS | H-5 WARPSHUTTLE Known Sphere Of Operation: Em-
-Construction Data: pire-wide use
-Model Numbers — Type 1 Type 3 . opeg
-Date Entering Service — 1/97 2/14 Data Reliability: A
-Approx. Number Constructed — 850 500 Major Data Source: Types 1 and 3
+construction_data = { }pire-wide use
+model_numbers: ' 'Type 1 Type 3 . opeg
+date_entering_service: ' '— 1/97 2/14 Data Reliability: A
+approx_num_constructed = — 850 500 Major Data Source: Types 1 and 3
 dine sovn soture Points ; 11 have been examined by Star Fleet per-
 u r l ; seer . . .
 Damage Chart— C C sonnel; Triangle sector intelligence
 Size
 Length 38 m a The H-5 warpshuttle, one of the
-Width — 20m 20m most common types found in the
+size_width_m :20m 20m most common types found in the
 el t— m m ° .
-Weight — 4850 mt 4650mt Romulan Empire, is used to transport
+weight_mt :_m : — 4850 mt 4650mt Romulan Empire, is used to transport
 Cargo : .
-Cargo Units — 16SCU 16SCU j] passengers and act as a courier. Al
-Cargo Capacity — 900 mt g00mt though its exterior dimensions would
-Landing Capability — Yes . ,
+cargo_units_SCI : 16SCU 16SCU j] passengers and act as a courier. Al
+cargo_capacity_mt :900 mt g00mt though its exterior dimensions would
+landing_capability : — Yes . ,
 anding ©apany Yes °s make it seem to have a roomy interior,
-Equipment Data: .
-Control Computer Type — niM mane i} it really is very cramped because of its
-Transporters — large cargo bay. Its small crew and
+equipment_data = { } .
+control_computer_type : niM mane i} it really is very cramped because of its
+transporters : [ { } ] large cargo bay. Its small crew :and
 tandard 3- 1 1
 encores pees i] passenger quarters reportedly make
 Other Data: ; ; the ship unpopular with travelers and
 Passengers — 14 14 crews alike; when it is used as a courier,
-Engines And Power Data: i} the crew are said to often occupy the
+Eengines_power = { } i} the crew :are said to often occupy the
 Total Power Units Available — 8 10
 Movement Point Ratio — 3 13 unused staterooms. Named for an early
 warp Engine Type — BWA RWA2 explorer of Romulus, this craft per-
@@ -3301,30 +3295,30 @@ Y eS _
 an rea ENTIRE EE YY
 . Notes:
 E-5 (Little Nest) CLASS Vil REPAIR TENDER Known Sphere Of Operation: Em
-Construction Data: . .
-Model Numbers — Type 1 pire-wide use
-Date Entering Service — 2/04 Data Reliability: A
-Approx. Number Constructed — 250 . .
+construction_data = { }. .
+model_numbers: ' 'Type 1 pire-wide use
+date_entering_service: ' '— 2/04 Data Reliability: A
+approx_num_constructed = — 250 . .
 Major Data Source: Vessel in Star
-Hull Data: J .
+hull_data = { }J .
 Superstructure Points — 10 Fleet possession
 Damage Chart— B The E-5 repair tenders, which came
 Length 102m into service about Stardate 2/04, are
-Height — stom fleet service and support ships that ex-
-Weight — 46,100 mt tend war vessels’ time-on-station and
+size_height_m : stom fleet service and support ships that ex-
+weight_mt :_m : — 46,100 mt tend war vessels’ time-on-station and
 Cargo age . . .
-Cargo Units — 300 SCU that facilitate frontline repair during
-Landing Capability — None war. All Romulan fleets contain several
+cargo_units_SCI : 300 SCU that facilitate frontline repair during
+landing_capability : — None war. All Romulan fleets contain several
 of these useful vessels so that in-transit
 Equipment Daha: . . Se .
-Control Computer Type — RCC repairs are possible for individual ships.
+control_computer_type : RCC repairs are possible for individual ships.
 Tree e ied 9-pereon ; It is a common sight at all border out-
 Small cargo 2 posts that maintain an F-2 repair and
 Large cargo 2 . _
 construction facility.
 Other Data: 4 The E-5 uses its two retractable
 Shuttlecraft — 12 arms to position large components and
-Engines And Power Data: place them in their mountings. Once
+Eengines_power = { } place them in their mountings. Once
 pial Power Ynits Available ae placed, the components can be fitted
 Warp Engine Type— RWD-| properly by the small work pods listed
 umber — ‘ ; - 0.
@@ -3390,8 +3384,8 @@ constant military presence there.
 The Type 1 facility was introduced
 into service about Stardate 1/85. The
 F-2 (Nestar) CLASS REPAIR FACILITY Type 7, introduced about Stardate 2/02,
-Construction Data: carried a slightly larger crew comple-
-Model Numbers — Type 1 Type? ment, had increased passenger
+construction_data = { }carried a slightly larger crew :comple-
+model_numbers: ' 'Type 1 Type? ment, had increased passenger
 Aaron Nin lber Constructed — ee 202 facilities, and mounted more powerful
 Halt Bate: shielding systems. Although known as
 Superstructure Points — 4 6 a mobile repair facility, they are not cap-
@@ -3400,14 +3394,14 @@ Diameter — 780m 780m their own power. They have only cor-
 Weght— 127,000 mt 144.000 mt rectional navigation thrusters that allow
 Se Too Units 7 soo seu soo scu them to maintain whatever orbital pos-
 Storage Capacity — 10,000 mt 10,000 mt ition is necessary. Most actually have
-Equipment Data: een pai place, though some have
+equipment_data = { } een pai place, though some have
 Shaded @-pereor ; » ported to their present loca-
 Emergency 20-person 1 1 tions.
 Cargo ' Of the approximately 90 built, most
 Other Data: sea ye are still on station and functioning at
 Other Personnel — 150 220 normal capacity. An additional F-2 was
 Shuttiecran— 2 2 built in orbit around Freeman’s Port in
-Engines And Power Data: le i - the Triangle; operated by a private con-
+Eengines_power = { } le i - the Triangle; operated by a private con-
 Impulse Engine Type — RIPG-1 RIPG-1 cern, it takes advantage of that planet's
 Power Units Available — 16 16 port to draw customers.
 Weapons And Firing Data: None None The class is named from the Romu-
@@ -3454,14 +3448,14 @@ Ta 1 caret : ow Ley : taining base "Romulan auton resem
 ea es an me cause ofthis, a . with its many
 UU ceborn city, |
 ve bles a spa d high levels of traffic.
-. se the offic rs and crew of these out-
+. se the offic rs and crew :of these out-
 The office ire has to
 UTPOST Type7 posts are the best several eatiying lis-
 3 (Aviary) BORDER DEFENSE O Type 3 Me 2729 offer. They sand a4 mall detachment of
 
 X- y 2/ 4 ndas
 
-Construction Data: Type 1 30 26 tening Ho outposts bordering ‘ne
+construction_data = { }Type 1 30 26 tening Ho outposts bordering ‘ne
 Date Entering Service— cted— ed se 70 worships. the Neutral Zone suppo
 
 . ber Constru Triangle
@@ -3469,18 +3463,18 @@ Date Entering Service— cted— ed se 70 worships. the Neutral Zone suppo
 Approx. Num 41 C 0
 , 30 c 498 m ire fleets. first of 8
 
-Hull Data: e Points — Cc 498 m 208 m ent Stardate 1/8008, the . al at
+hull_data = { }e Points — Cc 498 m 208 m ent Stardate 1/8008, the . al at
 Superstructure P 498 m 208 m 170m On made operation
 Gamage Cha ane anem 17100.000mt ——*1.310,000mt such outposts was the arc of the Neu-
 
 ize 208m 152m 100,
 
-Width — 1 o00 mt 910,000 mt \ 600 SCU 8.2S 7.3E, encnoung ine it was capable
+size_width_m :1 o00 mt 910,000 mt \ 600 SCU 8.2S 7.3E, encnoung ine it was capable
 
 a 800, 600 SCU 30,000 mt From ’ nitor-
-Height — . SCU t ' ral Zone. ; and mo
+size_height_m : . SCU t ' ral Zone. ; and mo
 
-Weight— G00 SCU 30,000 mt 30,000m u gathering sonia wall pact the boun-
+weight_mt :_m :— G00 SCU 30,000 mt 30,000m u gathering sonia wall pact the boun-
 
 Storage t< —_ 30,000 m : ments w S
 
@@ -3490,7 +3484,7 @@ Storage Capacity 4 2 f the Zone itse ’ tates
 
 ries oO ial Klingon Sta
 
-Equipment Data: 4 2 ; None ‘hrounhout the Imperial Kling
+equipment_data = { } 4 2 ; None ‘hrounhout the Imperial Kling
 Transpo 2 i .
 
 @ Emergency BO poréon 2 None None inside the Triangle . of the Type 6
@@ -3501,7 +3495,7 @@ Cloaking Device Type vos 240 240 16 on Stardate 2 ee 9 12.6S 7.5E at the
 20 ,
 
 Other Data: 200 12 ° This eration, locate tip of the Triangle,
-Crew — j— 10 144 it] spinw -4 en-
+crew :— j— 10 144 it] spinw -4 en-
 Assigned Shuttlecraft— 14 eG. RMAPG-4 sensitive i by the new RMAPG in
 Assigne . 88 RMAPG 120 as powere increase |
 
@@ -3603,42 +3597,7 @@ time, all known combat, visual, and historical data on 40 different Romulan ship
 Also included is a chronology of service and silhouette recognition chart. This manual is a must for a
 all Star Trek enthusiasts. -
 Shown on the cover is a cutaway view of the Whitewind cruiser. |
-i-«& 4 .
-“2 . . - ,
-7 : - ms ~~ :
-y~ te | ——— =... s ~
-~~. Te ee > aa ete
-fi Sarr" - —
-uae > " me a F i ~~
-vl tal = Pam Xt ! ——e aS
-- oo a _ ol ¥ nt i, hy Se 5 “nig = _ =
-- z CT T el . See | = F- —< <
-7" ’ ; ; s Be 4 = — ~”_ —_
-La , ' / / f ~~ a i ~ ' —_ io > - ~~
-° ; SS / mee a ze “= = 7 > ae &
-} _— . - i ~/ , -—— . = | ly
-‘nahabia eat 1 / ] ay, > a = _— << ~ .
-_ “goonies — | ee ee
-| —— / . | ere
-——s  —
-: oaiae < i ‘ = yeX ——
-5m; > ~ ; _— of —————_, = —
-: : : > ~ | =x =
-. > a ao —_—_.
-« e - f A. “a - i
-jw* . L z S:8 “Se : oe af
-, ee Ng 5 N y “SS 2 ww ,
-- a nae = = ee; ~S ~ AN .~ =
-; > ae = —— 4 : ~ SS : x =O \ “ © ~ : = }
-. } ; ¥ fi a ss aah —— ' — a Te \ Ves i“
-mf _— Ref eet DO : |
-—  — ENS ae (ea Pains
-FE Ne ae P , “ , : :
-‘\ “¢ a , SS .
-3 “a if
-Wes — ~ 1 ) =
-” y ‘ = . x
-, 4
-‘ MOSPEADA 34057'02303
+
+ MOSPEADA 34057'02303
 ISBN 0-931787-43-2 FASA700
 
