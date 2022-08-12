@@ -40,6 +40,8 @@ Before the Dominion War, the Federation had about 3,500 Class 1 starships, but a
 
 ### Volume 3
 
+119th issue, 2377-2378, Scouts and Escorts
+
 
 ### Volume 4
 
