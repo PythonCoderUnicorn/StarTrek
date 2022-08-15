@@ -153,63 +153,16 @@ CS-2 (Graceful flyser) Class V Courier , type 6, 1/98, 70, 7, A, 164, 156, 31, 4
 CS-2 (Graceful flyser) Class V Courier , type 10, 2/5, 110, 8, A, 164, 156, 31, 46100, 24, 1200, yes, R3M, 1, 1, 118, 30, none, 3-, 2/1, RWD-2, 1, 18, O/Q, warp 7, warp 8, RID-3, 12, RB-8, 2, "1 f/p 1 f/s", N, 6, (1-4), (5-9), (10-13), RSE, 1/2, 8, 65.4, 8.2
 
 
+V-1 (Starglider) Class V Cruiser, type 1, 1/88, 70, 10, C, 60, 162, 40, 48700, 120, 6000, yes, R3M, 1,1,1, 135, 16, none, 20, 2/1, RWD-2, 1, 18, O/Q, warp 7, warp 8, RIB-1, 2, RB-2, 6, "1 p/a 4 fwd 1 s/a", K, 2, none, RSD, 1/1, 8, 40.3, 4.8 
+
+
+V-1 (Starglider) Class V Cruiser, type 2, 1/98, 40, 11, C, 60, 162, 40, 52000, 120, 6000, yes, 1,1,1, 135, 16, none, 23, 2/1, RWD-2, 1, 18, O/Q, warp 7, warp 8, RIB-3, 5,  RB-7, 6, "1 p/a 4 fwd 1 s/a", J, 4, (1-6), (7-10), NA, RSG, 1/1, 13, 50.7, 13.8
 
 
 
 
 
-
-
-V-1 (Starglider) Class V Cruiser AAR
-AN Li)
-Atodh
-fi - , | p——————__ | — ra
-V-1 (Starglider) CLASS V CRUISER Notes: |
-construction_data = { }Known Sphere Of Operation:
-model_numbers: ' 'Type 1 Type 2 Romulan interior
-approx_num_constructed = — 0 a0 Data Reliability: D ,
-hull_data = { }Major Data Source: Project Grey
-Superstructure Points — 10 11 Ghost
-Damage Chart— ° © Soon after its introduction into
-Length — om oe exploratory service, the V-17 vessels
-size_height_m : 40m 40m were found to be unsuitable for their
-canoe 48,700 mt p2,000m mission. The cramped quarters and
-cargo_units_SCI : 120SCU 120 SCU work areas would not permit extensive
-cargo_capacity_mt :6000 mt 6,000 mt ;
-landing_capability :— Yes Yes onboard research and testing, which
-equipment_data = { } meant that the ships were compelled
-control_computer_type : R3M R3M to land on most worlds to carry out their
-Standard 9-person 1 1 studies. Not only were such atmos-
-Snel ; ; pheric operations difficult, but the expo-
-Other Data: sure of the entire ship to unknown envi-
-Crew— 135 135 ronments put them in constant danger.
-Shatieoratt— None None These risks were unacceptable to the
-Eengines_power = { } Romulan High Command, so the class
-total_power_units — 20 23 was reassigned as cruisers to supple-
-Wore cnaetypen RWD-2 RWO-2 ment the fleets. It evidently saw no
-Number | ' greater success in this role, for it was
-power_units_available — 18 18 ; -
-stress_charts — o/a oa removed from active service about
-nase Warpe Wares Stardate 2/0806. The Type 2 mounted
-impulse_engine_type— RIB-1 RIB-3 better, bank-mounted weaponry and a
-power_units_available = ; ° more powerful impulse drive.
-Weapons oT en RR.2 RB-7 Of the approximately 100 built, half
-Number — 6 6 are assigned to reserve fleets. Eighteen
-firing_arcs— 1p/a,4fwd,1s/a 1 p/a, 4fwd,1s/a é'
-firing_chart — K J have been sold to the civil sector, where
-Sermaaa Mouifiere— Sone 4 they are used as private research ves- -
-+2 (1 — 6) sels; two operate exclusively within the
-- a Triangle.
-Sens ata eld Type— asp _ The class is named for Vadaso
-~ Shield Point Ratio— 11 11 Stelri (glider in the stars), an asteroid
-max_shields_power — 8 "8 in the Romulan home system. Ancient
-: combat_efficiency: WOR, 3 ae legend is reported to state that this
-_ . . glider was a returning message from
-the gods, directing the Romulans to fol-
-ae low it on its road through the stars.
-8 Cruisers
-
-OAK V-2 (Hunter) Class VII Cruiser AAR
+V-2 (Hunter) Class VII Cruiser 
 Ai) Ai)\
 .. ——<— aie > Nt
 ; a Chasen Oo ‘en a
