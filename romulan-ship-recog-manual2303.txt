@@ -160,78 +160,15 @@ V-1 (Starglider) Class V Cruiser, type 2, 1/98, 40, 11, C, 60, 162, 40, 52000, 1
 
 
 
+V-2 (Hunter) Class VII Cruiser , type 2, 1/91, 40, 14, C, 150, 118, 40, 88600, 240, 12000, none, R4M, 3,2,1, none, 220, 2, 35, 3/1, RWD-1, 2, 16, O/O, warp 6, warp 7, RB-2, 3, RB-4, 6, "2 f/p 2 f/s 2 aft", J, 6, (1-2), (3-6), (7-10), none, NA, NA, NA, NA, NA,RSG, 1/1, 12, 54, 12.8
 
 
-V-2 (Hunter) Class VII Cruiser 
-Ai) Ai)\
-.. ——<— aie > Nt
-; a Chasen Oo ‘en a
-is a (ait ie .
-eaeemaeen i WS RERERE ont .
-— SX
-ae
-Notes:
-Known Sphere Of Operation:
-Romulan interior
-V-2 (Hunter) CLASS Vil CRUISER So
-C ( D Data Reliability: F
-onstruction Data: . ; .
-model_numbers: ' 'Type 2 Type 5 Major Data Source: Project Grey
-date_entering_service: ' '— 1/91 2/00 Ghost data acquisition
-approx_num_constructed = — 40 30 .
-Hull Dat The V-2 Class, first encountered by
-ata: , P .
-" superstructure_points : 14 Project Grey Ghost, is believed to have
-Sumage Chart — C c been built for research missions, much
-Length — 150m 153m like the Federation research cruisers
-size_height_m : 40m hon are. Reportedly, spacious laboratory
-- weight_mt :_m : — 88,600 mt 88,700 mt facilities and shuttlebays for cargo stor-
-argo . . . .
-cargo_units_SCI : 240 SCU 125 SCU age make this ship an oddity in the
-Landing copeptin— Nees Room Romulan navy. Several recent combat
-equipment_data = { } encounters with the Klingons and
-control_computer_type : R4M R4M forces to the coreward have proved the
-transporters : [ { } ] :
-Standard 9-person 3 3 vessel to be undergunned and unsuita-
-Emergency 20-person 2 2 ble for combat.
-Cargo 1 1
-Cloaking Device Type — None None Several attempts were made to up-
-Other Data: gun the ship, with the last being the
-crew :f 220 a8 introduction of the Type 5, approxi-
-ultiecranm — F ° e .
-cnaines And P D mately Stardate 2/00. This version is re-
-ngines An ower Vata:
-total_power_units — 35 37 ported to carry a small plasma weapon
-Movement Point Ratio— 3/1 3/1 and improved impulse drive system.
-warp_engine_type RWD-1 RWD-1 .
-Number — 2 2 Even so, the V-2 did not prove popular,
-power_units_available — 16 16 .
-stress_charts — 0/0 0/0 and has been replaced by the V-5 and
-max_cruising_speed — Warp6 Warp6 V-6 cruisers.
-Eme Speed — Warp 7 Warp7 ;
-Impulse Engine Type_— RIB.2 RIB.3 Of the approximately 70 Hunters
-power_units_available — 3 built, about half are reported to be in
-Weapons And Firing Data: reserve fleets and about 20 are repor-
-beam_weapon_type — RB-4 RB-4 . ;
-Number — 6 6 tedly working as research vessels for
-firing_chart atip. 21's, 2aft 2p. 24s. 2am private firms. This vessel has not yet
-max_power— 6 6 been scanned at close range, and plans
-damage_mod_ — 4) 4-9) given are highly speculative.
-2 2 ) 3 i The ship is named from the Romu-
-Plasma Weapon Type — None RPL-1 lan hathos (hunter), likely in reference
-| Number to its mission in the Exploration Divi-
-iring Arcs — fwd :
-firing_chart — E sion.
-Power To Arm — 10
-Damage — See Chart
-Shields Data:
-deflector_shield_type— RSG RSJ
-shield_point_ratio11 11
-max_shields_power — 12 14
-combat_efficiency: D- 54.0 59.5
-WOF- 12.8 23.1 Emme
-eee B
-Cruisers 9
+V-2 (Hunter) Class VII Cruiser , type 5, 2/00, 30, 14, C, 153, 118, 40, 88700, 125, 6250, none, R4M, 3,2,1,none, 225, 2, 37,3/1, RWD-1, 2, 2, 16, O/O, warp 6, warp 7, RIB-3, 5, RB-4, 6, "2 f/p 2 f/s 2 aft", J, 6, (1-2), (3-6), (7-10), RPL-1, 1, fwd, E, 10, NA, RSJ, 1/1, 14, 59.5, 23.1
+
+
+
+
+
 
 £it V-Y (Wing Of Vengance) Class VI Cruiser fAR
 AN
