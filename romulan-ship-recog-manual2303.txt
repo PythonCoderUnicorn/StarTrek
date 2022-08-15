@@ -139,153 +139,41 @@ name, model_numbers, date_entering_service, approx_num_constructed, superstructu
 M-4 (Wings Of Justice) Class IX Troop Transport, Type 1 , 2/08 , 150, 14, 'B' , 270, 180, 50, 126600 ,6000 ,300000 ,false ,'R4M', 8, 8, 4, 84, 1800 , 'none', 40 , 4/1, 7/1, RWF-1, 2 ,18, GL, warp 7, warp 4, warp 9, warp 6, RID-1 , 4, RB-7a, 2, '1 port', M, 4, "(1-2)", "(4-9)",  "(10. 14)", RSE, '1/2', 5, 56.0, 6.0
 
 
-
 M-8 (Nightwing) Class VIII Assault Ship AR ,  Type 1, 2/14, 100, 12, B, 260, 172, 72, 103.5, 2000, 100000, none, R4M, 3,5,3,none, 62, 700, 4, 38,3/1,4/1,RWE-1, 2, 13, IL, warp 7, warp 6, warp 8 , warp 7, RID-3, 12, RB-7a, 2, 1 port, M, 4, "(1-3)", "(4-9)", "(10-14)", RSH, 1/2, 8, 63.2, 6.0
 
 
+Z-1 (Nova) CLASS XIII BATTLESHIP , type 1, 2/21, 2, 35, C, 400, 240, 80, 212000, 400, 20000, none, R6M, 6, 6, 2, none, 550, 15,  76, 5/1, RWG-1, 2, 24, GL, warp 6, warp 8, RIF-3, 28, RB-11, 10, "2 p/f, 2 fwd, 2f/s, 2 s/a, 2 a/p", V, 9, "(1-10)", "(11-16)", "(17-21)", RP-3, 6, "1 port 2 fwd, 1 stbd, 2 aft", Q, 1, 10, RSO, 1/3, 15, 103, 112
 
 
 
 
 
 
-Z-1 (Nova) CLASS XIill BATTLESHIP 
 
-construction_data = { }ire |
-model_numbers: ' 'Type 1 pire interior ; .
-date_entering_service: ' '— 2/21 Data Reliability: E
-Rptd. Number Constructed — 2 Mai ; ; .
-ajor Data Source: Project Grey
-cee cesarean Pon se Ghost data acquisition
-damage_chart : e Z-1 is the largest, most power-
-C The Z-7 is the largest tp
-Si .
-Length 400m ful, and newest ship to enter Romulan
-Wath oaom Naval service, and the Navy’s first
-eight — m . .
-weight_mt :_m : — 212,000 mt battleship to be commissioned. This
-09196 wrgo Units — 400SCU vessel is reported to incorporate all of
-; cargo_capacity_mt :20,000 mt the most-modern technology available
-anaing Capability — one , ; ‘ .
-ing eepawy to the Star Empire, making it a formid-
-equipment_data = { }
-control_computer_type : R6M able foe. a
-transporters : [ { } ] . Commissioned into the home fleet
-andard 9-person . .
-Emergency 20-person 6 on Stardate 2/2111, according to moni-
-Cloakin Device Type— None tored transmissions, this ship has never
-Other Data: been sent into a frontline area. The Z-17
-crew :— 550 is thought to mount ten of the most
-Shuttiecraft— 1S powerful disruptors available and six
-Eengines_power = { } 06 photon torpedo bays, capable of laying
-Otal rower Units Avaliadbie— . 7 . 2
-movement_point_ratio5/1 down a withering barrage in all direc-
-Warp Engine Type— nwor tions. It is expected to change the bal-
-power_units_available — 24 ance of power when it is brought to the
-stress_charts — G'L .
-max_cruising_speed — Warp6 borders. Reportedly, four of these ships
-Impulse Eroine Troe Mehl are nearing completion, and reported
-power_units_available — 28 production quotas of four per year are
-Weapons And Firing Data: not encouraging.
-beam_weapon_type— See onks of The class is named from the Romu-
-firing_arcs— 2 pif, 2fwd, 2's, lan morlasasi steJam (exploding star).
-2sa,2,ap
-firing_chart — V
-max_power— 9
-damage_mod_ —
-+3 (1 — 10)
-+2 (11 — 16)
-+4 (17 — 21)
-Missile Weapon Type— RP-3
-Number — 6
-firing_arcs— 1 port, 2 fwd,
-1 stbd, 2 aft
-firing_chart — Q
-Power ToArm — 1
-Damage — 10
-. - : ;' wr —
-Shields Data: a ema tans ior a
-deflector_shield_type— RSO as i ae, eS ceey: -
-shield_point_ratio— . 13 =, LEA sappy
-max_shields_power 15
-combat_efficiency: D- 103.0 hh a
-WDF- 112.0
-6 Battleships
 
-) K pn
-Ai\
-" ae queen,
-_ “a PP mr nrc pmaitiliinieeaet — if | -
-SS Ar “= < a rcs?”
-pe Pea iis om 3 5 ofa SU aUSETRT CAT DPEEP PTE | OSS
-' b rcsscrmimiiet sis aritersiviessd eee timttitcmeeietdy “= ~ peo = = sianeraonlie ™
-Notes:
-Known Sphere Of Operation: Em-
-) - ul Flyer) CLASS V COURIER | |
-CS-2 (Gracet yer) pire-wide use
-construction_data = { }; 7 So
-model_numbers: ' 'Type 2 Type 6 ape 10 Data Reliability: A
-date_entering_service: ' '— sed we ies 110 Major Data Source: Type 10 vessel
-structed — a .
-eee Mamwereon is in Star Fleet possession; captured
-Hull Data:
-Superstructure Points — 7 ‘ A Romulan data | |
-Seg 170 Cnent— “ The ships in this class were used
-“Length — eo jean a for long-range courier missions for
-Height—- 30m. 31m 31m many years. Carrying light armament,
-weight_mt :_m : — 42,100 1m F900 fetoornt they were used extensively along the
-Cargo Units— 2g 8CU eu sooo Federation borders and in the Triangle.
-ai Yes Yes Yes Because they can sustain Warp 7
-landing_capability : — ms 2S
-Dat speeds, they have been used as VIP
-equipment_data = { }
-q control_computer_type : R2M R3M RSM transport throughout the Star Empire.
-vee ndend® person 1 1 About Stardate 1/8608, the CS-2
-Emergency 20-person ! Type 2 was introduced into service to
-Other Data: vie nie ie replace the Type 1; though quite suita-
-Passens 30 30 ble for its role, its weapon systems were
-Passengers — 30 an None .
-Shuttlecraft— None light, a trend that continued until the
-engines And Power Date: 20 a a0 introduction of the Type 6 about Star-
-Movement Point Rate 2/1 2/1 2/1 date 1/9804. This newer model carried
-i" — . on
-warp_engine_type awn soe ; an upgraded beam weapon. and
-Number — : a .
-power_units_available — No So So mounted a more eS oan engine:
-stress_charts — — 2 throu
-max_cruising_speed — Warp 7 Warp? warp? existing vessels of Types g
-emerg_speed_unloaded— mae. Rog” RID3 were not refitted, but were relegated to
-Impulse Engine Type— “3 4 ; a
-power_units_available — 5 ) 12 duties wenn ne empire yes <
-iri through 9 showed cosmetic changes
-Weapons And Firing Data:
-beam_weapon_type — Be a Bee the Type 6, but about Stardate 2/0510,
-firing_arcs— 1fip,1fis If's, 1fip NP It's the Type 10 was introduced with new-
-Mantra Pov > 4 6 style shields and more _ powerful
-max_power— 2 : V Is in this
-damage_mod_ - None a4) weapons and engines. Vessels |
-fe - 1 6) (5 ~ 9) class were put into the reserve fleets
-- (7 — 10) (10 — 13)
-| about Stardate 2/14.
-Shields Data: RSD RSD RSE Of the approximately 300 built,
-po Snield Point Rate — 11 11 1.2 about 150 currently serve in the reserve
-max_shields_power — ® ° ° fleet. It is known that at least 90 have
-| combat_efficiency: = _D- 760 on 5 been sold to the private sector; one
-wor | f T Type 7, and one Type 10
-ype 5, one Type 7, € typ
-operate exclusively in the Triangle.
-Named for the verelan vastarum
-(graceful flyer), a Romulan bird known
-SS a0 for its ability to glide gracefully for
-Crccibeeeeurciagumetaengeantn ey Pais Rs hours at a time, these ships are com-
-emt age — mon along the borders of the Star Em-
-Se Lame Cavan ire, though they normally are not in-
-Ly TEN cA te "Sager P aan a
-EE ee volved in military missions.
-Sioa eeeseeeseneseseneeseesesenensemnneenemenmmemannnammmmammnnnaenanenneeeee  ——$—$——
-Couriers 7
 
-OAK V-1 (Starglider) Class V Cruiser AAR
+
+
+
+
+
+
+
+
+CS-2 (Graceful flyser) Class V Courier , 
+
+
+
+
+
+
+
+
+
+
+
+
+V-1 (Starglider) Class V Cruiser AAR
 AN Li)
 Atodh
 fi - , | p——————__ | — ra
