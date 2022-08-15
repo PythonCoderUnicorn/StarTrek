@@ -166,172 +166,29 @@ V-2 (Hunter) Class VII Cruiser , type 2, 1/91, 40, 14, C, 150, 118, 40, 88600, 2
 V-2 (Hunter) Class VII Cruiser , type 5, 2/00, 30, 14, C, 153, 118, 40, 88700, 125, 6250, none, R4M, 3,2,1,none, 225, 2, 37,3/1, RWD-1, 2, 2, 16, O/O, warp 6, warp 7, RIB-3, 5, RB-4, 6, "2 f/p 2 f/s 2 aft", J, 6, (1-2), (3-6), (7-10), RPL-1, 1, fwd, E, 10, NA, RSJ, 1/1, 14, 59.5, 23.1
 
 
+V-4 (Wing Of Vengance) CLASS VI CRUISER , Type 1, 1/90, 80, 12, C, 85, 195, 60, 65600, 80, 4000, none, R4M, 2,2,1, 160, 2, 32, 3/1, RWC-2, 2, 15, N/Q, warp 6, warp 7, RIB-1, 2, RB-4, 6, "2 p/s 2 fwd 2 s/a", J, 6, (1-2), (3-6), (7-10), RSG, 1/1, 13. 50.7, 19.2
+
+V-4 (Wing Of Vengance) CLASS VI CRUISER , type 2, 1/94. 60, 13, C, 85, 195, 60, 66800, 80, 4000, none, R4M, 2,2,1, 160, 2, 35, 3/1, RWC-2, 2, 15, N/Q, warp 6, warp 7, RIB-3, 5, RB-8, 6, "2 p/a 2 fwd 2 s/a", N, 6, (1-4), (5-9), (10-13), RSJ, 1/1, 14, 55.1, 24.6
 
 
 
 
-£it V-Y (Wing Of Vengance) Class VI Cruiser fAR
-AN
-ae) = (aw
-cr ye ; mn | IS, :
-Se ; LE“ ay | u rrr, Pas uw ce enas = >
-aC a ME Lik i | MT VOOR LA cot CER me —
-So Suh Se eee Oh - | eS. ae KE y = SS
-‘S =i / 4 /, | Vi gi a\\ CN Oe | . W o St
-SS - hk —7/ UE \ ne ENO > IK — |
-S 2 eet —— 4
-l —\ | ¢
-hotu md i \ F pi
-; Notes:
-V-4 (Wing Of Vengance) CLASS VI CRUISER . So ,
-Known Sphere Of Operation: Empire interior.
-construction_data = { }ee
-model_numbers: ' 'Type! Type 2 Data Reliability: D ;
-date_entering_service: ' '— 1/30 1/94 Major Data Source: Klingon sector intelligence
-approx_num_constructed = — 80 60 ;
-WD The V-4 class has, by far, the most unusual design
-Hu Sumorstructure Points — 12 13 to come from Romulan engineers; fashioned like a
-gomage Chart— C C giant wing, it was created not only for aesthetics but
-~ Length- 85m 85m for combat. When the vessels were first introduced,
-Width 195m 195m . :
-size_height_m : 60 m 60m they were intended to lead an expansion effort, but
-- weight_mt :_m : — 65,600 mt 66,800 mt the war between the Klingons and Federation caused
-“cargo_units_SCI : 80 SCU 80SCU them to be sent to patrol the Klingon border. The Type
-Seige hell any — 4000 mt 4000 mt 2 mounted a more powerful impulse drive system and
-landing_capability : — None None . . . ‘
-improved disruptors, which accounted for its greater
-equipment_data = { } _
-control_computer_type : R4M R4M combat_efficiency.
-Te aaa person ; , The V-4s were painted by crewmembers in a vari-
-Emergency 20-person 2 2 ety of patterns. These ships, though popular with their
-é 1 1 ° ,
-aia crews, were removed from service sometime after
-Other Data: .
-crew :— 160 160 Stardate 2/16 for more powerful designs. Of the ap-
-Shuttlecraft — 2 2 proximately 135 built, about 65 are in reserve fleets.
-Eengines_power = { } Six are reported to be used as training vessels, and
-total_power_units — 32 35
-movement_point_ratio31 ry two are used as spaceborn | museums, one each
-Warp Engine Type— RWC-2 RWC-2 stationed at Remus and at Corill. Eighteen are known
-umber 2 ° . . 8
-power_units_available — 15 15 to be operating in the civil sector.
-stress_charts — NO N-Q / j
-Manimum Sefe Cruising Speed— a Warpé On Stardate 1/9611, nine of these vessels are
-emerg_speed_unloaded— Warp 7 Warp? known to have been sent into the Triangle to liberate
-impulse_engine_typeie — nie nibs a small system from the Klingons. The Romulans pres-
-Weapons And Firing Data: sed the attack against the three D-7s protecting the
-beam_weapon_type — RB-4 RB-8 . . . -
-Number — 6 6 system, immediately destroying two and driving the
-ririne Chert- 4 Pla, 2IWG, 28'8 2 pia, 2 fwd, 28/8 other away. Flushed with victory, the Romulan com-
-max_power— 6 5 mander sent five of his group after the fleeing enemy,
-) ) fiers — ° .
-Damage Moditiers 4-2) 4-4) but they encountered nine D-7s and three D-10s arriv-
-' . . . ° a
-< 5 Oy lay ing to reinforce the area. The Romulans flew into a
-Shields Dat } classic trap laid by the Klingon battlegroup, and three
-elias Vata: .
-“deflector_shield_type_ RSG RSJ were destroyed before getting off one shot. The re-
-Shield Point Ratio— 11 11 ri : ;
-ssevienuen Ghieid Power— 13 yA maining Romulans miraculously crippled four of the
-- Klingon vessels before one was crippled itself and the
-combat_efficiency: D- 50.7 55.1 a | fled. The Kli band d th
-WOF- 19.2 246 remaining vessel fled. The Klingons abandone e
-effort and withdrew from the area.
-oe o_ This battle caused a stir in the Klingon High Com-
-MVM.) mand, as the ship had never before been encountered.
-SBS Se Because the stories told of its abilities were inflated to
-eee make the Klingon fleet commander look good, the V-4s
-SS ne enjoyed an undeserved notoriety amongst the Kling-
-; aye ons for many years.
-WS } The class is named from the Romulan vastam
-Jy cl’vangas (wing of vengeance), in reference to the ves-
-sel’s combat capabilities.
-—
-Rhy = .
-10 Cruisers
 
-~ B: . . aA
-fAK V-5 (Skyfire) Class VII/VII Cruiser si%
-Ai\ Li)\
-i
-ME pe f \WUWA Y
-at we ) : $ 9 a 7
-e ~ o —— | Ty i q or A} ae os Pe =
-- ee, fe | a | Z a
-Ca \ \ 1 y y L} own NC)
-NU PU A
-“ } ae ih
-S JVM
-Notes:
-V-5 (Skyfire) CLASS VII/VIIl CRUISER Known Sphere Of Operation:
-construction_data = { }Romulan interior
-ShioClaas ype! vype 2 Data Reliability: D
-date_entering_service: ' '— 1/96 2/00 Major Data Source: Project Grey
-approx_num_constructed = — 40 40 Ghost: Klingon Sector Intelligence
-hull_data = { }- ht
-Superstructure Points — 17 18 The V-5 Class, apparently broug
-Demege Chart B B | into service to supplement the V-2
-ee Length — 160m 160 m Class, combines the need for a military
-Hotght— 233m eam vessel with that of a research vessel.
-weight_mt :_m : — 93,500 mt 114,300 mt Though it reportedly is quite capable
-Cargo . . 93
-Cargo Units 170SCU 190 SCU for combat roles in which the V-2 ts a
-cargo_capacity_mt :e008 mt B00 mt failure, it fills its research roles less well.
-.Anainc apability e °
-E i y one one The Type 1 mounted an impressive
-quipment Data: . .
-control_computer_type : R4M R4M array of disruptors with very good fields
-en ctandard9-person 3 3 of fire. The Type 2, introduced about
-Emergency 20-person 2 2 Stardate 2/00, saw the removal of the
-Cargo 1 1 . . :
-Cloaking Device Type RCC RCC forward firing disruptors in favor of a
-Power Requirement — 15 15 bow-mounted plasma weapon, but this
-Other Data: version did not prove to be as combat-
-Shuttlecraft ee 5/0 efficient as the earlier model and has
-Eengines_power = { } not been reported in any great num-
-total_power_units — 35 38 bers.
-movement_point_ratio3/1 3/1 ; j
-warp_engine_type RWD-1 RWE-1 Of the approximately 80 built,
-Number Avavlab ° ‘3 about 50 are assigned to reserve fleets.
-ower Units Available 6 : -
-stress_charts — 0/0 7 Several are used as training vessels,
-max_cruising_speed — Warp6 Warp7 : j S
-emerg_speed_unloadedWarp 7 Warp8 and eight are reported to be in use a
-impulse_engine_type— RIB-2 RID-3 private research vessels or cruisers.
-. power_units_available — 3 V2 The class is named from the Romu-
-Weapons And Firing Data: - i
-beam_weapon_type — RB-5 RB-5 lan ralaaram ocala (fire from the sky),
-Number — 4 4 in reference to its military capabilities.
-firing_arcs- 2pa,2sa 2pa,2sa
-firing_chart V V
-max_power— 5 5
-damage_mod_ —
-+3 (1 10) (1 — 10)
-+2 (11 16) (11 16)
-+] (17 — 21) (17 — 21)
-beam_weapon_type — RB-6
-Number 2
-‘ firing_arcs— fwd
-firing_chart T
-max_power— 6
-damage_mod_ — +2 (1 — 18)
-Missile Weapon Type None RPL-1
-Number 1 SS
-‘ firing_arcsfwd WT — ae —
-firing_chart — E mf ae ie.
-Power ToArm 10
-Damage — See Chart — vs
-ees — "
-Shields Data: tens
-deflector_shield_type— RSJ RSJ = -
-Shield Point Ratio— 11 a ey
-max_shields_power 14
-combat_efficiency: D- 61.3 61.7
-WDF- 43.8 28.4
-Cruisers 11
 
-* + ; H a N
-OAK: V-6 (Gallant Wing) Class X/XII Cruiser OAR
+
+
+V-5 (Skyfire) Class VII/VII Cruiser , type 2 ,
+
+
+
+
+
+
+
+
+
+
+V-6 (Gallant Wing) Class X/XII Cruiser OAR
 Ai LN
 mers
 i ii . ee .
