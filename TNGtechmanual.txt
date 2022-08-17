@@ -119,3 +119,10 @@ Picard, Jean Luc (personal quarters) = deck 8
 Riker, Will (personal quarters) = deck 8
 Troi, Deanna = deck 8
 Worf = deck 5
+
+
+
+PRIMARY HULL (Saucer Section) = Decks 1 to 16 
+
+SECONDARY HULL  = Decks 8 to 42
+
