@@ -1,5 +1,19 @@
 
 
-speed, mph, number_times_speedOflight, time2travel_earth_moon_miles, time2travel_acrossSolarSystem_miles,  time2travel_bewteenTwoNearbyStars_lightyrs, time2travel_acrossOneSector_lightyrs, time2travel_acrossFederation_lightyrs, time2travel_acrossEntireGalaxy_lightyrs, time2travel_NearbyGalaxy_lightyrs
-standard orbit, 6000, 0.00001 sublight, 42 hrs, 142 yrs, 558335 yrs, 2e6, 1.12e9, 11.17e9, 223.33e9
- 
+speed, mph, number_times_speedOflight, time2travel_earth_moon, time2travel_acrossSolarSystem,  time2travel_bewteenTwoNearbyStars, time2travel_acrossOneSector, time2travel_acrossFederation, time2travel_acrossEntireGalaxy, time2travel_NearbyGalaxy
+standard orbit, 6000, 0.00001 sublight, 42 hrs, 142 yrs, 558335 yrs, 2e6 yrs, 1.12e9, 11.17e9, 223.33e9
+full impulse (1/4 lightspeed), 167e6, 0.25 sublight, 5.38 seconds, 44 hrs, 20 yrs, 80 yrs, 40e3 yrs, 400e3 ys, 5e6 yrs 
+warp factor 1, 670e6, 1, 1.34 seconds, 11 hrs, 5 yrs, 20 yrs, 10e3 yrs, 100e3 yrs, 2e6 yrs
+warp factor 2, 7e9, 10, 0.13 seconds, 1 hr, 6 months, 3 yrs, 992 yrs, 9921 yrs, 198425 yrs
+warp factor 3, 26e9, 39, 0.03 seconds, 17 minutes, 2 months, 1 yr, 257 yrs, 2568 yrs, 51360 yrs
+warp factor 4, 68e9, 102, 0.0132337 seconds, 7 minutes, 18 days, 2 months, 98 yrs, 984 yrs, 19686 yrs
+warp factor 5, 143e9, 214, 0.00629170 seconds, 3 minutes, 9 days, 1 month, 47 yrs, 468 yrs, 9357 yrs
+warp factor 6, 263e9, 392, 0.00342634 seconds, 2 minutes, 5 days, 19 days, 25 yrs, 255 yrs, 5096 yrs
+warp factor 7, 439e9, 656, 0.00204963 seconds, 1 minute, 3 days, 11 days, 15 yrs, 152 yrs, 3048 yrs
+warp factor 8, 686e9, 1024, 0.00131331 seconds, 39 seconds, 2 days, 7 days, 10 yrs, 98 yrs, 1953 yrs
+warp factor 9, 1.02e12, 1516, 0.00088 seconds, 26 seconds, 1 day, 5 days, 7 yrs, 66 yrs, 1319 yrs 
+warp factor 9.2, 1.10e12, 1649, 0.00081 seconds, 24 seconds, 27 hrs, 4 days, 6 yrs, 61 yrs, 1213 yrs 
+warp factor 9.6, 1.28e12, 1909, 0.0007 seconds, 21 seconds, 23 hrs, 4 days, 5 yrs, 52 yrs, 1048 yrs 
+warp factor 9.9, 2.04e12, 3053, 0.0004 seconds, 13 seconds, 14 hrs, 2 days, 3 yrs, 33 yrs, 655 yrs
+warp factor 9.99, 5.30e12, 7912, 0.00016 seconds, 5 seconds, 6 hrs, 22 hrs, 1 yr, 13 yrs, 253 yrs 
+warp factor 9.9999, 1.34e12, 199516, 0.000006 seconds, 0.20 seconds,13 minutes, 53 minutes,  18 days, 6 months, 10 yrs 
