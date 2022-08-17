@@ -72,3 +72,50 @@ SECTION 4 - CELESTIAL BESTIARY
 
 
 
+
+
+
+
+
+
+
+
+SECTION 1 
+
+USS Enterprise is the 5th starship with same name, a Galaxy Class vessel, largest and most powerful in Starfleet.
+
+built at Starfleet Utopia Planeitia Yards, Mars 
+NCC-1701D
+not designed to land on a planet 
+length is 2102 feet 
+weight is 5 million metric tons 
+hull structure is fabricated from tritanium/ duranium alloys 
+capacity for 1012 people 
+duration without refuelling is 3 years 
+mission: research & diplomacy 
+
+
+Bridge, battle = deck 8
+Bridge, main = deck 1 
+Brig = deck 38
+Cargo Bays = decks 4, 38, 39
+Docking Port (dorsal) = deck 25
+Engineering, main = deck 36
+Gymnasium = deck 11
+Observation lounge = deck 1
+Ready Room = deck 1 
+Shuttlebay, main = deck 4
+Shuttlebay 2,3 = deck 13
+Sickbay = deck 12
+Ten-forward = deck 10
+Transporter rooms 1-4 = deck 6
+Transporter rooms 5-6 = deck 14
+
+
+Crusher, Beverly (personal quarters) = deck 7
+Crusher, Wesley = deck 5
+LaForge, Geordi (personal quarters) = deck 4
+Picard, Jean Luc (personal quarters) = deck 8
+Riker, Will (personal quarters) = deck 8
+Troi, Deanna = deck 8
+Worf = deck 5
