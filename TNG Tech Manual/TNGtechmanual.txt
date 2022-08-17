@@ -220,3 +220,13 @@ speed
 
 MAIN BRIDGE 
 
+Command area = main bridge 
+Conn & Ops = 2 foroward stations, ship flight & operations 
+Tactical = weaponry, defense and internal security 
+Aft station = special purpose consoles (Science, Mission Ops, Environment & Engineering)
+
+
+
+
+TRANSPORTER 
+
