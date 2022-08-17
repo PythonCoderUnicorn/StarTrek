@@ -126,3 +126,44 @@ PRIMARY HULL (Saucer Section) = Decks 1 to 16
 
 SECONDARY HULL  = Decks 8 to 42
 
+
+
+
+
+
+
+WARP DRIVE 
+
+Warp engines use antimatter as fuel 
+
+warp speed 
+    warp factor 1 speed of light 
+    warp factor 6 is normal cruising speed (392 times the speed of light)
+    warp factor 9.6 (1,909 times the speed of light)
+    warp factor 9.9 (only for a few minutes)
+    warp 10 is unattainable for all ships in the galaxy 
+
+    [warp 9.9 is 50% faster than warp 9.5]
+
+dilithium crystals
+    matter/antimatter reactor has dilithium chamber component, this chamber is set to the harmonics of the antimatter reaction 
+
+    dilithium chamber enables the warp coils in the engines to generate the subspace field which makes warp speed possible
+
+power 
+    matter/antimatter reactor inside the warp drive system 
+    deuterium plasma (hydrogen) is joined together with anitmatter 
+
+antimatter
+    electrical charge & spin is opposite to 'normal' matter 
+    matter + anitmatter = energy { E = mc^2 }
+    antimatter fuel is extremely volitile , store in special magnetic container pods 
+
+subspace 
+    when travelling at warp speed, the ship is suspended in a 'bubble' of subspace 
+    which allows ship to travel faster than light 
+
+refuelling
+    supply of antimatter and deuterium for 3 years 
+    refuelling happens at a starbase 
+    antimatter pods can be loaded through Cargo bays {dangerous}
