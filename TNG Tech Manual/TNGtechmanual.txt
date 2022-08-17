@@ -136,34 +136,87 @@ WARP DRIVE
 
 Warp engines use antimatter as fuel 
 
-warp speed 
-    warp factor 1 speed of light 
-    warp factor 6 is normal cruising speed (392 times the speed of light)
-    warp factor 9.6 (1,909 times the speed of light)
-    warp factor 9.9 (only for a few minutes)
-    warp 10 is unattainable for all ships in the galaxy 
+    warp speed 
+        warp factor 1 speed of light 
+        warp factor 6 is normal cruising speed (392 times the speed of light)
+        warp factor 9.6 (1,909 times the speed of light)
+        warp factor 9.9 (only for a few minutes)
+        warp 10 is unattainable for all ships in the galaxy 
 
-    [warp 9.9 is 50% faster than warp 9.5]
+        [warp 9.9 is 50% faster than warp 9.5]
 
-dilithium crystals
-    matter/antimatter reactor has dilithium chamber component, this chamber is set to the harmonics of the antimatter reaction 
+    dilithium crystals
+        matter/antimatter reactor has dilithium chamber component, this chamber is set to the harmonics of the antimatter reaction 
 
-    dilithium chamber enables the warp coils in the engines to generate the subspace field which makes warp speed possible
+        dilithium chamber enables the warp coils in the engines to generate the subspace field which makes warp speed possible
 
-power 
-    matter/antimatter reactor inside the warp drive system 
-    deuterium plasma (hydrogen) is joined together with anitmatter 
+    power 
+        matter/antimatter reactor inside the warp drive system 
+        deuterium plasma (hydrogen) is joined together with anitmatter 
 
-antimatter
-    electrical charge & spin is opposite to 'normal' matter 
-    matter + anitmatter = energy { E = mc^2 }
-    antimatter fuel is extremely volitile , store in special magnetic container pods 
+    antimatter
+        electrical charge & spin is opposite to 'normal' matter 
+        matter + anitmatter = energy { E = mc^2 }
+        antimatter fuel is extremely volitile , store in special magnetic container pods 
 
-subspace 
-    when travelling at warp speed, the ship is suspended in a 'bubble' of subspace 
-    which allows ship to travel faster than light 
+    subspace 
+        when travelling at warp speed, the ship is suspended in a 'bubble' of subspace 
+        which allows ship to travel faster than light 
 
-refuelling
+    refuelling
     supply of antimatter and deuterium for 3 years 
     refuelling happens at a starbase 
     antimatter pods can be loaded through Cargo bays {dangerous}
+
+    Bussard Collector = the front of warp engine nacelles incorporate a set of powerful electromagnetic coils 
+        ship travelling at high speeds these coils generate electromagnetic field 
+        which collects stray atoms of interstellar hydrogen for use of fuel
+
+    Quantum State Reversal Unit (spin reverser) or antimatter generator -
+        which uses transporter based technology to dematerialize a quantity of hydrogen and 
+        rematerialize it with reversed charge and spin => antimatter
+        QSRU requires lots of energy from the fusion generators to make a small amount of antimatter
+
+    feed in power from the warp core  when needing high amounts of energy
+
+
+
+
+
+
+
+
+IMPULSE POWER
+
+Impulse power is part of the propulsion system for less than light-travel 
+
+power 
+    the impulse drive is powered by a series of fusion reactors which are located just below the saucer section
+    a set of high powered magnetic accelerator coils drives the reactor exhaust through a set of subspace field coils  
+    which propels the ship up to 0.999 of lightspeed 
+
+    a second set of impulse engines is located on the rim of the saucer section
+
+
+fuel 
+    impulse fusion reactors are fueled by frozen hydrogen = deuterium 
+
+speed 
+    normal max impulse speed is 1/4 speed of light
+
+    "full impulse" , "point-two-five light", "quarter light speed"
+    very slow speeds are expressed in terms of meters-per-second 
+
+
+
+
+
+
+
+
+
+
+
+
+MAIN BRIDGE 
+
