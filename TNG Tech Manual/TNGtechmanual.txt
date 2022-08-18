@@ -478,3 +478,39 @@ personal holodecks
 
 
 
+
+
+
+
+COMPUTER SYSTEM 
+
+A massive library computer system which is used for everything on the ship 
+Every control panel on the ship is a computer terminal and can respond to voice commands and keypad input
+
+iso-linear optical chips 
+    information storage medium of the ship's computer system 
+
+    small rectangle of iso-chromatic linear memory crystal incorporates 
+    a large amount of information storage and processing power and placed 
+    in chip panel racks 
+
+operating system 
+    main library computers employ optical (not electronic processing) 
+    LCARS  = library computer access and retrieval system 
+
+    2 computer cores : 
+        center of the primay hull saucer 
+        engineering section 
+
+        each incorporates a series of miniature subspace field generators
+        which processes data faster than the speed of light 
+
+        information is carried by a complext network of optical fiber conduits 
+
+
+
+
+
+
+
+
