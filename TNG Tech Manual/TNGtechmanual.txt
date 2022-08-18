@@ -429,3 +429,52 @@ the ship's sensors and computers are essential to defense and offensive capabili
 
 
 
+
+
+
+
+HOLODECKS
+
+a holographic environment simulator to be used for crew training, recreation and exercise 
+recreation is with 100% fidelity of computer memory
+
+location = Deck 11, holodecks 1 to 4 
+
+how it works 
+    2 main subsystems : 
+        holographic imagery subsystem 
+        matter conversion subsystem
+
+    holographic imagery subsystem
+        creates images of incredible realistic background environments
+        computer holographic projectors also control a series of shaped-field forcebeam projectors
+        which are capable of physical substance to these images 
+
+    matter conversion subsystem
+        using transporter based technology this system creates physical 'props' and 'set dressing' from 
+        raw material, ideally making it indistinguishable from reality 
+
+
+animated characters 
+    animated characters are composed of solid matter created by transporter based 
+    replictaors and manipulated by articulated computerized tractor beams 
+    which results in a realistic 'puppet' which look and behave almost exactly like living beings 
+
+
+reality of objects 
+    objects created in the holodeck can't leave the holodeck, even if they separated from physical reality due to 
+    the focused forcebeam imagery 
+    objects created by transporter matter conversion do have physical reality and can be removed from the holodeck 
+    and could potentially lose ability to control them via computer 
+
+
+personal holodecks 
+    smaller personal holodecks are rooms the size of a treadmill
+    it works like the large scale ones 
+
+
+
+
+
+
+
