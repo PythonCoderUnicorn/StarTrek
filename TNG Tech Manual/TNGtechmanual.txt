@@ -230,3 +230,28 @@ Aft station = special purpose consoles (Science, Mission Ops, Environment & Engi
 
 TRANSPORTER 
 
+Transporter converts matter into energy and reconverts it back into matter at another location 
+
+limitations
+    range is 40,000 kms (distance of ship to a planet surface standard orbit)
+    can't be used while ship shields are operating or at warp drive 
+    objects stored in computer memory have limited resolution {no living being reproduction}
+
+replication technology 
+    converting matter into energy and back again 
+    food replictaors use computer memory to store patterns at the molecular resolution 
+
+    transporting beings works at the quantum level resolution to reproduce their thought patterns and DNA, this data is not stored into memory 
+
+other transporters 
+    command saucer section Deck 6 (1)
+    engineering Deck 14 (2)
+    cargo bay (8)
+    emergency evacuation, 1-way (6)
+
+transporter biofilters
+    built in safety mechanism which scans incoming person and automatically filters out known (programmed) hazardous bacteria and viruses
+
+direct beaming 
+    the ability to beam person to a location outside the transporter area, ultimately beaming the person twice and consumes twice the power 
+    to be used in emergencies 
