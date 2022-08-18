@@ -389,3 +389,31 @@ deflector shield
 
 
 
+BATTLE CONFIGURATION (SAUCER SEPARATION)
+
+In combat situations the ship is capable of separating intow 2 spacecraft 
+the saucer section most holds the crew and their families and the 
+secondary battle section is used for defense 
+
+when separated the command of the battle section is transferred to battle bridge 
+
+battle section (Deck 8)
+    lower half of the ship includes the hull and warp engines 
+    capable of warp speeds 
+    armed with 2 photon torpedo launchers , phaser banks and deflector shield generator
+    
+saucer section (primary hull) 
+    not capable of warp speed
+    has impulse engines , deflector shield, phaser banks 
+
+    residual warp fields can take minutes to fully collapse so the primary hull 
+    can coast for some distance before going to sublight speed 
+
+
+
+
+
+
+
+
+
