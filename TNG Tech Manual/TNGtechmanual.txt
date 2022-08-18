@@ -732,3 +732,154 @@ STARFLEET
 organization dedicated to exploration, diplomacy, research and defense (military) 
 but is not military minded
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION II - TECHNICAL MEMORANDA
+
+
+impulse power 
+    a magnetic accelerator and a set of compact subspace driver coils 
+    superhot plasma is sped up within the accelerator and the power 
+    is taken from here to run the driver coils 
+
+    these coils perform continuum distortion needed to bring the ship 0.999 of 
+    the speed of light 
+
+    combined mass of the components is 5 million metric tons and 
+    exhaust thrust would not work in propulsion
+
+    fuel supply for fusion reactors is a set of large conformal tanks of liquid
+    deuterium and tritium (-425F) both isotopes of hydrogen
+
+
+
+warp power 
+    requires massive amount of energy 
+    matter and antimatter forced together => power to run warp field generators on the outboard nacelles
+
+    before long missions, the ship purges their matter antimatter storage tanks and 
+    refilled in form of antihydrogen liquid
+
+    magnetic injectors operate like precision spray nozzles and are located at either end of the warp engine core 
+    these injectors are primes and reaction begins when minute amounts of matter antimatter plasma collide in the 
+    core (engine pressure vessel) . matter : antimatter is 25:1 and the engine is idle 
+
+    normal pressure is slowly raised to 10,000 PSI (715 times atmospheric pressure)
+    reactions occur until the vessel is full (ratio is 10:1)
+    a ratio of 1:1 is reached during warp factor 8, higher warp require more reactants but the ratio stays the same 
+
+    antiprotons will destroy anything so residual hasses will be used up 
+    Engine Control computers automatically keep the mixture balanced
+
+    a small onboard antimatter generator is in the lower engineering hull 
+    it can produce small amounts of antimatter from normal matter using a 
+    quantum state reversal device (flips the charge and spin of normal matter), 
+    the ratio is energy hungry of 1 atom antimatter to 10 atoms of normal matter {not cost effective}
+
+    Bussard Ram collector scoop allows to collect some interstellar hydrogen atoms during travel 
+
+
+
+dilithium crystals 
+    dilithium crystals are required for a regulated continuous thermonuclear process 
+
+    dilithium {dilithium diallosilicate heptoferranide} works to fine tune 
+    the radiated energy of the reaction into the 2 power transfer tunnels to the warp nacelles
+    the exposed crystal assembly extends into the core. 
+
+    radiation of different frequencies enters the lattice structure of the crystal
+    and is bounced and bent around, the crystal exist in a narrow frequency range down the power transfer tunnels
+
+    the bright light is photon spill, harmless but the patterns are valuable indicator to the engineer on duty as 
+    to how smoothly the engine is running 
+
+    if dilithium crystals shatter or melt, a cold shutdown may occur 
+        a fast runaway reaction which would heat the core to unacceptable levels even if the injectors are shut off 
+
+    if the pressure vessel of the core is breached, 
+        the contained plasma would have to be vented into space explosively 
+        and hope the force fields around the core protect crew from 30,000 degrees F gasses 
+
+    normal operating = the plasma carries power to the nacelles where warp field generators are energized
+
+    larger nacelles = higher speeds 
+
+
+
+dilithium in warp engine reactors 
+
+    dilithium crystals are needed in warp engines 
+
+    dilithium in its 5th phase crystal form is the only material discovered in nature or manufactured 
+    that can withstand exposure to antimatter
+    dilithium lattice structure is arranged in a way that antimatter is held suspended in the empty space 
+    between atoms when crystal is subjected to high frequency electromagnetic field in the megawatt range 
+
+    the Federation scientists discovered dilithium
+
+    matter (above) + antimatter (below)
+        into separated injection reactors (both)
+            collide 
+                reaction ! 
+
+                    antiprotons slip through the crystal and travel to opposite face 
+                    some antimatter spray off the main stream but upwards of 90% will remain tightly bound in 1 column 
+                    and confined by the core's magnetic coils and assist in secondary reactions to maintain engine 
+                    temperature and pressure
+
+                    primary reatcion takes place at the exit face of the crystal
+                    radiation byproducts are kept within a narrow frequency range 
+                    
+                    lower frequency emissions are shifted upwards and higher ones shifted downwards 
+
+                    energy from the primary reaction is split into 2 plasma streams at equal angles from the ship centerline 
+                    streams are magnetically channelled along the power transfer  tubes to the warp engine nacelles
+
+                    the crystal is housed within an armored cradle in the core and held by a gripper mechanism 
+                    gripper moves through 3 axes and acts as power supply for high energy field which allows the 
+                    crystal to withstand the antimatter stream 
+
+                    once alignment is made the gripper is energized and the plasma ripples down the  power transfer tubes 
+                    and up to the warp nacelles
+
+                    the throttle for each engine is a set of valved plasma injectors  just below the warp driver coils 
+
+                    crystal evaporates at a constant rate if undamaged otherwise asymmetrical plasma stream 
+
+                    dilithium crystals are 89% efficient in warp drive 
+
+                    [crystal vaporized => <--> recrystallized with gas-to-solid phase ]
+
+
+
+
