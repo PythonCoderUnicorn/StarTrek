@@ -594,6 +594,8 @@ lifeboats are pods that get ejected from small hatches in rows along the ship's 
 
 
 
+
+
 COMMUNICATORS 
 
 Starfleet uniform badge communicators 
@@ -606,6 +608,9 @@ determine exact coordinates
 
 companels located throughout the ships can be used 
 as communicators which are equipped with dermal sensors 
+
+
+
 
 
 
@@ -642,6 +647,64 @@ which duplicate nutritional properties and taste
 
 
 
+
+
+
+
+
+
+
+
+SPACEFLIGHT & THE GALAXY
+
+when the ship orbits a planet it is called standard orbit 
+usually 35,000 kms altitude
+
+Class M planet = Earth like 
+
+courses and directions 
+    "a ship Bearing 104, Mark 12" [both are degrees]
+    indicates the degrees of measurement
+    both numbers should be less than 360
+
+    bearing = 2 angles relative to the Enterprise
+    heading/ mark  = angles measured relative to the galaxy itself 
+
+    "bearing 090" == a right turn, from your reference point (the ship)
+    "heading 090" = a left turn, relative to earth 
+
+
+sectors 
+    primary unit of measure in known space 
+    each sector is 20 light years across which contain dozens of solar systems 
+
+    a ship travelling at warp factor 6 take 19 days to cross a sector (4 days at warp 9.6)
+
+    sector numbers and names 
+        sectors have a 3 to 6 digit numbering system (Sector 18834)
+        but can have common names named by their major star systems/ planets 
+
+        Earth is Sector 001 (Sol Sector)
+        Starbase 515 was located in the Scylla Sector 
+
+quadrants 
+    the galaxy is divided into 4 quadrants 
+    each quadrant is 8 billion cubic light years
+
+    quadrants 
+        Alpha, Beta, Delta and Gamma 
+    
+    Federation is at the boundary between Alpha and Beta quadrants 
+
+
+galactic coordinates 
+    a set of 3 numbers for setting the course 
+    example: "set course for 394345 by 885354 by 032234"
+
+
+starbases 
+    Starfleet Command maintains a network of over 500 support and operation facilities through Federation space 
+    these starbases are next level on chain of command 
 
 
 
