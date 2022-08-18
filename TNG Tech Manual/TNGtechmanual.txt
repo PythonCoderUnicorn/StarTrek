@@ -255,3 +255,27 @@ transporter biofilters
 direct beaming 
     the ability to beam person to a location outside the transporter area, ultimately beaming the person twice and consumes twice the power 
     to be used in emergencies 
+
+
+
+
+
+
+
+ENVIRONMENTAL SYSTEMS : ARTIFICIAL GRAVITY
+
+Synthetic gravity 
+    a network of force field generators to create an artificial gravity field identifical to Earth's 
+
+    generators employ a series of superconducting graviton field matrices located under each deck,
+    the size of hockey pucks and can run even when power is cut off 
+
+
+inertial damping field (IDF)
+    a second set of forcefield generators to create a field which absorbs the inertial stress created when 
+    the ship accelerates to high impulse speed or warp drive. These are needed to reduce the G-forces.
+
+    IDF generators also create a structural integrity field which helps reinforce the 
+    structure of the ship. The excessive inertia energy generated is recycled by the tractor beams 
+
+
