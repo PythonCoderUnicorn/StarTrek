@@ -279,3 +279,19 @@ inertial damping field (IDF)
     structure of the ship. The excessive inertia energy generated is recycled by the tractor beams 
 
 
+
+
+
+
+
+
+TRACTOR BEAMS 
+
+the equivalent of a grappling hook or towing line 
+which is a ofcused beam of polarized gravitons which act as a linear forcefield to 
+pull objects towards the ship 
+
+
+
+
+
