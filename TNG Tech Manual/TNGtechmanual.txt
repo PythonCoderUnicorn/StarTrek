@@ -591,3 +591,41 @@ LIFEBOATS
 Several hundred lifeboats are avilable for extreme emergency 
 lifeboats are pods that get ejected from small hatches in rows along the ship's exterior 
 
+
+
+
+COMMUNICATORS 
+
+Starfleet uniform badge communicators 
+activated by voice and touch 
+
+range = 60,000 kms 
+
+can be used as a homing beacon which transporters can 
+determine exact coordinates 
+
+companels located throughout the ships can be used 
+as communicators which are equipped with dermal sensors 
+
+
+
+
+
+PERSONAL PHASERS 
+
+normal sidearms used by crew 
+
+settings
+    stun = render target unconscious 
+    cut = cutting torch 
+    disrupt = vaporizes target 
+
+types 
+    type 1 = small, keychain size , limited number of shots 
+    type 2 = medium size 
+    type 3 = large, phaser rifle 
+
+
+
+
+
