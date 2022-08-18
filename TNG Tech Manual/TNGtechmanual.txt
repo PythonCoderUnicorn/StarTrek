@@ -332,3 +332,60 @@ shuttlecraft names
 
 
 
+
+
+
+WEAPONS & DEFENSE
+
+Enterprise mission is exploration, science and diplomacy. The ship has weapons in case situations arise 
+
+The crew is trained in cultural sociology, strategy and crisis analysis, plus the sensors and computers.
+
+phasers 
+    {phased array emitter}
+    a particle beam projector which is the ship's primary offensive weapon 
+    at max power the main phaser banks can disrupt the surfce of a planet 
+    phaser beams travel at the speed of light and are ineffective at warp speed 
+    max effective phaser range is 300,000 kms 
+
+    frequencies 
+        base emitter frequency or secondary modulation of a phaser beam
+        which is used to disrupt a deflector shield 
+        most common is random modulation 
+
+
+photon torpedoes 
+
+    an energy weapon which a small quantity of matter and antimatter are bound together 
+    in a magnetic bottle and launched at warp speed at a target 
+
+    can be used at warp speed as not limited by speed of light
+
+
+torpedo launcher 
+    2 torpedo launchers : 1 on front and 1 at rear of Engineering hull 
+    normally launched in clusters, each independently targeted 
+
+
+deflector shield 
+
+    a series of energy forcefields which protect the ship from natural dangers and enemy attack 
+    navigational deflector sweeps far ahead of the ship and pushes aside meteoroids and space dust which might pose a 
+    hazard to the ship 
+
+    transporters can't be used when shields are in use 
+    the ship's computer can automatically activate the shields in a crisis before human reaction 
+
+    deflector shield power
+        expressed in terms of percentage of shields remaining 
+
+
+
+
+
+
+
+
+
+
+
