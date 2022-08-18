@@ -514,3 +514,40 @@ operating system
 
 
 
+SENORS 
+
+a collection of scientific instruments which provid einformation 
+Sensors is a catchall term for various instruments 
+
+sensor arrays are located around the hull of fthe ship 
+main sensor at front of the engineering hull which sweeps ahead of teh ship for hazards 
+
+tricorders 
+    handheld devices that contain a sensor array 
+    which detect a variety of phenomena
+
+
+
+
+
+PROBES 
+
+a small unmanned intrument that has sensors for probing space 
+and returning sensor information 
+
+used for general information gathering that are beyond 
+ship's sensor range 
+
+probes are launched from the photon torpedo launchers
+
+types 
+    class 1 = short range, various instrument devices 
+    class 3 = probes intended for entry into a planet's atmosphere 
+    class 8 = capable of warp travel and based on photon torpedo spaceframe
+
+
+
+
+
+
+
