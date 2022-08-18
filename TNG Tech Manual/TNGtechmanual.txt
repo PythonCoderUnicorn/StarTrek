@@ -295,3 +295,40 @@ pull objects towards the ship
 
 
 
+
+
+
+
+SHUTTLECRAFT & SHUTTLEBAYS 
+
+a number of small auxillary spacecraft for short range use when a transporter is not necessary 
+
+personnel shuttle 
+    use for transporting 6 people within a solar system 
+    max speed is warp factor 1
+
+cargo shuttle 
+    variation on the personnel shuttle but no passenger accomodations 
+
+shuttlepod 
+    a small 2 person craft, the size of a Earth minivan vehicle 
+    used for very short range transport and for extravehicular activity (inspecting ship exterior)
+    no warp speed capability 
+
+shuttlebay 
+    Enterprise has 1 large main shuttle bay located at the top rear of the saucer section, Deck 4 
+    2 smaller secondary shuttle bays (2 & 3) on Deck 13 located at the 'neck' of the ship 
+
+shuttlecraft names 
+    shuttlecarft #1 = Sakharov 
+    shuttlepod #5 = El-Baz 
+    shuttlepod #7 = Onizuka 
+    shuttlepod #12 = Pike (destroyed)
+
+
+
+
+
+
+
+
