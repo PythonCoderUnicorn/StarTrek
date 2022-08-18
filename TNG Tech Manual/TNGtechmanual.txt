@@ -526,6 +526,10 @@ tricorders
     handheld devices that contain a sensor array 
     which detect a variety of phenomena
 
+    equipped with small remote peripheral sensors which can be used for very fine work 
+
+    tricorders can't sense neutrinos or subspace phenomena
+
 
 
 
@@ -564,4 +568,26 @@ speed of subspace radio
 
 
 
+
+
+
+
+TURBOLIFTS 
+
+turbo-elevators are capable of travelling both vertically and horizontally 
+
+turbolifts connect to every deck and section
+
+voice command 
+
+Jefferies Tubes and ladder wells can also be used to transport between decks 
+
+
+
+
+
+LIFEBOATS 
+
+Several hundred lifeboats are avilable for extreme emergency 
+lifeboats are pods that get ejected from small hatches in rows along the ship's exterior 
 
