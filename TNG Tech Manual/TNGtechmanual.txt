@@ -551,3 +551,17 @@ types
 
 
 
+SUBSPACE RADIO 
+
+faster than light means of communications 
+
+speed of subspace radio 
+    radio propagates at max speed of warp factor 9.9999
+    limitation is that this speed falls off dramatically over time as the warp fields decay 
+
+    within Federation space there are ample network relays and boosters to avoid issues 
+    outside Federation space there is no network so the message decays faster
+
+
+
+
