@@ -984,3 +984,53 @@ transmission and reception problems
 
 
 
+
+
+
+
+
+
+
+
+HOLODECKS - THEORY & OPERATION 
+
+the holodeck basic mechanism is the Omnidirectional Holo Diode 
+which projects a variety of electromagnetic fields and there are 
+millions of these OHDs in the walls.  
+
+Each OHD is a computer and can manipulate EM fields in 3 dimensions 
+
+other sensory stimuli are from speakers and atomizers as well as
+producing objects with the transporter 
+
+
+
+
+TRACTOR BEAM 
+
+tractor beam used for pushing, pulling and holding onto objects 
+this is done by the tractor beam emitter which is located under the battle section 
+
+the emitter is a forcefield device that focuses wave /particles like 
+gravitons and projecting that field toward its target. The pitch on Enterprise
+is 180 degrees and yaw of 360 degrees
+
+if hold 
+    set emitter device to attract and repel 
+
+if haul 
+    set emitter device to attract 
+
+if push 
+    set emitter device to repel 
+
+limitations 
+    tractor beam must be less than 20,000 kms
+    otherwise the gravitons will disintegrate 
+
+    if object mass is more than 10 million tons the 
+    emitter needs to be full power and very close to object 
+
+
+
+
