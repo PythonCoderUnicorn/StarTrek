@@ -1386,4 +1386,20 @@ Warp core breach
 
 
 Antimatter containment failure 
+    a failure in the magnetic containment fields which isolate the volitile antimatter fuel from the rest of the ship 
+
+    explosive reaction when any amount of antimatter meets normal matter which destroys the ship 
+
+    backup power supplies and mag field generators exist to insure that such accidents do not occur
+
+    if accident 
+        antimatter fuel supply can be vented into space 
+        emergency shutdown of warp engine take place 
+        forcefields try to contain the antimatter explosions 
     
+    if extreme accident 
+        bolts would blow a hole in the bottom of the engineering hull and antimatter storage pods would be ejected 
+
+
+
+
