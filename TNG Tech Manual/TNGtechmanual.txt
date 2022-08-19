@@ -1111,3 +1111,23 @@ controls:
 
 
 
+
+
+
+
+
+
+
+BASIC MEDCIAL TRICORDER 
+
+the medical tricorder combines radar, sonar, CAT scanner, EKG, = supercomputer 
+
+when tricorder is closed it can still record information
+
+medical tricorder can show graphs, lists of drugs, scan pictures of broken bones, 
+bloodflow of blood vessels 
+
+
+
+
+
