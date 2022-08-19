@@ -320,7 +320,7 @@ shuttlebay
     2 smaller secondary shuttle bays (2 & 3) on Deck 13 located at the 'neck' of the ship 
 
 shuttlecraft names 
-    shuttlecarft #1 = Sakharov 
+    shuttlecraft #1 = Sakharov 
     shuttlepod #5 = El-Baz 
     shuttlepod #7 = Onizuka 
     shuttlepod #12 = Pike (destroyed)
@@ -1304,3 +1304,86 @@ star and planet names
 
 
 
+
+
+
+
+SECTION 3 - EMERGENCY PROCEDURES
+
+
+Auto Destruct 
+    the last effort to prevent the Enterprise from falling into hostile hands 
+    the ship's computer is programmed to destroy the ship 
+    function activated at main engineering
+    requires verbal authorization of both Captain and First Officer 
+
+Emergency Evacuation 
+
+    from ship 
+        hundreds of lifeboat pods ejected 
+        ideally at sublight speeds 
+        designed to cluster together 
+
+        6  1-way transporters are available 
+
+    to ship 
+        the transporter is main method
+        6 personnel transporters and 8 in cargo bays 
+        shuttlecraft can bu used but limited capacity 
+
+    total capcity of the Enterprise is 10,000 to 15,000 people
+
+
+
+Fire 
+    in case of fire sensors immediately detect temperature and air ionization 
+
+    a forcefield is activated containing the fire, sealing off the oxygen supply
+    handheld extinguishers can be used 
+
+    last case scenario is to vent the area into vacuum of space 
+
+
+Atmospheric supply failure 
+    environmental support system has multiple redundancies and is sophisticated 
+
+    if power failure to air supply subsystems 
+        there is air supply to sustain crew for hours even days 
+        without a new supply 
+
+    all non-essential area will be evacuated 
+    emergency supply of air is fed to selected areas 
+
+    if event of hull breaches a forcefield can be used to repair the hole 
+
+
+Inertial damping failure 
+    inertial damping field is required to keep crew safe from all 
+    G forces from travelling and would make the ship travel at very slow speeds 
+
+
+Warp field collapse 
+    warp field collapse in unsychronized sequence is problematic 
+    as different parts of the ship can be travelling at warp factors
+    this would cause stress on the ship and shred it and crew apart 
+
+Emergency landing 
+    the primary saucer hull can be moved into the atmosphere of a Class M planet and land 
+    but this would mean the ship could not leave the planet 
+
+Warp core breach 
+    an accident in the antimatter reactor is the breach of the reaction vessel
+    which would expose the ship to antimatter plasma and other high pressure gasses
+
+    emergency safeguards are automatically iniiated 
+
+    1. cylindrical forcefield is activated (isolating the engine from rest of engineering)
+    2. emergency shutdown procedure , automatic shut off of all fuel feeds and megnetic quenching fields shut off 
+        if shutdown fail 
+            series of explosive bolts blow a hold in the bottom of engineering hull and the entire warp reactor core is ejected into space 
+            this results in venting much of the engineering hull and entire warp core into space causing probable deaths 
+            with no warp core only impulse speed is possible
+
+
+Antimatter containment failure 
+    
