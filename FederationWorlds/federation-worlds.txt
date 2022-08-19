@@ -27,5 +27,4 @@ APPENDIX
 
 
 
-UFP order, catalogue name, planetary classification, primary star, galactic coordinates
-1, Earth , Terra
+
