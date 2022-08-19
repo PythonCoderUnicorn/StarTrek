@@ -883,3 +883,104 @@ dilithium in warp engine reactors
 
 
 
+
+
+
+
+
+
+TRANSPORTER
+
+2 modes 
+    beam down 
+    beam up 
+
+beam anything from point A to point B 
+and can reproduce items including food 
+
+limitation is stored objects have limited resolution 
+
+personnel or cargo transporter has 4 components :
+    Upper Pad 
+    Lower Pad 
+    Pattern Buffer 
+    Emitter Array 
+
+
+Upper & Lower Pads 
+    contain equipment necesssary to read an object's molecular and subatomic structure 
+    
+    pattern = machine internal molecular instructions for breakdown and reassembly
+
+    subsystems 
+        molecular imaging scanners
+        ionizers 
+        power feeds (primary & emergency)
+        phase transition coils 
+    
+    read in molecular stream (into computer memory)
+        Pattern Buffer (large cylindrical tank surrounded by superconducting electromagnetic coils)
+            {temporary storage}
+                beamed away 
+
+    the molecules of object are held in a spinning magnetic suspension 
+    which lasts for max 8 minutes before degradation 
+
+    can't produce working duplicate copies of living tissue or organ systems 
+    due to the vast amount of information required to disassemble and reassemble a life form
+    within the limited computer memory
+
+    the status of object going in transporter will be same coming out, patterns must match. 
+    no unhealthy person transported and then a healthy person post transporter 
+
+    only a small percentage of total pattern is held for reassembly in short term memory
+
+
+Pattern Buffer
+    the molecular stream and coded instructions pass through numerous 
+    subsystems before reaching the emitter
+
+    Compensators:
+        Subspace 
+        Doppler
+        Heisenberg
+
+    each compensator works to insure the matter stream is being transmitted or received in 
+    the correct phase and frequency 
+
+
+Emitter Array 
+    the Enterprise has numerous emitters 
+
+    the matter stream is processed through a device similar to 
+    a subspace radio and is sent out 
+
+    each emitter is responsible for targetting the correct reassembly spot 
+    and is in harmony with Starfleet communicator in locating crewmembers to beam up 
+
+    beam down 
+        2 discrete signals are sent , both travel downward 
+
+        signal 1 is similar to a carrier wave
+        
+        signal 2 is the (ACB) Annular Confinement Beam
+            acts as a tunnel of energy preventing the stream from breaking down as it 
+            travels down the center 
+
+    beam up 
+        the emitter is configured slightly differently
+        ACB stays the same but the matter stream starts at the surface 
+
+        Transporter sends an empty signal to the ground, 
+        which intercepts the object to be beamed up, 
+        reverses direction and pulls object up with it 
+
+        transporter room ignores the empty signal until it senses 
+        the upcoming matter stream for reassembly 
+
+
+all outgoing/incoming signals travel in subspace and are subject to 
+transmission and reception problems 
+
+
+
