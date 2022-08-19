@@ -1238,6 +1238,69 @@ Type X (LPA)
 
 
 
+PLANETS & ORBITS
+
+away teams will visit planets similar to Earth 
+
+Class M : 
+    oxygen-nitrogen atmosphere at 14.7 PSI
+    temperature 0 -120 degrees F 
+    approximately 1 G gravity 
+
+
+size range of habitable planets 
+
+    smallest 
+        mass = 0.40
+        radius = 0.78, 3090 mi 
+        surface gravity = 0.68 
+    
+    Earth size 
+        mass = 1.00
+        radius = 1.00, 3960 mi 
+        surface gravity = 1.00 
+
+    largest 
+        mass = 2.35
+        radius = 1.25, 4950 mi 
+        surface gravity = 1.50
+
+    Moon 
+        mass = 0.0123
+        radius = 0.273, 1080 mi 
+        surface gravity = 0.165 
+
+    Mars 
+        mass = 0.1077
+        radius = 0.53, 2100 mi 
+        surface gravity = 0.38
+
+
+star and planet names 
+    brightest constellation visible from Earth gets 
+    Greek letter + name of constellation
+
+    [Cygnus (the Swan)] = alpha Cygnus
+    next is beta Cygnus etc 
+    continue until no more letters then start with numbers
+
+    numbers get Roman numerals 
+    moons get small letters 
+    
+    alpha Cygni IVc = 3rd moon of the 4th planet 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
