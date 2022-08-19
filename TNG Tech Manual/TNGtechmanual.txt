@@ -1224,7 +1224,7 @@ Type 2 (handheld size)
 
 
 Tyoe 3 (large rifle)
-    power output is 1.5 times taht of Type 2 
+    power output is 1.5 times that of Type 2 
 
 Type X (LPA)
     Large Phaser Array is mounted externally on a spacecraft 
@@ -1403,3 +1403,97 @@ Antimatter containment failure
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 4 - CELESTIAL BESTIARY 
+
+objects and phenomena based on scientific theory and some are of imagination 
+
+Black hole 
+
+White hole 
+    hypothetical entity, opposite of black hole 
+
+Interstellar strings 
+    super strings 
+    a black hole 1 proton diameter but light years long , intense gravity 
+    if ship flies through would be cut in half 
+     same with solar system
+
+Supernova 
+
+Pulsar 
+
+Subspace anomaly 
+
+planetary tidal stresses 
+
+near collision of 2 planets 
+
+comets dislodged from Oort Cloud 
+
+Womrhole 
+
+Edge of the galaxy 
+
+center of the galaxy 
+
+Dark Matter 
+
+destruction of a moon from tidal stresses 
+
+
+gas exchange between binary star pair 
+
+antimatter star 
+
+negative matter 
+
+gravity waves 
+
+cepheid variable star 
+
+proto universe event 
+
+Dyson sphere 
+    Postulated by Physicist Freeman Dyson 
+    a large structure sphere that fully enclose a star, harnessing the star's total energy output 
+
+    diameter would be 200 million miles 
+
+Von Neumann machine 
+    concept of a semi intelligent machine to 
+    1. find raw material 
+    2. make copies of itself 
+
+    applications include terrforming 
+    military applications 
+
+
+Rogue star cluster 
+
+super Jovian planet ignition 
+
+interaction of 2 supernovas 
+
+maximum entropy 
+
+gas giant planet 
+
+nebula 
+
+stellar fusion ignition 
