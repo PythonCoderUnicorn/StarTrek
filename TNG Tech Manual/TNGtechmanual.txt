@@ -1034,3 +1034,80 @@ limitations
 
 
 
+
+
+
+
+
+BASIC TRICORDER OPERATION 
+
+the standard tricorder is a protable sensing, computing and 
+data communication device 
+
+controls: 
+
+    PWR STBY 
+        power standby light. if tricorder is not used more than 10 minutes 
+        the device goes into low power mode and any new touch will bring the 
+        device back to full power
+
+    F1-F2
+        control function select switch, many buttons have more than 1 function 
+        this selects alternative functions
+        this operates in data operations only 
+
+    I or E 
+        these 2 buttons are sensory controls, internal and external 
+        they control the source of the remote sensing information
+        either the tricorder itself or remote device 
+
+        remote device can be any sensor that uses same data collection 
+        machine language
+
+    ALPHA BETA DELTA GAMMA 
+        these 4 lights indicate the tracks being read off the library crystal cartridges 
+
+    LIBRARY A/B 
+        this is the slot for cartridge which are stowed in a pack in the back of tricorder
+    
+    DISPLAY SCREEN 
+        the main display capable of showing any real time, stored or computed image 
+
+    DEVICE INPUT 
+        3 buttons GEO MET BIO 
+        select between external sensing devices 
+        3 small lights to the right indicate which functions are active 
+    
+    COM TRANSMISSION 
+        tricorder can receive and transmit pictures and data 
+        1st button toggles 1 way receive ACPT and network POOL 
+        2nd button toggles between ship-to-tricorder (INTRSHP) and other tricorders (TRICRDR)
+        both modes can be active at same time 
+
+    EMRG 
+        emergency "dump everything to the ship" button 
+        a non-error checking burst mode data transmission 
+
+    IMAGE RECORD 
+        button has 4 divisions 
+            Forward 
+            Reverse 
+            Input 
+            Erase 
+        these are image memory controls for sequential image files 
+        approximately 120 frames per second sampling rate 
+
+    LIBRARY B 
+        primarily an image storage area 
+        I and E control the source of the images 
+
+    ID 
+        touchpad that can be used to personalize the 
+        tricorder for default power up settings or as 
+        security setting
+
+
+
+
+
+
