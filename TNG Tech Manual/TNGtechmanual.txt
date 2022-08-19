@@ -1131,3 +1131,113 @@ bloodflow of blood vessels
 
 
 
+
+
+
+PHASERS 
+
+2 main types 
+    Type 1 
+    Type 2 
+
+both use energy stored in dilithium crystal
+converting that energy into collimated beam which exits the emitter
+
+Type 1 (keychain size)
+
+    8 power scale settings : 
+
+        setting 1 
+            the stun setting 
+            knocks target out for a few minutes 
+            when pointed at objects it warms them 
+
+            can cook popcorn with it 
+            does not make a mark on the wall 
+
+        setting 2 
+            medium stun setting
+            will knock out a human for same length as setting 1 
+            does not make a mark on the wall
+
+        setting 3 
+            heavy stun 
+            cause human to sleep for an hour 
+            if resistent will sleep for 15 minutes 
+            does not make a mark on the wall
+
+        setting 4 
+            humans will suffer neural damage (90% reversible)
+            small animals will die 
+            radiation burns 
+            will mark the wall 
+
+        setting 5 
+            ignite clothing and building materials 
+            human tissues will have radiation effects 
+            personal forcefield penertrated after 5 seconds 
+
+        setting 6 
+            kill setting 
+            higher nuclear disruption energies 
+            penetrates human tissues with exit wound and 
+            building materials 
+        
+        setting 7 
+            kill setting 
+            human tissue damage will cause immediate death 
+            building materials suffer structural breakdown 
+
+        setting 8 
+            full kill setting 
+            full human vaporized
+            50% of matter disappears remainder is water vapor CO2 and 
+            other compounds 
+            building materials break down 
+
+
+Type 2 (handheld size)
+    16 settings 
+    reach green LED indicator is divided into 2 halves 
+
+    settings 1-8 are same as Type 1 
+    settings 9 - 16 are structural damage
+
+    setting 9 - 10
+        will punch hold in 1 ft thick tritanium hull walls not protected by shields 
+        Enterprise hull is 2 ft thick and shielded 
+
+    setting 11 - 12
+        rock walls can be drilled 1 ft per minute 
+        large trees & light alloys wil vaporize 
+        dense Synthetic materials will break down 
+
+    setting 13 - 15 
+        large geologic structures will be disrupted
+        very power intensive - no repeating , requires cooling down & recharging
+        
+    setting 16
+        max setting 
+        disrupt large artificial structures and geologic formations 
+        cooling down period is 6 seconds 
+        10 shots before depletion 
+
+
+Tyoe 3 (large rifle)
+    power output is 1.5 times taht of Type 2 
+
+Type X (LPA)
+    Large Phaser Array is mounted externally on a spacecraft 
+
+
+
+
+
+
+
+
+
+
+
+
+
