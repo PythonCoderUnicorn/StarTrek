@@ -1,32 +1,42 @@
 
 quadrant, name, class, official name, political system, UFP_member, capitals, dominant species, population, warp capable, notes
 
-Alpha, Earth (Sol III), M, United Earth, UFP, 2161, San Francisco/ Paris/ Kyoto/ Lima, Human/ Cetacean, 4.2 billion humans/ 1million Cetaceans, 2063, Starfleet HQ/ Academy/ Cochrane Memorial
-Alpha, Mars (Sol IV), K, United Martian Colonies, UFP, 2161, Tycho City, Human, 50.2 million, NA, Apollo 11 in 1969 landing
-Alpha, Terra Nova (Eta Cassiopeia III), M, Terra Nova Colony, UFP, 2178, Logan City, Human, 347000, NA, 1st contact 2151/ landing SS Conestaga in 2087
-Alpha, Izar (Episilon Bootis III), M, Izar Colony, UFP, 2183, New Seattle, Human, 185e6, NA, Starfleet Tactical School
-Alpha, Delta (Delta IV), M, Deltan Union, UFP, 2223, NA, Human, 3.8e9, 2223, restricted Detan moons Seyyan & Cinera 
-Alpha, Deneb V (Deneb Kaitos V), M, Commonwealth of Denebia, UFP, 2259, Port Drexxler, Human, 11.2e9, 2259, Federation Academy of Sciences
-Alpha, Betazed (Beta Zeta V), M, Fifth House of Betazed, UFP, 2273, Rixx, Human, 1.3e9, Antiquity, University of Betazed/ Janaran Falls
-Alpha, Trill (Trillius Prime), M, Trill Symbiosis, UFP, 2285, Mak'ala, Human Trill & Symbiont, 650e6 Trill/ 11e6 Symbionts, Antiquity, Hoobishan baths/ Tenarian Ice Cliffs
-Alpha, Capella (Alpha Aurigae IV), M, Ten Tribes of Capella, UFP, 2267, NA, Human, 160e3, NA, tomb of Leonard James Akaar
-Alpha, Neural (Zeta Bootis III), M, NA, UFP, 2268, Kahn-ut-tu, Human, 27.3e6, NA, Peace Bridge 
-Alpha, Deneb IV (Alpha Leonis IV), M, Bandi, UFP, 2364, Farpoint, Human, 450e6, NA, Farpoint Station 
-Alpha, Bajor (B'hava'el VII), M, Third Republic of Bajor, UFP, 2374, Dahkur - Sahving, Human, 3.8e9, 2328, Calash Retreat/ Dakeen Monastary/ Kendra Valley/ Fire Caves
-Alpha, Talos IV (Talos Star Group), M, NA, Nonaligned, NA, NA, Human,NA,500e3 years ago, 1st contact by SS Columbia in 2236
-Alpha, Sigma Draconis VI, M, Congress of Morg and Eymorg, 2268, Nonaligned, NA, Human, 1.3e6, NA, 2nd contact by USS Enterprise in 2268
-Alpha, Tholia, Y, Tholian Assembly, NA, 2271, NA, Tholian (non-human), NA, NA, 1st contact by USS Enterprise in 2269
-Alpha, Ferenginar, M, Ferengi Commerce Authority, Ferengi Alliance, NA, Ferenginar, Human, 78.2e9, Antiquity, Sacred Marketplace/ Tower of Commerce / 1st contact USS Enterprise in 2364
-Alpha, Cardassia Prime (Cardassia VI), M, Cardassian Union, Nonaligned, NA, Lakat, Human, 7.9e9, 1925, University of Culat/ Imperial Plaza/ Lakarian Amusement Park 
-Alpha, Breen, P, Breen Confederacy, Nonaligned, NA, NA, Human, NA, NA, aligned with Dominion & attacked Earth during Dominion War 
-Alpha, Tamar, M, Children of Tamar, Nonaligned, 2368, NA, Human, NA, 2050, 1st contact: Dathon and USS Enterprise in 2368
+Alpha, Earth (Sol III), M, United Earth, UFP, 2161, San Francisco/ Paris/ Kyoto/ Lima, Humanoid/ Cetacean, 4.2 billion Humanoids/ 1million Cetaceans, 2063, Starfleet HQ/ Academy/ Cochrane Memorial
+Alpha, Mars (Sol IV), K, United Martian Colonies, UFP, 2161, Tycho City, Humanoid, 50.2 million, NA, Apollo 11 in 1969 landing
+Alpha, Terra Nova (Eta Cassiopeia III), M, Terra Nova Colony, UFP, 2178, Logan City, Humanoid, 347000, NA, 1st contact 2151/ landing SS Conestaga in 2087
+Alpha, Izar (Episilon Bootis III), M, Izar Colony, UFP, 2183, New Seattle, Humanoid, 185e6, NA, Starfleet Tactical School
+Alpha, Delta (Delta IV), M, Deltan Union, UFP, 2223, NA, Humanoid, 3.8e9, 2223, restricted Detan moons Seyyan & Cinera 
+Alpha, Deneb V (Deneb Kaitos V), M, Commonwealth of Denebia, UFP, 2259, Port Drexxler, Humanoid, 11.2e9, 2259, Federation Academy of Sciences
+Alpha, Betazed (Beta Zeta V), M, Fifth House of Betazed, UFP, 2273, Rixx, Humanoid, 1.3e9, Antiquity, University of Betazed/ Janaran Falls
+Alpha, Trill (Trillius Prime), M, Trill Symbiosis, UFP, 2285, Mak'ala, Humanoid Trill & Symbiont, 650e6 Trill/ 11e6 Symbionts, Antiquity, Hoobishan baths/ Tenarian Ice Cliffs
+Alpha, Capella (Alpha Aurigae IV), M, Ten Tribes of Capella, UFP, 2267, NA, Humanoid, 160e3, NA, tomb of Leonard James Akaar
+Alpha, Neural (Zeta Bootis III), M, NA, UFP, 2268, Kahn-ut-tu, Humanoid, 27.3e6, NA, Peace Bridge 
+Alpha, Deneb IV (Alpha Leonis IV), M, Bandi, UFP, 2364, Farpoint, Humanoid, 450e6, NA, Farpoint Station 
+Alpha, Bajor (B'hava'el VII), M, Third Republic of Bajor, UFP, 2374, Dahkur - Sahving, Humanoid, 3.8e9, 2328, Calash Retreat/ Dakeen Monastary/ Kendra Valley/ Fire Caves
+Alpha, Talos IV (Talos Star Group), M, NA, Nonaligned, NA, NA, Humanoid,NA,500e3 years ago, 1st contact by SS Columbia in 2236
+Alpha, Sigma Draconis VI, M, Congress of Morg and Eymorg, 2268, Nonaligned, NA, Humanoid, 1.3e6, NA, 2nd contact by USS Enterprise in 2268
+Alpha, Tholia, Y, Tholian Assembly, NA, 2271, NA, Tholian (non-Humanoid), NA, NA, 1st contact by USS Enterprise in 2269
+Alpha, Ferenginar, M, Ferengi Commerce Authority, Ferengi Alliance, NA, Ferenginar, Humanoid, 78.2e9, Antiquity, Sacred Marketplace/ Tower of Commerce / 1st contact USS Enterprise in 2364
+Alpha, Cardassia Prime (Cardassia VI), M, Cardassian Union, Nonaligned, NA, Lakat, Humanoid, 7.9e9, 1925, University of Culat/ Imperial Plaza/ Lakarian Amusement Park 
+Alpha, Breen, P, Breen Confederacy, Nonaligned, NA, NA, Humanoid, NA, NA, aligned with Dominion & attacked Earth during Dominion War 
+Alpha, Tamar, M, Children of Tamar, Nonaligned, 2368, NA, Humanoid, NA, 2050, 1st contact: Dathon and USS Enterprise in 2368
 Beta, Vulcan (40 Eridani A), M, Confederacy of Surak, UFP, 2161, Vulcana Regar - ShirKahr, Vulcan,4.9e9, 320 AD, Vulcan Science Academy/ Fire Plains of Raal/ Vulcan's Forge
 Beta, Andoria (Procyon VIII), M, Andorian Empire, UFP, 2161, Andor, Andorian, 38.2e9, 1154 AD, pre 2161 Andoria & Vulcan clashed: Temple P'Jem destroyed
-Beta, Rigel VI (Beta Rigel VI), M, United Rigel Colonies, UFP, 2202, New Burbank, Human, 167e6, NA, Starbase 134  Shuttle Integration Facility
-Beta, Rigel X (Beta Rigel X), P, United Rigel Colonies, UFP, 2202, Rigel Trade Complex, Human, 35.9e6, NA, named by Earth Astronomer 
-Beta, Cestus III, M, Cestus III, UFP, 2271, Pike City, Gorn / Human, 7.2e6/ 28.6e6, NA, attacked by Gorn Hegemony 2267
-Beta, Sherman's Planet (FGC-24187 V), M, Sherman's Planet Joint Administrative Territory, UFP/ Klingon Empire, NA, Port Emily/ Ka'Hat, Human / Klingon, 98e6 / 116.2e6, NA, settled by both Humans & Klingons: Organian Peace Treaty 
-Beta, Ardana (Mu Leonis A III), M, Plotocracy of Ardana, UFP, 2263, Stratos, Human, 58.7e6 Stratos dwellers / 9.3e9 Troglyte, 2259, Troglyte Mining Museum/ USS Enterprise 2269
-Beta, Coridan (Coridan III), M, People's Republic of Coridan, UFP, 2267, New Coridan, Human, 185e6, 2093, civil war decimated population
-Beta, Menk (Valakis VI), M, Commonwealth of Menk & Velakis, UFP, 2236, NA, Human, 2.8e9 Menk / 730e3 Valakian, 2236, 1st contact Enterprise NX-01 in 2151
-Beta, Risa (Episilon Ceti B II), M, Risian Hedony, UFP, 2249, Nuvia, Human, 2.81e9, NA, weather control system maintains climate/ Suraya Bay/ Eluvian Mud Baths 
+Beta, Rigel VI (Beta Rigel VI), M, United Rigel Colonies, UFP, 2202, New Burbank, Humanoid, 167e6, NA, Starbase 134  Shuttle Integration Facility
+Beta, Rigel X (Beta Rigel X), P, United Rigel Colonies, UFP, 2202, Rigel Trade Complex, Humanoid, 35.9e6, NA, named by Earth Astronomer 
+Beta, Cestus III, M, Cestus III, UFP, 2271, Pike City, Gorn / Humanoid, 7.2e6/ 28.6e6, NA, attacked by Gorn Hegemony 2267
+Beta, Sherman's Planet (FGC-24187 V), M, Sherman's Planet Joint Administrative Territory, UFP/ Klingon Empire, NA, Port Emily/ Ka'Hat, Humanoid / Klingon, 98e6 / 116.2e6, NA, settled by both Humanoids & Klingons: Organian Peace Treaty 
+Beta, Ardana (Mu Leonis A III), M, Plotocracy of Ardana, UFP, 2263, Stratos, Humanoid, 58.7e6 Stratos dwellers / 9.3e9 Troglyte, 2259, Troglyte Mining Museum/ USS Enterprise 2269
+Beta, Coridan (Coridan III), M, People's Republic of Coridan, UFP, 2267, New Coridan, Humanoid, 185e6, 2093, civil war decimated population
+Beta, Menk (Valakis VI), M, Commonwealth of Menk & Velakis, UFP, 2236, NA, Humanoid, 2.8e9 Menk / 730e3 Valakian, 2236, 1st contact Enterprise NX-01 in 2151
+Beta, Risa (Episilon Ceti B II), M, Risian Hedony, UFP, 2249, Nuvia, Humanoid, 2.81e9, NA, weather control system maintains climate/ Suraya Bay/ Eluvian Mud Baths 
+Beta, Miri (FGC-347601 III), M, Earth, UFP, 2266, New York, Humanoid, 13.1e6, NA, terraformed copy of Earth/ adults killed by virus in 1966
+Beta, Magna Roma (FGC-892 IV), M, Roman Empire, Nonaligned, NA, Rome, Humanoid, 8.6e9, NA, 1st contact SS Beagle in 2261
+Beta, Rigel VII (Beta Orionis A VII), M, NA, Nonaligned, NA, NA, Kalar (Humanoid), 725e3, NA, 1st contact USS Enterprise in 2254
+Beta, Organia (Organia IV), M, NA, Unaligned, NA, NA, non-corporeal, NA, NA, Organian Peace Treaty: UFP & Klingon Empire in 2267 
+Beta, Akaali (Omega Sagittarii III), M, various nation-states, Nonaligned, NA, NA, Humanoid, 200e6, NA, 1st contact Enterprise NX-01 in 2151
+Beta, Qo'nos (Kronos - Kling), M, Klingon Empire, Klingon Empire, NA, First City, Humanoid, 3.84e9, 930 AD, Great Hall/ Qam-Chee/ Tong Vey 
+Beta, Rura Penthe, D, Gulag Rura Penthe, Klingon Empire, NA, NA, Humanoid, 25e3, NA, AKA 'Aliens Graveyard' / former Klingon prison 
+Beta, Son'a (Son'a Prime), K, Son'a Solidarity, Nonaligned, NA, Son'a, Humanoid, NA, Antiquity, refugees from Ba'ku in 2275
+Beta, Romulus (Romulus A), M, Romulan Star Empire, Romulan Star Empire, NA, Romulus, Humanoid, 18e9, 320 AD, Vulcan ancestry 
+Beta, Remus (Romulus B), Q, Reman Colonies, Romulan Star Empire, NA, NA, Humanoid, NA, NA, mining colony / slave labor 
