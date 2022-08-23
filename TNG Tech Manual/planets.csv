@@ -1,4 +1,12 @@
 
-name, class, official name, political system, capitals, dominant species, population, warp capable, notes
+quadrant, name, class, official name, political system, UFP_member, capitals, dominant species, population, warp capable, notes
 
-Earth (Sol III), M, United Earth, United Federation of Planets, San Francisco/ Paris/ Kyoto/ Lima, Human/ Cetacean, 4.2 billion humans/ 1million Cetaceans, 2063, Starfleet HQ/ Academy/ Cochrane Memorial
+Alpha, Earth (Sol III), M, United Earth, UFP, 2161, San Francisco/ Paris/ Kyoto/ Lima, Human/ Cetacean, 4.2 billion humans/ 1million Cetaceans, 2063, Starfleet HQ/ Academy/ Cochrane Memorial
+Alpha, Mars (Sol IV), K, United Martian Colonies, UFP, 2161, Tycho City, Human, 50.2 million, NA, Apollo 11 in 1969 landing
+Alpha, Terra Nova (Eta Cassiopeia III), M, Terra Nova Colony, UFP, 2178, Logan City, Human, 347000, NA, 1st contact 2151/ landing SS Conestaga in 2087
+Alpha, Izar (Episilon Bootis III), M, Izar Colony, UFP, 2183, New Seattle, Human, 185e6, NA, Starfleet Tactical School
+Alpha, Delta (Delta IV), M, Deltan Union, UFP, 2223, NA, Human, 3.8e9, 2223, restricted Detan moons Seyyan & Cinera 
+Alpha, Deneb V (Deneb Kaitos V), M, Commonwealth of Denebia, UFP, 2259, Port Drexxler, Human, 11.2e9, 2259, Federation Academy of Sciences
+Alpha, Betazed (Beta Zeta V), M, Fifth House of Betazed, UFP, 2273, Rixx, Human, 1.3e9, Antiquity, University of Betazed/ Janaran Falls
+Alpha, Trill (Trillius Prime), M, Trill Symbiosis, UFP, 2285, Mak'ala, Human Trill & Symbiont, 650e6 Trill/ 11e6 Symbionts, Antiquity, Hoobishan baths/ Tenarian Ice Cliffs
+Alpha, Capella (Alpha Aurigae IV), M, Ten Tribes of Capella, UFP, 2267, NA, Human, 160e3, NA, tomb of Leonard James Akaar
