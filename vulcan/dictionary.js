@@ -604,12 +604,12 @@ let vulcan = {
     'fog':'Ihsek',
     'pry':'Ihv-tor (v.)',
     'subject of discussion':'Ik-banu',
-    'close':'Ikap-tor (v.)',
-    'shut':''Ikap-tor (v.)',
+    'close': 'Ikap-tor (v.)',
+    'shut':'Ikap-tor (v.)',
     'meditation':'Ikapirak',
     'cone':'Ikun (shape)',
     'or':'Il',
-    'argon':'Im-tukh",
+    'argon':'Im-tukh',
     'red leaved tree':'In-du-ka',
     'conceal':'Ip-sut',
     'far':'Irak',
@@ -766,7 +766,7 @@ let vulcan = {
   'direct': 'Kharik (adj.)',
   'Vulcan desert bush':'Khara',
   'direction':'Kharat',
-  'captain':'Khart-lan",
+  'captain':'Khart-lan',
   'command': 'Khartau',
   'manage':'Khartau',
   'rule':'Khau (v.)',
@@ -833,7 +833,7 @@ let vulcan = {
   'block':'Klotau (v.)',
   'blockage':'Klotaya',
   'object':'Kluchi (v.)',
-  'boot':'boot (n.),
+  'boot':'boot (n.)',
   'female':'Ko',
   'daughter':'Ko-fu',
   'lesbian':'Ko-ka-ashausu (n.)',
@@ -846,8 +846,10 @@ let vulcan = {
   'dwarf':'Kobsu (n.)',
   'expensive':'Kodonuhk',
   'emotion purging':'Kohl',
+  'meditate': 'Kohl-tor',
+  'quartz': 'Kohv-tukh',
   
-  // end of page 29
+
 
 
 
