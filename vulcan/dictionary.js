@@ -848,6 +848,125 @@ let vulcan = {
   'emotion purging':'Kohl',
   'meditate': 'Kohl-tor',
   'quartz': 'Kohv-tukh',
+  'stew': 'Kol',
+  'principle of IDIC': 'Kol-uchang',
+  'infinite diversity in infinite combinations': 'Kol-uchang',
+  'shock': 'Kolaya (medical)',
+  'flute': 'Kolchak',
+  'highest state of discipline': 'Kolinahr',
+  'genus': 'Komak',
+  'human': 'Komihn (adj.)',
+  'feeling exposed': 'Konahr',
+  'save': 'Korsau',
+  'preserve': 'Korsau',
+  'conserve': 'Korsau',
+  'save': 'Korseiven',
+  'spiritually saved': 'Korsovau',
+  'disaster': 'Koshvar',
+  'race': 'Koshtri',
+  'species': 'Koshtri',
+  'rock': ['Kov (indiv.)','Kov-tukh (material)'],
+  'stone':[ 'Kov (indiv.)','Kov-tukh (material)'],
+  'stonecarver': 'Kov-skrimsu',
+  'to throw rocks at': 'Kov-tor',
+  'fossilize': 'Kovau',
+  'antimony': 'Kra-tukh',
+  'it is nothing': 'Krahkra',
+  'pressure point':'Krahl',
+  'cage': 'Kraisek (n.)',
+  'window': 'Krani',
+  'Vulcan plant': 'Kras',
+  'paint': 'Kras-tor (v.)',
+  'painter': 'Krassu',
+  'vent': 'Krau (n.)',
+  'cheat': 'Kravau (v.)',
+  'flat bread': 'Kreyla',
+  'canopy': 'Krein',
+  'illigitimate child': 'Krenath',
+  'aggressive': 'Kresik',
+  'harmony': "Kril'es",
+  'bronze': 'Krish (n.)',
+  'cyborg': 'Kritashau',
+  'clay': 'Krizhiv',
+  'be still': 'Kroikah',
+  'praise': 'Krol-tor (v.)',
+  'Klingon home world': 'Kronosh',
+  'fantasy': 'Kropaya',
+  'supervisor': 'Kru',
+  'appoint': "Kru'minaakh",
+  'boundary': 'Krup',
+  'segment': 'Krus',
+  'section': 'Krus',
+  'piece': 'Krus',
+  'fraction': 'Krusek (math)',
+  'cut off': 'Ktorr',
+  'cutting of family ties': 'Ktorr skann',
+  'palm': 'Ku (hand)',
+  'valley': 'Ku-li',
+  'chair': 'Ku-san',
+  'sit': 'Ku-tor (v.)',
+  'bless': 'Kudau',
+  'commit': 'Kugau',
+  'pus': 'Kuhku',
+  'complete': 'Kuhlau',
+  'completion': 'Kuhlaya',
+  'latch': 'Kuhr (n.)',
+  'beat': 'Kuhsh-tor (v.)',
+  'herd': 'Kuht (n.)',
+  'benzene': 'Kukev',
+  'helix': 'Kulan',
+  'spiral': 'Kulan',
+  'exception': 'Kulauf',
+  'catch': 'Kum-tor (v.)',
+  'spouse': 'Kun-ut',
+  'marriage challenge ritual': 'Kun-ut jali-fi',
+  'marriage proposal': "Kun-ut so'lik",
+  'hill': 'Kunel',
+  'happy': 'Kunli',
+  'able': 'Kup',
+  'can': 'Kup',
+  'color': ['Kur', 'Kur-tor (v.)', 'Kur-tukh (n.)'],
+  'stain': ['Kurau (v.)', 'Kuraya (n.)'],
+  'pigment': 'Kurek',
+  'rash': 'Kuriht (n.)',
+  'spectrum': 'Kurtra',
+  'ring': 'Kus-tor (v.)',
+  'bell': 'Kus-vakh',
+  'bird': 'Kushel',
+  'mold': 'Kushizhau (v.)',
+  'resonate': 'Kusilau',
+  'pain': 'Kusat (n.)',
+  'bank': 'Kutra',
+  'if': 'Kuv',
+  'bearing': 'Kuvish (mech.)',
+  'wild': 'Kwai',
+  'undomesticated': 'Kwai',
+  'is that really you': 'Kwal se tu',
+  'frown': 'kwal-tor (v.)',
+  'afraid': 'Kwes',
+  'from a distance': "Kwi'",
+  'call to': "Kwi'shoret",
+  'push': 'Kwitau (v.)',
+  'mythological guardian spirit': "Kwohk'a",
+  'always': 'Kwon-sum',
+  'hit': ['Kwul (n.)','Kwul-tor (v.)'],
+  'strike': ['Kwul (n.)', 'Kwul-tor (v.)'],
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
@@ -857,6 +976,26 @@ let vulcan = {
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
