@@ -862,6 +862,8 @@ let vulcan = {
 
 //----------------------------------------
 // https://sebhastian.com/javascript-console-input/#:~:text=Getting%20user%20input%20from%20the,const%20input%20%3D%20prompt()%3B
+
+/*
 const readline = require("readline");
 
 const rl = readline.createInterface({
@@ -875,9 +877,55 @@ rl.question("Enter a English to Vulcan word: ", function (answer) {
   console.log(` ... in Vulcan is ${vulcan[answer]} \n`)
   rl.close();
 });
+
+*/
 //----------------------------
 
 word1 = 'privacy'
 word2 ='solitude'
 
 // console.log(`${vulcan[word2]}` )
+
+
+
+
+//---------- js object to JSON
+const JSONobj = JSON.stringify(vulcan)
+
+// console.log(JSONobj)
+
+
+//----------- JSON to js
+const jsObj = JSON.parse(JSONobj)
+
+// console.log(jsObj)
+
+
+
+
+// make request for a JSON file to fetch data
+
+/*
+async function getData() {
+  
+  try {
+    // fetch JSON file
+    const data = await fetch('./vulcan/dictionary.js')
+
+    console.log(data)
+    
+    // const res = await data.text()
+    // let res = await data.json()
+    // console.log(JSON.parse(res))
+
+    const res = await data.json()
+    console.log(res ) // returns js object 
+  }
+  catch (e) {
+    console.log('Error', e)
+  }
+};
+
+getData()
+
+*/
