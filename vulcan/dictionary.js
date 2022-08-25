@@ -2114,7 +2114,7 @@ let vulcan = {
   'computer program': 'Tumak',
   'program': 'Tumau (v.)',
   'care': 'Tun (n.)',
-  
+  // 55
 
 
 
