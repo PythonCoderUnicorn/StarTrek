@@ -30,3 +30,51 @@
 | vi'       | into              |
 | za'       | behind            |
 
+
+
+
+## Common combining/modifying prefixes
+
+| prefix        | meaning           |
+|---------------|-------------------|
+| abru-         | over, up          |
+| dan-          | -est, most -      |
+| ek'           | all, total        |
+| fa-           | fore-, front-     |
+| fe-           | pre- , ante-      |
+| fna-          | through-          |
+| fu-           | proto-            |
+| i'            | now, this moment  |
+| ish-          | that              |
+| ki'           | to have + verb    |
+| kup-          | to be able to     |
+| kwi-          | tele-             |
+| la'           | here              |
+| lau-          | may, might        |
+| mes-          | cross-            |
+| mesakh        | trans-            |
+| nash          | this              |
+| ne-           | under- , down-    |
+| nuh'          | too               |
+| pa-           | circum-           |
+| pi'           | diminitive prefix |
+| pla'          | back-, retro-     |
+| po-           | after- , post-    |
+| sa-           | ex- , away from   |
+| sha'          | one's own         |
+| shati         | auto-             |
+| shi'          | place of          |
+| si-           | exo- , outer-     |
+| tehn-         | anti-             |
+| tra'          | there             |
+| tvi-          | endo- , inner-    |
+| u'            | as, a             |
+| ul-           | semi-, demi-      |
+| va'           | infinite          |
+| va-           | re-               |
+| vesh'         | to have been, was |
+| weh-          | -er, more         |
+| wehk-         | multi-, poly-     |
+| za            | posterior, aft-   |
+
+
