@@ -90,7 +90,31 @@ Regular Strong verb
 
 
 
+## Pronunciation
 
+| letter    | pronunciation         |
+|-----------|-----------------------|
+| a         | "a"  {_ball_}         |
+| ah        | "o"   {_hot_}         |
+| ai        | "i"   {_nice_}        |
+| au        | "ou"  {_house_}       |
+| e         | "e"   {_bed_}         |
+| eh        | "eh"  {_yet_}         |
+| ei        | "a"   {_same_}        |
+| i         | "ee"  {_seem_}        |
+| ih        | "i"   {_hit_}         |
+| o         | "o"   {_home_}        |
+| oh        | "o"                   |
+| oi        | "oy"  {_boy_}         |
+| u         | "oo"  {_soon_}        |
+| uh        | "u"   {_ugly_}        |
+
+> Exceptions
+>  - ch as in [ch]eese
+>  - kh as German 'Bach' == 'k'
+>  - th as in [th]ank
+>  - y as in [y]ellow
+>  - zh as in [g]arage
 
 
 
@@ -216,4 +240,7 @@ Regular Strong verb
 | -yem          | -meal                     |
 | -yut          | -way, -path, -road        |
 | -zan-vel      | -scope                    |
+
+
+
 
