@@ -39,6 +39,38 @@ Weak verb
 
 
 
+Irregular Strong verb
+
+| Sariah (to come)                  |                                   |
+|-----------------------------------|-----------------------------------|
+| Sariah nash-veh = I come          | Sariah etek = we come             |
+| Sariah du = you come (singular)   | Sariah dular = you (plural) come  |
+| Sariah ish-veh = she/he/it comes  | Sariah au = they come             |
+
+
+- Vesht sariah nash-veh = I came
+- Ki'sariah nash-veh = I have come
+- Kup-sariah  nash-veh = I am able to come
+- Kupi-sariah nash-veh = I could come
+- Dungi-sariah nash-veh = I will come
+- Dungau-sariah nash-veh = I shall come
+- Kupi ki'sariah nash-veh = I could have come
+- Dungi ki'sarlah nash-veh = I will have come
+- vesht dungi ki'sarlah nash-veh = I would have come
+- vesht kup-sariah nash-veh = I was able to come 
+- dungi kup sariah nash-veh = I will be able to come 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Common prepositional/ directional prefixes
 
 | prefix    | meaning           |
