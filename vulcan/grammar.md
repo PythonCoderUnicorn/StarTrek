@@ -8,7 +8,33 @@
 Vulcan alphabet has 27 letter symbols, the order is: 
 S T P K R L A Sh O U D V Kh E H G Ch I N Zh M Y F Z Th W B
 
+## Verbs 
 
+Vulcan has 3 types of verbs: weak, irregular strong and regular strong
+
+- weak verbs: "-tor"
+- irregular strong are ancient words, form of word stays the same for all persons 
+- regular strong '-au' for infinitive form (present & future) and '-all' for past tense
+
+
+Weak verb
+
+| Gla-tor (to see)                  |                                   |  
+|-----------------------------------|-----------------------------------|
+| Gla-tor nash-veh = I see          | Gla-tor etek = we see             |
+| Gla-tor du = you see              | Gla-tor dular = you (plural) see  |
+| Gla-tor ish-veh = she/he/it sees  | Gla-tor au = they see             |
+
+
+- Vesht gla-tor nash-veh = I saw
+- Ki'gla-tor nash-veh = I have seen
+- Kup gla-tor nash-veh = I am able to see 
+- Kupi glat-tor nash-veh = I could see
+- Dungi gla-tor nash-veh = I shall see
+- Kupi ki'gla-tor nash-veh = I could have seen
+- Vesht dugi ki'gla-tor nash-veh = I would have seen
+- Vesht kup gla-tor nash-veh = I was able to see
+- Dungi kup gla-tor nash-veh = I will be able to see
 
 
 
