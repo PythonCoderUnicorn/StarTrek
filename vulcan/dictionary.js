@@ -2429,7 +2429,8 @@ let vulcan = {
   'laborer':'Zupsu',
   'gadget':'Zuvel'
 
-
+  // 351
+  
 
 
 
