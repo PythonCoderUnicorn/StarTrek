@@ -3,6 +3,15 @@
 # Vulcan Grammar
 
 
+## Alphabet
+
+Vulcan alphabet has 27 letter symbols, the order is: 
+S T P K R L A Sh O U D V Kh E H G Ch I N Zh M Y F Z Th W B
+
+
+
+
+
 
 ## Common prepositional/ directional prefixes
 
