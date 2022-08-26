@@ -78,3 +78,43 @@
 | za            | posterior, aft-   |
 
 
+
+
+
+## Common suffixes 
+
+| suffix        | meaning                   |
+|---------------|---------------------------|
+| -an           | added to name (Mr/Mrs)    |
+| -lar          | plural                    |
+| -su           | -er, -or, -ist, -person   |
+| -tra          | mass, expanse, grouping   |
+| 'es           | -ness, -ity, -cy, -tion   |
+| 'Kahr         | city, town, -ville        |
+| 'le           | -ward, -ways              |
+| 'rak          | position, placement, -th  |
+| -akteiben     | -ment, -tion              |
+| -bosh         | -ful, a lot of something  |
+| -elakh        | -line, -wire, cable       |
+| -fam          | -less, lacking, without   |
+| -hali         | vessel, vehicle, -ship    |
+| -kahk         | -like                     |
+| -kam          | denotes affection         |
+| -kan          | child                     |
+| -kel          | building, strcuture       |
+| -kelek        | -home, -house             |
+| -kov          | -rock, -stone             |
+| -kur          | color                     |
+| -lan          | designates military rank  |
+| -razh         | -hole, -shaft             |
+| -tal          | -ology, study, discipline |
+| -tor          | noun into verb            |
+| -tukh         | stuff, material           |
+| -veh          | -one, -body               |
+| -vel          | object, -thing, item      |
+| -wilat        | -where, -place            |
+| -yehat        | -able, -ible              |
+| -yem          | -meal                     |
+| -yut          | -way, -path, -road        |
+| -zan-vel      | -scope                    |
+
