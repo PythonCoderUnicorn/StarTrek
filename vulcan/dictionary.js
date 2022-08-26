@@ -2292,7 +2292,7 @@ let vulcan = {
   'called':'Wimish',
   'tolerance':"Wivel'es",
   'tolerate':'Wivelau',
-  'funnel":'Woht (n.)',
+  'funnel':'Woht (n.)',
   'narrow':'Wonil',
   'never':'Worla',
   'long':'Wu',
