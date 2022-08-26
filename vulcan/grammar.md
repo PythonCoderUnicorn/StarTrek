@@ -63,6 +63,38 @@ Irregular Strong verb
 
 
 
+Regular Strong verb
+
+| Pekhau (to stop)                  |                                   |
+|-----------------------------------|-----------------------------------|
+| Pekhau nash-veh = I stop          | Pekhau etek = we stop             |
+| Pekhau tu = you stop (singular)   | Pekhau tular = you (plural) stop  |
+| Pekhau ish-vek = she/he/it stops  | Pekau au = they stop              |
+
+
+- pekhal nash-veh = I stopped
+- ki'pekhal nash-veh = I have stopped
+- kup-pekhau nash-veh = I am able to stop
+- kupi-pekhau nash-veh = I could stop
+- dungi-pekhau nash-veh = I will stop
+- dungau-pekhau nash-veh = = I shall stop 
+- kupi ki'pekhal nash-veh = I could have stopped
+- dungi ki'pekhal nash-veh = I would have stopped
+- dungau ki'pekhal nash-veh = I should have stopped
+- kup-pekhal nash-veh = I was able to stop
+- dungi kup-pekhau nash-veh = I will be able to stop
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
