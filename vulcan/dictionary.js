@@ -2794,7 +2794,25 @@ let vulcan = {
   'eyelid': ['tvi-bezhun-wein (inner)', 'si-bezhun-wein (outer'],
   
   // f
-  
+  'face': 'limuk',
+  'fat': "thel'a",
+  'fat embolism': "thel'a-di'kish-torek",
+  'fatigue': 'zung',
+  'fatty acid': "thel'a-sash",
+  'feces': 'pekh',
+  'feeling': 'olaya',
+  'female': ['kotik (adj)', 'ko (n.)'],
+  'femoral artery': "uzh-khaf-mev t'abru-mal",
+  'femoral nerve': "nen-wel t'abru-mal",
+  'femur': 'abru-mal-hinek',
+  'fertile': 'kanashik',
+  'fertility': "kanash'es",
+  'fertilize': 'vikantau',
+  'fertilization': 'vikantaya',
+  'fetus': 'tvi-kan-bu',
+  'fever': 'tau',
+  'fiber': 'slah',
+  'fibroid tumor':'slah-gnal'
   
 
 
