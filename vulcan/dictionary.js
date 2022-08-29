@@ -2812,7 +2812,31 @@ let vulcan = {
   'fetus': 'tvi-kan-bu',
   'fever': 'tau',
   'fiber': 'slah',
-  'fibroid tumor':'slah-gnal'
+  'fibroid tumor': 'slah-gnal',
+  'fibula': 'vaukh-hinek',
+  'filtration': 'kapol-toraya',
+  'finger': 'ozh',
+  'fist': 'ozh-dukal',
+  'fission': 'nala-dahshaya',
+  'flaccid': 'nemosik',
+  'flesh': 'kahmtra',
+  'flexion': 'tedvun',
+  'fold': 'heshan',
+  'folic acid': 'khub-sash',
+  'follicle': "pi'haf",
+  'foot': "ash'ya",
+  'forearm': 'ne-kar',
+  'forebrain': "fa-shi'nahp",
+  'forehead': 'fa-patam',
+  'fracture': 'shaya',
+  'fraternal twins': "dahsular s'natya-yu-murlar",
+  'frostbite': 'le-suma-yontaya',
+  'fructose': 'savas-slor-tukh',
+  'fusion': 'nala-kaunshaya',
+  
+  // g
+  
+  
   
 
 
