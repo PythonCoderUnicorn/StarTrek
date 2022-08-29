@@ -2875,6 +2875,51 @@ let vulcan = {
   'gynecologist': 'ko-hassu',
   
   // h
+  'habit': "es'meka",
+  'hair': 'isachya',
+  'hand': "el'ru",
+  'head': 'patam',
+  'headache': 'patam-kusat',
+  'healing': 'hakaya',
+  'health': "muh'les",
+  'hearing': 'zhu',
+  'heart': 'khaf-spol',
+  'heart attack': 'khaf-spol-mahai',
+  'heart failure': 'khaf-spol-vravshaya',
+  'heart rate': 'khaf-spol-tav',
+  'heart valve': 'khaf-spol-spunek',
+  'heartbeat': "nel-dath t'khaf-spol",
+  'heartburn': 'skaun-yon',
+  'heel': 'timut',
+  'hematoma': 'khaf-yarek',
+  'hemoglobin': 'khaf-esh-mil',
+  'hemolytic anemia': "ritsuri-nehaya-nosh t'khaf-meil",
+  'hemophilia': 'ritsuri-vihk-nosh',
+  'hemorrhage': 'khafaya',
+  'hemostasis': 'khafau-pehkaya',
+  'hepatitis': 'nehasamek-yonshaya',
+  'hepatoma': 'nehasamek-gnal',
+  'hereditary': 'samekhik',
+  'hernia': 'faka',
+  'hiatus': 'sharu',
+  'hiccup': 'huhk',
+  'hip': 'gaf',
+  'hormone': 'dau-tukh',
+  'humerus': 'abru-kar-hinek',
+  'hyoid bone': 'lahv-hinek',
+  'hyperglycemia': "pid-nosh t'khaf-slor-tukh",
+  'hyperplasia': 'pid-krus-storaya',
+  'hypertrophy': 'krus-sukaya',
+  'hypoglycemia': "neik-nosh t'khaf-slor-tukh",
+  'hypospray': 'pa-vipohtek',
+  'hypotension': "neik-khaf-ne'hish",
+  'hypothalamus': 'is-lof-svitan',
+  'hypoxia': "nuh'neik-esh-tukh svi'khaf",
+  'hysterectomy': 'sudef-snem',
+  
+
+  // i
+  
   
   
   
