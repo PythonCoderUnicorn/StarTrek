@@ -2961,6 +2961,13 @@ let vulcan = {
   'itching':'drizhan',
 
   // j
+  'jaundice': "kur-nosh t'thel'a-zalu-masu svi'khaf",
+  'jaw': 'ahs',
+  'joint': 'lesek',
+  'juice': 'samasu',
+  'jugular vein': "os-khaf-mev t'talu",
+  
+  // k
   
   
   
