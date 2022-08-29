@@ -3047,6 +3047,41 @@ let vulcan = {
   'myosarcoma': 'dvunek-rasahtra',
   
   // n
+  'nail': 'felu',
+  'nasal cavity': 'han-tauk',
+  'nasal septum': 'han-temok',
+  'nasal sinus': "han-pi'tauk",
+  'nasolacriminal duct': 'han-bezhun-mev',
+  'nasopharynx': 'han-drahk',
+  'nausea': 'slakh',
+  'navel': 'kesazh',
+  'neck': 'talu',
+  'necrosis': 'nalatra-tevakh',
+  'neonatal': 'uzh-keshtik',
+  'neoplasm': 'uzh-rasahtra',
+  'nephralgia': 'kapol-nafek-kusut',
+  'nephritis': 'kapol-nafek-yonshaya',
+  'nerve': 'wel',
+  'neural transponder': 'wel-vavayek',
+  'neuralgia': 'wel-kusut',
+  'neuritis': 'wel-yonshaya',
+  'neurogenesis': 'wel-storaya',
+  'neurohormone': 'wel-dau-tukh',
+  'neurotransmitter': 'wel-sasayek',
+  'neurotoxin': 'wel-hasam',
+  'neuron': 'wel-nala',
+  'newborn': 'uzh-kesktu',
+  'nightmare': "yuk-eshu'a",
+  'nipple': 'thasek-gonaf',
+  'node': 'kal',
+  'nose': 'han',
+  'nosebleed': 'han-khafaya',
+  'nostrils': 'han-sharular',
+  'numbness': "rikashan'es",
+  'nutrient': 'yem-tanek',
+  
+  // o
+  
   
 
   
