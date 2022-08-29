@@ -3081,7 +3081,31 @@ let vulcan = {
   'nutrient': 'yem-tanek',
   
   // o
+  'obese': "thel'anik",
+  'obesity': "thel'an'es",
+  'obsession': "ritsuri-wuh-set'ko",
+  'obstetrician': 'ko-kesh-hassu',
+  'obstruction': 'klotaya',
+  'occipital bone': "patam-pla'dor-hinek",
+  'occupational disease': "ar'kada-has",
+  'oculus': 'bezhun',
+  'odor': 'vil',
+  'ointment': 'elmuvak',
+  'olfaction': 'fnish-kash-ral',
+  'olfactory nerve': 'fnish-wel',
+  'oozing': 'stan',
+  'opening': 'sharu',
+  'optic nerve': 'glan-wel',
+  'organ': 'nafek',
+  'ovarian cancer': 'yukal-rasahtra',
+  'ovarian cyst': 'yukal-masu-haf',
+  'ovary': 'yukal',
+  'ovulation': 'yu-mur',
+  'oxygenation': 'esh-tukhaya',
   
+  // p
+  
+
   
 
   
