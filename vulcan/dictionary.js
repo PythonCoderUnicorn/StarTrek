@@ -2919,6 +2919,48 @@ let vulcan = {
   
 
   // i
+  'identical twins': "dahsular s'ka-yu-mur",
+  'identity': "sha'es",
+  'immune': 'tefoshik',
+  'immune response': 'tefosh-kesaya',
+  'immune system': 'tefosh-torektra',
+  'immunity': "tefosh'es",
+  'implant': ['vishitaya (n.)', 'vishitau (v.)'],
+  'impregnate': 'viyatau',
+  'in situ': 'tvi-shitik',
+  'in utero': 'tvi-sudefik',
+  'in vitro': 'saha-velik',
+  'in vivo': 'tvi-ha-velik',
+  'incision': 'nesh',
+  'infant': 'kan-bu',
+  'infarction': 'vivotaya',
+  'infertile': 'rikanashik',
+  'inflammation': 'yonshaya',
+  'infusion': 'vismashaya',
+  'inguinal hernia': 'neikah-faka',
+  'inhalation': "vi'le-eshan",
+  'inherent': 'tvi-keshik',
+  'injection': 'vipohshaya',
+  'injury': 'dash',
+  'inner ear': 'tvi-khaluk',
+  'innoculation': 'vi-kasaya',
+  'inoculum': 'vi-kas',
+  'inspiration': "vi'le-eshan",
+  'insemination': 'sa-neitaya',
+  'insulin': 'slor-dau-tukh',
+  'integumentary system': "ek'wadi-torektra",
+  'internal': "svi'udish",
+  'internal injury': 'tvi-dash',
+  'internal organs': 'tvi-nafeklar',
+  'intestine': 'pekh-mev',
+  'intravenous': 'viosik',
+  'involuntary': 'shatipik',
+  'iris': 'kurak',
+  'iritis': 'kurak-yonshaya',
+  'itch': 'drizh',
+  'itching':'drizhan',
+
+  // j
   
   
   
