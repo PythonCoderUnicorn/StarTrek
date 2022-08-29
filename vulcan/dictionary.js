@@ -2958,7 +2958,7 @@ let vulcan = {
   'iris': 'kurak',
   'iritis': 'kurak-yonshaya',
   'itch': 'drizh',
-  'itching':'drizhan',
+  'itching': 'drizhan',
 
   // j
   'jaundice': "kur-nosh t'thel'a-zalu-masu svi'khaf",
@@ -2979,7 +2979,39 @@ let vulcan = {
   'knuckle': 'ozh-lesek',
   
   // l
+  'laceration': 'nesh',
+  'lactase': 'thas-skaun-zalu',
+  'laproscope': 'feshek-zan-vel',
+  'laparotomy': 'feshek-sharushan',
+  'laryngitis': "shi'spes-yonshaya",
+  'laryngopharynx': 'neik-drahk',
+  'larynx': "shi'spes",
+  'leg': 'mal',
+  'eye': 'gelek',
+  'lesion': 'sval',
+  'leukocyte': 'wan-khaf-nala',
+  'ligament': 'hinek-tersayek',
+  'limb': 'sikrus',
+  'limbic system': 'zherka-torektra',
+  'lip': 'bru',
+  'lipoprotein': "thel'a-ketek",
+  'liver': 'nehasamek',
+  'lobe': 'shal-kal',
+  'lumbar nerve': "ne-pla'dor-wel",
+  'lumbar vertebra': "ne-pla'dor-hinek",
+  'lump': 'vihk',
+  'lung': 'eshaf',
+  'lymph': 'yak',
+  'lymph node': 'yak-kal',
+  'lymph vessel': 'yah-mev',
+  'lymphoblast': 'rivinik yak-nala',
+  'lymphocyte': 'yak-nala',
+  'lymphoma': 'yak-gnal',
+  'lysosome': "skaun-pi'vel",
   
+  // m
+  
+
   
   
   
