@@ -2705,7 +2705,44 @@ let vulcan = {
   'deafness': "zhu-fam'es",
   'death': 'tevakh',
   'decay':'nehaya',
-
+  'defecation': 'pekhaya',
+  'deficiency': "fam-nosahp'es",
+  'deformity': "riyeht-shid'es",
+  'dehydration': 'nemashaya',
+  'delusion': 'plokh',
+  'dentrite': 'wel-gel',
+  'deoxyribonucleic acid': "sash t'dah-ha-svitan",
+  'DNA': "sash t'dah-ha-svitan",
+  'dermal regenerator': 'wadi-vaferek',
+  'detoxification': 'nehasamaya',
+  'development': 'storaya',
+  'deviant': 'tekerik',
+  'diabetes': "ritsuri-nosh t'slor-dau-tukh",
+  'diagnosis': 'nosh-satalaya',
+  'diaphragm': 'esh-dvunek',
+  'differential diagnosis': 'natya-nosh-satalaya',
+  'differentiation': 'natyataya',
+  'diffusion': 'sasak',
+  'digestion': 'skaun',
+  'digestive tract': "skaun-ek'ur",
+  'digit': 'uk',
+  'dilation': 'eiksharu',
+  'disability': "rikup'es",
+  'discharge': 'khrasaya',
+  'disease': 'has',
+  'dislocation': 'sashitaya',
+  'dissection': 'dahil-neshan',
+  'dizygotic twins': "dahsular s'natya-yu-murlar",
+  'dominant gene': 'abru-tol',
+  'dose': 'fim',
+  'drainage': 'smashaya',
+  'duct': 'mev',
+  'dysentery': 'pekh-mev-yonshaya',
+  'dysfunction': 'ritsuri-is-lof',
+  
+  // e
+  
+  
 
 
 
