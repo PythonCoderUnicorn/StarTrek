@@ -3010,6 +3010,43 @@ let vulcan = {
   'lysosome': "skaun-pi'vel",
   
   // m
+  'marcophage': "suk'yokul-nala",
+  'male': 'sa',
+  'malignant': 'tevrasahkos',
+  'mammary gland': "thas-pi'nafek",
+  'mandible': 'neik-ahs',
+  'maturation': 'vin',
+  'maturity': "vin'es",
+  'medication': 'haseret',
+  'medulla oblongata': 'is-lof-svitan',
+  'meiosis': 'ulef-nala-dahsaya',
+  'melanin': 'mu-kur-tukh',
+  'melanocyte': 'mu-kur-nala',
+  'melanoma': "wadi-rasahtra t'mu-kur-nalalar",
+  'membrane': 'nala-tin',
+  'memory': 'vokaya',
+  'metabolism': "di'kish-torek",
+  'metatarsus': "svitan-ash'ya-hinek",
+  'microorganism': 'numo-ha-vel',
+  'microsurgery': 'numo-sharushan',
+  'middle ear': 'svitan-kaluk',
+  'milk': 'thas',
+  'mitochondrion': 'nala-tepul-vel',
+  'mitosis': "ek'nala-dahsaya",
+  'molar': 'nal-zud',
+  'monozygotic twins': "dahsular s'ka-yu-mur",
+  'motion': 'dvunel',
+  'mouth': "ru'lut",
+  'movement': 'dvun',
+  'mucous membrane': 'prash-nala-tin',
+  'mucous': 'prash',
+  'muscle': 'dvunek',
+  'myalgia': 'dvunek-kusut',
+  'myocardial infarction': "shal-tevakh t'khaf-spol-dvunek",
+  'myopia': 'fa-thakau-nosh',
+  'myosarcoma': 'dvunek-rasahtra',
+  
+  // n
   
 
   
