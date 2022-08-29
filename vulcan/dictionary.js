@@ -2968,6 +2968,17 @@ let vulcan = {
   'jugular vein': "os-khaf-mev t'talu",
   
   // k
+  'keratin': 'si-ketek',
+  'ketoacidosis': 'nalesh-sash-nosh',
+  'ketone': 'nalesh-tukh',
+  'ketosis': 'pid-nalesh-nosh',
+  'kidney': 'kapol-nafek',
+  'knee': 'mal-nef',
+  'knee joint': 'mal-nef-lesek',
+  'kneecap': 'mal-nef-hinek',
+  'knuckle': 'ozh-lesek',
+  
+  // l
   
   
   
