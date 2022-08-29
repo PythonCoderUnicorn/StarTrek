@@ -2427,10 +2427,47 @@ let vulcan = {
   'tired':'Zungor',
   'labor':'Zup-tor (v.)',
   'laborer':'Zupsu',
-  'gadget':'Zuvel'
+  'gadget':'Zuvel',
 
-  // 351
+  // 351 - Medical Terms
+  'anatomy': 'Vukhut-tal',
+  'anesthesiology': 'Kashan-ne-tal',
+  'angiology': 'Vukhut-mev-tal',
+  'audiology': 'Ralash-tal',
+  'biochemistry': 'Ha-meil-tal',
+  'biophysics': 'Ha-tor-tal',
+  'cardiology': 'Khaf-spol-tal',
+  'cytology': 'Nala-tal',
+  'dermatology': 'Wadi-tal',
+  'epidemiology': 'Has-sak-tal',
+  'ergonomics': 'Zup-dvun-tal',
+  'eugenics': 'Tash-noshtra-tal',
+  'gastroenterology': "Shaun-ek'ur-tal",
+  'genetics': 'Tol-tal',
+  'geriatics': 'Shakhu-tal',
+  'gerontology': 'Shakhuvaya-tal',
+  'hematology': 'Khaf-tal',
+  'hepatology': 'Nehasamek-tal',
+  'histology': 'Numo-kelek-tal',
+  'kinesiology': 'Vukhut-dvun-tal',
+  'microbiology': 'Numo-ha-tal',
+  'mycology': 'Luk-tal',
+  'neonatology': 'Uzh-keshtu-tal',
+  'nephrology': 'Kapol-nafek-tal',
+  'oncology': 'Gnal-tal',
+  'osteology': 'Hinek-tal',
+  'pathology': 'Has-tal',
+  'pharmacology': 'Haseret-tal',
+  'physiology': 'Is-lof-tal',
+  'proctology': 'Pekh-vat-tal',
+  'psychiatry': 'Kashkau-tal',
+  'psychology': 'Kloshai-tal',
+  'toxicology': 'Gisam-tal',
+  'urology': "Vazh-ek'ur-tal",
+
+  'abdomen': 'Feshek'
   
+
 
 
 
