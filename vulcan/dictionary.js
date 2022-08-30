@@ -3151,9 +3151,10 @@ let vulcan = {
   'pus': 'kuhku',
   
   // q
+
   
   // r 
-   'radiation sickness':'saya-has-mar',
+  'radiation sickness':'saya-has-mar',
   'radicle':'wel-gir',
   'radius':'sik ne-kar-hinek (bone)',
   'range of motion': "dvunel-eik'es",
@@ -3171,7 +3172,7 @@ let vulcan = {
   'rib':'bak',
 
   // s 
-  'sacral vertebra':"pla'krus-hinek',
+  'sacral vertebra':"pla'krus-hinek",
   'saliva':"ru'lut-masu",
   'salt depletion':'alem-sis',
   'sarcoid':'kahmtraik',
@@ -3255,7 +3256,7 @@ let vulcan = {
   'throat':'drahk',
   'throbbing':'gaya',
   'thymus':"tuf-pi'nafek",
-  'thyroid gland':"drahk-pi'nafek"
+  'thyroid gland':"drahk-pi'nafek",
   'tibia':'ne-mel-hinek',
   'tissue':'nalatra',
   'toe':'gof',
@@ -3304,7 +3305,8 @@ let vulcan = {
   'yawning':'luvaya',
     
   'zygote':'sto-yu-mur'
-  
+
+
 
   //-------- 392 - tech
 
