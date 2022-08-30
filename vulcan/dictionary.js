@@ -3577,7 +3577,23 @@ let vulcan = {
   'fusion reactor': 'galu-kaunshau-folayek',
   
   // g
+  'generator': 'ferek',
+  'gravimetric pulse': 'seshilan-sagaya',
+  'gravimetric scanner': 'seshilan-glashayek',
+  'gravimetric shear': 'seshilan-eitaya',
+  'gravimetric calipers': 'seshu-bal-thonek',
+  'gravitic sensor':'seshu-kashek',
+  'graviton beam': "sesh'gal-zehlek",
+  'graviton beam emitter': "sesh'gal-zehlek-sayek",
+  'graviton field': "sesh'gal-vunai",
+  'graviton stabilizer': "sesh'gal-tihetilayek",
+  'gyrodyne relay': "pada-toranu-gol'dvunek",
+  'gyromagnetic stabilizer': "pada-seshan-tihetilayek",
+  'gyroscope': "vo'ekti-padanek",
   
+  // h
+  
+
 
   
   
