@@ -3664,6 +3664,29 @@ let vulcan = {
   'jeffries tube': "thro-mev t'Dzhefris",
   
   // k
+  'key': 'tal-muv',
+  'keyboard': 'ozh-svin-math',
+  
+  // l
+  'LaCoya spanner': "mish-raul t'LaKoya",
+  'landing bay': 'fisolekau-sutauk',
+  'laser': "ha'zehlek",
+  'lateral impulse control system': 'vlaik kwitau-tash-torektra',
+  'lateral impulse thruster': 'vlaik kwitau-kwitek',
+  'launch bay': 'spusau-sutauk',
+  'launch sequencer': 'spusau-zehlanayek',
+  'library computer': 'oska-tum-vel',
+  'LCARS': "Ek'thro-torektra t'Oska-tum-vel",
+  'library computer access and retrieval system': "Ek'thro-torektra t'Oska-tum-vel",
+  'life support': "ha'kiv-nenikaya",
+  'light panel': "ha'gel-math",
+  'lighting': "ha'gelan",
+  'linear intermix system': 'zehlik rish-folau-torektra',
+  'linear intermix chamber': 'zehlik rish-folau-vel',
+  'lock': 'klachek',
+  
+
+  // m
   
 
 
