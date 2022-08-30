@@ -3661,6 +3661,9 @@ let vulcan = {
   'isomagnetic conduit': 'ka-seshan-mev',
   
   // j
+  'jeffries tube': "thro-mev t'Dzhefris",
+  
+  // k
   
 
 
