@@ -3687,8 +3687,52 @@ let vulcan = {
   
 
   // m
+  'machine': 'mish-vel',
+  'magnathrust propulsion unit': "datau-kebi t'seshan-kwit",
+  'magnetic field drive': 'seshan-vunai-yeturek',
+  'magnetic field intensity': "seshan-vunai-karik'es",
+  'magnetic flow field': 'seshan-yumau-vunai',
+  'magnetic plasma guide': 'seshan-snazh-kakhartayek',
+  'magnetic seal interlock': "tvi-klacheck t'seshan-fen",
+  'main archives': 'nen-oska',
+  'main armory': 'nen-wun-shal',
+  'main bridge': 'nen-tash-svitan',
+  'main computer processor': "nen-patorayek t'tum-vel",
+  'main engineering': 'nen-mish-sutauk',
+  'main viewer': 'nen-gluvayek',
+  'manifold': 'wehk-vel',
+  'manual hatch control': "el'rupik thro-svep-tashek",
+  'matrix inverter': 'viskulan-abomesayek',
+  'matter antimatter containment system': "tuhlau-torektra t'tukh-tehn-tukh",
+  'matter antimatter reactor': "folayek t'tukh-tehn-tukh",
+  'matter antimatter reactor assembly':"folayek-feretai t'tukh-tehn-tukh",
+  'matter antimatter storage facility': "korsau-kebitra t'tukh-tehn-tukh",
+  'mechanism': 'tor-vel',
+  'medical stasis unit': 'has-vitau-kebi',
+  'medical tricorder': 'has-reh-vipladayek',
+  'memory chip': 'vokau-val',
+  'memory core': 'vokau-tviyan',
+  'microcomputer': 'numo-tum-vel',
+  'micro diagnostic table': 'numo-satalau-pasu',
+  'microcellular scanner': 'numo-nala-glashayek',
+  'microdyne coupler': 'numo-toranu-teretek',
+  'microfusion reactor': 'numo-kaunshau-folayek',
+  'microinducer': 'numo-vimevilayek',
+  'micropower conduit': 'numo-tepul-mev',
+  'micropower relay': "numo-tepul-gol'dvunek",
+  'modulator': 'nakihtilayek',
+  'molecular imagine scanner': "galutravek-glakuv-glashayek",
+  'monitor': ['glantayek (checking device)', 'gluvayek (viewscreen)'],
+  'morphogenic matrix': 'shid-rub-viskulan',
+  'multispatial force field': 'wehk-stukhik fosh-vunai',
+  'multispectral sweep': 'wehk-kurtra-fnash',
+  'multidimensional transporter': 'wehk-retuka-ifisek',
+  'multiphasic scan': 'wehk-wek-glashaya',
+  'multiphasic shielding': 'wehk-wekik fo-danan',
+  'multiphasic sweep': 'wehk-wek-fnash',
   
-
+  // n
+  
 
   
   
