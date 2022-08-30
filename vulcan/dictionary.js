@@ -3364,7 +3364,7 @@ let vulcan = {
   'bomb': 'thorshek',
   'booster': 'aborayek',
   'bottle': 'mashek',
-  'bridge': ['tash-svitan (command center)','mesut (struct)'],
+  'bridge': ['tash-svitan (command center)', 'mesut (struct)'],
   'buffer': 'fukat',
   'buffer circuit': 'fukat-raf-kuv',
   'bulkhead': 'tvi-temok',
@@ -3538,7 +3538,7 @@ let vulcan = {
   'EPS regulator': 'raf-snazh-pakhartayek',
   'EPS relay': "raf-snazh-gol'dvunek",
   'EPS system': 'raf-snazh-torektra',
-  'equipment': ['tanovau-tukh (gear)','mishitra (machinery'],
+  'equipment': ['tanovau-tukh (gear)', 'mishitra (machinery'],
   'exchange matrix': "di'kizh-viskulan",
   'evaporator': 'na-sovayek',
   'experiment': 'spolek',
@@ -3582,7 +3582,7 @@ let vulcan = {
   'gravimetric scanner': 'seshilan-glashayek',
   'gravimetric shear': 'seshilan-eitaya',
   'gravimetric calipers': 'seshu-bal-thonek',
-  'gravitic sensor':'seshu-kashek',
+  'gravitic sensor': 'seshu-kashek',
   'graviton beam': "sesh'gal-zehlek",
   'graviton beam emitter': "sesh'gal-zehlek-sayek",
   'graviton field': "sesh'gal-vunai",
@@ -3705,7 +3705,7 @@ let vulcan = {
   'matrix inverter': 'viskulan-abomesayek',
   'matter antimatter containment system': "tuhlau-torektra t'tukh-tehn-tukh",
   'matter antimatter reactor': "folayek t'tukh-tehn-tukh",
-  'matter antimatter reactor assembly':"folayek-feretai t'tukh-tehn-tukh",
+  'matter antimatter reactor assembly': "folayek-feretai t'tukh-tehn-tukh",
   'matter antimatter storage facility': "korsau-kebitra t'tukh-tehn-tukh",
   'mechanism': 'tor-vel',
   'medical stasis unit': 'has-vitau-kebi',
@@ -3732,6 +3732,17 @@ let vulcan = {
   'multiphasic sweep': 'wehk-wek-fnash',
   
   // n
+  'nacelle': 'mishu-leshek',
+  'nacelle support pylon': "nenikau-tersau-vel t'mishu-leshek",
+  'navigation station': 'kharau-shal',
+  'navigation control panel': 'kharau-tash-math',
+  'navigational deflector': 'kharau-sakwitayek',
+  'navigational deflector monitor': 'kharau-sakwitayek-glantayek',
+  'neural transponder': 'wel-vavayek',
+  'neuro electric field generator': "vunai-ferek t'wel-raf-tepul",
+  
+
+  // o
   
 
   
