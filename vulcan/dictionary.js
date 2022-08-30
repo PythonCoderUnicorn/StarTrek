@@ -3306,7 +3306,7 @@ let vulcan = {
   'zygote':'sto-yu-mur'
   
 
-  
+  //-------- 392 - tech
 
   
   
