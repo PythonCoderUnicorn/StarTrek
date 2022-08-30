@@ -3545,6 +3545,38 @@ let vulcan = {
   'explosives': 'thorshau-tukh',
   
   // f
+  'fabricator': 'zhukek',
+  'fiber optic cable': "ha'gel-slah-elakh",
+  'fiber optic data network': "faik-vistra t'ha'gel-slah-elaskh",
+  'field': 'vunai',
+  'field coil': 'vunai-pakuv',
+  'field generator matrix': 'vunai-ferek-viskulan',
+  'field stabilize filament': 'pelakh',
+  'filter': 'kapol',
+  'filtration': 'kapol-toraya',
+  'fingerprint scanner': 'ozhidar-glashayek',
+  'fire control panel': 'pohshau-tash-math',
+  'fire suppression system': 'yon-nelau-torektra',
+  'fission reactor': 'galu-dahshau-folayek',
+  'floor': 'lan-tol',
+  'flow monitor': 'yumau-thonek',
+  'flow regulator': 'yumai-pakhartayek',
+  'flow sensor': 'yumau-kashek',
+  'flux capacitor': 'gasu-tsorek',
+  'flux coupler': 'gasu-teretek',
+  'flux modifier safeties': "gasu-rubitau-ek'maneklar",
+  'food dispenser': 'yem-tanek',
+  'food synthesis unit': 'yem-fereik-kebi',
+  'force field': 'fosh-vunai',
+  'force field barrier': 'fosh-vunai-foshek',
+  'force field generator': 'fosh-vunai-ferek',
+  'forced ejection system': 'nekwitau-dakh-torektra',
+  'four way interlink shunt': 'keh-yutik tvinaf-mutau-vel',
+  'frequency discriminator': "vakav'es-sakathilayek",
+  'fuel': 'hal-tukh',
+  'fusion reactor': 'galu-kaunshau-folayek',
+  
+  // g
   
 
   
