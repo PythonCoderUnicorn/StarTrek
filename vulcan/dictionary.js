@@ -3444,26 +3444,72 @@ let vulcan = {
   'cryogenic fluid supply line': "tabilau-mev t'samu-tor-masu",
   
   // d
+  'damage control': 'zakar-tash',
+  'dampening field': 'fish-vunai',
+  'data crystal phase inverter': "wek-abomesayek t'faik-khush",
+  'data input access panel': "thro-wein t'faik-svin",
+  'data interface': 'faik-tvihanek',
+  'data network': 'faik-vistra',
+  'data node': 'faik-kal',
+  'data storage device': 'faik-tsorau-vel',
+  'deck': 'lan-tol',
+  'decoder': 'sakihtek',
+  'decompiler': 'satravilayek',
+  'decryption matrix': 'sasatilau-viskulan',
+  'deep space imaging system': "glakuvau-torektra t'glu-stukh",
+  'defense': 'fosh',
+  'deflector shield': 'sakwitayek',
+  'deflector shield grid': 'sakwitayek-vis',
+  'deflector array': 'sakwitayek-zehlaya',
+  'deflector field generator': 'sakwitayek-vunai-ferek',
+  'demodulator': 'sakihtilayek',
+  'dermal regenerator': 'wadi-vaferek',
+  'deuterium injector': "vipohshayek t'dah-masu-tukh",
+  'developer device': 'storayek',
+  'deviation plotter': 'tekeret-besayek',
+  'differential induction drive': 'natilau-vimevilau-yeturek',
+  'diffuser': 'sasek',
+  'dilithium': 'dah-pim-tukh',
+  'dilithium articulation frame': "terfitilau-nentu t'dah-pim-tukh",
+  'dilithium containment pedestal': "tuhlau-nelka t'dah-pim-khushlar",
+  'dilithium coupling': 'dah-pim-tersayek',
+  'dilithium crystal': 'dah-pim-khush',
+  'dilithium mining facility': "van-kebitra t'dah-pim-tukh",
+  'dilithium reactor': 'dah-pim-folayek',
+  'discriminator': 'sakathilayek',
+  'disintegrator': 'fezhilayek',
+  'dispenser': 'tanek',
+  'display': 'gluvayek',
+  'disruptor': 'feshelek',
+  'disruptor induction coil': "feshelek-vimevilau-pakuv",
+  'distress beacon': 'flakosh-glaribek',
+  'distress signal': 'flakosh-glantokaya',
+  'distribution manifold': 'sagan-wehk-vel',
+  'distribution node': 'sagan-kal',
+  'distributor': 'saganek',
+  'DNA acquisition sensor': "prah-kashek t'SDH",
+  'docking latch': 'kifau-kuhr',
+  'docking light': "kifau-ha'gel",
+  'docking port': 'kifau-tersvep',
+  'door': 'svep',
+  'drain pipe': 'smash-mev',
+  'drive': 'yeturek',
+  'drive section': 'yeturek-krus',
+  'driver coil': 'yetur-pakuv',
+  'driver coil assembly': 'yetur-pakuv-feretai',
+  'duct': 'mev',
+  'duonetic coupler': 'dah-fel-teretek',
+  'dynamo': 'toranelek',
+  'dyson sphere': "ek'kal t'daison",
+  
+  // e
+  
+
   
   
   
   
   
-
-
-
-
-
-
-
-
-  
-
-
-
-
-    
-    
 
 }
 
