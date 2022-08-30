@@ -3743,6 +3743,18 @@ let vulcan = {
   
 
   // o
+  'optical data network': 'gla-faik-vistra', // ODN
+  'optical interface': 'gla-tvihanek',
+  'optolithic data rod': 'gla-kovik faik-fek',
+  'optronic chip': "gla-ar'kada-val",
+  'optroni data core': "gla-ar'kadaik faik-tviyan",
+  'optronic integrator': "gla-ar'kada-ketilayek",
+  'optronic relay': "gla-ar'kada-gol'dvunek",
+  'osteoregenerator': 'hinek-vaferek',
+  'overload suppressor': 'abru-tus-nelayek',
+  
+
+  // p
   
 
   
