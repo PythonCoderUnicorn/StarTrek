@@ -3592,6 +3592,28 @@ let vulcan = {
   'gyroscope': "vo'ekti-padanek",
   
   // h
+  'hallway': 'tvur',
+  'hammer': 'mah-vel',
+  'hand phaser': "el'ru-wek-zehlek",
+  'hatch': 'hali-kel',
+  'hatch window': 'throp-svep-krani',
+  'heater': 'falekek',
+  'helm': 'dakharau-shal',
+  'helm control panel': 'dakharau-tash-math',
+  'high energy flux conductor': "gasu-spayek t'pid-tepul",
+  'high pressure atmospheric gas feed': "pid-ne'hish-mev t'igen-pa-tukh",
+  'hinge': "tu'adayek",
+  'holding cell': 'potau-tvi-shal',
+  'holo emitter': 'reh-bikuv-sayek',
+  'holodeck': 'reh-bikuv-sutauk',
+  'hologram': ['reh-bikuv (object)', 'reh-bikuvsu (sentient being)'],
+  'holomatrix': 'reh-bikuv-viskulan',
+  'hydrospanner': 'vunai-mish-raul',
+  'hyper impulse drive': "pid-kwitau-yeturek",
+  'hyperspanner': 'wek-mish-raul',
+  'hypospray': 'pa-vipohtek',
+  
+  // i
   
 
 
