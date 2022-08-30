@@ -3823,6 +3823,15 @@ let vulcan = {
   'pulse generator': 'sagau-ferek',
   
   // q
+  'quantum field': 'numen-vunai',
+  'quantum flux regulator': 'numen-gasu-pakhartayek',
+  'quantum matrix': 'numen-viskulan',
+  'quantum phase inhibitor': 'numen-wek-netehnovayek',
+  'quantum scanner': 'numen-glashayek',
+  'quantum torpedo': 'numen-lushun',
+  'quarters': 'ha-shal',
+  
+  //r 
   
 
   
