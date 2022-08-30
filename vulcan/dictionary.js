@@ -3349,6 +3349,30 @@ let vulcan = {
   'axonal amplifier': 'wel-elakh-ashenayek',
   
   // b
+  'backup data network': 'kvath-faik-vistra',
+  'baryon sensor': "pu'gal-kashek",
+  'base': 'nen',
+  'beacon': 'glaribek',
+  'beam': "ha'zehl",
+  'beam emitter': "ha'zehl-sayek",
+  'beta matrix compositor': 'tih-viskulan-tertitayek',
+  'bioscanner': 'ha-glashayek',
+  'biogenic compound': 'ha-storau-tukh',
+  'biomimetic gel': "ha-va'amau-khlup",
+  'biosynthetic limb': 'ha-sutorik sikrus',
+  'blast shutter': 'thorsh-fo-wein',
+  'bomb': 'thorshek',
+  'booster': 'aborayek',
+  'bottle': 'mashek',
+  'bridge': ['tash-svitan (command center)','mesut (struct)'],
+  'buffer': 'fukat',
+  'buffer circuit': 'fukat-raf-kuv',
+  'bulkhead': 'tvi-temok',
+  'bussard collector': "tershayek t'Nussard",
+  'button': 'gonaf',
+  
+
+  // c
   
   
   
