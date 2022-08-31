@@ -32,13 +32,7 @@ CLASS , CLASSIFICATION_CODE
 
 
 
-PLASMA TORPEDO TABLE SUGGESTED ROMULAN SHUTTLE COMPLEMENTS
-Type § Base Damace Damace Loss The following guidelines indicate the average number of Size 2 ships
-Class XIV 600 6 points per +30,000 km (+1 MU) (shuttlecraft) Romulan starships tend to carry (they can also carry Size 1
-Class XV 900 6 points per +30,000 km (+1 MU) shuttlepods). A ship may substitute other small vessels, with the Narrator’s
-Class XVI 1,000 6 points per + 10,000 km (+0.33 MU) permission.
-Class XVII 1,200 6 points per + 10,000 km (+0.33 MU) Bird of Prey: 0-2 Courier: 0-1
-Class XVIII*1,500 6 points per +10,000 km (+0.33 MU) Cruiser: 20-40 Dreadnought: 30-50
+
 
 
 ROMULAN SHIELD DESIGNATION TABLE
@@ -52,11 +46,11 @@ Type R-ID Class 4 4x Size 610-800
 Type R-II Class 5 5x Size 810-1000
 Type R-II] Class 6 6x Size 1010-1200
 Type R-IV Class 7 7x Size 1210-1400
-/ J # mee IAN STAREHIP CONSTRUCTION ©
-—3 — —_
 
-™ a a1 U ae Beiec
-4i1P& qe RET ctl Air ree iin
+
+
+
+
 
 RECENT ROMULAN HISTORY
 
