@@ -1,0 +1,15 @@
+
+ship_type, avg_crew_per100
+bird of prey, 3
+courier, 3,
+cruiser, 25,
+dreadnought, 50
+frigate, 23
+gunship, 8
+medical, 42
+research_lab, 8
+scout, 6
+starbird, 22
+surveyor, 30
+transport, 3
+warbird, 40

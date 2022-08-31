@@ -29,55 +29,9 @@ CLASS , CLASSIFICATION_CODE
 
 
 
-
-
-eE THE Ri al TR Fie ik
-C ) A Pp T FE R T LL} p - PERSONNEL SYSTEMS
-= The accompanying tables provide information on Romulan crew
-RE 0 mM L L Al T Fi T Al RE Fi Hl | a complements. The statistics represent average percentages by
-department; individual ships’ complements may vary consider-
-Cc 0 n 5 T R 1 Cc T | 0 n ably from these figures. Some fleets like to staff their ships more
-densely; others, by preference or necessity, use fewer crewmem-
-bers.
-Fo THE MOST PART, Romulan ships use the same basic types of MAEDICAL FACILITIES AND SYSTEMS
-systems and technology as Starfleet vessels, albeit with occa- The Romulans have created their own version of EMH technol-
-sional variations in construction, underlying scientific principles ogy, but have not yet installed it on more than a few testbed ships.
-or doctrines, and of course aesthetics. Romulan ships and technol- porytan personnel seem much less sanguine about trusting their
-ogy are, generally speaking, more like Starfleet ships than either jp edical care to a “machine” than Starfleet crewmembers.
-Klingon or Cardassian craft—though important differences do
-exist, such as the use of cloaking devices and artificial quantum
-singularity drives. Except where noted below, all of the regular a a
-Spacedock rules for ship construction apply to Romulan vessels. :
-HULL SYSTEMS AVERAGE NUMBER OF ROMULAN CREWMEN BY SHIP
-ABLATIVE ARMOR TYPE
-The Romulans have access to ablative armor as of 2371, though
-they have not yet introduced it widely. Unfortunately, they cannot SHIP TYPE Averace Numer oF CREWMEN
-make it compatible with cloak-enhancing hulls (see below); a ship PER 100 SUs
-with one cannot have the other. Bird of Prey 3
-Courier 3
-CLOAK-ENHANCING HULL Coreen 95
-SU Cost: 2 x Size Dreadnought 50
-Power Cost: None Frigate 23
-Gunship 8
-The Romulans construct some of their vessels, such as the Medical A?
-D’deridex-class Heavy Warbird, with special hulls whose shape Research/Laboratory 8
-and composition enhance the effectiveness of a cloaking device. Scout 6
-Generally such hulls have a curvilinear shape, with relatively few Starbird 22
-straight lines or sharp corners to reflect an enemy vessel’s sensor Surveyor 30
-waves back to it. Typically the body of the vessel sort of encloses Transport 3
-the warp nacelles within this curvilinear framework, though the Warbird AO
-nacelles do not thereby qualify as embedded.
-A ship with a cloak-enhancing hull increases the effectiveness of A Romulan ship's Passenger complement is usually about
-its cloaking device by 1. For example, a ship with a Class 6 cloak 10-20% of its Crew, but this may vary depending upon the
-and a cloak-enhancing hull imposes a +7 Difficulty on attempts nature of the ship (a personnel transport or medical ship can
-to detect it, rather than the usual +6. typically carry more passengers than a Dreadnought or War-
-bird). A ship’s Evac complement ranges from 5-15 times the
-A ship with a cloak-enhancing hull cannot also have ablative size of its Crew (again, this may vary from ship to ship).
-armor, an energy sheath, or a ramming hull.
-=f£ SI ln
 ROMULAN CREW BREAKDOWNS
-BRANCHT DREADNOUGHT = WarsirD CRUISER / FRIGATE GUNSHIP Scout/ Science /
-STARBIRD Birp of Prey = Mebicat
+BRANCH DREADNOUGHT = Warbird CRUISER / FRIGATE GUNSHIP Scout/ Science /
+STARBIRD Birp of Prey 
 Command 18 17 17 20 18 14 12
 Operations
 Engineering/Technical 14 15 14 17 18 16 I]
@@ -87,12 +41,8 @@ Science
 Medical/Support ]2 13 10 10 15 08 34
 Science/Research 17 16 12 10 08 16 29
 Officers/Enlisted 32/68 30/70 29/71 27/73 34/66 65/35 33/67
-| Se A SE
-— — — a
-
-= — ~
-1iPS f TE RL al A Free in
-o o ef the ship enters subspace via its “funnel” other ships cannot detect
+ 
+the ship enters subspace via its “funnel” other ships cannot detect
 : it, allowing it to “appear” seemingly instantaneously in position
 ROMULAN RECREATION RATINGS to make devastating surprise attacks.
 Activating and using a gravity induction drive requires two full
