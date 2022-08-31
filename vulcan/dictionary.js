@@ -3962,7 +3962,7 @@ let vulcan = {
   'voice data selector':'spes-faik-dvelek',
 
   // w 
-  'warp core':tchas-tviyan',
+  'warp core':'tchas-tviyan',
   'warp core breach':'tchas-tviyan-shaya',
   'warp core matrix compositor':"viskulan-tertitayek t'tchas-tviyan",
   'warp conduit':'tchas-mev',
@@ -3973,7 +3973,7 @@ let vulcan = {
   'warp engine nacelle':'tchas-mishu-leshek',
   'warp factor':'tchas-klai',
   'warp field':'tchas-vunai',
-  'warp plasma conduit':tchas-snazh-mev',
+  'warp plasma conduit':'tchas-snazh-mev',
   'warp plasma filter':'tchas-snazh-kapol',
   'warp plasma stabilizer':'tchas-snazh-tihetilayek',
   'warp plasma subprocessor':"ne-patorayek t'tchas-snazh",
