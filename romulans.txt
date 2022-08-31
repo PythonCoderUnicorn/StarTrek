@@ -25,35 +25,11 @@ CLASS , CLASSIFICATION_CODE
 
 
 
-ROMULAN COURIERS CURRENTLY IN SERVICE
-(REPRESENTATIVE SELECTION)
-ScouTsS
-, , , , Class CLASSIFICATION CODE
-The Star Empire’s expansion and renewed emphasis on intel-
-. Belvidos SC
-ligence-gathering during the 24th century have led it to build Rehntet (
-more Scout ships, and use them for more missions, than ever Theron S(F
-before. Every fleet has its own contingent of Scouts, many of them theta S(S7
-upgraded or altered to optimize their ability to perform specific
-types of missions.
-COURIERS SI Aas ARO =
-Due to the vast size of their Empire, and their nigh-pathological
-need for secrecy, the Romulans use more types of Courier vessels ROMULAN SPECIALIZED, SUPPORT, AND AUXILIARY
-VESSELS CURRENTLY IN SERVICE
-(REPRESENTATIVE SELECTION)
-@obkKe > hel ' w Ciass C.assirication CODE
-D’seren TN
-ROMULAN BIRDS OF PREY CURRENTLY IN SERVICE Horos SVH
-(REPRESENTATIVE SELECTION) Neh‘vor SRS/SRL
-Class CLassiFIcATION CODE Phaeros MC
-Ganum BP Sethen TC
-Krenet BP Thoren’a MC
-Thereus BP Vasteme GC
-Vel’tar TTA
-Mithras (proposed) BPSW V’geren TTA
-Vithrel (proposed) BPSW Veranal TT0
-TE A Wo
-A= —=— =
+
+
+
+
+
 
 eE THE Ri al TR Fie ik
 C ) A Pp T FE R T LL} p - PERSONNEL SYSTEMS
