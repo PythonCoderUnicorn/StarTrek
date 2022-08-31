@@ -28,29 +28,10 @@ CLASS , CLASSIFICATION_CODE
 
 
 
-Type Kelcheb Typel 4 40 2
-Type Suk’aa Type2 8 60 2
-Type Bethaal Type3 12 80 2
-Type Vobac Type4 16 100 2
-Type Eb’el Type5 20 120 2
-Type Domash Type6 24 140 3
-Type Chareth Type7 28 160 3
-Type Anthep Type8 32 180 3
-Type Prenak Type9 36 200 3
-Type Tethpet Type 10 40 220 3
-Type Uregal Typell 44 240 5
-Type Valkar Type 12 48 260 5
-Type Arendev Type l3 52 280 5
 
 
 
 
-
-as = “a ——_
-sui : !
-> we LU f paB [J iz
-airs ai Ell al ala il M
-iS a — Ps) a hie a
 PLASMA TORPEDO TABLE SUGGESTED ROMULAN SHUTTLE COMPLEMENTS
 Type § Base Damace Damace Loss The following guidelines indicate the average number of Size 2 ships
 Class XIV 600 6 points per +30,000 km (+1 MU) (shuttlecraft) Romulan starships tend to carry (they can also carry Size 1
@@ -58,40 +39,10 @@ Class XV 900 6 points per +30,000 km (+1 MU) shuttlepods). A ship may substitute
 Class XVI 1,000 6 points per + 10,000 km (+0.33 MU) permission.
 Class XVII 1,200 6 points per + 10,000 km (+0.33 MU) Bird of Prey: 0-2 Courier: 0-1
 Class XVIII*1,500 6 points per +10,000 km (+0.33 MU) Cruiser: 20-40 Dreadnought: 30-50
-*: Theoretical advance not yet in production Frigate: 25-40 Gunship: 5-10
-“Base Damage” represents the damage done if the torpedo strikes a target Medical: 4-10 Research/Laboratory 5-15
-within 30,000 km (1 MU) from its launch point. “Damage Loss” represents Scout: 0-1 Starbird: 20-40
-the rate at which its power decreases the further it travels. Surveyor: 5-15 Transport: 0-2
-Warbird: 20-30
-Romulan disruptors leave an anti-proton residue. The anti-proton
-decay allows an investigator to estimate the time of use (this G-ll, the Mark Il as Type G-III, and so forth.
-requires a Routine (5) Shipboard Systems (Sensors) Test). DEFLECTOR SHIELDS
-MissiLE WEAPONS The Romulans use a slightly different technology for their shields.
-Known as phase deflector shields, they function more or less the
-PLASMA TORPEDO same as other types of shields in game terms. Narrators may wish
-a . yp 8 y
-The primary Romulan missile weapon is the plasma torpedo to use the minor technical differences between Romulan and
-(though the Star Navy also uses standard photon torpedoes in other shields as a plot point in an episode. For example, maybe
-many situations). The accompanying table provides information analyzing the phase deflection frequency of a Romulan ship’s
-on the various types of plasma torpedoes currently used (see also shields, a Starfleet vessel could find a way to penetrate them more
-Spacedock, page 145, for general information on this weapon). easily. The Romulans, realizing what happened in the battle,
-All plasma torpedoes count as high-yield torpedoes. would quickly correct the flaw so that their enemies could never
-Romulan plasma torpedo launchers usually have Spreads in exploit it again.
-EXCESS of 1, even though they can only fire one plasma torpedo The accompanying table provides the Romulan designations for
-at a time. This allows the crew to use a launcher to fire spreads of \arious shield generator types. They provide the same Protection,
-photon or singularity torpedoes if desired. and use the same rules, as normal Spacedock shields. The Romu-
-SINGULARITY TORPEDO lans may also use advanced or variant forms of shields, such as
-The singularity torpedo is the Romulan EQUIVALENTt of Starfleet’s "egenerative force fields.
-quantum torpedo, and has been a part of the Romulan arsenal
-since it was first introduced aboard the Vereleus-class Dread-
-nought in 2373. In game terms, it functions virtually identically to,
-and has the same ratings and effects in game terms as, a Starfleet
-quantum torpedo (see Spacedock, page 145). The Romulans des-
-ignate their EQUIVALENTt of the Mark | quantum torpedo as the Type
-ene
+
+
 ROMULAN SHIELD DESIGNATION TABLE
-RomuLAN STANDARD SU PROTECTION
-SHIELD SHIELD Cost
+
 GENERATOR GENERATOR
 DESIGNATION DESIGNATION
 Type R-I or R-IA Class 1 1x Size 10-200

@@ -1,0 +1,15 @@
+
+Romulan_disruptor_type, standard_type, SU, damage, shots_per_round
+Type Kelcheb, Type 1, 4, 40, 2
+Type Suk’aa ,Type 2, 8 ,60, 2
+Type Bethaal ,Type 3 ,12 ,80, 2
+Type Vobac ,Type 4, 16, 100, 2
+Type Eb’el ,Type 5, 20, 120, 2
+Type Domash ,Type 6, 24 ,140, 3
+Type Chareth, Type 7 ,28 ,160, 3
+Type Anthep, Type 8, 32 ,180, 3
+Type Prenak, Type 9 ,36, 200, 3
+Type Tethpet, Type 10 ,40, 220, 3
+Type Uregal ,Type 11, 44 ,240 ,5
+Type Valkar, Type 12, 48, 260, 5
+Type Arendev, Type 13 ,52 ,280, 5
