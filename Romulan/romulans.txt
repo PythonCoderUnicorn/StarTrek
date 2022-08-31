@@ -581,7 +581,7 @@ Strength Package: Class 7 (Strength 7) Rating: 4 16
 Gain Package: Class Beta (+2) Anti-Intruder System: Yes [1 Power/round] 10
 Probes: 60 6 Internal Force Fields [1 Power/3 Strength] 10
 Sensors Skill: 4
-c C S SCIENCE SYSTEMS
+SCIENCE SYSTEMS
 LIGHT CONTROL SYSTEMS Rating 2 (+1) [2 P d 20
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2 Sperived eee 10
 [1 Power/round in use] I] laboratories: 23 6
@@ -607,7 +607,7 @@ Emitter: Class Delta [3 Power/Strength used/round] 12 Firing Arc: 360 degrees ve
 Accuracy: 4/5/7/10 Firing Modes: Standard, Pulse
 Location: Forward ventral Starboard Wing Disruptor Array 34
 Emitter: Class Delta [3 Power/Strength used/round] 12 Type: Valkar
-; Damage: 260 [26 Power]
+Damage: 260 [26 Power]
 Accuracy: 4/5/7/10
 location: Forward dorsal Number of Shots: Up to 5 shots per round
 Emitter: Class Delta [3 Power/Strength used/round] 12 Targeting System: Accuracy 3/4/6/9
@@ -634,93 +634,45 @@ Eneraizi ae. Targeting System: Accuracy 3/4/6/9
 nergizing/Transition Coils: Class H (Strength 8)
 on, Coo Range: 10/30,000/100,000/300,000
 Number and Location: One in command hull, three in engineering hull Location: Ventral amidships
-"ype see [4 Power/use] a2 Firing Arc: 360 degrees ventral
-ats. d Firing Modes: Standard, Pulse
-
-= — ~
-1iPS f TE RL al A Free in
-
-Aft Disruptor Array 33. mous S’varen-class Dreadnought. When the S’varen Project was
-Type: Valkar cancelled, the Navy shifted the D’valek into a perimetersr defense
-Damage: 260 [26 Power] and rapid response role. Having proven itself adept at these tasks,
-Number of Shots: Up to 5 shots per round and deadly in battle, the D’valek now serves as a mainstay of
-Targeting System: Accuracy 3/4/6/9 the Core Defense fleets (units the Star Navy assigns to territories
-Range: 10/30,000/100,000/300,000 throughout the Imperial core worlds).
-
-Location: Aft , . , ,
-
-Firing Arc: 360 degrees aft During the Dominion War, several wings of D valeks participated
-va , as part of the Romulan legions under Ar’nal Belisarus Velal. Their
-Firing Modes: Standard, Pulse a j .
-
-Aft Plasma Torpedo Launcher (High-Yield) 99 potent combination of size, strength, and maneuverability made
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) them a force to be reckoned with on many battlefields. Several
-Spread: 10 even survived the Battle of Cardassia more or less intact, and they
-Range: See text and their crews have since been honored for their noble efforts on
-Targeting System: Accuracy 3/4/6/9 behalt of the Empire.
-
-Power: [20 + 5 per torpedo fired] NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: 1D ’valek, pro-
-Location: Aft totype; Cestron, under the command of Centurion Va’rel served
-Firing Arc: Aft, but are self-guided as wingship of the Garsheb Command Wing during the Fifth Tau-
-
-Torpedoes Carried: 100 Class XIV plasma, 200 Type II photon 30 thai Offensive (2369); Ja’gaen, destroyed in suicide run against
-
-TA/T/TS: Class Gamma [2 Power /round] 12 Taurhai Star Dragon in the Battle of Suindar VI during the Fifth
-Strength: 9 Taurhai Offensive (2369); /mparatex, lost under mysterious cir-
-Bonus: +2 cumstances while engaged in routine patrol of the Klingon border
-
-Weapons Skill: 5 (2370); S’varan, assigned to patrol duty along Federation Neutral
-
-Shields (Forward, Aft, Port, Starboard) 130 (x4) Zone, during which it detected several potential Federation incur-
-Shield Generator: Type R-IV (Protection 1400) [140 Power/shield/round] sions (2371-75); Kormorex, flagship of Ar’nal Reteth for his com-
-Shield Grid: Type B (33% increase to 1867 Protection) mand of the reserve forces which saved the day during the Battle
-Subspace Field Distortion Amplifiers: Class Theta (Threshold 400) of Delta Corescus and ensured a Romulan victory (2372); D’ressa,
-Recharging System: Class 1 (45 seconds) destroyed three enemy vessels during recapture of Benzar (2374);
-
-Backup Shield Generators: 4 (1 per shield) 12 D/daen, participated in several major Dominion War actions and
-
-Auto-Destruct System 10 accounted for many enemy casualties, destroyed by Dominion
-
-forces during final assault on Cardassia (2375); S’tel, escorted
-AUXILIARY SPACECRAFT SYSTEMS Romulan dignitaries to the signing of the Treaty of Bajor (2375).
-
-Shuttlebay(s): Capacity for 60 Size worth of ships 120
+[4 Power/use] a2 Firing Arc: 360 degrees ventral
+Firing Modes: Standard, Pulse
+Aft Disruptor Array 33. 
+Type: Valkar 
+Damage: 260 [26 Power] 
+Number of Shots: Up to 5 shots per round 
+Targeting System: Accuracy 3/4/6/9 
+Range: 10/30,000/100,000/300,000
+Aft Plasma Torpedo Launcher (High-Yield) 29
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules)
+Spread: 10 
+Range: See text 
+Targeting System: Accuracy 3/4/6/9 
+Power: [20 + 5 per torpedo fired] 
+Location: Aft
+Firing Arc: Aft, but are self-guided 
+Torpedoes Carried: 100 Class XIV plasma, 200 Type II photon ,30
+TA/T/TS: Class Gamma [2 Power /round] 12
+Strength: 9 
+Bonus: +2 
+Weapons Skill: 5 
+Shields (Forward, Aft, Port, Starboard) 130 (x4) 
+Shield Generator: Type R-IV (Protection 1400) [140 Power/shield/round] 
+Shield Grid: Type B (33% increase to 1867 Protection)
+Subspace Field Distortion Amplifiers: Class Theta (Threshold 400)
+Recharging System: Class 1 (45 seconds) 
+Backup Shield Generators: 4 (1 per shield) 12
+Auto-Destruct System 10
+AUXILIARY SPACECRAFT SYSTEMS 
+Shuttlebay(s): Capacity for 60 Size worth of ships ,120
 Standard Complement: 30 shuttlecraft
 Location(s): Two aft ventral, one aft dorsal
+Captain’s Yacht: Yes ,10
 
-Captain’s Yacht: Yes 10
 
-DESCRIPTION AND NOTES
 
-FLEET DATA: Designed during the early 2360s using many of the
-specifications developed by the D’deridex Design Group, the
-D’valek-class Swift Warbird resembles that vessel in many respects,
-though it is somewhat smaller. The principle differences are the
-lack of a ventral superstructure arcing between the nacelles, and
-the fact that the wing pylons sweep forward more shWARPly than on
-the D’deridex.
 
-Along with the T’varo class, the D’valek represents a new type of
-ship: the Swift Warbird. Designed in part as a countermeasure
-for the “Fast” subcategories of ships fielded by the United Fed-
-eration of Planets during the past two decades, Swift Warbirds
-are intended to retain much of the firepower of the heavier, less
-maneuverable Warbirds, while exceeding them in speed and
-agility. Despite its size, the D’valek is fast and nimble, able to
-change course and maneuver more quickly than a D’deridex or
-many other Warbirds. However, despite its higher Standard and
-Sustainable WARP speeds, it cannot maintain maximum WARP as
-long as the D’deridex, a situation Romulan engineers are laboring
-to correct.
 
-During the initial design period, the Star Navy envisioned the
-D’valek as a long-range, heavily-armed support vessel for the enor-
 
-CHAPTER 3/ _ SS MN Ww
-
-. = :
-cui . Te »
-AP ete THE ROT al afi Hiri
 D'VIRIN CLASS
 Class and Type: D’virin-Class Incursion Frigate PROPULSION SYSTEMS
 Commissioning Date: 2343 WARP PRopuLsion SYSTEM
@@ -774,10 +726,6 @@ Locations: Five locations throughout ship Lateral Sensors [5 Power/round] 18
 Escape Pods 7 Strength Package: Class 6 (Strength 6)
 Number: 140 Gain Package: Class Beta (+2)
 Capacity: 4 persons per pod Coverage: Standard
-J ea og - \CHAPTER 3
-
-oy matin
-4iP& ff 4E ORG ctl Ar Creer oe
 Navigational Sensors [5 Power /round] 14 Science Systems
 Strength Package: Class 6 (Strength 6) Rating 2 (+1) [2 Power /round] 16
 Gain Package: Class Alpha (+1) Specialized Systems: 2 10
@@ -838,71 +786,30 @@ Anti-Intruder System: Yes [1 Power/round] 6 Targeting System: Accuracy 4/3/7/10
 Internal Force Fields [1 Power/3 Strength] 6 Power: [20 + 5 per torpedo fired]
 Location: Forward
 Firing Arc: Forward, but are self-quided
-
-PTE THE RiliE al tn Fire
-Torpedoes Carried: 20 Class XIV plasma, 60 Type II photon 8 new, modern, Incursion Frigate to replace it. The “D’virin frater-
-TA/T/TS: Class Beta [8 Power /round] 9 nity,” which includes some of the highest-ranking officers in the
-Strength: 8 Star Navy, has banded together to use its influence to keep these
-Bonus: +1 noble “warhorses” in active service.
+Torpedoes Carried: 20 Class XIV plasma, 60 Type II photon 8 
+TA/T/TS: Class Beta [8 Power /round] 9 
+Strength: 8
+Bonus: +1
 Weapons Skill: 4 on
-Shields (Forward, Aft, Port, Starboard) 51 (x4) Notewortny VESSELS/ SERVICE RECORDS/ENCOUNTERS: D’‘virin,
-Shield Generator: Type R-IC (Protection 550) [55 Power/shield/round] prototype; Vathos, used daring maneuvering and attacks to save
-Shield Grid: Type C (50% increase to 825 Protection) the Pen elth Command Wing from certain destruction by enemy
-Subspace Field Distortion Amplifiers: Class Delta (Threshold 180) forces during the Battle of Rhendasa IV in the First Taurhai Offen-
-Recharging System: Class 1 (45 seconds) sive (2350), participated in Dominion War (2374-75); V’nitor,
-Backup Shield Generators: 4 (1 per shield) g explored the Tullan Reach for several years until it vanished due
-Auto-Destruct System 6 to unknown causes (2353-55); S’var, destroyed while prevent-
-ing rebel forces from dispersing the blockade of Serus III (2361);
-AUXILIARY SPACECRAFT SYSTEMS S’tar, destroyed by unknown enemy or force (possibly the Borg)
-Shuttlebay(s): Capacity for 20 Size worth of ships 4g while patrolling the farthest reaches of the Diodor Sector (2364);
-Standard Complement: 10 shuttlecraft Marchala, rescued the crew and passengers of the transport Hren-
-Location(s): Aft ventral karis after it suffered catastrophic extensive damage at the hands
-Captain’s Yacht: No of pirates (2365); Xi, fought a Klingon “expeditionary force” of
-renegade warriors on the borders of Romulan space (2367);
-DESCRIPTION AND NOTES Marilon, part of the covert fleet assigned to invade Vulcan (2368);
-FLEET DATA: Designed for use in the war against the Taurhai, but Tra‘thenn, patrolled several sectors along the Star Empire's rim-
-only completed just as that war ended, the D’virin-class Incur- ward border (2368-71); D relix, destroyed by an enemy squadron
-sion Frigate has nevertheless filled an important niche as the only during the Fifth Taurhai Offensive while scouting enemy positions
-Incursion Frigate currently fielded by the Star Navy. Its combina- (2370); Thontares, lost to unknown force or accident while patrol
-tion of agility and power have made it a proud chariot to carry the ling the spinward border of the Empire (2374); Vimendin, single-
-Romulans down the Way of D’era. handedly destroyed an entire wing of Jem’Hadar Attack Fighters
-during the Battle of the Hobileth Nebula (2375).
-Romulan engineers designed the D’virin to have many external
-and internal structural similarities with one of the Star Empire’s
-earliest Warbirds, the Argus class of the first half of the 2200s
-(sometimes also called the Te//us class). The teardrop-shaped cen-
-tral body coupled with long, straight, downward-slanting nacelle
-pylons, clearly betrays the Argus’s influence on the design. The
-D’virin’s larger counterpart, the D’tavan-class Strike Frigate, looks
-almost identical to it.
-The Star Navy typically uses D’virins as long-range border patrol
-craft, deep reconnaissance vessels, and rapid response ships. Their
-large WARP cores provide them with enough power to travel at high
-WARP velocities for longer than most Romulan ships, while also
-allowing them to remain cloaked for extensive periods. Thus, in
-wartime they often function as covert assault ships, sneaking far
-behind enemy lines to strike vulnerable targets and then flee to
-safety before the opposition can muster a response.
-Because the D’virin’s large engines and other powerful systems
-occupy so much space within the hull, the ship’s living quarters
-and working spaces are among the smallest and least comfortable
-in the Imperial fleets. However, the crewmembers shrug this off,
-turning it into a point of pride rather than complaining about it. In
-fact, some D’virin crews compete among themselves to see who
-aboard the ship can tolerate the most deprivation and discom-
-fort—a strange bonding ritual which captains permit because it
-increases morale. D’virin crews enjoy an unspoken “bond of suf-
-fering,” knowing they have shared a common experience other
-naval personnel cannot understand. At military bars and outposts
-across the Empire, they gather to drink ale and trade stories of
-shipboard life, seeing who has the most outlandish tale of woe.
-Some members of the High Tribunal have suggested that the time
-has come to decommission the remaining D’virins and design a
-| UA 7 ees ET:
-]_| ___veinya
+Shields (Forward, Aft, Port, Starboard) 51 (x4)
+Shield Generator: Type R-IC (Protection 550) [55 Power/shield/round] 
+Shield Grid: Type C (50% increase to 825 Protection) 
+Subspace Field Distortion Amplifiers: Class Delta (Threshold 180) 
+Recharging System: Class 1 (45 seconds) 
+Backup Shield Generators: 4 (1 per shield) 
+Auto-Destruct System ,6
 
-' | | ;- ioe
-4iP& ff 4E ORG ctl Ar Creer oe
+AUXILIARY SPACECRAFT SYSTEMS 
+Shuttlebay(s): Capacity for 20 Size worth of ships 
+Standard Complement: 10 shuttlecraft
+Location(s): Aft ventral
+Captain’s Yacht: No 
+
+
+
+
+
+
 MELEK’AAN CLASS
 Class and Type: Melek‘aan-Class Frigate PROPULSION SYSTEMS
 Commissioning Date: 2366 WARP Propuision SYSTEM
@@ -1071,7 +978,7 @@ Location(s): Aft ventral
 
 Captain’s Yacht: No
 
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: One of the most successful Frigate designs in the
 history of the Star Navy, the Melek’aan is a ship designed for two
 specific types of missions: planetary/system defense, and plan-
@@ -1274,7 +1181,7 @@ Captain’s Yacht: No world (2371); Kovrexos, conducted reconnaissance of Cardas
 
 space (2373-74); S’ten, disappeared during the Dominion War
 
-DESCRIPTION AND NOTES under circumstances still labeled “Classified” by the Tal Shiar
+---------DESCRIPTION AND NOTES------ under circumstances still labeled “Classified” by the Tal Shiar
 
 FLEET DATA: Designed during the late 2340s and early 2350s, when (2375); D’delean, gathered valuable intelligence about Jem’Hadar
 the young guns at the Corps of Starship Engineers were beginning ‘Oop movements on Betazed and throughout the Kalandra Sector
@@ -1379,7 +1286,7 @@ Attitude Control [1 Power /round] 1 Standard Complement: 3 shuttlecraft
 COMMUNICATIONS SYSTEMS Location(s): Att
 Type: Class 6 [2 Power/round] 17. Captain’s Yacht: No
 Strength: 6
-Security: -3 (Class Gamma uprating) DESCRIPTION AND NOTES
+Security: -3 (Class Gamma uprating) ---------DESCRIPTION AND NOTES------
 Basic Uprating: Class Alpha (+1) FLEET DATA: The Neh‘vor-class science vessel was developed at
 Emergency COMMUNICATIONS: Yes [2 Power/round] ]_ the same time as the Tirethi-class Far Scout, using the same sche-
 Tractor BEAMS matics for most structures and systems. Except for a few additions
@@ -1567,7 +1474,7 @@ a tT " i ‘ ae
 ' F ae
 4iP& f 4E ORG all An rr in
 
-Ventral Port Disruptor Array 50 DESCRIPTION AND NOTES
+Ventral Port Disruptor Array 50 ---------DESCRIPTION AND NOTES------
 
 Type: Uregal FLEET DATA: Designed as a general-use heavy cruiser, one able to
 Damage: 240 [24 Power] undertake combat or dangerous exploratory missions with equal
@@ -1810,7 +1717,7 @@ Shuttlebay(s): Capacity for 8 Size worth of ships 16
 Standard Complement: 4 shuttlecraft
 Location(s): Aft ventral
 Captain’s Yacht: No
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: Although it’s approximately 20 years old as a class
 by the end of the Dominion War, the Prelar-class Swift Cruiser
 remains the most common ship of its type in the Star Navy. Thanks
@@ -1946,7 +1853,7 @@ Anti-Intruder System: Yes [1 Power/round] 4 AUXINARY SPACECRAFT SYSTEMS
 Internal Force Fields [1 Power/3 Strength] 4 Shuttlebay(s): None
 d Captain’s Yacht: No
 SCIENCE SYSTEMS
-Rating 2 (+1) [2 Power /round] 14 DESCRIPTION AND NOTES
+Rating 2 (+1) [2 Power /round] 14 ---------DESCRIPTION AND NOTES------
 Specialized Systems: None FLEET DATA: The first (and so far only) Swift Frigate type vessel
 Laboratories: 6 2 in the Star Navy, the Thalan class is the product of one of the
 most inventive and prolific starship designers of modern Romulus,
@@ -2114,7 +2021,7 @@ IPE THE ROMULAT 1R EMPIE
 AUXILIARY SPACECRAFT SYSTEMS
 Shuttlebay(s): None
 Captain’s Yacht: No
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: Designed as a cross between a scout and a cruiser,
 the Thereus-class Bird of Prey combines the best features of both:
 powerful engines so that it can fly at high IMPULSE and WARP
@@ -2312,7 +2219,7 @@ Shuttlebay(s): None
 
 Captain’s Yacht: No
 
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: The Star Navy, and many Romulan politicians, use the
 Theta-class Swift Courier, an expanded and uprated long-range
 WARP shuttle, for transporting small groups of personnel—squads
@@ -2423,7 +2330,7 @@ Main 12 AUXILIARY SPACECRAFT SYSTEMS
 Strength: 9 [3 Power/round] Shuttlebay(s): None
 Number: 2 Captain’s Yacht: No
 Backup 4
-Strength: 6 [2 Power/round] DESCRIPTION AND NOTES
+Strength: 6 [2 Power/round] ---------DESCRIPTION AND NOTES------
 Number: 2 FLEET DATA: This small, swift vessel consists of a narrow main
 Attitude Control [1 Power /round] ] hull with a rectangular profile, a command hull with a rounded
 COMMUNICATIONS SYSTEMS diamond profile when viewed dorsally, and two broad, forward-
@@ -2657,7 +2564,7 @@ Location(s): Main hull ventral, main hull dorsal
 
 Captain’s Yacht: Yes 10
 
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 
 FLEET DATA: Yet another of the many new ship classes which grew
 
@@ -2887,7 +2794,7 @@ Shuttlebay(s): Capacity for 28 Size worth of ships 36 exploratory mission in the
 Standard Complement: 14 shuttlecraft
 Location(s): Aft ventral, command hull aft
 Captain’s Yacht: No
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: In the wake of the Praetorian Edict of 2348, which
 commanded all Romulans to redouble their efforts to achieve
 D’era, the Corps of Starship Engineers began working on designs
@@ -3069,7 +2976,7 @@ Auto-Destruct System 5
 AUXILIARY SPACECRAFT SYSTEMS
 Shuttlebay(s): None
 Captain’s Yacht: No
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: The Vadak-class Heavy Gunship blends a number of
 typically Romulan starship design features into a pleasing whole.
 The main hull is rectangular, with several small symmetrically-
@@ -3412,7 +3319,7 @@ Standard Complement: 20 shuttlecraft, 10 shuttlepods Belisarus Velal during the 
 Location(s): Main hull aft ventral, command hull aft of all hands during the Battle of Cardassia (2374-75); Lin’chev,
 Captain’s Yacht: Yes 10 Participated in the liberation of Betazed (2375); Pilaron, overtly
 patrolled the border of the Federation Neutral Zone from the final
-DESCRIPTION AND NOTES weeks of Dominion War through the signing of the Treaty of Bajor
+---------DESCRIPTION AND NOTES------ weeks of Dominion War through the signing of the Treaty of Bajor
 FLEET DATA: The largest ship ever actively produced by the Romu- © Prevent Starfleet from believing wartime losses had crippled
 lan Star Empire, the Vereleus-class Dreadnought represents the the Star Navy (2375); Veletan, serving as the flagship of the Fourth
 acme of Romulan starship technology and design. The most recent Spinward Fleet (2374-present); Tovarek, serving as the flagship of
@@ -3572,7 +3479,7 @@ Shuttlebay(s): Capacity for 16 Size worth of ships 32
 Standard Complement: 8 shuttlecraft
 Location(s): Main hull ventral, port and starboard
 Captain’s Yacht: No
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: The largest exploratory vessel designed to date by the
 Star Navy, the Vidian-class Heavy Starbird resembles the much
 smaller Neh’vor-class science vessel, except for a slightly different
@@ -3764,7 +3671,7 @@ Shuttlebay(s): Capacity for 25 Size worth of ships 50
 Standard Complement: 10 shuttlecraft, 5 shuttlepods
 Location(s): Main hull ventral, port and starboard
 Captain’s Yacht: Yes 10
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: One of the newest warbirds in the Romulan fleet,
 the V’tir incorporates design principles different from those of the
 D’deridex class and related ships. Instead of using the Argus class
@@ -3905,7 +3812,7 @@ Shuttlebay(s): Capacity for 6 Size worth of ships 12
 Standard Complement: 3 shuttlecraft
 Location(s): Aft of main hull
 Captain’s Yacht: No
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: The Desara class of cargo carriers represents a typi-
 cal merchant vessel found in Romulan space. It consists of a main
 “hull” which is an oval-shaped rounded framework similar to
@@ -4009,7 +3916,7 @@ TRANSPORTERS Standard Complement: 4 shuttlecraft
 Type: Personnel [4 Power /use] 15 Location(s): Aft
 Pads: 4 Captain’s Yacht: Yes 10
 Emitter/Receiver Array: Personnel Type 6 (40,000 km range)
-Energizing/Transition Coils: Class G (Strength 7) DESCRIPTION AND NOTES
+Energizing/Transition Coils: Class G (Strength 7) ---------DESCRIPTION AND NOTES------
 Number and Location: One forward FLEET DATA: When powerful Romulan senators travel, they desire
 Type: Emergency [5 Power/use] 14 three things: speed, secrecy, and comfort. The Romulan Senato-
 Pads: 16 rial Transport provides all three, and more. Its powerful engines,
@@ -4206,7 +4113,7 @@ Shuttlebay(s): Capacity for 50 Size worth of ships 100 without the need for refu
 Standard Complement: 10 shuttlepods, 20 shuttlecraft maintenance will eventually drive a Star Dragon to port, accord-
 Location(s): Ventral of Segments 15, 16, 23, and 24 Ing to Romulan estimates one of these ships could remain in space
 Captain’s Yacht: Yes 1Q without any degree of outside support for a decade.
-DESCRIPTION AND NOTES eee eee i ee
+---------DESCRIPTION AND NOTES------ eee eee i ee
 FLEET DATA: The most powerful and versatile vessel fielded by the of their ships, those names remain unknown.
 Taurhai Unity, the “Star Dragon” (a Romulan term; the Taurhai
 designation is unknown) represents the pinnacle of Taurhai space
@@ -4402,7 +4309,7 @@ Location(s): Att ventral of Segment 8
 
 Captain’s Yacht: No
 
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 FLEET DATA: The Firedrake (a Romulan designation) is, in essence,
 a miniature version of the Star Dragon, with many of the same (or
 slightly inferior) systems. It features a 125 metersr-long command
@@ -4618,7 +4525,7 @@ Location(s): Aft ventral of each secondary hull
 
 Captain’s Yacht: Yes 10
 
-DESCRIPTION AND NOTES
+---------DESCRIPTION AND NOTES------
 
 FLEET DATA: The primary military and exploration ship of the
 M’rok (see accompanying sidebar), the Wa’h’kr’aa’ta-class Cruiser
@@ -4777,7 +4684,7 @@ Firing Arc: 360 degrees forward Shuttlebay(s): Capacity for 24 Size worth of shi
 Firing Modes: Standard, Pulse Standard Complement: 10 shuttlecraft, 4 shuttlepods
 Dorsal Disruptor Array (x3) 93 Location(s): Aft ventral
 Type: Chareth Captain’s Yacht: No
-ye oe ene DESCRIPTION AND NOTES
+ye oe ene ---------DESCRIPTION AND NOTES------
 Number of Shots: Up to 3 shots per round a
 Targeting System: Accuracy 5/6/8/11 FLEET DATA: The Unasha class Battle Cruiser is the most pow-
 Range: 10/30,000/100,000/300,000 erful, most advanced starship fielded by the tiny Othan Empire,
