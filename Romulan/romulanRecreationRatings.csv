@@ -1,0 +1,15 @@
+
+SHIP TYPE, TYPICAL_RECREATION_RATING_min, TYPICAL_RECREATION_RATING_max
+Bird of Prey, 2,5
+Courier, 1,3
+Cruiser, 4,10
+Dreadnought, 6,10
+Frigate, 2,7
+Gunship, 2,6
+Medical , 3,6
+Research_Laboratory , 3,6
+Scout, 1,2
+Starbird, 5,10
+Surveyor ,3,6
+Transport , 4,10
+Warbird, 4,9

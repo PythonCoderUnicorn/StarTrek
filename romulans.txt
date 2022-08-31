@@ -29,87 +29,11 @@ CLASS , CLASSIFICATION_CODE
 
 
 
-ROMULAN CREW BREAKDOWNS
-BRANCH DREADNOUGHT = Warbird CRUISER / FRIGATE GUNSHIP Scout/ Science /
-STARBIRD Birp of Prey 
-Command 18 17 17 20 18 14 12
-Operations
-Engineering/Technical 14 15 14 17 18 16 I]
-Operations, General 22 23 25 19 18 27 10
-Security/Tactical 7 16 22 24 23 19 14
-Science
-Medical/Support ]2 13 10 10 15 08 34
-Science/Research 17 16 12 10 08 16 29
-Officers/Enlisted 32/68 30/70 29/71 27/73 34/66 65/35 33/67
- 
-the ship enters subspace via its “funnel” other ships cannot detect
-: it, allowing it to “appear” seemingly instantaneously in position
-ROMULAN RECREATION RATINGS to make devastating surprise attacks.
-Activating and using a gravity induction drive requires two full
-Suip TYPE TypicaAL RECREATION RATING rounds of effort by most of the ship’s engineering crew per jump
-Bird of Prey 2-5 (one round to prepare the drive, one round to activate it). During
-Courier 1-3 normal travel, simply use the “LY Per Minute” column in the
-Cruiser 4-10 accompanying table to determine how fast the ship travels with its
-Dreadnought 6-10 ongoing series of jumps. In combat situations or other crises, the
-Frigate 2-/ “Maximum Jump Length” column may come into play, giving the
-Gunship 2-6 Romulans a slim chance to catch a Taurhai ship before it escapes
-Medical 3-6 them completely.
-Research/Laboratory 3-6 a .
-Saath 1-2 Taurhai ships have matter/antimatter cores to generate Power on
-Starbird 5-10 their ships—large ones, given the Power requirement of their grav-
-Surveyor 3-6 ity induction drives. They buy them using the normal Spacedock
-Transport 4-10 rules. They do not buy nacelles or other warp propulsion system
-Warbird 4-9 elements to drive their ships directly with M/AM power.
-The accompanying table provides details on gravity induction
-drives, including the maximum length of the “jump” the ship can
-RECREATION FACILITIES make, and the maximum number of light-years the ship can cross
-Romulan ships use the same Recreation Ratings as Starfleet ves- per minute using the drive. The Power cost represents a cost per
-sels. The accompanying table indicates the typical Recreation round when the drive is in use (the ship must pay this cost both in
-Rating by ship type. the round when it’s preparing the drive, and the round it actually
-HoLopECK PowER uses the drive).
-The Romulans do not have holodeck reactors to power their holo- Typically a ship can only use its Gravity Induction Drive for about
-decks separately from a ship’s main power grid. Their holodecks two to three hours per day total, either continuously or spread
-run off ship’s power like almost every other system onboard. over the course of the day; this means a maximum of 1,080 jumps
-per day. More than that poses a severe risk of breakdown. For
-each jump beyond 1,080, the Narrator rolls 1d6; on a roll of 1,
-NOE SEON SYSTEMS the engine breaks down and requires 2d6 x 4 hours to repair.
-Every Romulan ship with a cloaking device includes a nullifie POWER SYSTEMS
-core to ensure that its movement does not betray its position while ARTIFICIAL QUANTUM SINGULARITY DRIVE
-cloaked. If the engineering crew does not keep the nullifier core SU Cost: See table
-in precise alignment with the propulsion systems, the ship cre- .
-ates magnetic disruptions that other ships can detect with routine Power Cost: See text
-sensor scans. This requires a Moderate (6) Propulsion Engineering During the late 2340s and early 2350s, the Romulans began scal-
-(AQSD) or Systems Engineering (Cloaking Device) Test at least ing back their development of matter/antimatter warp drives in
-once a day; the Narrator may also require a Test during any crisis favor of developing a more powerful, albeit potentially more dan-
-situation when the ship uses its cloak. gerous, energy source: the artificial quantum singularity drive
-ALTERNATE AND ADVANCED SUPERLUMINAL (AQSDP). As described on page 68 of Book One of the Way of
-DRIVES D’era boxed set, an AQSD functions by creating a collapsar—a
-The Romulans have conducted experiments with transwarp drive, collapsed star, a singularity—and containing It within subspace
-coaxial warp drive, and soliton propulsion, but like the Federation containment field (so that the ship can move despite the singulari-
-they have yet to develop practical working models of these drives. = oe
-However, their enemies the Taurhai employ a gravity induction
-drive which they have studied and may one day find a way to
-duplicate. TAURHAI GRAVITY INDUCTION DRIVE TABLE
-TAURHAI GRAVITY INDUCTION DRIVE Tyee of SU Power Maximum LY Per
-As described on page 96 of Book One of the Way of D’era boxed Drive Cost Cost Jump LencTu Minute
-set, the Taurhai use a gravity induction drive (also referred to as a Class} 200 150 5 light-year 3
-“subspace funnel”) to create what amount to “micro-wormholes”
-(though they don’t necessarily function identically to naturally- Class Il 250 200 | light-year 6
-occurring wormholes found in space). Their ships then “fall” or Class II] 300 950 2 light years 12
-“slide” through these funnels in subspace, crossing light-years in
-mere seconds. Though the use of a gravity induction drive creates Class IV 350 300 3 light-years 18
-a graviton wavefront and wake which other ships can detect, once
-“romuan starsn conereacronm— fae
-A — —— =
 
-ae 7 7 7 ] —_
-eee o
-AIP STE THE RT ae th Fil in
-QZa2PRRaIA Ships of Size 4 and smaller cannot have AQSDs; the mass of the
-drive is too large for it to function efficiently aboard such ves-
-ARTIFICAL QUANTUM SINGULARITY DRIVE SYSTEMS | °<'s
-TABLE Warp Core EJECTION SYSTEM
-SU Cost: 1 x Size
+
+ARTIFICAL QUANTUM SINGULARITY DRIVE SYSTEMS
+
+
 AQSD Type SU Power Generated Per Rounb
 Type 45 50-149 Power Cost: None
 Type Il 60 150-249 Unlike Starfleet vessels, which eject their damaged warp cores
