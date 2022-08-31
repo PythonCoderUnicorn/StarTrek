@@ -3,7 +3,7 @@
 
 - base damage is torpedo strike with 30,000 km (1 MU)
 - dmagae loss is the rate which power decreases the futher it travels
-- * is theoretical
+- `*` is theoretical
 
 | Type          |  Base Damage      | Damage Loss                           |
 |---------------|-------------------|---------------------------------------|
