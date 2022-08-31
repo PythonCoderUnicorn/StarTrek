@@ -19,34 +19,31 @@ All original material copyright © 2003 by Steven S. Long
 
 
                
+ROMULAN SHIPS IN SERVICE 
+
+CLASS , CLASSIFICATION_CODE
+
+Vereleus, DR 
+Shuttle (warp), WS
+Tanker, TA 
+Tender ,IN 
+Transport ,TL
+Tug, TG 
+D’deridex, WBH 
+Ralek ,SB
+D’sera, WBL 
+T'rasus ,SB
+D’valek, WBSW 
+V’tana , SBF
+D'vanga, WBH 
+Vidian, SBH
+T’korex, WB
+T’varo, WBSW 
+T’kairin (proposed) ,SB-GC 
+V‘tir ,WB
+T'kassan (proposed), WBST
 
 
-Shuttle (warp) WS WS
-Tanker TA TA
-Tender IN TN
-Transport TL,TL 
-Tug, TG ,TG 
-
-
-ROMULAN WARBIRDS CURRENTLY IN SERVICE (REP- ROMULAN STARBIRDS CURRENTLY IN SERVICE
-RESENTATIVE SELECTION) (REPRESENTATIVE SELECTION)
-Class CLassiFIcATION CODE CLass CLASSIFICATION CoDE
-D’deridex WBH Ralek SB
-D’sera WBL lrasus $B
-D’valek WBSW V’tana SBF
-D'vanga WBH Vidian SBH
-I’korex WB
-I’varo WBSW I’kairin (proposed) §B-G6C
-V‘tir WB
-T’kassan (proposed) WBST tion of the fundamental truth of D’era have all expanded within
-the past several decades.
-Perhaps the most unusual of the Starbirds is the T’kairin-class
-Benzar to exploring astronomical anomalies. The most common Generational Cruiser, due to leave stardock in 2378. The first of
-and popular ship of this type, the D’deridex-class Heavy War-  jts kind in the Star Navy, it’s designed to carry a crew of up to
-bird, will undergo a series of class-wide refinements and upgrades 1,000 on decades-long journeys to other quadrants and galax-
-beginning in 2377 (again, assuming the outcome of the Dominion jes. If the T’kairin Exploration and Colonization Program goes as
-War does not change the Star Navy’s schedule). planned, within a century the Star Empire could easily become
-the largest political entity in the galaxy.
 CRUISERS
 Compared to Starfleet or the Cardassians, the Romulans build Frprcates
 relatively few Cruiser classes. Instead of taking basic Cruiser teM- The Romulans use Frigates for a wide variety of missions. Stan-
