@@ -23,80 +23,8 @@ ROMULAN SHIPS IN SERVICE
 
 CLASS , CLASSIFICATION_CODE
 
-Vereleus, DR 
-Shuttle (warp), WS
-Tanker, TA 
-Tender ,IN 
-Transport ,TL
-Tug, TG 
-D’deridex, WBH 
-Ralek ,SB
-D’sera, WBL 
-T'rasus ,SB
-D’valek, WBSW 
-V’tana , SBF
-D'vanga, WBH 
-Vidian, SBH
-T’korex, WB
-T’varo, WBSW 
-T’kairin (proposed) ,SB-GC 
-V‘tir ,WB
-T'kassan (proposed), WBST
-
-Ak’tel , CA 
-Brentoc , FR
-D'viret , CL 
-D’tavan , FS
-Meret ,CI 
-D’theros,  FL
-Nelvek, CH 
-D'virin ,FI
-Prelar , CSW 
-Melek’aan, FR
-Shar’ves ,CA 
-Serex, FH
-Vercaal , CL 
-Thalan , FSW
 
 
-p li Bl a
-1iIPs AE RE al AR rer ii
-<foKto =m hed “GT »— o > _ oer
-ROMULAN GUNSHIPS CURRENTLY IN SERVICE ROMULAN SCOUTS CURRENTLY IN SERVICE
-(REPRESENTATIVE SELECTION) (REPRESENTATIVE SELECTION)
-Class CLassiFIcATION CODE CLass CLASSIFICATION CoDE
-D‘gerok GA Cho‘chet $$
-Hoteb GA Deresus SH
-Nuur’shet GH Kelkarrum $$
-Vadak GH Nir‘at SH
-V’gurin GS lirethi SF
-use them to fill gaps in their defensive lines, or to protect a fleet’s than any other known major galactic civilization. From their well-
-flanks by forming a powerfully-armed bulwark. known Theta-class Swift Courier, to the Theron-class Far Courier
-able to cross huge amounts of space on Its important missions,
-bl hug f sp p
-to the more ordinary Be/vidos and Rehntet Couriers, they have a
-BiRDS OF PREY
-. plethora of options available whenever they need to send a mes-
-Birds of Prey are small, fast ships used for short-range recon- .
-, . sage or an operative somewhere.
-naissance missions, raids, and escort duties. Though not heavily
-armed, they have powerful cloaks, and their pilots are skilled at
-decloaking, attacking, and then recloaking and fleeing beforean ROMULAN STARSHIP NAMES
-enemy can react. Unlike Starfleet, with its “U.S.S.,” the Romulans do not attach pre-
-fixes to the names of their ships. Vessels simply have names, such
-In light of the Birds of Prey’s excellent record in recent decades, ,
-as the T’brath. A suffix naming the fleet the ship belongs to further
-in the 2360s the Star Navy began a program to build two classes distincui ,
-te: istinguishes it. For example, if the T’brath were part of Senator
-of a new type, the Swift Bird of Prey. With better weapons and , }
-, , Chevet’s fleet, Romulans would refer to it as the T’brath Chevet.
-engines, these ships will be faster and deadlier than any Bird of
-Prey to date. The Birds of Prey’s performance during the Domin-
-ion War, in which they accounted for 37% more casualties than
-they suffered, validates this decision and has led the Star Navy to
-allocate additional resources to these programs to ensure they are
-completed by their 2377 (Mithras) and 2379 (Vithrel) scheduled = Te “PS
-dates.
 ROMULAN COURIERS CURRENTLY IN SERVICE
 (REPRESENTATIVE SELECTION)
 ScouTsS
