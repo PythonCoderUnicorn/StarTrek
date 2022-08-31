@@ -3915,13 +3915,74 @@ let vulcan = {
   
 
   // t
-  
+  'table':'pasu',
+  'tachyon beam':"sahr'gal-zehl",
+  'tachyon field':"sahr'gal-vunai",
+  'tachyon scanner':"sahr'gal-glashayek",
+  'targeting sensor':'les-kashek',
+  'temporal field generator':'wak-vunai-ferek',
+  'temporal transmitter':'wak-sasayek',
+  'temporal transponder':'wak-vavayek',
+  'teratogenic coolant':'stislak-samuyau-tukh',
+  'tether coupling':'elsaku-tersayek',
+  'thermal guidance sensor':'falek-kakhartau-kashek',
+  'thoron particle beam rifle':"kar-pohshayek t'thor'gal-zehl",
+  'thoron shock emitter':"thor'gal-kolau-sayek",
+  'thruster iniator':'kwit-palikayek',
+  'thruster array':'kwitek-zehlaya',
+  'tissue regenerator':'nalatra-vaferek',
+  'tractor beam':'seshau-zhel',
+  'tractor beam emitter':'seshau-zehl-sayek',
+  'transceiver':'sasau-proprahek',
+  'transceiver array':'sasau-proprah-zehlaya',
+  'transmitter':'sasayek',
+  'transponder':'vavayek',
+  'transport scanning beam':'ifis-glashau-zehlek',
+  'transporter beacon':'ifisek-glaribek',
+  'transporter buffer':'ifisek-fukat',
+  'transporter lock':'ifisek-klachek',
+  'transporter pad':'ifisek-math',
+  'transporter platform':'ifisek-skaf',
+  'transporter room':'ifisek-tvi-shal',
+  'transporter scrambler':'ifisek-parishek',
+  'transwarp corridor':'mesakh-tchas-tvur',
+  'transwarp drive':'mesakh-tchas-yeturek',
+  'tricorder':'reh-vipladayek',
+  'turbolift':"seshan-sa'adek",
+  'turbolift shaft':"seshan-sa'adek-ur",
 
-  
-  
-  
-  
-  
+  // u
+  'unimatrix shielding':'wuh-viskulanik fo-danan',
+  'universal translator':"ek'mesukh-stari-vel",
+
+  // v
+  'velocity':'threshan',
+  'vent':'krau',
+  'ventilation':'kraulaya',
+  'voice data selector':'spes-faik-dvelek',
+
+  // w 
+  'warp core':tchas-tviyan',
+  'warp core breach':'tchas-tviyan-shaya',
+  'warp core matrix compositor':"viskulan-tertitayek t'tchas-tviyan",
+  'warp conduit':'tchas-mev',
+  'warp diagnostic assembly':"feretai t'tchas-nosh-nisaklar",
+  'warp drive':'tchas-yeturek',
+  'warp drive prestart sequencer':"fe-palikau-zehlanayek t'tchas-yeturek",
+  'warp engine':'tchas-mishu',
+  'warp engine nacelle':'tchas-mishu-leshek',
+  'warp factor':'tchas-klai',
+  'warp field':'tchas-vunai',
+  'warp plasma conduit':tchas-snazh-mev',
+  'warp plasma filter':'tchas-snazh-kapol',
+  'warp plasma stabilizer':'tchas-snazh-tihetilayek',
+  'warp plasma subprocessor':"ne-patorayek t'tchas-snazh",
+  'warp speed':'tchas-threshan',
+  'waste management system':'guhsh-khartau-torektra',
+  'wastewater':'guhsh-masu',
+  'waveguide':'pral-yut',
+  'wormhole':'stukh-riur',
+
 
 }
 
