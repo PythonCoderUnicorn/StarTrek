@@ -1,0 +1,10 @@
+
+
+Romulan_shield, standard_shield, SU_cost, protection_min, protection_max
+Type R-I / R-IA ,Class 1 , 1, 10,200
+Type R-IB, Class 2, 2, 210,400
+Type R-IC, Class 3, 3, 410,600
+Type R-ID, Class 4, 4, 610,800
+Type R-II, Class 5, 5, 810,1000
+Type R-III, Class 6, 6, 1010,1200
+Type R-IV, Class 7, 7, 1210,1400
