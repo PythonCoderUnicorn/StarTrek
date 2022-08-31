@@ -1,0 +1,6 @@
+
+drive_type, SU_cost, power_cost, max_jump_length_LY, LY_per_minute
+class 1, 200, 150, 0.5, 3
+class 2, 250, 200, 1, 6
+class 3, 300, 250, 2, 12
+class 4, 350, 300, 3, 18
