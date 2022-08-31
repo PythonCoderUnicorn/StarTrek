@@ -28,128 +28,23 @@ CLASS , CLASSIFICATION_CODE
 
 
 
+Type Kelcheb Typel 4 40 2
+Type Suk’aa Type2 8 60 2
+Type Bethaal Type3 12 80 2
+Type Vobac Type4 16 100 2
+Type Eb’el Type5 20 120 2
+Type Domash Type6 24 140 3
+Type Chareth Type7 28 160 3
+Type Anthep Type8 32 180 3
+Type Prenak Type9 36 200 3
+Type Tethpet Type 10 40 220 3
+Type Uregal Typell 44 240 5
+Type Valkar Type 12 48 260 5
+Type Arendev Type l3 52 280 5
 
 
 
-ARTIFICAL QUANTUM SINGULARITY DRIVE SYSTEMS
 
-
-AQSD Type SU Power Generated Per Rounb
-Type 45 50-149 Power Cost: None
-Type Il 60 150-249 Unlike Starfleet vessels, which eject their damaged warp cores
-Type Ill 15 250-349 ventrally to get them as far away from the ship as possible, Romu-
-Type IV 90 350-449 lan ships eject theirs in a dorsal forward arc—to use them as a
-Type V 105 450-549 weapon. The Romulans believe that if a ship reaches the point
-Type VI 120 550-649 where it’s so badly damaged it must eject its warp core, it’s prob-
-Type VII 135 650-749 ably too badly damaged to salvage or save, so it should make one
-Type VIII 150 750-849 last, devastating strike against the enemy.
-The base SU cost listed in the table indicates the SU cost for the lowest figure When ejected, a Romulan warp core travels up to 200 kilometers
-in the “Power Generated” column—tor example, 350 Power for a Type IV forward of the ship per round. An appropriate officer—typically
-engine. For each +10 Power (or fraction thereof) beyond that, the engine the Tactical Officer or Chief Engineer—must make a Moderate
-costs an additional +1 SU. Thus, a top-of-the-line Type IV engine, which (8) Shipboard Systems (Tactical) Test to hit the target. Since the
-generates 449 Power per round, costs 100 SUs. explosion of the warp core causes damage to ships over a 3 MU
-radius (see Spacedock, pages 93-94), the character need not make
-a direct hit to damage the target. But if he does score a hit, increase
-ty’s mass). While this type of engine generates enormous amounts _ the damage caused to the target by the explosion by 50%.
-of power with comparatively little fuel, it carries with it a signifi- Romulan ships with AQSDs can use this weapon to eject their
-cant risk: the user can never turn it off, or else the containment — engine cores.
-fields holding the singularity release it, causing a black hole to
-form instantly. For this reason, the Romulans build their AQSDs to OPERATIONS SYSTEMS
-be extremely sturdy and difficult to damage. Even when, as inthe SEPARATION SYSTEMS . .
-Dominion War, a Romulan ship becomes so badly damaged that Generally speaking, the Romulans avoid separation systems
-the Empire cannot salvage and repair it, the safety features on its (though they covet the Federation’s multivector assault mode tech-
-AQSD usually maintain power to the containment field. nology, which they have already tried to steal once). However,
-some of their ships do have a command hull separation feature,
-In most other respects, an AQSD functions similarly to a warp — which functions identically, in game terms, to saucer separation.
-drive. It contains a segment, the engine core, that the ship can
-eject to save the rest of the drive if its containment fields are in DETACHABLE SEGMENTS
-danger of collapsing. SU Cost: 1 x Size per detachable segment
-In game terms, maintaining an AQSD requires 1 Power per round, Power Cost: 5 Power to detach each segment
-every round. Additionally, the system has a battery capable of — some Taurhai ships can detach one or more of their segments
-supplying this power for up to a year, and it can recharge itself (including the command hull), with each segment having the abil-
-via solar energy or many other methods. (The Romulans use the ity to maneuver under its own impulse power. This allows at least
-battery for emergencies only; even in desperate combat situations part of the crew to escape the general destruction of the ship, or
-they keep providing that 1 Power to the AQSD every round.) If to perform various unusual combat maneuvers
-an attack or event destroys an AQSD, or disrupts the power to its
-containment field, the battery activates immediately. If something | A detached segment has the EQUIVALENTt of a Class 4 impulse engine
-(for example, sabotage) prevents the battery from activating, the for purposes of maneuvering (or the impulse engine indicated as
-artificial quantum singularity immediately becomes a real black being part of itself in the Starship Template). This impulse engine,
-hole, destroying the Romulan ship (through either gravity or the along with one auxiliary power generator and a 10 Power emer-
-creation of Hawking radiation) and affecting nearby vessels as if gency Power generator, provides Power for life support, flight,
-a total catastrophic failure of a warp core had occurred (Spaced- | weapons, sensors, and the like. The detached segment should be
-ock, page 93). Thereafter a black hole exists where the ship was considered to have systems EQUIVALENTt to those of the full ship,
-destroyed, assuming there’s sufficient matter nearby to feed it; | except where the Narrator feels this would be illogical.
-otherwise it may vanish quickly. (See Spacedock, page 174, for 4 ship may detach a segment and then lose it due to an accident,
-rules on black holes, a.k.a. quantum singularities.) destruction in battle, or the like. If this occurs frequently enough,
-Many Romulan ships continue to use standard matter/antimat- it may reduce the ship’s Size for combat purposes until such time
-ter warp drives, for safety and technical reasons. They buy these as the it can replace the lost segments.
-using the normal Spacedock rules. Vessels with AQSDs use stan- Computers
-dard nacelles, PISs, and upgrades thereto (see Spacedock, page The Romulans have their own version of bio-neural computer
-35 et seq,). technology, and may buy such systems using the regular Spaced-
-| 7 7 Bee
-a — - -
-
-= — ~
-4i1Ps JE ORE al AR rr on
-ock rules. Their “biogenically enhanced computer system,” or EINES Kk tol on Med OS =
-BECS, differs from a bio-neural computer system in various minor |
-ways, but the two function identically in game terms. ROMULAN POLITICAL OFFICER OVERLAY
-TRActorR BEAMS
-The Taurhai, with their mastery of subspace and gravitic technol- Athletics (choose Specialization) 1 (2)
-ogy, have tractor beams which are stronger and more efficient Computer (choose Specialization) 1 (2)
-than Romulan or Starfleet tractors. They cost only 2 Power per Dodge |
-point of Strength. Additionally, when making a Test to improve Energy Weapon (Disruptor) 1 (2)
-the performance of Taurhai tractor beams (Spacedock, page 56), Espionage (Romulan Intelligence Techniques) 1 (2)
-reduce the Difficulty of the Test by 1. Interrogation (choose Specialization) 2 (3)
-Law (Romulan) 2 (3)
-TRANSPORTERS . . . . Personal Equipment (choose Specialization) 1 (2)
-The Taurhai have access to all emitter/receiver types listed in the Planetside Survival (choose Specialization) 1 (2)
-table on page 60 of Spacedock, including those marked as being Politics (Romulan) 2 (3)
-beyond the capabilities of the Romulans, the Federation, and Security (choose Specialization) 2 (3)
-other like species. Shipboard Systems (choose Specialization) 1 (2)
-CLOAKING DEVICES Surveillance (choose Specialization) 1 (2)
-With their preference for stealth and subterfuge, it seems only Vehicle Operations (choose Specialization) 1 (2)
-natural the Romulans would invent the cloaking device so early
-in their history. Even before they had fully-functional warp drives,
-they had cloaking devices, and they made good use of them to SECURITY SYSTEMS
-spy on the Federation and other enemies. Today, every Romulan Romulan military vessels almost always have Security ratings of
-military vessel comes equipped with a powerful cloaking device. at least 4. This reflects not only the high level of general watch-
-Many Romulan civilian ships have them as well, though not fulness on a Romulan ship, but the presence of political officers
-always legally. in the crew. Political officers monitor the crew for compliance
-. 4. with official Romulan political and cultural doctrines and laws,
-Generally speaking, Romulans don’t use other forms of hiding tine anvone whose belief in D’era seems less than devout
-ships, such as interferometric dispersion. They seem to prefer to ‘othe 5 : or te authorities. The higher a shin’s Security ratin
-rely on their tried and trusted cloaks for reasons unclear to the ‘h © @PP olitic 1 i on eh . ne vem villed the o o
-Federation. Though they have fought long and hard with enemies heir iol pam ee INE OES IS EIIY OLS
-. . eir jobs.
-such as Starfleet, using their technical expertise to counteract
-various methods developed for penetrating cloaks, they have no TACTICAL SYSTEMS
-doubt they will eventually triumph over those who wish to dispel DISRUPTORS
-their treasured veil of secrecy. The accompanying table provides Romulan terminology for
-disruptors. Romulan disruptors function identically to the ones
-described in Spacedock. The Romulans identify each type of dis-
-o : ruptor with a letter from their alphabet.
-ROMULAN LABORATORIES Pt
-Romulans use the same rules for Science Systems and labo- ROMULAN DISRUPTORS TABLE
-ratories that other ships do. The table below lists the average
-number of labs per Size on Romulan vessels. RoMuLAN STANDARD) §©SU DamaceE SHOTS PER
-Disruptor Disruptor Rounp
-SHIP TYPE Averace Numeer oF Lass Per Size TyPE TyPE
-Bird of Prey 1-3 Type Kelcheb Typel 4 40 2
-Courier 0-1 Type Suk’aa Type2 8 60 2
-Cruiser 2-4 Type Bethaal Type3 12 80 2
-Dreadnought 2-7 Type Vobac Type4 16 100 2
-Frigate 1-3 Type Eb’el Type5 20 120 2
-Gunship 1-2 Type Domash Type6 24 140 3
-Medical 3-6 Type Chareth Type7 28 160 3
-Research/Laboratory 3-7 Type Anthep Type8 32 180 3
-Scout 0-1 Type Prenak Type9 36 200 3
-Starbird 2-6 Type Tethpet Type 10 40 220 3
-Surveyor 2-5 Type Uregal Typell 44 240 5
-Transport 0-1 Type Valkar Type 12 48 260 5
-Warbird 1-4 Type Arendev Type l3 52 280 5
-“romuan starsn consreucriom— Vous)
-A — ——— ~===
 
 as = “a ——_
 sui : !
