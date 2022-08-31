@@ -865,12 +865,7 @@ Escape Pods 6 Coverage: Standard
 Number: 120 Navigational Sensors [5 Power/round] 18
 Capacity: 4 persons per pod Strength Package: Class 7 (Strength 7)
 Gain Package: Class Beta (+2)
-“CHAPTER 3/) mums 7 VN aN
-4A - = —
 
-TT =
-‘cHPEME Tie ROU AD STB:
-AIP SE THE ROT al afi Hiri
 Probes: 15 2 TACTICAL SYSTEMS
 Sensors Skill: 4 Forward Disruptor Array 50
 FiicHt ContROL SYSTEMS Type: Uregal
@@ -929,85 +924,35 @@ CIENCE SYSTEMS
 Rating 1 (+0) [1 Power/round] 10
 Specialized Systems: None
 Laboratories: 3 2
-| i 7 Das TO
-—_ — -_
-
-e a
-1iIPs AE RE al immedi lla dy
-
 Forward Torpedo Launcher 16
 Standard Load: Type Il photon torpedo (200 Damage)
-
 Spread: 6
-
 Range: 15/350,000/1,500,000/4,050,000
-
 Targeting System: Accuracy 4/5/7/10
-
 Power: [20 + 5 per torpedo fired]
-
 Location: Forward
-
 Firing Arc: Forward, but are self-quided
-
 Torpedoes Carried: 40 4
 TA/T/TS: Class Alpha [0 Power/round] 6
 Strength: 7
-
 Bonus: +0
-
 Weapons Skill: 4
-
 Shields (Forward, Aft, Port, Starboard) 50 (x4)
 Shield Generator: Type R-ID (Protection 700) [70 Power/shield/round]
-
 Shield Grid: Type C (50% increase to 1050 Protection)
-
 Subspace Field Distortion Amplifiers: Class Epsilon (Threshold 250)
-
 Recharging System: Class 1 (45 seconds)
-
 Backup Shield Generators: 4 (1 per shield) 4
 Auto-Destruct System 5
 AUXILIARY SPACECRAFT SYSTEMS
-
 Shuttlebay(s): Capacity for 8 Size worth of ships 16
 Standard Complement: 4 shuttlecraft
-
 Location(s): Aft ventral
-
 Captain’s Yacht: No
 
----------DESCRIPTION AND NOTES------
-FLEET DATA: One of the most successful Frigate designs in the
-history of the Star Navy, the Melek’aan is a ship designed for two
-specific types of missions: planetary/system defense, and plan-
-etary invasion. As such, the ship lacks many “frills,” focusing on
-systems that help it do its job: powerful disruptors; strong shields;
-advanced medical facilities; and the ability to enter atmospheres
-and make planettfall. The Melek’aan often doubles as a carrier,
-ferrying loads of up to 180 troops (or more, in desperate straits) to
-the battlefield.
-The simplicity of the Melek’aan’s design mirrors the basic nature
-of its role in the Star Navy’s fleet. The command hull, a wedge-
-shaped structure, attaches directly to the forward dorsal side of a
-roughly teardrop-shaped main hull somewhat reminiscent of the
-old Argus class. The WARP nacelles are held by two short pylons
-each, one about two-thirds forward and one about two-third aft,
-that project directly to port and starboard and dorsally. When the
-ship makes planetfall, four landing struts emerge from the ventral
-side of the ship, and disembarking troops exit via a descending
-ramp.
-NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: (e/ek’aan,
-prototype; Ger’ethan, landed troops on enemy-held planet during
-Battle of Vendrath Prime despite fierce counterfire (2368); D’verrex,
-participated in liberation of Benzar (2374).
 
-“CHAPTER 3/ macinay NY Vath
 
-= = -_
-: | :
-AIP STE THE RT al afi Trin
+MERET CLASS 
 Class and Type: Meret-Class Incursion Cruiser PROPULSION SYSTEMS
 Commissioning Date: 2359 WARP PRoputsion SYSTEM
 Nacelles: Type 6C4 101
@@ -1062,11 +1007,6 @@ Locations: 12 locations throughout ship Coverage: Standard
 Escape Pods 10 Navigational Sensors [5 Power /round] 16
 Number: 160 Strength Package: Class 6 (Strength 6)
 Capacity: 12 persons per pod Gain Package: Class Beta (+2)
-]_| —_— — — \ CHAPTER 3
-
-oy matin
-' F ae
-4i1P& JE ORT al Ar Cre on
 Probes: 40 4 Science Systems
 Sensors Skill: 4 Rating 2 (+1) [2 Power/round] 17
 FLIGHT CONTROL SYSTEMS Specialized Systems: 1 )
@@ -1083,7 +1023,6 @@ Backup 12 Location: Forward of command hull
 Strength: 6 [2 Power/round] Firing Arc: 360 degrees forward
 Number: 3 Firing Modes: Standard, Pulse
 Attitude Control [2 Power /round] 2 ee tok Disruptor Array 42
-ype:
 communicanio 12 > swer /t d] 7 Damage: 200 [20 Power]
 vs he J ower/roun Number of Shots: Up to 3 shots per round
 secur 5 (Class Delt fing) Targeting System: Accuracy 4/5/7/10
@@ -1127,90 +1066,47 @@ Internal Force Fields [1 Power/3 Strength] 7 Range: 10/30,000/100,000/300,000
 Location: Aft
 Firing Arc: 360 degrees aft
 Firing Modes: Standard, Pulse
-
-a Ai oe a
-c | 1 fi N ; I [ i l ofa i i N
-
-Forward Plasma Torpedo Launcher (High-Yield) 24 ship. And thanks to its design, the Meret has established an envi-
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) able record on such missions, covertly penetrating Federation and
-Spread: 6 Taurhai space, among others, to spy on the enemies of the Empire
-Range: See text and gather much valuable intelligence. During the Taurhai offen-
-Targeting System: Accuracy 4/5/7/10 sives and the Dominion War, Merets not only collected intel, they
-Power: [20 + 5 per torpedo fired] worked in wings to harass and disrupt enemy shipping and recon-
-Location: Forward naissance missions.
-
-Firing Arc: Forward, but are self-quided . . .
-
-Aft Plasma Torpedo Launcher (High-Yield) 4 After re-opening contact with the Federation, the Star Empire
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) rushed many Merets into production, sending them across the
-Spread: 6 Neutral Zone and into UFP space under cover of their power-
-Range: See text ful cloaks to spy on this most dangerous neighbor. Thanks to the
-Targeting System: Accuracy 4/5/7/10 speed with which they were produced, many of these Merets
-Power: [20 + 5 per torpedo fired] experienced an annoyingly high level of minor systems glitches
-location: Aft an¢ farlures and have require Periodic intensive maintenance
-Firing Arc Aft. but are self-quided and upgrades. Merets assembled after 2368 generally lack these
-
+Forward Plasma Torpedo Launcher (High-Yield) 24 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 6 
+Range: See text
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired]
+Location: Forward
+Firing Arc: Forward
+Aft Plasma Torpedo Launcher (High-Yield) 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 6 
+Range: See text
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired] 
+location: Aft
+Firing Arc Aft. but are self-quided
 Torpedoes Carried: 60 Class XIV plasma, 90 Type II photon 15 Problems.
-
-TA/T/TS: Class Beta [1 Power/round] 9 The Meret proved so successful at spying missions that in 2367,
-Strength: 8 the Tal Shiar developed a special variant, the D’viret-class Incur-
-Bonus: +1 sion Cruiser, specifically for intelligence operations. The D’viret
-
-Weapons Skill: 4 resembles the Meret in almost all respects, both physically and
-
-Shields (Forward, Aft, Port, Starboard) 82 (x4) technologically, but has improved sensor and COMMUNICATIONS
-Shield Generator: Type R-IIl (Protection 1050) [105 Power/shield/round] systems.
-
+TA/T/TS: Class Beta [1 Power/round] 9 
+Strength: 8 
+Bonus: +1 
+Weapons Skill: 4 
+Shields (Forward, Aft, Port, Starboard) 82 (x4) 
+Shield Generator: Type R-IIl (Protection 1050) [105 Power/shield/round] 
 Shield Grid: Type B (33% increase to 1400 Protection)
-Subspace Field Distortion Amplifiers: Class Eta (Threshold 350) NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: = Meret, pro-
-Recharging System: Class 1 (45 seconds) totype; Lattem, scouted Federation sectors near the Neutral Zone
+Subspace Field Distortion Amplifiers: Class Eta (Threshold 350)
+Recharging System: Class 1 (45 seconds) 
+Backup Shield Generators: 4 (1 per shield) 
+Auto-Destruct System 7 
+AUXILIARY SPACECRAFT SYSTEMS 
+Shuttlebay(s): Capacity for 30 Size worth of ships 60
+Standard Complement: 15 shuttlecraft
+Location(s): Aft ventral, command hull aft 
+Captain’s Yacht: No 
 
-Backup Shield Generators: 4 (1 per shield) g border (2364-65); D’tervek, vanished while conducting a covert
 
-Auto-Destruct System 7 reconnaissance mission in Klingon space (2366); Mederem,
 
-scouted the Vulcanis system as part of the attempted invasion of
 
-AUXILIARY SPACECRAFT SYSTEMS Vulcan (2368); V’tallus, destroyed in a suicide run against a Tau-
 
-Shuttlebay(s): Capacity for 30 Size worth of ships 69 thai battle cruiser in the Battle of Eridam during the Fourth Taurhai
-Standard Complement: 15 shuttlecraft Offensive (2368); Indrilus, destroyed by the Jem’Hadar during the
-Location(s): Aft ventral, command hull aft disastrous Tal Shiar-led attempt to obliterate the Founders’ home-
 
-Captain’s Yacht: No world (2371); Kovrexos, conducted reconnaissance of Cardassian
 
-space (2373-74); S’ten, disappeared during the Dominion War
 
----------DESCRIPTION AND NOTES------ under circumstances still labeled “Classified” by the Tal Shiar
-
-FLEET DATA: Designed during the late 2340s and early 2350s, when (2375); D’delean, gathered valuable intelligence about Jem’Hadar
-the young guns at the Corps of Starship Engineers were beginning ‘Oop movements on Betazed and throughout the Kalandra Sector
-the aesthetic and technological transition from old-style Romulan (2375); S‘delon, destroyed five Jem’Hadar Attack Fighters during
-ships to modern vessels, the Meret-class Incursion Cruiser bears the Battle of the Hobileth Nebula (2375); Vassam, assigned to
-slight resemblance to any other Romulan vessel. Its rectangular Permanent outpost patrol in Empty Frontier (2371-present).
-main hull seems ordinary enough at first glance, but includes
-many unusual superstructures. A diamond-shaped connecting
-interhull forward bridges it and the command hull, which when
-viewed from above has a teardrop-shaped profile, and when seen
-from the side resembles the odd but fearsome beak of a gigantic
-songbird. Oddest of all are the nacelle pylons. Instead of using tra-
-ditional wing-style pylons, the designers used two spar-like pylons
-per nacelle (one slanting shWARPly forward and down from the aft
-end of the main hull, one projecting less shWARPly from the forward
-end). Thanks to this, the ship vaguely suggests one of the kumataru
-speed-sailing boats young Romulans race across wind-swept lakes
-and seas.
-But the Corps of Starship Engineers had more in mind than simply
-creating a ship with a distinctive profile when they designed the
-Meret. The pylons and other structures were created and shaped
-to lighten the ship’s weight and improve its maneuverability, since
-its primary mission profiles (long-range reconnaissance, search-
-and-destroy missions, patrol and harassment) required a fast, agile
-]_| a og 7 \CHAPTER 3
-
-at ee +
-4 . ' | | ae
-4iP& ff 4E ORG ctl Ar Creer oe
 NEH'VOR CLASS
 Class and Type: Neh’vor-Class Research/Laboratory Ship PROPULSION SYSTEMS
 Commissioning Date: 2363 WARP Propulsion SYSTEM
