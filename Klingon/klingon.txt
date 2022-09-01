@@ -1291,57 +1291,64 @@ sounds of Klingon words and sentences.
         {peqIpchuq}     <hit each other!>
 
 
-4.2.2. Type 2: Volition/predisposition
-Suffixes of this type express how much choice the subject has
-about the action described or how predisposed the subject is
-to doing it.
-{-nis} <need>
-{vIleghnis} <I need to see him/her> ({legh} <see>)
-{bisopnis} <you need to eat> ({Sop} <eat>)
+    4.2.2. Type 2: Volition/predisposition
 
-{-gang} <willing>
-{Heghgqang} <he/she is willing to die> ({Hegh} <die>)
-{gaja'gqang} <I am willing to tell you> ({ja'} <tell>)
+        Suffixes of this type express how much choice the subject has
+        about the action described or how predisposed the subject is
+        to doing it.
 
-{-rup} <ready, prepared> (referring to beings)
+        {-nIs} <need>
 
-{Heghrup} <he/she is ready to die> ({Hegh} <die>)
-{qaleghrup} <I am ready to see you> ({legh} <see>)
-{nuja'rup} <they are prepared to tell us> ({ja'} <tell>)
+        {vIleghnIS}     <I need to see him/her>     ({legh} <see>)
+        {bISopnIS}      <you need to eat>           ({Sop} <eat>)
 
-{-beH} <ready, set up> (referring to devices)
+        {-qang} <willing>
 
-{pojbeH} <(the device) is set up to analyze it> ({poj} <analyze>)
-{labbeH} <(the device) is ready to transmit data> ({lab}
-<transmit data>)
+        {Heghqang}      <he/she is willing to die>     ({Hegh} <die>)
+        {gaja'qang}     <I am willing to tell you>     ({ja'} <tell>)
 
-There is, it should be noted, a verb {ghuS} which means <to be
-prepared to launch or project (something).> This verb never
-takes the suffix {-rup.} It is used primarily in reference to
-torpedoes---so much so that if the object is not specifically[[p.37]]
-stated, and context does not dictate otherwise, it is always
-assumed to be <torpedoes.> Accordingly, both of the following
-sentences mean <Be prepared to launch torpedoes!> or <Stand by
-on torpedoes!>
+        {-rup} <ready, prepared> (referring to beings)
 
-{cha ylghuS} ({cha} <torpedoes>)
-{yIghus}
+        {Heghrup}       <he/she is ready to die>        ({Hegh} <die>)
+        {qaleghrup}     <I am ready to see you>         ({legh} <see>)
+        {nuja'rup}      <they are prepared to tell us>  ({ja'} <tell>)
 
-The verb {ghuS} can also be used in reference to, among
-other things, rockets, missiles, and various kinds of energy
-beams (which, like torpedoes, go from one point to another).
-It is also used to describe the action of pulling back the elastic
-band of a slingshot. In most other instances of preparedness,
-however, {-rup} is required.
+        {-beH} <ready, set up> (referring to devices)
 
-{-vIp} <afraid>
+        {pojbeH}    <(the device) is set up to analyze it>      ({poj} <analyze>)
+        {labbeH}    <(the device) is ready to transmit data>    ({lab} <transmit data>)
 
-{choHoHvIp} <you are afraid to kill me> ({HoH} <kill>)
-{mugipviIp} <they are afraid to hit us> ({qIp} <hit>)
 
-This suffix is rarely used with a prefix meaning <I> or <we.>
-Though it is grammatically correct, it is culturally taboo.
+        There is, it should be noted, a verb {ghuS} which means 
+        <to be prepared to launch or project (something).> 
+        This verb never takes the suffix {-rup.} 
+        It is used primarily in reference to torpedoes, 
+        so much so that if the object is not specifically
+        stated, and context does not dictate otherwise, it is always
+        assumed to be <torpedoes.> Accordingly, both of the following
+        sentences mean <Be prepared to launch torpedoes!> or <Stand by on torpedoes!>
+
+        {cha yIghuS} ({cha} <torpedoes>)
+        {yIghus}
+
+        The verb {ghuS} can also be used in reference to, among
+        other things, rockets, missiles, and various kinds of energy
+        beams (which, like torpedoes, go from one point to another).
+        It is also used to describe the action of pulling back the elastic
+        band of a slingshot. In most other instances of preparedness,
+        however, {-rup} is required.
+
+        {-vIp} <afraid>
+
+        {choHoHvIp}     <you are afraid to kill me>     ({HoH} <kill>)
+        {muqIpvIp}      <they are afraid to hit us>     ({qIp} <hit>)
+
+        This suffix is rarely used with a prefix meaning <I> or <we.>
+        Though it is grammatically correct, it is culturally taboo.
+
+
 4.2.3. Type 3: Change
+
 Suffixes of this type indicate that the action described by the
 verb involves a change of some kind from the state of affairs
 that existed before the action took place.
@@ -1645,12 +1652,12 @@ to show ordering of the suffixes.
 {vItlhapnISpu''} <I needed to take him/her>
 {vI-} (prefix) <I--him/her>
 {tlhap} (verb) <take>
-{-nis } (2) <need>
+{-nIs } (2) <need>
 {-pu' } (7) <perfective>
 {HeghgangmoHlu'pu'} <it made him/her willing to die>
 0 (prefix) <he/she--him/her>
 {Hegh } (verb) <die>
-{-gang } (2) <willing>
+{-qang } (2) <willing>
 {—moH } (4) <cause>
 {-lu' } (5) <indefinite subject>
 {-pu' } (7) <perfective>
@@ -8217,7 +8224,7 @@ This helmet suits you. Du'ITHchoHmoH miIv vam doo-IKH-
 chokh-mohk [[mlIlv vam=>mIvvam] |
 
 MiV-vam
-You need a rest. bIleSnis bi-LESH-nish
+You need a rest. bIleSnis bi-LESH-nIsh
 Pay now! DaH yIDIl dakh yi-DIL
 Four thousand throats gaStaHvis wa! ram 1loS KASH-takh-
 vish wa ram[[loS=>loSSaD] ]]
