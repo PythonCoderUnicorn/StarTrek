@@ -2003,14 +2003,11 @@ Number: 4 FiicHT ContRoL Systems
 Capacity: 8 persons per pod Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2
 [1 Power/round in use] I]
 Navigational Computer
-]_| a a — \ CHAPTER 3
-
-, “= ae
-4iP& f 4E ORG all An rr in
 Main: Class 2 (+1) [1 Power/round] 2 Backup Shield Generators: 4 (1 per shield) 4
 Backups: One | Avuto-Destruct System 2
 Inertial Damping Field
-Main 12 AUXILIARY SPACECRAFT SYSTEMS
+Main 12 
+AUXILIARY SPACECRAFT SYSTEMS
 Strength: 9 [3 Power/round] Shuttlebay(s): None
 Number: 2 Captain’s Yacht: No
 Backup 4
@@ -2027,10 +2024,9 @@ Tractor Beams exploratory and military. Fast and maneuverable, it can also be
 Emitter: Class Gamma [3 Power/Strength used/round] 9 used effectively in some battle situations, as was demonstrated
 Accuracy: 4/5/7/10 several times during the Dominion War.
 Location: Forward ventral tap:
-Emitter: Class Gamma [3 Power/Strength used /round] g NoTEeworTHy VESSELS/SERVICE RECORDS/ENCOUNTERS: Tirethi, pro-
-Accuracy: 4/5/7/10 totype; Pi, crash-landed (and later self-destructed) on Galorndon
-Location: Aft ventral Core, alerting Starfleet to Romulan activities there (2366); Geth-
-ald, used by Admiral Alidar Jerok to defect to the UFP (2366).
+Emitter: Class Gamma [3 Power/Strength used /round] 
+Accuracy: 4/5/7/10 
+Location: Aft ventral 
 TRANSPORTERS
 Type: Personnel [5 Power /use] 17
 Pads: 6
@@ -2065,12 +2061,24 @@ Shield Generator: Type R-IB (Protection 300) [30 Power/shield/round]
 Shield Grid: Type B (33% increase to 400 Protection)
 Subspace Field Distortion Amplifiers: Class Beta (Threshold 100)
 Recharging System: Class 1 (45 seconds)
-a’ A YA WA \
-A— — —
 
-A. — Ear PP .
-CO
-on as 1 ai N ; I [ i l ofa i I N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 T'KOREX CLASS
 Class and Type: T’korex-Class Warbird PROPULSION SYSTEMS
 Commissioning Date: 2366 WARP Propuision SYSTEM
@@ -2091,7 +2099,7 @@ Inner 36 Type: Type VII (generates 650 Power/round) 135
 Location: Main hull
 RESISTANCE Engine Core Ejection System: Yes 9
 Outer Hull: 10 12 ; ,
-. IMPULSE Engine[s]: 2 Class 3A (generate 28 Power/engine/round)
+IMPULSE Engine[s]: 2 Class 3A (generate 28 Power/engine/round)
 Inner Hull: 10 12 =|:
 Sceuctural Intecriy FIELD Auxiliary Power: 5 reactors (generate 5 Power/reactor/round) 15
 Emergency Power: Type E (generates 45 Power/round) 45
@@ -2129,13 +2137,7 @@ Locations: Ventral main hull, dorsal main hull, 12 other locations Strength Pack
 Escape Pods I] Gain Package: Class Beta (+2)
 Number: 200 Probes: 120 12
 Capacity: 8 persons per pod Sensors Skill: 5
-/_| “a — _ \ CHAPTER 3
-
-=, ip YP nm Hr
-' | ;- ioe
-F r
-4iP& ff 4E ORG ctl Ar Creer oe
-FLIGHT CONTROL SysTEMS TACTICAL SYSTEMS
+FLIGHT CONTROL SYSTEMS TACTICAL SYSTEMS
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2 Forward Disruptor Array 54
 [1 Power/round in use] 11 Type: Valkar
 Navigational Computer Damage: 260 [26 Power]
@@ -2159,29 +2161,29 @@ Tractor Beams Dirnag: 240 [24 Power
 Emitter: Class Delta [3 Power/Strength used/round] 12 ge: eet
 Number of Emitters: Up to 5 shots per round
 Accuracy: 4/5/7/10
-ms Targeting System: Accuracy 4/5/7/10
+Targeting System: Accuracy 4/5/7/10
 Location: Forward dorsal Range: 10/30,000/100,000/300,000
 Emitter: Class Delta [3 Power/Strength used/round] 12 ‘ocavign: Forward ventral
 Accuracy: 4/5/7/10 Firing Arc:
-ms iring Arc: 360 degrees ventral
+Firing Arc: 360 degrees ventral
 Location: Aft ventral Firing Modes: Standard, Pulse
 Emitter: Class Alpha [3 Power/Strength used/round] 6 anes:
 Accuracy: 5/6/8/11 Aft Dorsal Disruptor Array 50
 Location: One in each shuttleba Type: Uregal
-y Damage: 240 [24 Power]
+Damage: 240 [24 Power]
 TRANSPORTERS Number of Emitters: Up to 5 shots per round
-"ype Personne [5 Power /use] 144 Targeting System: Accuracy VY, 5/7/10
+[5 Power /use] 144 Targeting System: Accuracy VY, 5/7/10
 ads: Range: 10/30,000/100,000/300,000
 Emitter/Receiver Array: Personnel Type 6 (40,000 km range) ‘ocavign: Aft dorsal
 Energizing/Transition Coils: Class | (Strength 9) . Firing Arc: 360 degrees dorsal
 Number and Location: Four in command hull, four in main hull Firing Modes: Standard, Pulse
-"ype ergency [7 Power/use] 144 Aft Ventral Disruptor Array 50
+[7 Power/use] 144 Aft Ventral Disruptor Array 50
 ads: Type: Uregal
 Emitter/Receiver Array: Emergency Type 3 (15,000 km range) Damage: 740 [24 Power]
 Energizing/Transition Coils: Class | (Strength9) = Number of Emitters: Up to 5 shots per round
 Number and Location: Four in command hull, four in main hull Targeting System: Accuracy 4/5/7/10
-"ype me [4 Power/use] 112 Range: 10/30,000/100,000/300,000
-ads: g Location: Aft ventral
+[4 Power/use] 112 Range: 10/30,000/100,000/300,000
+Location: Aft ventral
 Emitter/Receiver Array: Cargo Type 3 (40,000 km range) Firing Arc: 360 degrees ventral
 Energizing/Transition Coils: Class | (Strength 9) Firing Modes: Standard, Pulse
 Number and Location: Two in command hull, six in main hull Command Hull Ventral Disruptor Array 50
@@ -2194,122 +2196,63 @@ ScIENCE SYSTEMS Location: Command hull ventral
 Rating 2 (+1) [2 Power /round] 19 Firing Arc: 360 degrees ventral
 Specialized Systems: 2 10 Firing Modes: Standard, Pulse
 Laboratories: 20 4
-"CHAPTER 3/ A AA WA
-
-- = "
-‘CHIME fileB 7
-PTE THE RE ae th Fil in
-
-Forward Plasma Torpedo Launcher (High-Yield) 28 The Star Navy produces almost as many T’korexs as D’deridexs;
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) it considers this class a key element of many fleet formations.
-Spread: 10 T’korex wings were a common sight during the latter stages of the
-Range: See text Dominion War, right up to the final battle in the heavens over
-Targeting System: Accuracy 4/5/7/10 Cardassia Prime. Though the T’korex acquitted itself well during
-Power: [20 + 5 pe torpedo fired] the War, it will take the Star Empire a long time to rebuild all the
-Location: Forwar ones destroyed during the fighting.
-
-Firing Arc: Forward, but are self-guided , ° ue ;
-
-Aft Plasma Torpedo Launcher (High-Yield) 93 NoteworTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: T’korex,
-Sui! Oa 1 pmo (00 Doepe ena) a Den te cp ae a
-Spread: 10 !
-
-, Lev’Vor, explored coreward sectors of the Romulan frontier
-Tartine Sytem Accuracy 4/5/7/10 (2370-72); Trex’ar, was badly damaged but repaired for return to
-Power: [20 + 5 per torpedo fired] the front lines more than any single other Romulan ship during
-location: Aft the Fifth Taurhai Offensive (2369-74); V’darigan, crippled beyond
-Firing Arc: Aft, but are self-guided repair after destroying several orbital weapons platforms during
-
-Torpedoes Carried: 150 Class XIV plasma; 150 Type G-Il singularity 30 the battle to retake Benzar (2374); Kobe’t, participated in initial
-
-TA/T/TS: Class Gamma [2 Power/round] 12 attack on Chin’toka (2374), destroyed during Breen counteroffen-
-Strength: 9 sive (237); Cemras oye three Breen ships during a battle
-Bonus: +2 In the Kalandra sector ;
-
+Forward Plasma Torpedo Launcher (High-Yield) 28 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 10 
+Range: See text 
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 pe torpedo fired] 
+Location: Forward
+Firing Arc: Forward, but are self-guided 
+Aft Plasma Torpedo Launcher (High-Yield) 
+Tartine Sytem Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired] 
+location: Aft 
+Firing Arc: Aft, but are self-guided
+Torpedoes Carried: 150 Class XIV plasma; 150 Type G-Il singularity 30
+TA/T/TS: Class Gamma [2 Power/round] 
+Strength: 9 
+Bonus: +2 
 Weapons Skill: 5
-
 Shields (Forward, Aft, Port, Starboard) 108 (x4)
-
 Shield Generator: Class R-II (Protection 1000) [100 Power/shield/round]
 Shield Grid: Type C (50% increase to 1500 Protection)
-
 Subspace Field Distortion Amplifiers: Class Eta (Threshold 330)
 Recharging System: Class 1 (45 seconds)
-
 Backup Shield Generators: 4 (1 per shield) 8
-
 Auto-Destruct System 9
-
 AUXILIARY SPACECRAFT SYSTEMS
-
 Shuttlebay(s): Capacity for 35 Size worth of ships 70
 Standard Complement: 16 shuttlecraft, 8 shuttlepods
 Location(s): Main hull ventral, main hull dorsal
-
 Captain’s Yacht: Yes 10
 
----------DESCRIPTION AND NOTES------
 
-FLEET DATA: Yet another of the many new ship classes which grew
 
-out of the D’deridex Development Project, the T’korex-class War-
 
-bird resembles a smaller version of the D’deridex, but with an
 
-underhull which extends all the way to its command hull instead
 
-of connecting via a boom. Observant personnel also point to the
 
-slightly less tapered “point” on the ventral side of the command
 
-hull, the alterations to the WARP nacelles and the main hull where
 
-it connects to them, and other minor differences when distin-
 
-guishing between the two. Many Romulan commanders prefer the
 
-T’korex to the D’deridex due to its greater maneuverability and
 
-ease of internal customization.
 
-Like its bigger brother, the T’korex sports an impressive array of
 
-weaponry, ranging from a large forward disruptor cannon, to other
 
-disruptors of slightly less power, to fore and aft plasma torpedo
 
-launchers (the ship also carries singularity torpedoes). The ship
 
-lacks a directly aft disruptor array, but does have an aft torpedo
 
-launcher, as well as dorsal and ventral disruptor arrays that can
 
-normally hit targets to aft of the ship.
-
-Thanks to the arrangement of its cloaking device, EPS, and related
-
-systems, the T’korex has an unusually efficient nullifier core.
-
-Reduce the Difficulty for Tests to keep the core aligned with the
-
-ship’s propulsion systems by one.
-
-) A DET:
-
-a ___THOREK 3
-
-' | | ;- ioe
-4iP& f 4E ORG all An rr in
 TRASUS CLASS
 Class and Type: T’rasus-Class Starbird PROPULSION SYSTEMS
 Commissioning Date: 2357 WARP PRoputsion SYSTEM
 Nacelles: Type 5D 70
-
-SYSTEM SUs Speed: 5.6/8.4/9.2 [1 Power/.2 WARP speed]
-
+SYSTEM 
+SUs Speed: 5.6/8.4/9.2 [1 Power/.2 WARP speed]
 PIS: Type E (8 hours of Maximum WARP) 10
-
-HUFL SYSTEMS Uprating: two Package Threes for Standard, one Package Two for Maximum 16
+SYSTEMS Uprating: two Package Threes for Standard, one Package Two for Maximum 16
 Length: 407.10 meters IMPULSE ENGINE
 Bean 315.46 meters Type: Class 4B (.65¢/.85c) [6/8 Power /round] 23
 Height: 92.34 meters ocation: AN
@@ -2317,70 +2260,46 @@ Decks: 19 IMPULSE ENGINE
 Mass: 3,465,700 metric tonnes Type: Class 4B (.65c/.85c) [6/8 Power/round] 23
 SUs Available: 2,450 Location: Aft, port and starboard
 SUs Used: 2,221 Reaction Control System (.025c) [2 Power/round when in use] 7
-
-nn »3 POWER SYSTEMS
+POWER SYSTEMS
 Inner 28 ARTIFICIAL QUANTUM SINGULARITY DRIVE
-
 RESISTANCE Type: Type VI (generates 590 Power /round) 124
-
-, Location: Amidships
+Location: Amidships
 Outer Hull: 10 12 . oe
-
-; Engine Core Ejection System: Yes /
+Engine Core Ejection System: Yes 
 Inner Hull: 10 12 , ;
-
-Sreucturat InvecRiTy FIELD Impuise Engine[sh: 2 Cas i (generate 8 rower engie/taune) 19
+STRUCTURAL INTEGRITY FIELD Impuise Engine[sh: 2 Cas i (generate 8 rower engie/taune) 19
 Main: Class 6 (Protection 90/130) [1 Power/10 Protection/round] 34 Emergency Power: Type D (generates 40 Power round) a 40
 Backup: Class 6 (Protection 45) [1 Power/10 Protection/round] 17 Eps. Standard Power flow. +250 Power transfer /round 60
 Backup: Class 6 (Protection 45) [1 Power/10 Protection/round] 17 ;
-
 PERSONNEL SYSTEMS Standard Usable Power: 666
-
 Crew/Passengers/Evac: 322/400/4,650 OPERATIONS SYSTEMS
-
 Crew quarters Bridge: Command hull 35
 Spartan: 300 13 Auxiliary Control Room: Main hull 21
 Basic: 150 13 Separation System: Command hull separation [10 Power] 7
 Expanded: 45 9 Computers
 Luxury: 3 > Core 1: Command hull [5 Power/round] 14
 Unusual: 1 Core 2: Main hull [5 Power/round] 14
-
 ENVIRONMENTAL SYSTEMS Uprating: Class Alpha (+1) [1 Power/computer/round] 4
 Basic Life Support [11 Power/round] 28 ODN 21
 Reserve Life Support [6 Power/round] 14 Navigational Deflector [5 Power/round] 28
 Emergency Life Support (42 emergency shelters) 14 Range: 10/20,000/50,000/150,000
 Gravity [4 Power/round] / Accuracy: 5/6/8/11
 Consumables: 3 years’ worth 21 Location: Ventral
-
 REPLICATOR SYSTEMS SENSOR SYSTEMS
 Food Replicators [7 Power/round] / Long-range Sensors [5 Power /round] 38
 Industrial Replicators 13 Range Package: Type 4 (Accuracy 3/4/7/10)
-
 Type: Network of small replicators [2 Power/round] High Resolution: 5 light-years (.5/.6-1.0/1.1-3.5/3.6-5.0)
 Type: 2 large units [2 Power/replicator/round] Low Resolution: 14 light-years (1/1.1-3.5/3.6-10.0/10.1-14)
-
 Medical Facilities: 8 (+2) [8 Power/round] 40 Strength Package: Class 8 (Strength 8)
-
 Recreation Facilities: 8 [14 Power/round] 64 Gain Package: Class Beta (+2)
-
 Personnel Transport: Turbolitts, Jefferies tubes [2 Power/round] 21 Coverage: Standard
-
 Fire Suppression System [1] Power/round when active] 7 Lateral Sensors [5 Power /round] 22
-
 Cargo Holds: 50,000 cubic meters I Strength Package: Class 8 (Strength 8)
-
 Locations: 10 locations throughout ship Gain Package: Class Beta (+2)
-
 Escape Pods 9 Coverage: Standard
 Number: 160 Navigational Sensors [5 Power /round] 20
 Capacity: 8 persons per pod Strength Package: Class 8 (Strength 8)
-
 Gain Package: Class Beta (+2)
-"CHAPTER 3/ 7 SS > wi
-
-wT
-a E : !
-AIP SE THE ROT al afi Hiri
 Probes: 38 4 Science Systems
 Sensors Skill: 4 Rating 2 (+1) [2 Power/round] 17
 FLIGHT CONTROL SYSTEMS Specialized Systems: 2 10
@@ -2397,11 +2316,9 @@ Backup 9 __ Location: Forward of command hull
 Strength: 6 [2 Power/round] Firing Arc: 360 degrees forward
 Number: 2 Firing Modes: Standard, Pulse
 Attitude Control [2 Power /round] 2 ee Prorak Disruptor Array 42
-ype:
-aa > wer/r, d] 19 Damage: 200 [20 Power]
-a hey ower/roun Number of Shots: Up to 3 shots per round
-secur A (Class fing) Targeting System: Accuracy 4/5/7/10
-CCUrniy. “t WMlass Sama upraing Range: 10/30,000/100,000/300,000
+Damage: 200 [20 Power]
+A (Class fing) Targeting System: Accuracy 4/5/7/10
+Range: 10/30,000/100,000/300,000
 Basic Uprating: Class Alpha (+1) Location: Forward dorsal on main hull
 Emergency COMMUNICATIONS: Yes [2 Power/round] l Firing Arc: 360 degrees dorsal
 Tractor Beams Firing Modes: Standard, Pulse
@@ -2441,71 +2358,60 @@ Internal Force Fields [1 Power/3 Strength] 7 Range: 10/30,000/100,000/300,000
 Location: Aft
 Firing Arc: 360 degrees aft
 Firing Modes: Standard, Pulse
-
-= — ~
-1iPS f TE RL al A Free in
 Forward Plasma Torpedo Launcher (High-Yield) 24 greater prestige and respect over the last 25 years than at any
 Standard Load: Class XIV plasma torpedo (600 Damage; see rules) previous time in its history.
-Spread: 6 oo . . .
-Range: See text Although primarily designed for exploring sectors and surveying
-Targeting System: Accuracy 4/5/7/10 planets, the T’rasus isa versatile ship, and can participate in many
-Power: [20 + 5 per torpedo fired] other activities—such as warfare against the Taurhai, the Domin-
-location: Forward ion, or other enemies of the Empire. Several wings of T’rasus-class
-Firing Arc: Forward, but are self-guided ships served under Ar’nal Belisarus Velal during the Dominion
-Aft Plasma Torpedo Launcher (High-Yield) 4 War, and the Star Navy developed several more military-oriented
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) variants of the class during the 2370s.
-Spread: 6 NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: / ‘rasus, pro-
-Range: See text totype; D’kalam, explored the Starry Road Nebula (2358-60), dis-
-Targeting System: Accuracy 4/5/7/10 appeared while investigating a “mysterious nebula” there (2360);
-Power: [20 + 5 per torpedo fired] T’xeren, disappeared while exploring the Tullan Reach, now
-Location: Aft believed to have been destroyed by the Borg (2363); Visen, initi-
-Firing Arc: Att, but are self-guided ated first contact with the M’rok (2364), site of signing of treaty
-Torpedoes Carried: 50 Class XIV plasma, 100 Type II photon 15. of alliance between the Empire and the M’rok (2366); D’tharan,
-TA/T/TS: Class Beta [1 Power/round] 9 began exploration of the region beyond the Empire’s rimward
-Strength: 8 border, but stopped reporting after only three months and was
-Bonus: +1 never heard from again (2368); Durelan, conducted reconnais-
-Weapons Skill: 4 sance missions against the Taurhai during Fifth Taurhai Offensive
-Shields (Forward, Aft, Port, Starboard) 90 (x4) (2369-72), destroyed by a wing of Taurhai destroyers when its
-Shield Generator: Type R-IIl (Protection 1100) [110 Power/shield/round] cloaking device developed a malfunction (2373); D’stelen, mili-
-Shield Grid: Type C (50% increase to 1650 Protection) tary-oriented variant, fought during the Dominion War, never sus-
-Subspace Field Distortion Amplitiers: Class Eta (Threshold 350) tained more than 47% structural damage while accounting for
-Recharging System: Class 1 (45 seconds) numerous enemy casualties (2375); Thedrelos, detected covert
-Backup Shield Generators: 4 (1 per shield) 8 Cardassian strike force in time to warn the U.5.S. Wenceslas and
-Auto-Destruct System 7 prevent a disastrous surprise attack on a major Federation alliance
-supply convoy (2375); T’Laratex, exploring deep space beyond the
-AUXILIARY SPACECRAFT SYSTEMS Empty Frontier (2374-present); Xanarides, conducting three-year
-Shuttlebay(s): Capacity for 28 Size worth of ships 36 exploratory mission in the Gamma Quadrant (2375-present).
+Spread: 6 
+Range: See text
+Targeting System: Accuracy 4/5/7/10
+Power: [20 + 5 per torpedo fired] 
+location: Forward
+Firing Arc: Forward, but are self-guided 
+Aft Plasma Torpedo Launcher (High-Yield) 4 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 6 
+Range: See text 
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired] 
+Location: Aft
+Firing Arc: Att, but are self-guided
+Torpedoes Carried: 50 Class XIV plasma, 100 Type II photon 15
+TA/T/TS: Class Beta [1 Power/round] 
+Strength: 8
+Bonus: +1 
+Weapons Skill: 4 
+Shields (Forward, Aft, Port, Starboard) 90 (x4) 
+Shield Generator: Type R-IIl (Protection 1100) [110 Power/shield/round] 
+Shield Grid: Type C (50% increase to 1650 Protection)
+Subspace Field Distortion Amplitiers: Class Eta (Threshold 350)
+Recharging System: Class 1 (45 seconds)
+Backup Shield Generators: 4 (1 per shield) 8 
+Auto-Destruct System 7 
+supply convoy
+AUXILIARY SPACECRAFT SYSTEMS 
+Shuttlebay(s): Capacity for 28 Size worth of ships 36 
 Standard Complement: 14 shuttlecraft
 Location(s): Aft ventral, command hull aft
 Captain’s Yacht: No
----------DESCRIPTION AND NOTES------
-FLEET DATA: In the wake of the Praetorian Edict of 2348, which
-commanded all Romulans to redouble their efforts to achieve
-D’era, the Corps of Starship Engineers began working on designs
-for exploration-oriented ships—a first for the Star Navy, which had
-always stressed military needs and systems previously. One of the
-earliest, and ultimately most successful, fruits of their labors was
-the T’rasus-class Starbird, the first of the new “Starbird” explor-
-atory vessels.
-The design of the T’rasus drew heavily on the plans and specifi-
-cations then being drafted by the D’deridex Development Proj-
-ect. As a result, the T’rasus resembles the Heavy Warbird in many
-respects. However, it has a shorter, thicker dorsal connecting
-interhull and no ventral main hull body.
-Created for long-term, deep-space exploration, survey, and con-
-tact missions, the T’rasus has succeeded admirably at the goals
-the Star Navy set for it. T’rasus crews have discovered more Class
-M planets, and made first contact with more new species, than
-the crews of almost all other types of ships combined. The T’rasus
-spearheaded the efforts initiated by the various Exploration Edicts
-of the 2360s and 2370s, and continues to expand the Romulan
-sphere of knowledge, influence, and control in the Beta Quad-
-rant. Thanks to its efforts, the Exploration Command has enjoyed
-CHAPTER 3/ _ SS ™N~ \_\
 
->: - "| ‘ + a
-‘Sie 3 4 5 U pis i q
-on as 1 ai N ; I [ i l ofa i I N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Vadak-Class Heavy Gunship PROPULSION SYSTEMS
 Commissioning Date: 2357 WARP PRoputsion SYSTEM
 Nacelles: Type 5 50
@@ -2560,11 +2466,6 @@ Number: 20 Coverage: Standard
 Capacity: 4 persons per pod Navigational Sensors [5 Power /round] 14
 Strength Package: Class 7 (Strength 7)
 Gain Package: Standard
-| iki CHAPTER 3
-
-= tT " “'? , ae
-' F ae
-4i1P& JE ORT al Ar Cre on
 Probes: 20 2 TACTICAL SYSTEMS
 Sensors Skill: 4 Forward Disruptor Array 46
 Fit CONTROL SYSTEMS Type: Tethpet
@@ -2624,25 +2525,20 @@ CIENCE SYSTEMS
 Rating 1 (+0) [1 Power/round] 10
 Specialized Systems: None
 Laboratories: 4 2
-
-a = "
-+) CO PN
-i a alt fs D pies U D
-ies i. SLELL al ofa iI M
-Forward Torpedo Launcher 15 parative size. As a result, some Romulan officers think of Vadak
-Standard Load: Type G-II photon torpedo (400 Damage) crewmembers as “soft,” but no Federation or Taurhai commander
-Spread: 4 who has faced one of these vessels would agree.
+Forward Torpedo Launcher 15 
+Standard Load: Type G-II photon torpedo (400 Damage) 
+Spread: 4 
 Range: 15/350,000/1,500,000/4,050,000
-Targeting System: Accuracy 4/5/7/10 NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: Vadak, pro-
-Power: [20 +5 per torpedo fired] totype; Dortarus, stopped a pirate raid on Gevallos III by single-
-location: Forward handedly destroying or crippling three of the raiders’ ships (2361);
-Firing Arc: Forward, but are self-guided Du’rarex, helped to hold the Romulan secondary line at the Battle
-Aft Torpedo Launcher 15 of Yarra Sarnel (2365); Methallus, rescued transport stranded by
-Standard Load: Type G-Il photon torpedo (400 Damage) imminent collapse of WARP containment field, saving the lives of
-Spread: 4 224 citizens (2369); Gal’genaru, participated in the Battle of Delta
-Range: 15/350,000/1,500,000/4,050,000 Corescus (2372); Phoras, destroyed at the Battle of Ricktor Prime
-Targeting System: Accuracy 4/5/7/10 ) after successfully defending the Galaxy-class U.S.5. Jules Verne,
-Power: [20 + 5 per torpedo fired] NCC-69923, from a Jem’Hadar attack (2375).
+Targeting System: Accuracy 4/5/7/10
+Power: [20 +5 per torpedo fired] 
+location: Forward 
+Firing Arc: Forward, but are self-guided
+Aft Torpedo Launcher 15 
+Standard Load: Type G-Il photon torpedo (400 Damage) 
+Spread: 4 
+Range: 15/350,000/1,500,000/4,050,000 
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired] 
 Location: Aft
 Firing Arc: Aft, but are self-guided
 Torpedoes Carried: 40 4
@@ -2660,37 +2556,26 @@ Auto-Destruct System 5
 AUXILIARY SPACECRAFT SYSTEMS
 Shuttlebay(s): None
 Captain’s Yacht: No
----------DESCRIPTION AND NOTES------
-FLEET DATA: The Vadak-class Heavy Gunship blends a number of
-typically Romulan starship design features into a pleasing whole.
-The main hull is rectangular, with several small symmetrically-
-placed superstructures along its length dorsally and ventrally. The
-command hull, similar to those seen on the Theta-class Swift Cou-
-rier and D’deridex-class Heavy Warbird, attaches directly to the
-forward side of the main hull, though the aft edge is raised above
-the main hull, not flush with it as on the Theta. The ship’s second-
-ary IMPULSE engine is mounted on the aft edge of the command
-hull. The wing pylons look somewhat like those of the D’deridex,
-but are smaller, and slightly swept back towards the aft of the
-ship.
-Designed to patrol and defend the borders of disputed systems
-and fronts established by the Star Navy during time of war, the
-Vadak is relatively slow when moving at WARP speed, but fast and
-agile at IMPULSE so that it can react to enemy incursions swiftly. It
-carries heavy shields and powerful weapons (mostly disruptors),
-and some engineers have uprated their Vadaks with even greater
-offensive capability (including an improved TA/T/TS).
-The Vadak does not have the spartan interior one would expect
-from a ship of its patently military nature—its designers believed
-that serving aboard a fighting ship did not mean having to sacrifice
-comfort. The corridors are roomy and well-lit, and the quarters
-larger and more comfortable than on most Romulan ships of com-
-| A A Ce
-— — —a
 
-+ ie +
-4 . ' | | ae
-4iP& f 4E ORG all An rr in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 VELTAR CLASS
 Class and Type: Vel’tar-Class Armored Transport (“Drop Ship”) PROPULSION SYSTEMS
 Commissioning Date: 2355 WARP Propulsion SYSTEM
@@ -2701,13 +2586,11 @@ HUEL SYSTEMS Uprating: Package 1 for Maximum 2
 ath. IMPULSE ENGINE
 Length: 78.37 meters Type: Class 3A (.5¢/.75c) [5/7 Power/round] 18
 Beam: 6.25 meters ; ;
-
-“aha. Acceleration Uprating: Class Alpha (66% acceleration) [1 Power/round when
+Acceleration Uprating: Class Alpha (66% acceleration) [1 Power/round when
 Height: 4.11 meters active] ;
 lee 1658 metric tonnes Location: Aft
 SUs Available: 625 Reaction Control System (.025c) [2 Power/round when in use] 2
-Us Used: 625 POWER SYSTEMS
-
+SUs Used: 625 POWER SYSTEMS
 HULL
 Outer g WARP ENGINE
 Inner g Type: Class 4/I (generates 200 Power /round) 50
@@ -2747,107 +2630,76 @@ Locations: Aft Gain Package: Standard
 Escape Pods 2 Probes: None
 Nenber 9 Sensors Skill: 3
 Capacity: 8 persons per pod
-]
-ac 6 an WH |
-A — ————— ~===
-
-. = .
-cee | TS »
-PTE TRE Ro al TR Fair ik
-
 FLiGHT CONTROL SYSTEMS Power: [20 + 5 per torpedo fired]
-
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2 Location: Forward ventral
 [1 Power/round in use] 11 Firing Arc: Forward, but are self-quided
-
 Navigational Computer Torpedoes Carried: 12 2
-
 Main: Class 2 (+1) [1 Power /round] 2 TA/T/TS: Class Beta [1 Power /round] 9
 Backups: One l Strength: 8
 Inertial Damping Field Bonus: +1
-
 Main 8 Weapons Skill: 3
 Strength: 7 [3 Power/round] Shields (Forward, Aft, Port, Starboard) 12 (x4)
 Number: 2 Shield Generator: Type R-IB (Protection 300) [30 Power/shield/round]
-
 Backup 2 Shield Grid: Type B (33% increase to 400 Protection)
-
 Strength: 5 [2 Power/round] Subspace Field Distortion Amplifiers: Class Beta (Threshold 100)
 Number: 2 Recharging System: Class 1 (45 seconds)
-
 Attitude Control [1 Power/round] 1 Backup Shield Generators: 4 (1 per shield) 4
-
 COMMUNICATIONS SYSTEMS Auto-Destruct System 2
-
 Type: Class 6 [2 Power/round] 17
 Strength: 6 AUXILIARY SPACECRAFT SYSTEMS
 Security: -3 (Class Gamma uprating) Shuttlebay(s): None
 Basic Uprating: Class Alpha (+1) Captain’s Yacht: No
-
 Emergency COMMUNICATIONS: Yes [2 Power /round] I
-
 Tractor Beams hte pint Dent ae rend and safely carry squads of Romu-
-
-Emitter: Class Gamma [3 Power/Strength used/round] 9 ‘ 7 A y 7 2 ‘ '
-Accuracy: 4/5/7/10 an troops trom ships In orbit to t € surlace 0 planets In situa-
-
-ot tions when the use of transporters is impossible or ill-advised, the
-Location: Forward ventral Vel’tar-class “Drop Ship” (as Romul I call it)
-
-Emitter: Class Gamma [3 Power/Strength used /round] git - * eal PoP ip d as Nom 4c , lie a “a 1 hose el,
-Accuracy: 4/5/7/10 up to 12 fully armed and equipped soldiers. A small, boxy, ugly
-Location: Aft ventral vessel, built solely according to utilitarian principles, it typically
-
-carries its troops under cover of cloak (though the cloak becomes
-
-TRANSPORTERS much less effective once it enters an atmosphere), lands on a
-
-Type: Personnel [5 Power /use] 17 planet, and discharges its “cargo” through large side doors. It can
-Pads: 6 also transport troops off six at a time with its transporter. It then
-Emitter/Receiver Array: Personnel Type 6 (40,000 km range) leaves the ground, taking to the air (or even returning to space)
-Energizing/Transition Coils: Class H (Strength 8) until it receives a call to pick up troops or perform some other mis-
-Number and Location: One amidships sion. In the event it encounters trouble, it comes equipped with a
-
-Cloaking Device: Class 7 [40 Power/class /round] 23 small forward disruptor array and a plasma torpedo launcher.
-
+Emitter: Class Gamma [3 Power/Strength used/round]
+Accuracy: 4/5/7/10 
+Location: Forward 
+Emitter: Class Gamma [3 Power/Strength used /round]
+Accuracy: 4/5/7/10 
+Location: Aft ventral 
+TRANSPORTERS 
+Type: Personnel [5 Power /use] 
+Pads: 6 
+Emitter/Receiver Array: Personnel Type 6 (40,000 km range)
+Energizing/Transition Coils: Class H (Strength 8)
+Number and Location: One amidships 
+Cloaking Device: Class 7 [40 Power/class /round] 
 SECURITY SYSTEMS
-
 Rating: 1
 Anti-Intruder System: Yes [1 Power/round] 2
 Internal Force Fields [1 Power/3 Strength] 2
-
 ScIENCE SYSTEMS
-
 Rating 1 (+0) [1 Power/round] 7
 Specialized Systems: None
 Laboratories: None
-
 TACTICAL SYSTEMS
-
 Forward Disruptor Array 26
 Type: Eb’el
 Damage: 120 [12 Power]
-
 Number of Shots: Up to 2 shots per round
 Targeting System: Accuracy 4/5/7/10
 Range: 10/30,000/100,000/300,000
 Location: Forward
-
 Firing Arc: 360 degrees forward
-
 Firing Modes: Standard, Pulse
-
 Forward Plasma Torpedo Launcher (High-Yield) 20
-
 Standard Load: Class XIV plasma torpedo (600 Damage; see rules)
 Spread: 3
 Range: See text
 Targeting System: Accuracy 4/5/7/10
-J | __ Vaz CHAPTER 3
 
-a I " 7 =A
-aR FRIPIRE
-4iP& ff 4E ORG ctl Ar Creer oe
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Vereleus-Class Dreadnought PROPULSION SYSTEMS
 Commissioning Date: 2371 WARP Propulsion System
 Nacelles: Type 6C6 103
@@ -2857,10 +2709,10 @@ ae oY STEMS IMPULSE ENGINE
 Length: 1,350.25 meters Type: ass 5 (.7¢/.9c) [7/9 Power /round] 25
 Beam: 764.38 meters IMPULSE ENGINE
 height: el meters "ype: Cass > boat H /9 Power /rountl 25
-, ocation: Att, port and starboar
+Location: Att, port and starboar
 Ue ivoleble: 3750. fonnes Reaction Control System (.025c) [2 Power/round when in use] 10
 Us Used: 3,586 POWER SYSTEMS
-HuL
+Hull
 Outer 4g Artiriciat QuaNTuM Sincutarity Drive
 Inner 4g Type: Type VIII (generates 820 Power /round) 157
 Location: Main hull
@@ -2900,10 +2752,6 @@ Locations: 12 locations throughout ship Coverage: Standard
 Escape Pods 13 Navigational Sensors [5 Power /round] 22
 Number: 220 Strength Package: Class 9 (Strength 9)
 Capacity: 12 persons per pod Gain Package: Class Beta (+2)
-
-ee hn 6
-a E : !
-AIP SE THE ROT al afi Hiri
 Probes: 100 10 Science Systems
 Sensors Skill: 5 Rating 3 (+2) [3 Power/round] 25
 FLIGHT CONTROL SYSTEMS Specialized Systems: 2 10
@@ -2921,11 +2769,11 @@ Strength: 6 [2 Power/round] Firing Arc: 360 degrees forward
 Number: 4 Firing Modes: Standard, Pulse
 Attitude Control [2 Power/round] 2 Forward Dorsal Disruptor Array 35
 COMMUNICATIONS SYSTEMS eee
-; Damage: 260 [26 Power]
+Damage: 260 [26 Power]
 Types cass 8 [2 Power/round] 26 Number of Emitters: Up to 5 shots per round
 Securit 25 (Class Delta uprating) Targeting System: Accuracy 3/4/6/9
-Boe y. ~2\ pramng Range: 10/30,000/100,000/300,000
-asic Uprating: Class Beta (+2) Location: Forward dorsal
+Range: 10/30,000/100,000/300,000
+Basic Uprating: Class Beta (+2) Location: Forward dorsal
 Emergency COMMUNICATIONS: Yes [2 Power /round] ] ras
 gency Firing Arc: 360 degrees dorsal
 Tractor Beams Firing Modes: Standard, Pulse
@@ -2965,16 +2813,13 @@ Internal Force Fields [1 Power/3 Strength] 19 Range: 10/30,000/100,000/300,000
 Location: Command hull ventral
 Firing Arc: 360 degrees ventral
 Firing Modes: Standard, Pulse
-
-. :: ae
-1iIPs AE RE al AR rer ii
-Forward Plasma Torpedo Launcher (High-Yield) 28 The expanded command hull and single-part main hull allows
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) for larger, deeper facilities than those found on the D’deridex and
-Spread: 10 similar ships, and also permit an arrangement of the ship’s sophis-
-Range: See text ticated sensor arrays which has the least possible adverse effect
-Targeting System: Accuracy 3/4/6/9 on the cloaking device.
+Forward Plasma Torpedo Launcher (High-Yield) 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 10 
+Range: See text 
+Targeting System: Accuracy 3/4/6/9 
 Power: [20 + 5 per torpedo fired]
-location: Forward The Vereleus also boasts many other advanced systems. Some of
+location: Forward 
 Firing Arc: Forward, but are self-guided the most important include: a biogenically enhanced computer
 Aft Plasma Torpedo Launcher (High-Yield) 98 system with the latest programming upgrades, Type R-IV phased
 Standard Load: Class XIV plasma torpedo (600 Damage; see rules) deflector shields with the highest maximum defensive strength
@@ -2992,46 +2837,33 @@ Weapons Skill: 5 Engineers to alter the shape of the neck, making it much larger
 Shields (Forward, Aft, Port, Starboard) 144 (x4) and deeper. Crew quarters, cargo bays, medical facilities, and
 Shield Generator: Type R-IV (Protection 1400) [140 Power/round] perhaps an additional shuttlebay would fill the additional space.
 Shield Grid: Type C (50% increase to 2100 Protection)
-Subspace Field Distortion Amplitiers: Class lota (Threshold 450) NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: —Vereleus,
-Recharging System: Class 1 (45 seconds) prototype; Enem, held the central Romulan formation during the
-Backup Shield Generators: 4 (1 per shield) 12 Battle of Delta Corescus despite a withering enemy attack (2372);
-Auto-Destruct System 190 Marrus, first ship of the Navy to receive and use singularity torpe-
-does (2373); Sor, destroyed two powerful Taurhai battle cruisers
-AUXILIARY SPACECRAFT SYSTEMS and was in turn destroyed itself in the Battle of Destrix during
-Shuttlebay(s): Capacity for 50 Size worth of ships 100 the Fifth Taurhai Offensive (2374); Ko’nar, flagship of Ar’nal
-Standard Complement: 20 shuttlecraft, 10 shuttlepods Belisarus Velal during the Dominion War, destroyed with the loss
-Location(s): Main hull aft ventral, command hull aft of all hands during the Battle of Cardassia (2374-75); Lin’chev,
-Captain’s Yacht: Yes 10 Participated in the liberation of Betazed (2375); Pilaron, overtly
-patrolled the border of the Federation Neutral Zone from the final
----------DESCRIPTION AND NOTES------ weeks of Dominion War through the signing of the Treaty of Bajor
-FLEET DATA: The largest ship ever actively produced by the Romu- © Prevent Starfleet from believing wartime losses had crippled
-lan Star Empire, the Vereleus-class Dreadnought represents the the Star Navy (2375); Veletan, serving as the flagship of the Fourth
-acme of Romulan starship technology and design. The most recent Spinward Fleet (2374-present); Tovarek, serving as the flagship of
-major project undertaken by the Corps of Starship Engineers, the the Tullan Fleet (2375-present).
-Vereleus includes all the latest advances in starship systems. The
-Star Navy intended it to function not only as a powerful offensive
-and exploratory platform, but indeed as a sort of mobile front-line
-command center, and it has met the High Command's expecta-
-tions In every respect.
-The Vereleus successfully combines many design elements from
-the D’deridex class and its progeny with those of older models,
-such as the D’virin and Meret classes. Its large command hull,
-extending forward from the main body of the ship on a dorsal
-“neck,” clearly shows the influence of the D’deridex, as do the
-ship’s many weapons. On the other hand, its main hull (a large,
-rectangular structure in one piece instead of the rounded, two-
-part structure on the D’deridex), its straight, downward-thrusting
-wing pylons, and its WARP nacelles just as clearly derive from more
-established designs.
-The Corps of Starship Engineers did not combine these diverse
-design elements on a whim; everything about the Vere/eus is
-crafted to help it perform its missions as efficiently as possible.
-CHAPTER 3/ 7 Oe > Ww
+Subspace Field Distortion Amplitiers: Class lota (Threshold 450) 
+Recharging System: Class 1 (45 seconds) 
+Backup Shield Generators: 4 (1 per shield) 
+Auto-Destruct System 190 
+AUXILIARY SPACECRAFT SYSTEMS 
+Shuttlebay(s): Capacity for 50 Size worth of ships 100 
+Standard Complement: 20 shuttlecraft, 10 shuttlepods 
+Location(s): Main hull aft ventral, command hull 
+Captain’s Yacht: Yes 10 
 
-i — “" —_
-+ iis
-ay 3 ul p oie IIL
-ond ts Le i] ir N ; | [ ( { ofa i N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Vidian-Class Heavy Starbird PROPULSION SYSTEMS
 Commissioning Date: 2362 WARP Propulsion SYsTEM
 Nacelles: Type 5D6 73
@@ -3085,10 +2917,6 @@ Locations: 20 locations throughout ship Strength Package: Class 9 (Strength 9)
 Escape Pods 10 Gain Package: Class Beta (+2)
 Number: 180 Probes: 140 14
 Capacity: 8 persons per pod Sensors Skill: 5
-a og 7 \CHAPTER 3
-
-"ai Uae vu i
-4iP& ff 4E ORG ctl Ar Creer oe
 FLIGHT CONTROL SysTEMS TACTICAL SYSTEMS
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2 Forward Disruptor Array 46
 [1 Power/round in use] I] Type: Tethpet
@@ -3113,11 +2941,11 @@ TRAcToR BEAMS YPe. rem
 Emitter: Class Gamma [3 Power/Strength used/round] 9 Damage: 200 [20 Power]
 Number of Shots: Up to 3 shots per round
 Accuracy: 4/5/7/10
-ms Targeting System: Accuracy 4/5/7/10
+Targeting System: Accuracy 4/5/7/10
 Location: Forward ventral Range: 10/30,000/100,000/300 000
 Emitter: Class Gamma [3 Power/Strength used /round] 9 nae
 Accuracy: 4/5/7/10 Location: Ventral on main hull
-_ Firing Arc: 360 degrees ventral
+Firing Arc: 360 degrees ventral
 Location: Aft ventral Iring on weg
 Emitter: Class Alpha [3 Power/Strength used/round] 6, iting Modes: Standard, Pulse
 Aft Disruptor Array 42
@@ -3133,8 +2961,8 @@ Pads: 4 . Standard Load: Class XIV plasma torpedo (600 Damage; see rules)
 Emitter/Receiver Array: Emergency Type 3 (15,000 km range) Spread: 6
 Energizing/Transition Coils: Class | (Strength 9) Ranae: See text
 Number and Location: Two in command hull, four in main hull Targeting System: Accuracy 4/5/7/10
-"ype me [4 Power/use] 70 Power: [20 + 5 per torpedo fired]
-ads: g Location: Forward
+[4 Power/use] 70 Power: [20 + 5 per torpedo fired]
+Location: Forward
 Emitter/Receiver Array: Cargo Type 3 (40,000 km range) Fring Arc Forward but are self-guided
 Energizing/Transition Coils: Class | (Strength9) = Aft Plasma Torpedo Launcher (High-Yield) 4
 Number and Location: One in command hull, four in main hull Standard Load: Class XIV plasma torpedo (600 Damage; see rules)
@@ -3149,8 +2977,6 @@ Specialized Systems: 4 99 TA/T/TS: Class Beta [1 Power /round] 9
 Laboratories: 48 10 Strength: 8
 Bonus: +1
 Weapons Skill: 4
-
-JP rE THE ROMULAT 1R EM PIE
 Shields (Forward, Aft, Port, Starboard) 80 (x4)
 Shield Generator: Class R-ID (Protection 800) [80 Power/shield/round]
 Shield Grid: Type C (50% increase to 1200 Protection)
@@ -3163,32 +2989,21 @@ Shuttlebay(s): Capacity for 16 Size worth of ships 32
 Standard Complement: 8 shuttlecraft
 Location(s): Main hull ventral, port and starboard
 Captain’s Yacht: No
----------DESCRIPTION AND NOTES------
-FLEET DATA: The largest exploratory vessel designed to date by the
-Star Navy, the Vidian-class Heavy Starbird resembles the much
-smaller Neh’vor-class science vessel, except for a slightly different
-command hull, wing pylons with slightly less forward sweep, no
-exposed systems on the wing pylons, a broader central structure
-for the main hull, and no half circle-shaped superstructure aft.
-Able to remain in space for up to five years at a time, the Vidian is
-a self-reliant vessel, crewed by loyal Romulan officers who don’t
-mind the deprivation and separation from their loved ones if it
-means furthering the cause of D’era. Venturing into the deeps of
-space beyond the furthest Romulan outpost, they find new colony
-worlds, new strategic assets, and rich economic resources for the
-Empire to exploit.
-NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: Vidian, pro-
-totype; T’re/t, found a Class L planet with what may be the richest
-pergium deposits known to the Star Empire (2366); D’narex Tomair,
-conducted comprehensive survey of the Vela Expanse and space
-between the Romulan and Klingon Empires (2366-72); Requine,
-was attacked by and destroyed warning beacon and patrol ship of
-unknown species in a region coreward of Romulan space, but has
-proceeded onward with its mission of exploration (2375).
 
-a tT " i ‘ ae
-' | ;- ioe
-4i1P& JE ORT al Ar Cre on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 V'TIR CLASS
 Class and Type: Vtir-Class Warbird PROPULSION SYSTEMS
 Commissioning Date: 2369 WARP PRoputsion SYSTEM
@@ -3209,10 +3024,10 @@ Inner 32 Type: Type VI (generates 600 Power /round) 125
 Location: Main hull
 RESISTANCE Engine Core Ejection System: Yes 8
 Outer Hull: 10 12 , ,
-, IMPULSE Engine[s]: 2 Class 3A (generate 28 Power/engine/round)
+IMPULSE Engine[s]: 2 Class 3A (generate 28 Power/engine/round)
 Inner Hull: 10 12 =:
 Sceuctural Intecriy FIELD Auxiliary Power: 4 reactors (generate 5 Power/reactor/round) 12
-‘ Emergency Power: Type D (generates 40 Power/round) 40
+Emergency Power: Type D (generates 40 Power/round) 40
 Main: Class 7 (Protection 100/150) [1 Power/10 Protection/round] 40 EPS: Standard Power flow. +300 Power trans d 70
 Backup: Class 7 (Protection 50) [1 Power/10 Protection/round] 20 + Standard Power flow, +300 Power transfer/roun
 Backup: Class 7 (Protection 50) [1 Power/10 Protection/round] 20 Standard Usable Power: 656
@@ -3247,11 +3062,6 @@ Locations: 15 locations throughout ship Strength Package: Class 9 (Strength 9)
 Escape Pods 1] Gain Package: Class Beta (+2)
 Number: 180 Probes: 120 12
 Capacity: 12 persons per pod Sensors Skill: 5
-CHAPTER 3/ 7 Oe > Ww
-
-Ae rr ‘ ! “ a 2
-a ! eh pr
-ofl: a 1) ii N , Il U l ofa il N
 FLIGHT CONTROL SysTEMs TACTICAL SYSTEMS
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2 Forward Disruptor Array 54
 [1 Power/round in use] I] Type: Valkar
@@ -3284,7 +3094,7 @@ Location: Aft ventral Firing Modes: Standard. Pul
 Emitter: Class Alpha [3 Power/Strength used/round] 6 V ‘tral St ‘h 4d Di pre A 50
 Accuracy: 5/6/8/11 entra tar par Isruptor Array
 Location: Shuttlebay (x2) ripe: Urega
-amage: 240 [24 Power]
+Damage: 240 [24 Power]
 TRANSPORTERS Number of Emitters: Up to 5 shots per round
 Type: Personnel [5 Power/use] 108 Targeting System: Accuracy 4/5/7/10
 Pads: 6 Range: 10/30,000/100,000/300,000
@@ -3310,37 +3120,31 @@ ScIENCE SYSTEMS Location: Forward
 Rating 2 (+1) [2 Power /round] 13 Firing Arc: Forward, but are self-quided
 Specialized Systems: 2 10
 Laboratories: 16 4
-|_| vile CHAPTER 3
-
-1iPS f TE RL al A Free in
-Starboard Wing Plasma Torpedo Launcher (High-Yield) 28 a D’deridex. |ts main hull is a single, slightly curved, structure
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) that curves down shWARPly at its edges to hold WARP nacelles. The
-Spread: 10 dome-like command hull attaches to a central spine that projects
-Range: See text slightly forward and upward. To its admirers, the V’tir resembles
-Targeting System: Accuracy 4/5/7/10 one of the graceful scavandra swans of Romulus, sweeping in for
-Power: [20 + 5 per torpedo fired] a landing on some crystal-clear mountain lake; to its detractors,
-Location: Forward edge of starboard “wing” it’s an awkward-looking ugly duckling.
-port Wing Placa Yor ae Tac hey (High-Yield 9g tlowever, admirer and detractor alike agree that regardless of
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) its appearance, the V'tir is a powerful ship that plays an impor-
-Spread: 10 tant role as part of the Romulan military arm. Smaller than both
-Range: See text the D’deridex and T’korex, but larger than the Light Warbirds, it
-Targeting System: Accuracy 4/5/7/10 neatly combines the power of the former with the mobility and
-, agility of the latter. Its array of Va/kar and Uregal disruptors (one
+Starboard Wing Plasma Torpedo Launcher (High-Yield) 28 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 10 
+Range: See text 
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired] 
+Location: Forward 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules)
+Spread: 10 
+Range: See text 
+Targeting System: Accuracy 4/5/7/10 
 Power: [20 + 5 per torpedo fired] .
-“an: Usa ll forward, one on each side of each “wing” of the main hull) and
-Location: Forward edge of port “wing
-Firing Arc: Forward, but are self-guided torpedo launchers (one forward, one on the forward edge of each
-Aft Plasma Torpedo Launcher (High-Yield) 99 “wing,” one aft) provide it with sufficient firepower to take on any
-Standard Load: Class XIV plasma torpedo (600 Damage; see rules) toe. Many V’tirs were used during the Dominion War, helping to
-Spread: 10 hold the line against powerful Jem’Hadar and Cardassian fleets.
-Range: See text NOTEWORTHY VESSELS/SERVICE RECORDS/ENCOUNTERS: Vtir, proto-
-Targeting System: Accuracy 4/5/7/10 type; Thosar, under the command of Centurion Broden, fought
-ower: my 5 per torpedo fired] in and survived five major battles of the Fifth Taurhai Offensive
-ocation: Ait without ever sustaining more than 20% casualties (2371-74);
-Firing Arc: Aft, but are self-guided D’moreus, destroyed wo Firedrakes during the Battle of Destrix
-Torpedoes Carried: 100 Class XIV plasma; 200 Type G-Il singularity 30 (2374): Pharros, participated in the liberation of Benzar (2374):
-TAT/Tes unss Gamma [2 Power/round] 12 Hortarus, ambushed and destroyed three Jem’Hadar Battle Cruis-
-frengih: ers (2375).
+Location: Forward 
+Firing Arc: Forward, but are self-guided
+Aft Plasma Torpedo Launcher (High-Yield) 99 
+Standard Load: Class XIV plasma torpedo (600 Damage; see rules) 
+Spread: 10 
+Range: See text 
+Targeting System: Accuracy 4/5/7/10
+Power: my 5 per torpedo fired]
+Location: Ait 
+Firing Arc: Aft, but are self-guided 
+Torpedoes Carried: 100 Class XIV plasma; 200 Type G-Il singularity 30 (2374)
+TAT/Tes unss Gamma [2 Power/round] 
+Stengih: 
 Bonus: +2
 Weapons Skill: 5
 Shields (Forward, Aft, Port, Starboard) 82 (x4)
@@ -3355,34 +3159,21 @@ Shuttlebay(s): Capacity for 25 Size worth of ships 50
 Standard Complement: 10 shuttlecraft, 5 shuttlepods
 Location(s): Main hull ventral, port and starboard
 Captain’s Yacht: Yes 10
----------DESCRIPTION AND NOTES------
-FLEET DATA: One of the newest warbirds in the Romulan fleet,
-the V’tir incorporates design principles different from those of the
-D’deridex class and related ships. Instead of using the Argus class
-and its successors as the basis for the design, the Star Navy’s engi-
-neers chose instead to look to that line of ships deriving from the
-D-7 class Battle Cruisers obtained from the Klingons in the late
-2360s. While Romulan ship designers had used aesthetics and
-system arrangements deriving from the Klingon vessels in later
-starships, they were not nearly as common as Argus-descended
-ships. Chief Engineer Praddus, the man in charge of the V’tir
-Design Project, decided to take the path less chosen and try to
-develop an innovative and powerful ship that wouldn’t look like
-the D’deridex’s younger cousin.
-The jury remains out on whether he succeeded. In the eyes of
-many, the V’tir is an ungainly-looking cross between a D-7 and
-CHAPTER 3/ _ SS ™N~ Ww
 
-t BCBr rion a i
-JIP aT 4E ROMULAT AR EMPIE
-PART TWO
-ROMULAN
-CIVILIAN
-VESSELS
-7 TA Ay ROMULAN CIVILIAN VESSELS CHAPTER 3
 
-aR FRIPIRE.
-4i1P& JE ORT al Ar Cre on
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Desara-Class Merchant Vessel PROPULSION SYSTEMS
 Commissioning Date: 2345 WARP Drive
 Nacelles: Type 4A6 39
@@ -3425,44 +3216,33 @@ Emergency Life Support (30 emergency shelters) 10 Coverage: Standard
 Gravity [3 Power/round] 5 Lateral Sensors [5 Power /round] 10
 Consumables: 1 years’ worth 5 Strength Package: Class 5 (Strength 5)
 REPLICATOR SYSTEMS pain Package: standard
-. overage: Stanaar
-pono R unsold round] : Navigational Sensors [5 Power /round] 10
+Navigational Sensors [5 Power /round] 10
 Type: Network of small replicators [2 Power/round] Strength / ackage, css 2 (Strength 5)
 Medical Facilities: 3 (+1) [3 Power/round] 5p be 5 age. otanear
 Recreation Facilities: 4 [8 Power/round] 32 Probe L h 9
 Personnel Transport: Turbolifts, Jefferies tubes [2 Power/round] 15 Son . Silk: 3
-Fire Suppression System [1 Power/round when active] 5 Densors OKI:
-Pp y
+Fire Suppression System [1 Power/round when active] 5 Sensors OKI:
 Cargo Holds: 420,000 cubic meters 13. FiicHt Controi Systems .
 Locations: Five cargo containers (each 150 x 16 x 35 meters) Autopilot: Shipboard Systems (FLIGHT CONTROL) 2, Coordination 1
 Escape Pods 3 [1 Power/round in use] ]
 Number: 30 Navigational Computer
 Capacity: 4 persons per pod Main: Class 1 (+0) [0 Power/round] 0
 Backups: 2 0
-"CHAPTER 3/ 7 Oe > w
-
-+ — 3 ——_
-ae
-vault fs D pies U D
-ies i. SLELL al ofa iI M
-Inertial Damping Field parts of the D’deridex. Five large cargo containers fit into this
-Main 20 frame. Attached to the dorsal center of the framework is a large
-Strength: 8 [3 Power/round] command hull, which also includes accomodations for the crew
-Number: 2 and the passengers. The command hull projects forward from the
-Backup : 6 main hull slightly for docking purposes.
-trength: 5 [2 P
-rent | ower/round] Per Romulan law, civilian vessels cannot have military-strength
-Attitude Control [1 Power /round] ] systems, or any weapons, unless specifically licensed to do so.
-(Such licenses are rarely granted; the applicant must show that he
-comacarions SYSTEMS d travels outside the Empire, or in regions of the Empire considered
-Type: er 5 [2 Power/round] 10 “highly dangerous,” for more than half of his logged light-years.)
-Strengt : , Many a merchant captain secretly flouts these regulations, so Nar-
-Security: a rators may add a low-powered disruptor or two (for protection
-Emergeny Ccamni ations: No against pirates, of course!) if desired.
-Tractor BEAMS Because merchant vessels often vary from a standard configura-
-Emitter: Class Beta [3 Power/Strength used /round] 6 tion, Narrators can easily create entire merchant fleets simply by
-Accuracy: 5/6/8/11 tweaking this Starship Template, adding, removing, or upgrading
-Location: Forward ventral of command hull a few systems here or there.
+Inertial Damping Field 
+Main 20 frame
+Strength: 8 [3 Power/round] 
+Number: 2 
+Backup : 6 
+Strength: 5 [2 P
+Attitude Control [1 Power /round] ] 
+Type: er 5 [2 Power/round] 10
+Strengt : ,
+Security: 
+Emergeny 
+Tractor BEAMS 
+Emitter: Class Beta [3 Power/Strength used /round] 6 
+Accuracy: 5/6/8/11 
+Location: Forward 
 TRANSPORTERS
 Type: Personnel [4 Power /use] 26
 Pads: 4
@@ -3496,26 +3276,33 @@ Shuttlebay(s): Capacity for 6 Size worth of ships 12
 Standard Complement: 3 shuttlecraft
 Location(s): Aft of main hull
 Captain’s Yacht: No
----------DESCRIPTION AND NOTES------
-FLEET DATA: The Desara class of cargo carriers represents a typi-
-cal merchant vessel found in Romulan space. It consists of a main
-“hull” which is an oval-shaped rounded framework similar to
-| en
-— — —a
 
-a Y ~ 29 “7
-. ' | ae
-4iP& ff 4E ORG ctl Ar Creer oe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Transport
 Commissioning Date: 2370 PROPULSION SYSTEMS
 WARP PRopuLsion System
 SYSTEM SUs  Nacelles: Type 5E6 78
 Speed: 5.0/9.0/9.6 [1 Power/.2 WARP speed]
 HUET SYSTEMS PIS: Type | (24 hours of Maximum WARP) 18
-ize:
 IMPULSE ENGINE
 length 1° Fl mere 8 Type: Class 5A (.72c/.9c) [7/9 Power /round] 28
-' eight: 93.04 meters Location: Aft ventral, port and starboard
+Weight: 93.04 meters Location: Aft ventral, port and starboard
 Decks: 4 IMPULSE ENGINE
 Mass: 83,500 metric tonnes Type: Class 5A (.72¢/.9c) [7/9 Power/round] 28
 SUs Available: 1,300 Location: Ventral of each wing pylon, attached to main hull
@@ -3525,7 +3312,7 @@ Outer 16 POWER SYSTEMS
 Inner 16 WARP ENGINE
 RESISTANCE Type: Class 8/N (generates 430 Power/round) 93
 Outer Hull: 8 9 Location: Amidships
-: IMPULSE Engine[s]: 2 Class 5A (generate 44 Power/engine/round)
+IMPULSE Engine[s]: 2 Class 5A (generate 44 Power/engine/round)
 Inner Hull: 8 9 =:
 Auxiliary Power: 5 reactors (generate 5 Power/reactor/round) 15
 STRUCTURAL INTEGRITY FIELD Emergency Power: Type F (generates 50 Power/round) 50
@@ -3534,7 +3321,7 @@ Backup: Class 3 (Protection 30) [1 Power/10 Protection/round] I]
 Backup: Class 3 (Protection 30) [1 Power/10 Protection/round] 1] Standard Usable Power: 518
 Specialized Hull: Cloak-Enhancing; Atmospheric Capability; Planetfall
 Capability 16 OPERATIONS SYSTEMS
-Bridge: C d hull (f d 20
+Bridge: 
 PERSONNEL SYSTEMS Comune (orware)
 Crew/Passengers/Evac: 53/150/3,400 Core 1: Forward [5 Power /round] 8
 Crew Quarrers Uprating: Class Alpha (+1) [1 Power/computer/round] 2
@@ -3562,12 +3349,6 @@ Locations: Six locations throughout ship Probes: 10 I
 Escape Pods 5 Sensors Skill: 5
 Number: 80
 Capacity: 8 persons per pod
-CHAPTER 3) eiumscren rare YY WEN
-A — ———— ~aE==
-
-TT, ae
-a a : !
-AIP ee THE RET al A Tir ik
 FLicHT ContROL Systems Targeting System: Accuracy 4/5/7/10
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 3 Range: 10/30,000/100,000/300,000
 [1 Power/round in use] 12 Location: Forward on command hull
@@ -3600,54 +3381,53 @@ TRANSPORTERS Standard Complement: 4 shuttlecraft
 Type: Personnel [4 Power /use] 15 Location(s): Aft
 Pads: 4 Captain’s Yacht: Yes 10
 Emitter/Receiver Array: Personnel Type 6 (40,000 km range)
-Energizing/Transition Coils: Class G (Strength 7) ---------DESCRIPTION AND NOTES------
-Number and Location: One forward FLEET DATA: When powerful Romulan senators travel, they desire
-Type: Emergency [5 Power/use] 14 three things: speed, secrecy, and comfort. The Romulan Senato-
-Pads: 16 rial Transport provides all three, and more. Its powerful engines,
-Emitter/Receiver Array: Emergency Type 3 (15,000 km range) state of the art cloaking and COMMUNICATIONS systems, and luxuri-
-Energizing/Transition Coils: Class G (Strength 7) ous accomodations make the ideal means of transport for high-
+Energizing/Transition Coils: Class G (Strength 7) 
+Number and Location: One forward
+Type: Emergency [5 Power/use] 
+Pads: 16 
+Emitter/Receiver Array: Emergency Type 3 (15,000 km range) 
+Energizing/Transition Coils: Class G (Strength 7)
 Number and Location: One amidships ranking Romulan officials.
-Type: Cargo [4 Power/use] 14 . . ——
+Type: Cargo [4 Power/use] 14
 Pads: 400 kg Senatorial Transports are built, maintained, and operated solely
-Emitter/Receiver Array: Cargo Type 3 (40,000 km range) by senators and other persons with enough wealth and power to
-Energizing/Transition Coils: Class G (Strength 7) afford them. The owners usually go to great lengths to keep the
-Number and Location: One in largest cargo hold existence and/or capabilities of their transports secret from the
-Cloaking Device: Class 9 [40 Power/class/round] 3] Star Navy and the Tal Shiar. (The Tal Shiar uses a similar vessel
-S for many of its own missions.)
+Emitter/Receiver Array: Cargo Type 3 (40,000 km range) 
+Energizing/Transition Coils: Class G (Strength 7) 
+Number and Location: One in largest cargo hold 
+Cloaking Device: Class 9 [40 Power/class/round] 3] 
 ECURITY SYSTEMS
-Rating: 5 20 Physically, the Senatorial Transport resembles a smaller version
-Anti-Intruder System: Yes [1 Power/round] 4 of the T’rasus-class Light Starbird, with a few modifications. First,
-Internal Force Fields [1 Power/3 Strength] 4 the connecting interhull is thicker and the command hull smaller,
-Science Systems reducing the possibility of the command hull being severed from
-Rating 1 (+0) [1 Power /round] 9 the ship by a lucky enemy shot. Second, the wing pylons are more
-Specialized Systems: None rounded, with a more pronounced downward curve, somewhat
-Laboratories: 3 2 like the D’deridex.
+Rating: 5 
+Anti-Intruder System: Yes [1 Power/round] 
+Internal Force Fields [1 Power/3 Strength] 
+Science Systems 
+Rating 1 (+0) [1 Power /round] 
+Specialized Systems: None 
+Laboratories: 3 
 TACTICAL SYSTEMS
 Forward Disruptor Array 42
 Type: Prenak
 Damage: 200 [20 Power]
 Number of Shots: Up to 3 shots per round
-far] FF J_\_sanocarscrrornc rmsror22 CHAPTER 3
 
-~~ 21 Lae
-4IPG [ 4E ROMULAT AR ERIPIE
-PART THREE
-HLLIED
-Hi D
-THREAT
-VESSELS
-CHAPTER 3 ALLIED AND THREAT VESSELS = AYU Y
 
-2. # "| * + ——_
-a E !
-. ; y B oie p
-ond as Le } Tr N ; | [ i i ofa i i , N
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Star Dragon-Class Ship PROPULSION SYSTEMS
 Commissioning Date: Mid 24th century Gravity InpucTION DRIVE
 Type: Class Ill [250 Power/use] 300
 SYSTEM SUs Speed: 2 light-years maximum per jump (24 light-years per minute)
 IMPULSE ENGINE
-ae ° YSTEMS Type: Class 6 (.75¢/.9c) [7/9 Power /round] 30
+SYSTEMS Type: Class 6 (.75¢/.9c) [7/9 Power /round] 30
 Length: 1,500.00 meters Location: Aft section of command hull, port and starboard
 Beam: 250.00 meters IMPULSE ENGINE
 Height: 250.00 meters Type: Class 6 (.75¢/.9c) [7/9 Power /round] 30
@@ -3668,46 +3448,37 @@ Backup: Class 7 (Protection 50) [1 Power/10 Protection/round] 21 + standard Fowe
 PERSONNEL SYSTEMS Standard Usable Power: 996
 Crew/Passengers/Evac: 1,500/1,600/18,000 OPERATIONS SYSTEMS
 Crew quarters Bridge: Command hull, forward dorsal 60
-ge: Command hull, forward dorsa
+Command hull, forward dorsa
 Spartan: 800 40 auxiliary C .
-
-- y Control Room: Segment 8 36
+Control Room: Segment 8 36
 Basic: 1,300 130 Separation System: 13 detachable segments (command hull and each 2
 Expanded: 200 40 segments)
-
 Luxury: 40 40 [5 Power per se detached
-. gment detached] 156
 Fave SYSTEMS ° Compurers
 Core 1: C€ d hull [5 P d 24
-Basic Life Support [13 Power/round] 48 Core 9. Segment 10 [5 Pewee eval 4
-Reserve Life Support [7 Power/round] 24 Core 3: Se
-: : Segment 20 [5 Power/round] 24
+Basic Life Support [13 Power/round] 48 Core 9.
+Reserve Life Support [7 Power/round] 24 
+Segment 20 [5 Power/round] 24
 Emergency Lite Support (72 emergency shelters) 24 Uprating: Class Beta (+2) [2 Power/computer/round] 12
 Gravity [6 Power/round] 12 ODN 36
 Consumables: 10 years’ worth 120 Gravimetric Deflector [5 Power /round] 48
 REPLICATOR SYSTEMS Range: 10/20,000/50,000/150,000
-ro Replicators [12 Power/round] 12 Accuracy: 5/6/8/11
+Replicators [12 Power/round] 12 Accuracy: 5/6/8/11
 Industrial Replicators 36 Location: To port and starboard of ventral side of command hull
 Type: Two networks of small replicators [2 Power/round] SENSOR SYSTEMS
 Type: 4 large units [2 Power/replicator/round] Long-range Sensors [5 Power /round] 43
 Medical Facilities: 9 (+2) [9 Power/round] 45 kage:
-| Range Package: Type 6 (Accuracy 3/4/7/10)
+Range Package: Type 6 (Accuracy 3/4/7/10)
 EMH: Mark III [5 Power/ round when active] 18 High Resolution: 5 light-years (.5/.6-1.0/1.1-3.7/3.8-5.0)
 Recreation Facilities: 8 [16 Power/ round] 64 Low Resolution: 16 light-years (1/1.1-5.0/5.1-12.0/12.1-16)
 Personnel Transport: Turbolitts, Jefferies tubes [2 Power/round] 36 h Package: CI h
-‘ . Strength Package: Class 9 (Strength 9)
+Strength Package: Class 9 (Strength 9)
 Fire Suppression System [1 Power/round when active] 12 ;
 Cargo Holds: 300,000 cubic meters 9 Gain Package: Class Beta (+2)
-2 OW, C : Standard
 Locations: 25 locations throughout ship Lateral Sensors 5 Power /round] 4
 Escape Pods 15 Strength Package: Class 9 (Strength 9)
 Number: 260 Gain Package: Class Beta (+2)
 Capacity: 12 persons per pod Coverage: Standard
-f im Pe _TAURHAI STAR DRAGON 1/3
-— — _-
-
-Tr nein
-4iP& ff 4E ORG ctl Ar Creer oe
 Navigational Sensors [5 Power/round] 22 Science SYSTEMS
 Strength Package: Class 9 (Strength 9) Rating 3 (+2) [3 Power/round] 27
 Gain Package: Class Beta (+2) Specialized Systems: 3 15
@@ -3732,8 +3503,8 @@ Type: Class 7 [2 Power /round] 19 Range: 10/30,000/100,000/300,000
 a th: 7 Location: Dorsal of Segments 4, 12, and 20
 Secu . -4 (Class Gamma uprating) Firing Arc: 360 degrees dorsal
 Basi i tina: Class Aloh ( 1) q Firing Modes: Standard, Continuous, Pulse, Wide-Beam
-: asic Spraying: MOSS Apia \+ Ventral Heavy Graviton Beams (x3) 180
-mergency COMMUNICATIONS: Yes [2 Power/round] ] Type: Rhu’shai
+Spraying: MOSS Apia \+ Ventral Heavy Graviton Beams (x3) 180
+Emergency COMMUNICATIONS: Yes [2 Power/round] ] Type: Rhu’shai
 HoloCOMMUNICATIONS: Yes ] Damage: 280 [28 Power]
 Tractor Beams Number of Emitters: Up to 5 shots per round
 Emitter: Class Delta [2 Power/Strength used/round] 12 Targeting System: Accuracy 4/5/7/10
@@ -3762,77 +3533,49 @@ Emitter/Receiver Array: Cargo Type 8 (5,000,000 km range) Firing Modes: Standard
 Energizing/Transition Coils: Class | (Strength 9) Forward Torpedo Launcher 16
 Number and Location: One in command hull, one each in Segments 4,12, and 24 Standard Load: Type Il quantum torpedo (450 Damage)
 Cloaking Device: None Spread: 5350 n00/1 500,000/4 050 000
-ange: I I I I /
-uv, 16 Targeting System: Accuracy 4/ 5/7/10
+Targeting System: Accuracy 4/ 5/7/10
 Anti-Intruder System: Yes [1 Power/round] 12 Power: [20 + 5 per torpedo fired]
 Internal Force Fields [1 Power/3 Strength] 12 Location: Forward of command hull
 Firing Arc: Forward, but are self-quided
-CHAPTER 3/ _tmurmsricoceor7 YN Val
-
-~ ~ -
-Pp - STS y
-eE THE Ri al TR Fie ik
-Segment Torpedo Launchers (x4) 64 enemy hands if necessary, though usually the clever Taurhai offi-
-Standard Load: Type Il quantum torpedo (450 Damage) cers can find a way to save the day.
-sine 15/350,000/1 $00,000/4 050,000 To help prosecute their ongoing conflicts with the Romulans and
-Targeting System: Accuracy 4/5/7/10 other enemies, the Taurhai have provided the Star Dragon with
-Power: [20 + 5 per torpedo fired] powerful armaments. Thirteen separate heavy graviton beam
-Location: One each dorsal (Segment 9), ventral (Segment 13), port (Segment generators, and five quantum torpedo launchers, make the ship
-17), and starboard (Segment 21) a match for any foe. These weapons are scattered over the surface
-Firing Arc: Various, but are self-guided of the ship, so that loss of any given segment only costs the ship a
-Torpedoes Carried: 300 30 fraction of its offensive capability. The ship’s high Power capacity
-TA/T/TS: Class Gamma [2 Power /round] 12 allows it to attack multiple targets at once.
-Strength: 9 However, like the Federation, the Taurhai use their ships as much
-Bonus: +2 for exploration and diplomacy as defense, and the Star Dragon
-Weapons Skill: 5 comes equipped with systems for use on those sorts of missions
-Taurhai Absorption Fields (Forward, Aft, Port, Starboard) 184 (x4) as well. The ship has nearly four dozen laboratories, including
-Shield Generator: Class / (Protection 1400) [140 Power/shield/round] three highly specialized ones. Its sensors are extremely advanced
-Shield Grid: Type C (50% increase to 2100 Protection) as well. Both laboratories and sensor pallets are modular, and
-Subspace Field Distortion Amplifiers: Class lota (Threshold 450) can be swapped out for different ones ata space station or like
+Segment Torpedo Launchers (x4) 
+Standard Load: Type Il quantum torpedo (450 Damage) 
+sine 15/350,000/1 $00,000/4 050,000 
+Targeting System: Accuracy 4/5/7/10
+Power: [20 + 5 per torpedo fired] 
+Location: One each dorsal 
+Firing Arc: Various
+Torpedoes Carried: 300 
+TA/T/TS: Class Gamma [2 Power /round] 
+Strength: 9 
+Bonus: +2 
+Weapons Skill: 5 
+Taurhai Absorption Fields (Forward, Aft, Port, Starboard) 184 (x4) 
+Shield Generator: Class / (Protection 1400) [140 Power/shield/round] 
+Shield Grid: Type C (50% increase to 2100 Protection) 
+Subspace Field Distortion Amplifiers: Class lota (Threshold 450) 
 Recharging System: Class 2 (40 seconds) facility.
-Backup Stig Gyeton (1 per shield) rf Perhaps most amazingly of all, a Star Dragon includes power-
-ful “converters” that can perform total matter/energy conversion.
-AUXILIARY SPACECRAFT SYSTEMS This allows a Star Dragon to remain in space almost indefinitely,
-Shuttlebay(s): Capacity for 50 Size worth of ships 100 without the need for refueling. Although the need for supplies and
-Standard Complement: 10 shuttlepods, 20 shuttlecraft maintenance will eventually drive a Star Dragon to port, accord-
-Location(s): Ventral of Segments 15, 16, 23, and 24 Ing to Romulan estimates one of these ships could remain in space
-Captain’s Yacht: Yes 1Q without any degree of outside support for a decade.
----------DESCRIPTION AND NOTES------ eee eee i ee
-FLEET DATA: The most powerful and versatile vessel fielded by the of their ships, those names remain unknown.
-Taurhai Unity, the “Star Dragon” (a Romulan term; the Taurhai
-designation is unknown) represents the pinnacle of Taurhai space
-travel technology. It consists of a 300 metersr-long wedge-shaped
-command hull, which also includes the main engineering sec-
-tion, and 24 50 metersr-long segments. Thanks to Taurhai structural
-integrity fields, gravity induction units, and other technologies, the
-ship can “coil” and “flex” at the joints of the segments, thus allow-
-ing it to perform some bizarre, but highly effective, maneuvers in
-combat. (Consider the Star Dragon to be Size 5 for purposes of
-calculating the amount of benefits it can receive from maneuvers,
-and the Difficulty of performing those maneuvers; see Spacedock,
-pages 101-03.) The ship’s gravimetric deflectors are located to
-port and starboard of the ventral side of the command hull.
-Furthermore, a Star Dragon’s crew can separate the ship, divid-
-ing it into the command hull and up to twelve “sub-ships” of two
-segments each (see Detachable Segments, page ?¢?). Normally this
-is only done when the ship as a whole has been badly damaged
-(or is otherwise stranded), but occasionally Taurhai commanders
-have used this feature to surprise and defeat an enemy.
-Virtually any other Alpha or Beta Quadrant species would find a
-Star Dragon to be a treasure trove of advanced, sophisticated tech-
-nology. Taurhai transporters, tractor beams, and the like put those
-of the Star Empire or the Federation to shame, and many other
-Taurhai inventions could be incorporated in other species’s sys-
-tems to their general improvement. Unfortunately for the Romu-
-lans, the auto-destruct systems on Star Dragons are very efficient,
-leaving little more than dust behind. Taurhai crews willingly sac-
-rifice their own lives to prevent their technology from falling into
-| i A mee
-al — —- -
+Backup Stig Gyeton (1 per shield) 
+AUXILIARY SPACECRAFT SYSTEMS 
+Shuttlebay(s): Capacity for 50 Size worth of ships 100 without the need for refueling. 
+Standard Complement: 10 shuttlepods, 20 shuttlecraft 
+Location(s): Ventral of Segments 15, 16, 23, and 24 
+Captain’s Yacht: Yes 1Q 
 
-' | . F ioe
-F r
-41P& clam lill ctl AR reer oi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Firedrake-class Cruiser PROPULSION SYSTEMS
 Commissioning Date: Mid 24th century Gravity Inpuction Drive
 Type: Class | [150 Power/use] 200
@@ -3851,12 +3594,11 @@ Inner 94 Emergency Power: Type D (generates 40 Power/round) 40
 EPS: Standard Power flow, +300 Power transfer/round 60
 RESISTANCE
 Outer Hull: 10 12 le Power: 4
-‘nner Hull. 10 19 Standard Usable Power: 488
+Inner Hull. 10 19 Standard Usable Power: 488
 STRUCTURAL INTEGRITY FIELD OPERATIONS SYSTEMS
 Main: Class 5 (Protection 80/120) [1 Power/10 Protection/round] 30 Bridge: Command hull 30
 Backup: Class 5 (Protection 40) [1 Power/10 Protection/round] 15 Auxiliary Control Room: Segment 3 18
 Backup: Class 5 (Protection 40) [1 Power/10 Protection/round] 15. Separation System: 5 detachable segments (command hull and each 2
-segments)
 PERSONNEL SYSTEMS [5 Power per segment detached] 30
 Crew/Passengers/Evac: 472/310/6,750 CompuTERS
 Crew quarters Core 1: Command hull [5 Power/round]12
@@ -3885,12 +3627,6 @@ Locations: Ten locations throughout ship Gain Package: Class Beta (+2)
 Escape Pods g Probes: 60 6
 Number: 140 Sensors Skill: 4
 Capacity: 8 persons per pod
-"CHAPTER 3/ Ca AA WA
-y = —— ~~
-
-es. On 2
-a a : :
-AIP STE THE RT al afi Trin
 FLIGHT CONTROL SysTEMS TACTICAL SYSTEMS
 Autopilot: Shipboard Systems (FLIGHT CONTROL) 3, Coordination 2 Forward Heavy Graviton Beam 60
 [1 Power/round in use] I] Type: Rhu’shai
@@ -3916,16 +3652,16 @@ Tractor BEAMS Damage: 280 [28 Power]
 Emitter: Number of Emitters: Up to 5 shots per round
 mitter: Class Delta [2 Power/Strength used/round] 12 Taraetina System: A 4/5/7/10
 Accuracy: 4/5/7/10 argeting system: Accuracy
-as Range: 10/30,000/100,000/300,000
+Range: 10/30,000/100,000/300,000
 Location: Forward of command hull Location: Ventral of S 3
 Emitter: Class Delta [2 Power/Strength used/round] 12 Fri “hic 360 de se vent |
 Accuracy: 4/5/7/10 Cae te ee ;
-ms Firing Modes: Standard, Continuous, Pulse, Wide-Beam
+Firing Modes: Standard, Continuous, Pulse, Wide-Beam
 Location: Att ventral of Segment 20 Starboard H Graviton B 60
 Emitter: Class Alpha [2 Power/Strength used/round] 3 ry Rh shai raviron Pear
 Accuracy: 5/6/8/11 ype eee
 Location: Shuttleba Damage: 280 [28 Power]
-y Number of Emitters: Up to 5 shots per round
+Number of Emitters: Up to 5 shots per round
 TRANSPORTERS Targeting System: Accuracy 4/5/7/10
 Type: Personnel [10 Power/use] 73 Range: 10/30,000/100,000/300,000
 Pads: 8 Location: Starboard of Segment 5
@@ -3952,67 +3688,43 @@ Rating 2 (+1) [2 Power/round] 16 Aft Torpedo Launcher 16
 Specialized Systems: 2 10 ahead Type II quantum torpedo (400 Damage)
 Laboratories: 22 ° Range: 15/350,000/1,500,000/4,050,000
 Targeting System: Accuracy 4/5/7/10
-
-2 oo oy
-1iIPs AE RE al immedi lla dy
-
 Power: [20 + 5 per torpedo fired]
-
 Location: Aft of Segment 8
-
 Firing Arc: Att, but are self-guided
-
 Torpedoes Carried: 100 10
 TA/T/TS: Class Gamma [2 Power /round] 12
-
 Strength: 9
-
 Bonus: +2
-
 Weapons Skill: 5
-
 Taurhai Absorption Fields (Forward, Aft, Port, Starboard) 49 (x4)
-
 Shield Generator: Class 4 (Protection 750) [75 Power/shield/round]
-
 Shield Grid: Type B (33% increase to 1000 Protection)
-
 Subspace Field Distortion Amplifiers: Class Epsilon (Threshold 250)
-
 Recharging System: Class 2 (40 seconds)
-
 Backup Shield Generators: 4 (1 per shield) 8
 Auto-Destruct System 6
 AUXILIARY SPACECRAFT SYSTEMS
-
 Shuttlebay(s): Capacity for 8 Size worth of ships 16
-
 Standard Complement: 4 shuttlecraft
-
 Location(s): Att ventral of Segment 8
-
 Captain’s Yacht: No
 
----------DESCRIPTION AND NOTES------
-FLEET DATA: The Firedrake (a Romulan designation) is, in essence,
-a miniature version of the Star Dragon, with many of the same (or
-slightly inferior) systems. It features a 125 metersr-long command
-hull, and eight 25 metersr-long separable segments. (Consider the
-Firedrake to be Size 4 for purposes of calculating the amount of
-benefits it can receive from maneuvers, and the Difficulty of per-
-forming those maneuvers; see Spacedock, pages 101-03.)
-Compared to the Star Dragon, which frequently undertakes
-exploratory missions, the Unity regards the Firedrake as a more
-purely military vessel. When not assigned to a specific wartime
-fleet, Firedrakes usually patrol disputed borders, conduct raids
-and skirmishes against threats, defend shipping against pirates,
-and so forth.
 
-_CHAPTER 3// vena 73 Nai
 
-i — “" —_
-A
-ond a Oe i Tr N ; I [ ( i ofa i i N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 M’ROK WA'H'KR’AATA CLASS
 Class and Type: M’rok Wa‘h’kr’aa‘ta-Class Cruiser PROPULSION SYSTEMS
 Commissioning Date: 2348 WARP Propuision SYSTEM
@@ -4034,10 +3746,10 @@ Inner 28 Type: Class 10/P (generates 525 Power/round) 113
 RESISTANCE Location: Command hull, aft amidships
 IMPULSE Engine[s]: 2 Class 5 (generate 40 Power/engine/round)
 Outer Hull: 8 9 i
-, Auxiliary Power: 4 reactors (generate 5 Power/reactor/round) 12
+Auxiliary Power: 4 reactors (generate 5 Power/reactor/round) 12
 Inner Hull: 8 9 f
 STRUCTURAL INTEGRITY FIELD ie ean me Powe i pet igen Bae ” re ru .
-: Standard Power flow, +200 Power transfer/roun
+Standard Power flow, +200 Power transfer/roun
 Main: Class 5 (Protection 80/120) [1 Power/10 Protection/round] 30
 Backup: Class 5 (Protection 40) [1 Power/10 Protection/round] 15 Standard Usable Power: 605
 Backup: Class 5 (Protection 40) [1 Power/10 Protection/round] 15 EONS
@@ -4070,12 +3782,6 @@ Locations: Ten locations throughout ship Coverage: Standard
 Escape Pods 9 Navigational Sensors [5 Power /round] 14
 Number: 160 Strength Package: Class 6 (Strength 6)
 Capacity: 8 persons per pod Gain Package: Class Alpha (+1)
-y IL | PN _TROK WAHKR'AATA 1/3 ©
-— — --_
-
-oy atin
-' F ae
-4i1P& JE ORT al Ar Cre on
 Probes: 40 4 TACTICAL SYSTEMS
 Sensors Skill: 4 Starboard Forward Disruptor Array 42
 FLIGHT CONTROL SYSTEMS Type: 9
@@ -4093,7 +3799,7 @@ Strength: 6 [2 Power/round] Number of Shots: Up to 3 shots per round
 Number: 3 Targeting System: Accuracy 4/5/7/10
 Attitude Control [2 Power /round] 2 — Range: 10/30,000/100,000/300,000
 COMMUNICATIONS SYSTEMS cocci Foard of por seconary hull
-Type: Class 7 [2 Power/round] 19 svi iamerteld hae
+Type: Class 7 [2 Power/round] 19 
 Firing Modes: Standard, Pulse
 Strength: 7 Starboard Disruptor A 9 84
 Security: -4 (Class Gamma uprating) ry 9 isruptor Arrays (x2)
@@ -4119,7 +3825,7 @@ Type: Emergency [5 Power/use] 60 Damage: 200 [20 Power]
 Pads: 16 Number of Shots: Up to 3 shots per round
 Emitter/Receiver Array: Emergency Type 3 (15,000 km range) Targeting System: Accuracy 4/5/7/10
 Energizing/Transition Coils: Class H (Strength 8) Range: 10/30,000/100,000/300,000
-Number and Location: Two in command hull, one in each secondary hull Location: Dorsal of command hull, fo port and starboard of bridge module
+Number and Location: Two in command hull, one in each secondary hull Location: Dorsal of command hull
 Type: Cargo [4 Power/use] 60 Firing Arc: 360 degrees dorsal
 Pads: 400 kg Firing Modes: Standard, Pulse
 Emitter/Receiver Array: Cargo Type 3 (40,000 km range) Ventral Disruptor Arrays (x2) 84
@@ -4135,142 +3841,82 @@ CIENCE SYSTEMS
 Rating 2 (+1) [2 Power /round] 17
 Specialized Systems: 2 10
 Laboratories: 17 4
-“CHAPTER 3/ _meamurnrncs YN eh
-
-~ = _
-Hine - TS »
-dP Ee TRE RE all al Tir ik
-
-Aft Disruptor Array 42 tact. Due to the large size and ferocity of the M’rok fleet, the
-Type: 9 Romulans decided that it would be best not to become involved
-Damage: 200 [20 Power] in a war with them during a period when they had the Federa-
-Number of Shots: Up to 3 shots per round tion and the Taurhai to contend with. Accordingly, peaceful rela-
-Targeting System: Accuracy 4/5/7/10 tions continued, culminating in a formal alliance between the
-Range: 10/30,000/100,000/300,000 two governments in 2366. Since then M’rok ships have bolstered
-Location: Aft of command hull Romulan forces in several conflicts with the Taurhai, though the
-Firing Arc: 360 degrees aft alliance is mostly an economic one.
-
-Firing Modes: Standard, Pulse ony . .
-
+Aft Disruptor Array 42 
+Type: 9 
+Damage: 200 [20 Power] 
+Number of Shots: Up to 3 shots per round 
+Targeting System: Accuracy 4/5/7/10 
+Range: 10/30,000/100,000/300,000 
+Location: Aft of command hull Romulan forces in several conflicts with the Taurhai, 
+Firing Arc: 360 degrees aft 
+Firing Modes: Standard, Pulse ony
 Starboard Forward Torpedo Launcher 16 [he Wa’h’kr’aa’ta-class Cruiser consists of two roughly half-oval-
 Standard Load: Type II photon torpedo (200 Damage) shaped secondary hulls joined by a crescent-shaped command
 Spread: 8 hull (with the “horns” pointing aft) two-thirds to aft. A large bridge
 Range: 15/350,000/1,500,000/4,050,000 module attaches to the command hull at the midpoint between
-
-, *. Neeieney yin the secondary hulls. Weapons line the edges and surfaces of all
-Targeting System: Accuracy 4/5/7/10 aly “ap Ne €0
-Power: [20 + 5 per torpedo fired] three sections of the ship, for the M’rok defend themselves and
+secondary hulls
+Targeting System: Accuracy 4/5/7/10 
+Power: [20 + 5 per torpedo fired] 
 Location: Forward of starboard secondary hull their territory vigorously.
-Firing Arc: Forward, but are self-guided The Wa’h’‘kr’aa’ta uses a typical matter/antimatter propulsion
-
-Port Forward Torpedo Launcher 16 system to achieve superluminal velocities, though the M’rok have
-Standard Load: Type Il photon torpedo (200 Damage) retained the horizontal configuration generally abandoned by the
-Spread: 8 Romulans, Federation, and most other comparative species. The
-Range: 15/350,000/1,500,000/4,050,000 WARP core feeds power out to two nacelles, one attached directly
-puvgeting System: ncaa i710 to the outer dorsal surface of each secondary hull.
-rower Forward of por secondary hull NOTEWORTHY VESSELS/SERVICE RECORDS/ ENCOUNTERS: Wa’h’kr’aa’ta,
-Firing Arc: Forward, but are self-guided prototype; Treh’ku’ta, made first contact with the Romulans
-
-Aft Torpedo Launcher 16 (2364); Ukara’ta’mua, destroyed two Taurhai_ Firedrakes at the
-Standard Load: Type Il photon torpedo (200 Damage) Battle of the Blue Spiral Nebula before suffering a catastrophic
-Spread: 8 WARP core explosion due to damage sustained in combat (2371).
-Range: 15/350,000/1 ay ee
+Firing Arc: Forward, but are self-guided 
+Port Forward Torpedo Launcher 16 system
+Standard Load: Type Il photon torpedo (200 Damage)
+Spread: 8 
+Range: 15/350,000/1,500,000/4,050,000 
+System: 
+Firing Arc: Forward, but are self-guided 
+Aft Torpedo Launcher 
+Standard Load: Type Il photon torpedo (200 Damage) 
+Spread: 8 
+Range: 15/350,000/1 
 Targeting System: Accuracy 4/5/7/10
 Power: [20 + 5 per torpedo fired]
-
 Location: Att of command hull
 Firing Arc: Aft, but are self-guided
-
 Torpedoes Carried: 200 20
-
 TA/T/TS: Class Beta [1 Power /round] 9
 Strength: 8
 Bonus: +1
-
 Weapons Skill: 4
-
 Shields (Forward, Aft, Port, Starboard) 62 (x4)
-
 Shield Generator: Class 5 (Protection 900) [90 Power/shield/round]
 Shield Grid: Type B (33% increase to 1200 Protection)
-
 Subspace Field Distortion Amplifiers: Class Zeta (Threshold 300)
 Recharging System: Class 1 (45 seconds)
-
 Backup Shield Generators: 4 (1 per shield) 8
-
 Auto-Destruct System /
-
 AUXILIARY SPACECRAFT SYSTEMS
-
 Shuttlebay(s): Capacity for 20 Size worth of ships 40
 Standard Complement: 10 shuttlecraft
 Location(s): Aft ventral of each secondary hull
-
 Captain’s Yacht: Yes 10
 
----------DESCRIPTION AND NOTES------
 
-FLEET DATA: The primary military and exploration ship of the
-M’rok (see accompanying sidebar), the Wa’h’kr’aa’ta-class Cruiser
-was first encountered by the Romulan ship Visen in 2364—which
-was also first contact between the two species. Although the initial
-confrontation nearly turned into a fight between the two vessels
-over the rights to an unclaimed system, the two species found a
-way to work out their differences and begin more peaceful con-
-| 0 A mea
-—a — — >
 
-1iPS f TE RL al Ar Fre oie
-o o R Nas OF THE PLANET M’RokTA’RA (“Home of the People”), the
-7 M’rok are a tall, often spindly-looking species descended
-M’ROK TEMPLATE from an arachnid-like animal. Their most distinctive physical
-features include their four black eyes (grouped two by two on
-Artrieutes their head), which grant them superb vision; their purplish skin
-Fitness 2 [5] (the color actually results from a very short layer of fur-like hair
-Vitality +1 all over their bodies); and their long, three-fingered arms (which
-Teoh make them excellent climbers).
-Reaction +1 The M’rok are best known outside their home region of space
-Intellect 2 [5] for the duelling elements of their culture. All M’rok know how
-Perception +1 to use the ta’tak, a hook-like bladed knife, and often many other
-Presence 2 [5] distinctive weapons as well. Any M’rok who takes any degree
-Empathy -] of offense at any action or statement of another M’rok can chal-
-Psi 0 [5] lenge him to a duel, then and there, and killing someone in a duel
-does not count as a crime (though it may start a blood feud with
-SKILLS the deceased's family). Since “offense” is entirely subjective, the
-Athletics (Climbing) 2 (3) M’rok have developed elaborate customs of courtesy and tact-
-Culture (M’rok) 2 (3) fulness. Interactions between M’rok, or with a M’rok, often take
-History (M’rok) 1 (2) many times as long as interactions between other species, since
-Language the M’rok have such a roundabout, overly polite way of saying
-M’rok 2 and doing everything.
-Marld Krowtelen Gilt om Although regarded as hot-tempered and bloodthirsty because
-of their duelling, in truth the M’rok are as sensitive and cultur-
-Typicat ADVANTAGE ally diverse as most other species. Their art, particularly paint-
-Night Vision +2 ing, is highly regarded, since their eyesight allows them to see
-Peripheral Vision +1 and use subtleties of color and shading that most species cannot.
-Their religions are often highly philosophical, complex, and open
-(though a few have spawned close-minded fanatics, as well).
-Following their initial contact with the Romulans in 2364, and
-their eventual alliance with the Star Empire in 2366, the M’rok
-have developed strong ties to the Romulans. They have adopted
-many items of Romulan culture, and Romulan aesthetics have
-become something of a “fad” over the past decade. Nevertheless,
-the M’rok remain a distinctive and fascinating species in their
-own right.
 
-_ = “a Pa
-‘cHIBMMnE th
-APSE THE Ri al fh Fir ik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class and Type: Unasha-Class Battle Cruiser PROPULSION SYSTEMS
 Commissioning Date: 2358 WARP Propulsion System
 Nacelles: Type 5 50
 SYSTEM SUs Speed: 5.0/6.0/7.0 [1 Power/.2 WARP speed]
 PIS: Type E (8 hours of Maximum WARP) 10
-HUET SYSTEMS IMPULSE ENGINE
-ize: .
+HULL SYSTEMS IMPULSE ENGINE
 Length: 193.26 meters Type: Cass 3 (.5¢/.7c) [5/7 Power /round] 15
-nae rele Reaction Control System (.025c) [2 Power/round when in use] 5
-eight: 35.75 me
+Reaction Control System (.025c) [2 Power/round when in use] 5
+Height: 35.75 me
 Decks: 8 | POWER SYSTEMS
 Mass: 312,400 metric tonnes WARP E
 SUs Available: 1,300 WARP ENGINE
@@ -4306,7 +3952,7 @@ None (the Othans lack replicator technology) Caine Standen
 Medical Facilities: 4 (+1) [4 Power/round] 20 Navigational Sensors [5 Power /round] 10
 Recreation Facilities: 4 [8 Power/round] 32 Strenath Package: Class 5 (Strenath 5)
 Personnel Transport: Turbolifts, Jefferies tubes [2 Power/round] 15 length ackage. Oss 2 tolreng
-. . , Gain Package: Standard
+Gain Package: Standard
 Fire Suppression System [1 Power/round when active] 5p, bes: 25 3
 Cargo Holds: 5,000 cubic meters l S ones: Skill: 3
 Locations: Five locations throughout ship ensors oxi
@@ -4316,12 +3962,6 @@ Capacity: 4 persons per pod [1 Power/round in use] 7
 Navigational Computer
 Main: Class 1 (+0) [0 Power/round] 0
 Backups: Two 0
-| fe 7 me OS
-— — —-
-
-oy a tun
-' F ioe
-HIPS OF THE ROMULAN STAR ERP ie
 Inertial Damping Field Location: Ventral on main hull
 Main 20 Firing Arc: 360 degrees ventral
 Strength: 7 [3 Power/round] Firing Modes: Standard, Pulse
@@ -4336,14 +3976,14 @@ Strength: 6 Firing Arc: 360 degrees att
 Security: -2 Firing Modes: Standard, Pulse
 Basic Uprating: None Forward Torpedo Launcher 15
 Emergency COMMUNICATIONS: Yes [2 Power/round] I Standard toad: Type II photon torpedo (200 Damage)
-TRAcToR BEAMS prea :
-Emitter: Class Beta [3 Power/Strength used/round] 6 range: I3/ 350,000/ faa eae
+TRAcToR BEAMS
+Emitter: Class Beta [3 Power/Strength used/round] 6 range: I3/ 350,000/ 
 Accuracy: 5/6/8/11 argeting System: Accuracy 4,
 Location: Forward ventral Power: i + ie torpedo fired]
-we, Location: Forwar
+Location: Forward
 Emitter: st Rit [3 Power /Strength used/round] 3 Firing Arc: Forward, but are self-guided
-‘cation: Shuttleb Aft Torpedo Launcher 15
-ocaTon. ne enay Standard Load: Type II photon torpedo (200 Damage)
+Shuttleb Aft Torpedo Launcher 15
+Standard Load: Type II photon torpedo (200 Damage)
 TRANSPORTERS Spread: 4
 None (the Othans lack transporter technology) Range: 15/350,000/1,500,000/4,050,000
 Cloaking Device: None Targeting System: Accuracy 4/5/7/10
@@ -4357,7 +3997,6 @@ Specialized Systems: None Bonus: +0
 Laboratories: 4 2 Weapons Skill: 3
 Shields (Forward, Aft, Port, Starboard) 38 (x4)
 Shield Generator: Class 3 (Protection 480) [48 Power/shield/round]
-racic Disruptor Array 3] Shield Grid: Type B (33% increase to 640 Protection)
 Type: 7 Subspace Field Distortion Amplifiers: Class Delta (Threshold 160)
 Damage: 160 [16 Power] Recharging System: Class 1 (45 seconds)
 Number of Shots: Up to 3 shots per round Backup Shield Generators: 4 (1 per shield) 4
@@ -4368,58 +4007,6 @@ Firing Arc: 360 degrees forward Shuttlebay(s): Capacity for 24 Size worth of shi
 Firing Modes: Standard, Pulse Standard Complement: 10 shuttlecraft, 4 shuttlepods
 Dorsal Disruptor Array (x3) 93 Location(s): Aft ventral
 Type: Chareth Captain’s Yacht: No
-ye oe ene ---------DESCRIPTION AND NOTES------
-Number of Shots: Up to 3 shots per round a
-Targeting System: Accuracy 5/6/8/11 FLEET DATA: The Unasha class Battle Cruiser is the most pow-
-Range: 10/30,000/100,000/300,000 erful, most advanced starship fielded by the tiny Othan Empire,
-Location: Dorsal on forward half of main hull, dorsal on command hull located between the Klingon and Romulan empires. At war with
-Firing Arc: 360 degrees dorsal the Romulans, and covertly bolstered by the Klingons, the Othans
-Firing Modes: Standard, Pulse are technologically primitive. Although they have had starships
-ventn Disruptor Array (x3) 93 for 150 years, their WARP-capable vessels remain comparatively
-Type: Chareth slow, and they lack both transporter and replicator technology.
-Damage: 160 [16 Power] Aggressive and temperamental, the Othans build ships primarily
-Number of Shots: Up to 3 shots per round for military purposes. The Unasha is no different; it bristles with
-Targeting System: Accuracy 5/6/8/11 weapons (by Othan standards, anyway). Though its weapons are
-Range: 10/30,000/100,000/300,000 weak compared to those of most Romulan ships, the Othans don’t
-“CHAPTER 3) tunes 7 YY GON
 
-Tae | 9
-ty
-ey fs a pis PIL
 
-eE THE Ri al TR Fie ik
-
-hesitate to beef them up with extra power, use suicidal tactics like
-
-close passes and ramming runs, and so forth. They like nothing
-
-better than to catch some Romulan ships unawares, ambush them,
-
-and destroy them.
-
-The Unasha consists of two structures. The first and largest is a
-
-wedge- or arrowhead-shaped main hull. Attached to the aft dorsal
-
-side of that is the second, a dome-like (or sometimes rectangular)
-
-superstructure, the command hull. The forward dorsal edge of the
-
-command hull typically features a small structure that contains
-
-the bridge, but in some variants the bridge is moved further aft (to
-
-the center of the dome) or embedded within the command hull for
-
-greater protection. Two pylons reminiscent of those on a Galaxy-
-
-class Explorer project port and starboard from the aft end of the
-
-main hull to hold the nacelles.
-
-a | Wlaee
-
-— anwar Tm + |
-4IPG [ 4E ROMULAT AR ERIPIE
-CHAPTER 3 ALLIED AND THREAT VESSELS = AV Y
 
