@@ -1305,7 +1305,7 @@ sounds of Klingon words and sentences.
         {-qang} <willing>
 
         {Heghqang}      <he/she is willing to die>     ({Hegh} <die>)
-        {gaja'qang}     <I am willing to tell you>     ({ja'} <tell>)
+        {qaja'qang}     <I am willing to tell you>     ({ja'} <tell>)
 
         {-rup} <ready, prepared> (referring to beings)
 
@@ -1472,115 +1472,125 @@ sounds of Klingon words and sentences.
         <I think it's empty, I suspect that he/she is controlling us.>
 
 
-4.2.7. Type 7: Aspect
-Klingon does not express tenses (past, present, future). These
-ideas come across from context or other words in the sentence
-(such as {wa'leS} <tomorrow>). The language does, however,
-indicate aspect: whether an action is completed or not yet
-completed, and whether an action is a Single event ora
-continuing one.
+    4.2.7. Type 7: Aspect
 
-The absence of a Type 7 suffix usually means that the action
-is not completed and is not continuous (that is, it is not one of
-the things indicated by the Type 7 suffixes). Verbs with no
-Type 7 suffix are translated by the English simple present
-tense.
+        Klingon does not express tenses (past, present, future). These
+        ideas come across from context or other words in the sentence
+        (such as {wa'leS} <tomorrow>). The language does, however,
+        indicate aspect: whether an action is completed or not yet
+        completed, and whether an action is a Single event ora
+        continuing one.
 
-{Dalegh} <you see him/her> ({legh} <see>)
-{gaja'} <I tell you> ({ja'} <tell>)
+        The absence of a Type 7 suffix usually means that the action
+        is not completed and is not continuous (that is, it is not one of
+        the things indicated by the Type 7 suffixes). Verbs with no
+        Type 7 suffix are translated by the English simple present tense.
 
-When the context is appropriate, verbs without a Type 7
-suffix may be translated by the English future tense (<will>), but
-the real feeling of the Klingon is closer to English sentences
-such as <We fly tomorrow at dawn,> where the present-tense
-verb refers to an event in the future.[[p.41]]
+        {Dalegh}    <you see him/her>       ({legh} <see>)
+        {qaja'}     <I tell you>            ({ja'} <tell>)
 
-{-pu'} <perfective>
+        When the context is appropriate, verbs without a Type 7
+        suffix may be translated by the English future tense (<will>), but
+        the real feeling of the Klingon is closer to English sentences
+        such as <We fly tomorrow at dawn,> where the present-tense
+        verb refers to an event in the future.
 
-This suffix indicates that an action is completed. It is often
-translated by the English present perfect (<have done some-
-thing>).
+        {-pu'} <perfective>
 
-{Daleghpu'} <you have seen it> ({legh} <see>)
-{vIneHpu'} <I wanted them> ({neH} <want>)
-{gaja'pu'} <I told you> ({ja'} <tell>)
+        This suffix indicates that an action is completed. It is often
+        translated by the English present perfect (<have done some- thing>).
 
-{-ta'} <accomplished, done>
+        {Daleghpu'}     <you have seen it>      ({legh} <see>)
+        {vIneHpu'}      <I wanted them>         ({neH} <want>)
+        {qaja'pu'}      <I told you>            ({ja'} <tell>)
 
-This suffix is similar to {-pu',} but it is used when an activity
-was deliberately undertaken, the implication being that some-
-one set out to do something and in fact did it. English
-translations seldom reveal the distinction.
+        {-ta'} <accomplished, done>
 
-{visugta'} <I have acquired it> ({Suq} <get, acquire>)
+        This suffix is similar to {-pu',} but it is used when an activity
+        was deliberately undertaken, the implication being that some-
+        one set out to do something and in fact did it. English
+        translations seldom reveal the distinction.
 
-{luHoHta'} <they have killed him/her> ({HoH} <kill>)
-The second sentence above could not be used if the killing
-were the result of a general attack not intended to killa
-specific person or if the killing were an accident. In such
-cases, {-pu'} would be used:
-{luHoHpu'} <they have killed him/her>
-The meaning of {-ta'} can also be indicated syntactically.
-That is, instead of using the suffix {-ta',} a special verbal
-construction can follow the verb which indicates the accom-
-plished action. This special verb is {rin} <be finished, accom-
-plished,> and in this usage it always takes the suffix {-taH}
-<continuous> (see below) and the third-person pronominal
-prefix (0). The resulting construction, {rIntaH,} literally means
-<it continues to be finished> or <it remains accomplished.> It is
-used to indicate that the action denoted by the preceding verb
-is a fait accompli: it is done, and it cannot be undone.
-{luHoH rIntaH} <they have killed him/her> ({HoH} <kill>)
-{vIje' riIntaH} <I have purchased it> ({je'} <purchase>)
-The English translations of {riIntaH} and {-ta'} are usually the
-same. The notion of absolute finality implied by {rIntaH}
-seldom comes across.
-It should be noted that {riIntaH} is sometimes used for[[p.42] ]
-dramatic effect, even in cases when the action could be
-undone.
-{-taH} <continuous>
-This suffix indicates that an action is ongoing.
-{nughoStaH} <it is approaching us> ({ghoS} <approach>)
-{yIghoStaH} <steady on course!, maintain this course!>
-({ghoS} <go, approach, proceed on a course>)
-Both of the above sentences suggest a continuing activity.
-The meaning of {-taH} can be seen clearly by comparing the
-following two commands:
-{yIjun} <execute an evasive maneuver!>
-{yIjuntaH} <take evasive action!>
-In the first case, the maneuver is to be executed once only. In
-the second, a series of evasive maneuvers is to be executed
-—---the action is to be continuous.
-{-lI'} <in progress>
-This suffix is similar to {-taH} <continuous> in that it indicates
-that an activity is ongoing. Unlike {-taH,} however, {-lI'} implies
-that the activity has a known goal or a definite stopping point.
-In other words, it suggests that progress is being made toward
-that goal.
-{chollI'} <it is getting closer>
-({chol} <get close, come near>)
+        {vISuqta'}  <I have acquired it>            ({Suq} <get, acquire>)
+        {luHoHta'}  <they have killed him/her>      ({HoH} <kill>)
 
-This word would be used for, i.e., a missile approaching a
-target, when it is known that the missile has been aimed at
-that target. If a missile is getting closer, but its intended
-destination is not known, {choltaH} (with {-taH} <continuous>)
-would be more appropriate.
+        The second sentence above could not be used if the killing
+        were the result of a general attack not intended to killa
+        specific person or if the killing were an accident. In such
+        cases, {-pu'} would be used:
 
-{vILI'lI'} <I am transmitting (the data)>
+        {luHoHpu'} <they have killed him/her>
 
-({lI'} <transmit data to a place>)
+        The meaning of {-ta'} can also be indicated syntactically.
+        That is, instead of using the suffix {-ta',} a special verbal
+        construction can follow the verb which indicates the accomplished action. 
+        This special verb is {rIn} <be finished, accomplished,> 
+        and in this usage it always takes the suffix {-taH}
+        <continuous> (see below) and the third-person pronominal
+        prefix (0). 
 
-This word implies that data are in the process of being
-transmitted, but that there is a finite amount of data, so there
-will be a definite end to the transmission. The fact that the
-verb {llI'} and the suffix {-lI'} are identical in sound is purely
-coincidental, so far as can be determined. [[p.43]]
+        The resulting construction, {rIntaH,} literally means
+        <it continues to be finished> or <it remains accomplished.> It is
+        used to indicate that the action denoted by the preceding verb
+        is a fait accompli: it is done, and it cannot be undone.
 
-The suffix {-taH} <continuous> can be used whether there is a
-know goal or not. {-lI',} on the other hand, can be used only
-when there is an implied goal. It is possible to consider {-lI'} a
-<continuous> counterpart of {-ta',} and {-taH} a <continuous> coun-
-terpart of {-pu'.}
+        {luHoH rIntaH}      <they have killed him/her>      ({HoH} <kill>)
+        {vIje' riIntaH}     <I have purchased it>           ({je'} <purchase>)
+
+        The English translations of {riIntaH} and {-ta'} are usually the same. 
+        The notion of absolute finality implied by {rIntaH} seldom comes across.
+        It should be noted that {riIntaH} is sometimes used for 
+        dramatic effect, even in cases when the action could be undone.
+
+        {-taH} <continuous>
+
+        This suffix indicates that an action is ongoing.
+
+        {nughoStaH}     <it is approaching us>      ({ghoS} <approach>)
+        {yIghoStaH}     <steady on course!, maintain this course!>
+        ({ghoS}         <go, approach, proceed on a course>)
+
+        Both of the above sentences suggest a continuing activity.
+        The meaning of {-taH} can be seen clearly by comparing the
+        following two commands:
+
+        {yIjun} <execute an evasive maneuver!>
+        {yIjuntaH} <take evasive action!>
+
+        In the first case, the maneuver is to be executed once only. In
+        the second, a series of evasive maneuvers is to be executed, 
+        the action is to be continuous.
+
+        {-lI'} <in progress>
+
+        This suffix is similar to {-taH} <continuous> in that it indicates
+        that an activity is ongoing. Unlike {-taH,} however, {-lI'} implies
+        that the activity has a known goal or a definite stopping point.
+        In other words, it suggests that progress is being made toward that goal.
+
+        {chollI'}   <it is getting closer>
+        ({chol}     <get close, come near>)
+
+        This word would be used for, i.e., a missile approaching a
+        target, when it is known that the missile has been aimed at
+        that target. If a missile is getting closer, but its intended
+        destination is not known, {choltaH} (with {-taH} <continuous>)
+        would be more appropriate.
+
+        {vIlI'lI'}  <I am transmitting (the data)>
+        ({lI'}      <transmit data to a place>)
+
+        This word implies that data are in the process of being
+        transmitted, but that there is a finite amount of data, so there
+        will be a definite end to the transmission. The fact that the
+        verb {lI'} and the suffix {-lI'} are identical in sound is purely
+        coincidental, so far as can be determined. 
+
+        The suffix {-taH} <continuous> can be used whether there is a
+        know goal or not. {-lI',} on the other hand, can be used only
+        when there is an implied goal. It is possible to consider {-lI'} a
+        <continuous> counterpart of {-ta',} and {-taH} a <continuous> coun-
+        terpart of {-pu'.}
 
 4.2.8. Type 8: Honorific
 
@@ -1937,7 +1947,7 @@ Though no one Knows for sure, it is likely that this change
 
 was made more out of concern for understanding the scien-
 
-tific data of other civilizations than out of a spirit of cooper-
+tific data of other civIlIzations than out of a spirit of cooper-
 ation.
 
 The Klingon numbers are:
@@ -2552,9 +2562,9 @@ Similarly, with verbs of saying (<say, tell, ask,> etc.), {'e'} and
 {net} are not used. The two phrases simply follow one another,
 in either order.
 
-{gaja'pu' HIgaghQo' }
+{qaja'pu' HIgaghQo' }
 
-or {HIqaghQo' gaja'pu'} <I told you not to interrupt me.>
+or {HIqaghQo' qaja'pu'} <I told you not to interrupt me.>
 This is literally <I told you, "Don't interrupt me!"> or <"Don't
 interrupt me" I told you> ({gqaja'pu'} <I told you,> {HIqaghQo'} <don't
 interrupt me!>). An aspect marker (here, {-pu'} <perfective>) may
@@ -3472,7 +3482,7 @@ Hab be smooth (v)
 
 HabllI' data transceiving device (n)
 
-Hach be developed (e.g., civilization) (v)
+Hach be developed (e.g., civIlIzation) (v)
 
 HaD study (v)
 
@@ -5067,11 +5077,11 @@ tas solution (liquid) (n)
 
 tat ton (n)
 
-tay be civilized (v)
+tay be civIlIzed (v)
 
-taymoH Civilize (v)
+taymoH CivIlIze (v)
 
-tayqeg Civilization (n)
+tayqeg CivIlIzation (n)
 
 tay' be together (v)
 
@@ -5964,9 +5974,9 @@ chronometer (n) tlhag
 circle (n) gho
 citizen (n) rewbe'
 city (n) veng
-Civilization (n) tayqeg
-Civilize (v) taymoH
-Civilized, be civilized (v) tay
+CivIlIzation (n) tayqeg
+CivIlIze (v) taymoH
+CivIlIzed, be civIlIzed (v) tay
 claim (territory) (v) DoQ
 classification (n) buv
 classify (v) buv
@@ -6136,7 +6146,7 @@ destruction (n) OIH
 deteriorate (v) Sab
 detest (v) musS
 developed, be developed Hach
-(e.g., Civilization) (v)
+(e.g., CivIlIzation) (v)
 device (n) jan
 devise, invent (v) "ogh
 dictator (n) HL'
