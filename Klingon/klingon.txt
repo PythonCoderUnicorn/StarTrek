@@ -154,119 +154,120 @@ Addendum
 
 
 INTRODUCTION
-Klingon is the official language of the Klingon Empire. For a
-long time, only a few non-Klingons were able to learn enough
-about the language to engage in a meaningful conversation
-with a Klingon. Recently, however, under the auspices of the
-Federation Scientific Research Council, a study has been
-undertaken to record and analyze the language and culture of
-the Klingons, with the ultimate goal of preparing an encyclo-
-pedia, as well as teaching materials. This dictionary repre-
-sents the initial results of that effort.
 
-The dictionary is divided into two main parts: grammatical
-sketch and dictionary proper.
+    Klingon is the official language of the Klingon Empire. For a
+    long time, only a few non-Klingons were able to learn enough
+    about the language to engage in a meaningful conversation
+    with a Klingon. Recently, however, under the auspices of the
+    Federation Scientific Research Council, a study has been
+    undertaken to record and analyze the language and culture of
+    the Klingons, with the ultimate goal of preparing an encyclo-
+    pedia, as well as teaching materials. This dictionary repre-
+    sents the initial results of that effort.
 
-The grammatical sketch is intended to be an outline of
-Klingon grammar, not a complete description. Nevertheless,
-it should allow the reader to put Klingon words together in an
-acceptable manner. Many of the rules given in the grammati-
-cal sketch are those set down by Klingon grammarians. It
-should be remembered that even though the rules say "always" 
-and "never" when Klingon is actually spoken these
-rules are sometimes broken. What the rules represent, in
-other words, is what Klingon grammarians agree on as the "best" Klingon.
+    The dictionary is divided into two main parts: grammatical
+    sketch and dictionary proper.
 
-Because research is not yet completed, this dictionary is of
-necessity somewhat limited in scope. There are certainly
-more Klingon words than those listed here. Three groups of 
-words in particular are, for the most part, unrepresented:
-scientific terminology; words for native tools, customs, flora,
-and fauna; and vocabulary dealing with food. Terms associated 
-with the various sciences are the subject of a special study,
-and a report is currently being prepared. Klingon words for
-traditional tools and long-standing customs are difficult to
-translate into English. Native plants and animals are likewise
-difficult to comprehend at the present time. Such matters will
-be fully elucidated in the forthcoming <Klingon Encyclopedia.>
-Food words are missing due to limited resources: there have
-been problems recruiting staff interested in studying Klingon
-eating habits. Until that study is under way, it was thought
-inappropriate to present a list of words whose meanings are
-not properly understood.
+    The grammatical sketch is intended to be an outline of
+    Klingon grammar, not a complete description. Nevertheless,
+    it should allow the reader to put Klingon words together in an
+    acceptable manner. Many of the rules given in the grammati-
+    cal sketch are those set down by Klingon grammarians. It
+    should be remembered that even though the rules say "always" 
+    and "never" when Klingon is actually spoken these
+    rules are sometimes broken. What the rules represent, in
+    other words, is what Klingon grammarians agree on as the "best" Klingon.
 
-As more data are gathered the list of words will undoubtedly grow. 
-Even at this early stage, however, some patterns are
-emerging. For example, there are no words for greetings,
-such as <hello, how are you, good morning,> and so on. It seems
-apparent that such words and phrases simply do not exist in
-Klingon. When two Klingons meet each other (except in cases
-where military protocol determines behavior), if anything of
-an introductory nature is said, it is an expression that can best
-be translated as <What do you want?> Unlike most speakers of
-English, who begin conversations with greetings, inquiries
-about the state of health of the conversants, and remarks
-about the weather, Klingons tend to begin conversations by
-Simply stating the main points.
+    Because research is not yet completed, this dictionary is of
+    necessity somewhat limited in scope. There are certainly
+    more Klingon words than those listed here. Three groups of 
+    words in particular are, for the most part, unrepresented:
+    scientific terminology; words for native tools, customs, flora,
+    and fauna; and vocabulary dealing with food. Terms associated 
+    with the various sciences are the subject of a special study,
+    and a report is currently being prepared. Klingon words for
+    traditional tools and long-standing customs are difficult to
+    translate into English. Native plants and animals are likewise
+    difficult to comprehend at the present time. Such matters will
+    be fully elucidated in the forthcoming <Klingon Encyclopedia.>
+    Food words are missing due to limited resources: there have
+    been problems recruiting staff interested in studying Klingon
+    eating habits. Until that study is under way, it was thought
+    inappropriate to present a list of words whose meanings are
+    not properly understood.
 
-Although Klingons are proud of their language and frequently 
-engage in long discussions about its expressiveness
-and beauty, they have found it impractical for communication
-outside the Klingon Empire. For intra- and intergalactic
-communication, the Klingon government, along with most
-other governments, has accepted English as the lingua franca.
-In general, only those Klingons of the upper classes (which
-include higher-level governmental and military officials) learn
-English. As a result, English has taken on two additional
-functions in Klingon society. 
+    As more data are gathered the list of words will undoubtedly grow. 
+    Even at this early stage, however, some patterns are
+    emerging. For example, there are no words for greetings,
+    such as <hello, how are you, good morning,> and so on. It seems
+    apparent that such words and phrases simply do not exist in
+    Klingon. When two Klingons meet each other (except in cases
+    where military protocol determines behavior), if anything of
+    an introductory nature is said, it is an expression that can best
+    be translated as <What do you want?> Unlike most speakers of
+    English, who begin conversations with greetings, inquiries
+    about the state of health of the conversants, and remarks
+    about the weather, Klingons tend to begin conversations by
+    Simply stating the main points.
 
-First, it is used as a symbol of rank or status. 
-Those Klingons who know English will use it
-among themselves to show off their erudition and make their
-place in society known to all who happen to be listening.
-Second, English is used when it is thought best to keep[[p.11]]
-servants, soldiers, or even the general populace uninformed.
-Thus, on a Klingon vessel, the commanding officer will often
-speak Klingon when giving orders to his crew, but choose
-English when having discussions with his officers. On the
-other hand, a Klingon officer may use Klingon in the presence
-of non-Klingons to prevent them from knowing what is going
-on. This use of Klingon seems to be quite effective.
+    Although Klingons are proud of their language and frequently 
+    engage in long discussions about its expressiveness
+    and beauty, they have found it impractical for communication
+    outside the Klingon Empire. For intra- and intergalactic
+    communication, the Klingon government, along with most
+    other governments, has accepted English as the lingua franca.
+    In general, only those Klingons of the upper classes (which
+    include higher-level governmental and military officials) learn
+    English. As a result, English has taken on two additional
+    functions in Klingon society. 
 
-There are a number of dialects of Klingon. Only one of the
-dialects, that of the current Klingon emperor, is represented
-in this dictionary. When a Klingon emperor is replaced, for
-whatever reason, it has historically been the case that the next
-emperor speaks a different dialect. As a result, the new
-emperor's dialect becomes the official dialect. Those Kling-
-ons who do not speak the official dialect are considered
-either stupid or subversive, and are usually forced to undertake
-tasks that speakers of the official dialect find distasteful. Most
-Klingons try to be fluent in several dialects.
+    First, it is used as a symbol of rank or status. 
+    Those Klingons who know English will use it
+    among themselves to show off their erudition and make their
+    place in society known to all who happen to be listening.
+    Second, English is used when it is thought best to keep[[p.11]]
+    servants, soldiers, or even the general populace uninformed.
+    Thus, on a Klingon vessel, the commanding officer will often
+    speak Klingon when giving orders to his crew, but choose
+    English when having discussions with his officers. On the
+    other hand, a Klingon officer may use Klingon in the presence
+    of non-Klingons to prevent them from knowing what is going
+    on. This use of Klingon seems to be quite effective.
 
-Some dialects differ only slightly from the dialect of this
-dictionary. Differences tend to be in vocabulary (the word for
-<forehead,> for example, is different in almost every dialect)
-and in the pronunciation of a few sounds. On the other hand,
-some dialects differ significantly from the current official
-dialect, so much so that speakers of these dialects have a great
-deal of difficulty communicating with current Klingon official-
-dom. The student of Klingon is warned to check into the
-political situation of the Klingon Empire before trying to
-talk.
+    There are a number of dialects of Klingon. Only one of the
+    dialects, that of the current Klingon emperor, is represented
+    in this dictionary. When a Klingon emperor is replaced, for
+    whatever reason, it has historically been the case that the next
+    emperor speaks a different dialect. As a result, the new
+    emperor's dialect becomes the official dialect. Those Kling-
+    ons who do not speak the official dialect are considered
+    either stupid or subversive, and are usually forced to undertake
+    tasks that speakers of the official dialect find distasteful. Most
+    Klingons try to be fluent in several dialects.
 
-There is a native writing system for Klingon (called {pIqaD})
-which seems to be well suited to the various dialects. This
-writing system is not yet well understood and is, therefore,
-not used in this dictionary. Instead, a transcription system
-based on the English alphabet has been devised. An article is
-being prepared for the <Klingon Encyclopedia> which will
-explain the details of {pIqaD.}
+    Some dialects differ only slightly from the dialect of this
+    dictionary. Differences tend to be in vocabulary (the word for
+    <forehead,> for example, is different in almost every dialect)
+    and in the pronunciation of a few sounds. On the other hand,
+    some dialects differ significantly from the current official
+    dialect, so much so that speakers of these dialects have a great
+    deal of difficulty communicating with current Klingon official-
+    dom. The student of Klingon is warned to check into the
+    political situation of the Klingon Empire before trying to
+    talk.
 
-In the grammatical sketch portion of this dictionary, as a
-notational convention, Klingon will be written in boldface
-type, and English translations will be written in italics:
-{tlhIngan} <Klingon.>
+    There is a native writing system for Klingon (called {pIqaD})
+    which seems to be well suited to the various dialects. This
+    writing system is not yet well understood and is, therefore,
+    not used in this dictionary. Instead, a transcription system
+    based on the English alphabet has been devised. An article is
+    being prepared for the <Klingon Encyclopedia> which will
+    explain the details of {pIqaD.}
+
+    In the grammatical sketch portion of this dictionary, as a
+    notational convention, Klingon will be written in boldface
+    type, and English translations will be written in italics:
+    {tlhIngan} <Klingon.>
 
 
 
@@ -285,21 +286,19 @@ type, and English translations will be written in italics:
 
 1. THE SOUNDS OF KLINGON
 
-It is difficult to describe accurately the sounds of the Klingon
-language without using complex phonological and anatomical
-terminology. What follows, therefore, is intended to give only
-a guide to pronunciation. The best way to learn to pronounce
-Klingon with no trace of a Terran or other accent is to become
-friends with a group of Klingons and spend a great deal of
-time socializing with them. Very few non-Klingons speak
-Klingon without an accent.
+    It is difficult to describe accurately the sounds of the Klingon
+    language without using complex phonological and anatomical
+    terminology. What follows, therefore, is intended to give only
+    a guide to pronunciation. The best way to learn to pronounce
+    Klingon with no trace of a Terran or other accent is to become
+    friends with a group of Klingons and spend a great deal of
+    time socializing with them. Very few non-Klingons speak
+    Klingon without an accent.
 
-The system of writing Klingon used in this dictionary has
-been developed so people who already know how to read
-English will have a minimum of difficulty approximating the
-sounds of Klingon words and sentences.
-
-
+    The system of writing Klingon used in this dictionary has
+    been developed so people who already know how to read
+    English will have a minimum of difficulty approximating the
+    sounds of Klingon words and sentences.
 
 
 
@@ -452,9 +451,6 @@ sounds of Klingon words and sentences.
         can sound more like {yIlI'ghI.} This extra-heavy echo is
         heard most often when the speaker is particularly excited or
         angry.
-
-
-
 
 
 
@@ -1893,76 +1889,64 @@ sounds of Klingon words and sentences.
 
 
 5. OTHER KINDS OF WORDS
-By far the bulk of Klingon words are nouns and verbs. There
-are a few others which, probably as an expedient, Klingon
-grammarians lump together in a group called {chuvmey}
 
-<leftovers.> It is possible to classify the {chuvmey} some-
-what.
-5.1. Pronouns
-In addition to possessive suffixes for nouns (section 3.3.4) and
-pronominal prefixes for verbs (section 4.1), there is a set of
-nine pronouns which are independent words. [[nine=>ten] ]
+    By far the bulk of Klingon words are nouns and verbs. There
+    are a few others which, probably as an expedient, Klingon
+    grammarians lump together in a group called {chuvmey}
 
-{jIH} <I, me> {maH} <we, us>
+    <leftovers.> It is possible to classify the {chuvmey} somewhat.
 
-{SoH} <you> {tlhIH} <you (plural)>[[SOH=>SoH] ]
+    5.1. Pronouns
 
-{ghaH} <he/she, him/her> {chaH} <they, them>
+        In addition to possessive suffixes for nouns (section 3.3.4) and
+        pronominal prefixes for verbs (section 4.1), there is a set of
+        nine pronouns which are independent words. [[nine => ten]]
 
-{"oH} <it> {bIH} <they, them>
+        {jIH}    <I, me>            {maH}       <we, us>
+        {SoH}   <you>               {tlhIH}     <you (plural)> [[SOH => SoH]]
+        {ghaH}  <he/she, him/her>   {chaH}      <they, them>
+        {"oH}   <it>                {bIH}       <they, them>
+        {'e'}   <that>
+        {net}   <that>
 
-{'e'} <that>
+        The pronoun {chaH} <they> is used when it refers to a group of
+        beings capable of using language; otherwise, {bIH} <they> is used.
+        The pronouns {'e'} and {net} are used only in special sentence
+        constructions (see section 6.2.5).
 
-{net} <that>
+        There is no grammatical gender in Klingon. Third-person 
+        Singular pronouns can be translated <he> or <she> as context dictates.
 
-The pronoun {chaH} <they> is used when it refers to a group of
-beings capable of using language; otherwise, {bIH} <they> is used.
-The pronouns {'e'} and {net} are used only in special sentence
-constructions (see section 6.2.5).
+        Pronouns may be used as nouns, but only for emphasis or
+        added clarity. They are not required. Thus, the following sets
+        of sentences are all grammatically correct.
 
-There is no grammatical gender in Klingon. Third-person[[p.52]]
-Singular pronouns can be translated <he> or <she> as context
-dictates.
+        {yaS villegh jIH}   <I see the officers.>
+        {yas vilegh}
+        {jIH mulegh yaS}    <The officer sees me.>
+        {mulegh yas}
+        {ghaH vIlegh jIH}   <I see him/her.>
+        {ghaH viIlegh}
+        {vIlegh jIH}
+        {vIllegh }
+        ({yaS}              <officer> 
+        {vIlegh}            <I see him/her,> 
+        {mulegh}            <he/she sees me> )
 
-Pronouns may be used as nouns, but only for emphasis or
-added clarity. They are not required. Thus, the following sets
-of sentences are all grammatically correct.
+        The final two sentences ({vIlegh jIH, vIlegh}) are in fact
+        ambiguous. They could equally well mean <I see them.> 
+        (The verb prefix {vI-} is either <I--him/her> or <I--them.>) 
+        If context does not make it clear which meaning is intended, pronouns can be used:
 
-{yaS villegh jIH} <I see the officers.>
+        {ghaH vIlegh}   <I see him/her.>
+        {chaH vIlegh}   <I see them.>
 
-{yas vilegh}
+        Pronouns are not used in possessive constructions in the
+        way nouns are; instead, the set of possessive noun suffixes is used (section 3.3.4).
 
-{jIH mulegh yaS} <The officer sees me.>
+        Finally, pronouns can be used as verbs, in the sense of "'I am, " etc. (See section 6.3).
 
-{mulegh yas}
 
-{ghaH vIlegh jIH} <I see him/her.>
-
-{ghaH viIlegh}
-
-{vIlegh jIH}
-
-{vIllegh }
-
-({yaS} <officer,> {vIlegh} <I see him/her,> {mulegh} <he/she sees
-me> )
-
-The final two sentences ({vIlegh jIH, vilegh}) are in fact
-ambiguous. They could equally well mean <I see them.> (The
-verb prefix {vI-} is either <I--him/her> or <I--them.>) If context does
-not make it clear which meaning is intended, pronouns can be
-used:
-
-{ghaH vIlegh} <I see him/her.>
-{chaH vIlegh} <I see them.>
-
-Pronouns are not used in possessive constructions in the
-way nouns are; instead, the set of possessive noun suffixes is
-used (section 3.3.4).
-
-Finally, pronouns can be used as verbs, in the sense of "'I
-am, " etc. (See section 6.3).
 
 5.2. Numbers
 Klingon originally had a ternary number system; that is, one
