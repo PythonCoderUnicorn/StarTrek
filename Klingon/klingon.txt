@@ -919,14 +919,14 @@ sounds of Klingon words and sentences.
         indication of exactly what their function is. Unlike English,
         this is accomplished by using suffixes.
 
-        {-Dag} <locative>
+        {-Daq} <locative>
 
         This suffix indicates that something is happening (or has
         happened or will happen) in the vicinity of the noun to which
         it is attached. It is normally translated by an English preposi-
         tion: <to, in, at, on.> The exact translation is determined by the
-        meaning of the whole sentence. For example, {pa'Dag} is {pa'}
-        <room> plus the suffix {-Dag.} It may occur in sentences such as
+        meaning of the whole sentence. For example, {pa'Daq} is {pa'}
+        <room> plus the suffix {-Daq.} It may occur in sentences such as
         the following:
 
         {pa'Daq jIHtaH} <I'm in the room.>
@@ -935,10 +935,10 @@ sounds of Klingon words and sentences.
         In the first sentence, {jIH} <I> is used in the sense of <I am> (see
         section 6.3), so <in> is the most reasonable translation of {-Daq. }
         In the second sentence, the verb is {jaH} <go,> so <to> makes the
-        most sense as a translation of {-Dagq.} 
+        most sense as a translation of {-Daqq.} 
         
         An English preposition need not be part of the translation. 
-        Klingon {Dung} means <area above,> and {DungDag} is <overhead,> literally something like "at
+        Klingon {Dung} means <area above,> and {DungDaq} is <overhead,> literally something like "at
         the area above." For further discussion on prepositional concepts, see section 3.4.
 
         It is worth noting at this point that the concepts expressed
@@ -948,7 +948,7 @@ sounds of Klingon words and sentences.
         and "all places," respectively. Unlike other nouns, these
         three words are never followed by the locative suffix. 
         that {pa'} <thereabouts> and {pa'} <room> are identical in sound;
-        {pa'Dag,} however, can mean only <in/to the room.>)
+        {pa'Daq,} however, can mean only <in/to the room.>)
 
         There are a few verbs whose meanings include locative
         notions, such as {ghoS} <approach, proceed.> The locative suffix
@@ -966,7 +966,7 @@ sounds of Klingon words and sentences.
 
         {-vo'} <from>
 
-        This suffix is similar to {-Dagq} but is used only when action is
+        This suffix is similar to {-Daqq} but is used only when action is
         in a direction away from the noun suffixed with {-vo'.}
         {pa'vo' yIjaH} <Leave the room!>
         A more literal translation of this sentence might be "Go from the room."
@@ -1009,52 +1009,66 @@ sounds of Klingon words and sentences.
 
         For a further use of {-'e',} see section 6.3.
 
-        
-3.3.6. Relative ordering of the suffixes
-As briefly illustrated in the discussion of {-vam} <this> and {-vetlh}
-<that> (section 3.3.4), when a noun is followed by more than
-one suffix, the suffixes must occur in the proper order,
-according to the classification just described. It is rare for a
-noun to be followed by five suffixes, but it does happen from
-time to time. Some examples of nouns with two or more
-suffixes follow. (Suffix types are indicated by numbers.)
-{QaghHommeyHeylIjmo'} <due to your apparent minor errors>
-{Qagh} (noun) <error>
-{—Hom } (1) <diminutive>
-{-—mey } (2) <plural>
-{-Hey} (3) <apparent>
-{-lIj} (4) <your>
-{—mo ' } (5) <due to>
-{pa'wljDaq} <in my quarters>
-{pa'} (noun) <room>[[p.30]]
-{-wIj} (4) <my>
-{-Daq} (5) <locative>
-{Duypu'gogchaj} <their so-called emissaries>
-{Duy} (noun) <emissary>
-{-pu' } (2) <plural>
-{-qgoqg} (3) <so-called>
-{-chaj} (4) <their>
-{gamDu'wljDag} <at my feet>
-{qam} (noun) <foot>
-{-Du" } (2) <plural>
-{-wl Jj} (4) <my>
 
-{-Daq} (5) <locative>
-{rojHom'e'} <the truce> (as topic)
-{roj} (noun) <peace>
-{—Hom } (1) <diminutive>
-{—'e!l} (5) <topic>
-All examples of suffixes given so far show only simple
-nouns. Suffixes are attached to complex nouns (section 3.2) in
-exactly the same fashion.
-{DIvI'may'DujmeyDag} <at/to the Federation battle cruisers>
-{DIvI'may'Duj} (noun) <Federation battlecruiser>
-{-—mey } (2) <plural>
-{-Daq} (5) <locative>
-{baHwl'pu'vam} <these gunners>
-{baHwl' } (noun) <gunner>
-{-pu' } (2) <plural>
-{—vam } (4) <this>
+    3.3.6. Relative ordering of the suffixes
+
+        As briefly illustrated in the discussion of {-vam} <this> and {-vetlh}
+        <that> (section 3.3.4), when a noun is followed by more than
+        one suffix, the suffixes must occur in the proper order,
+        according to the classification just described. It is rare for a
+        noun to be followed by five suffixes, but it does happen from
+        time to time. Some examples of nouns with two or more
+        suffixes follow. (Suffix types are indicated by numbers.)
+
+    
+        {QaghHommeyHeylIjmo'} <due to your apparent minor errors>
+            {Qagh}      (noun)      <error>
+            {—Hom }     (1)         <diminutive>
+            {-—mey }    (2)         <plural>
+            {-Hey}      (3)         <apparent>
+            {-lIj}      (4)         <your>
+            {—mo ' }    (5)         <due to>
+
+
+        {pa'wljDaq} <in my quarters>
+            {pa'} (noun) <room>
+            {-wIj} (4)   <my>
+            {-Daq} (5)   <locative>
+
+
+        {Duypu'gogchaj} <their so-called emissaries>
+        {Duy}    (noun)   <emissary>
+        {-pu' }   (2)     <plural>
+        {-qoq}    (3)     <so-called>
+        {-chaj}   (4)     <their>
+
+
+        {gamDu'wIjDaq} <at my feet>
+        {qam}   (noun) <foot>
+        {-Du" }  (2)   <plural>
+        {-wIj }  (4)   <my>
+        {-Daq }  (5)  <locative>
+
+        {rojHom'e'} <the truce> (as topic)
+        {roj} (noun) <peace>
+        {—Hom } (1)  <diminutive>
+        {—'e' } (5)  <topic>
+
+        All examples of suffixes given so far show only simple
+        nouns. Suffixes are attached to complex nouns (section 3.2) in
+        exactly the same fashion.
+
+        {DIvI'may'DujmeyDaq} <at/to the Federation battle cruisers>
+        {DIvI'may'Duj} (noun) <Federation battlecruiser>
+        {-—mey } (2) <plural>
+        {-Daq  } (5) <locative>
+
+        {baHwI'pu'vam} <these gunners>
+        {baHwI' } (noun) <gunner>
+        {-pu' }   (2)   <plural>
+        {—vam }   (4)   <this>
+
+
 3.4. The noun-noun construction
 Some combinations of two (or more) nouns in a row are so
 common aS to have become everyday words. These are the
@@ -1078,7 +1092,7 @@ example:
 {nuH } (noun) <weapon>
 {—vam } (4) <this>
 {pegh} (noun) <secret>
-{jaghpu' yuQmeyDag} <at/to the enemies' planets>
+{jaghpu' yuQmeyDaq} <at/to the enemies' planets>
 {jagh} (noun) <enemy>
 {-pu' } (2) <plural>
 {yuQ} (noun) <planet>
@@ -1095,7 +1109,7 @@ by this noun-noun construction. Prepositional concepts such
 as above and below are actually nouns in Klingon, best
 translated as "’area above," "’ area below," etc. The locative
 suffix (section 3.3.5) follows the second noun. For example:
-{nagh DungDag} <above the rock>
+{nagh DungDaq} <above the rock>
 {nagh} (noun) <rock>
 {Dung} (noun) <area above>
 {-Daq} (5) <locative>
@@ -1366,7 +1380,7 @@ something to them.>
 {Soplu'} <someone/something eats it> ({Sop} <eat>)
 Verbs with {-lu'} are often translated into the English passive
 voice.
-{Dagqawlu'} <you are remembered>
+{Daqqawlu'} <you are remembered>
 {wlleghlu'} <we are seen>
 {Soplu'} <it is eaten>
 When used with the verb {tu'} <find, observe> and a third-[[keep
@@ -1589,7 +1603,7 @@ to show ordering of the suffixes.
 {chen } (verb) <take form>
 {—moH } (4) <cause>
 {-laH} (5) <can, able>
-{Dagawlu'taH} <you are to be remembered>
+{Daqawlu'taH} <you are to be remembered>
 {Da-} (prefix)  <you--him/her>
 {qaw} (verb) <remember>
 {-lu' } (5) <indefinite subject>
@@ -1777,11 +1791,11 @@ If a Type 5 noun suffix is used (section 3.3.5), it follows the
 verb, which, when used to modify the noun in this way, can
 have no other suffix except the rover {-qu'} <emphatic.> The Type
 5 noun suffix follows {-qu'.}
-{veng tInDag} <in the big city>
+{veng tInDaq} <in the big city>
 {veng} <city>
 {tIn} <be big>
-{-Dag} <locative>
-{veng tIngu'Dag} <in the very big city>[[p.51]]
+{-Daq} <locative>
+{veng tIngu'Daq} <in the very big city>[[p.51]]
 5. OTHER KINDS OF WORDS
 By far the bulk of Klingon words are nouns and verbs. There
 are a few others which, probably as an expedient, Klingon
@@ -2038,8 +2052,8 @@ Examples:
 ({yaS} <officer,> {vIHoHpu'} <I killed
 him/her>)
 
-{batlh Dagawlu'taH} <You will be remembered with honor.>
-({Dagawlu'taH} <somebody continues to
+{batlh Daqawlu'taH} <You will be remembered with honor.>
+({Daqawlu'taH} <somebody continues to
 remember you>)
 
 {va} Daleghpu'} <Then you have seen it.>
@@ -2206,7 +2220,7 @@ Any noun in the sentence indicating something other than
 subject or object comes first, before the object noun. Such
 nouns usually end ina Type 5 noun suffix (section 3.3.5).
 {pa'Daq yaS vileghpu'} <I saw the officer in the room.>
-({pa'Dag} <in the room, >
+({pa'Daq} <in the room, >
 {yaS} <officer,> {vIleghpu'} <I saw him/
 her>)
 Other examples of this construction are given in section
@@ -2517,7 +2531,7 @@ sense of "'to be at a place." Again, the pronouns are used,
 followed, where appropriate, by verbal suffixes.
 
 {pa'wljDaq jIHtaH} <I am in my quarters.>
-({pa'wljDagq} <in my room,> {jIH} <I,>
+({pa'wIjDaqq} <in my room,> {jIH} <I,>
 {-taH} <continuous>)
 
 In the above examples, the subjects are pronouns. If the
@@ -2552,7 +2566,7 @@ The other type of question contains a question word:
 {chay'} <how?>
 {ghorgh} <when?>
 {nug} <what?>
-{nuqDag} <where?>[[p.69] ]
+{nuqDaq} <where?>[[p.69] ]
 {qatlh} <why?>
 {'ar} <how many? how much?>
 {"'Tv} <who?>
@@ -2588,12 +2602,12 @@ is proceeding toward us>)
 
 {nug Dalegh} <What do you see?> ({Dalegh} <you see it>)
 
-The word for <where?,> {nugqDag,} is actually {nug} <what?>
+The word for <where?,> {nugqDaq,} is actually {nug} <what?>
 followed by the suffix {-Daq} <locative> (see section 3.3.5). As
 would any locative phrase (see section 6.1), it comes at the
 beginning of the sentence.
 
-{nuqDagq So'taH yaS} <Where is the officer hiding?>
+{nuqDaqq So'taH yaS} <Where is the officer hiding?>
 
 ({So'taH} <he/she is hiding>)
 
@@ -2705,10 +2719,10 @@ projyect>)
 Finally, other grammatical markers, particularly noun suf-
 fixes, may be left out of commands.
 
-Proper Klingon: {jolpa'Dag yIjaH} <Go to the transport room!>
+Proper Klingon: {jolpa'Daq yIjaH} <Go to the transport room!>
 Clipped Klingon: {jolpa' yIjaH}
 
-({jolpa'} <transport room,> {-Dag} <locative,> {jaH} <go>)
+({jolpa'} <transport room,> {-Daq} <locative,> {jaH} <go>)
 
 It is not common, when noun suffixes are chopped, for the
 imperative prefix on the verb to be dropped as well.
@@ -2797,7 +2811,7 @@ There are also a number of Klingon synonyms; that is two
 Klingon words with identical meanings (for example, {joh, jaw} [[joh=>
 joH] ]
 <lord,> {chetvI', DuS} <torpedo tube>). Occasionally one member of
-such a synonym set can be analyzed. Thus, {baHwl'} <gunner>
+such a synonym set can be analyzed. Thus, {baHwI'} <gunner>
 consists of the verb {baH} <fire (a torpedo)> plus the suffix {-wI"'}
 <one who does something.> The other word for <gunner,> {matha', }
 [[matha'=>matHa'" ] ]
@@ -2854,7 +2868,7 @@ bach shot (n)
 
 baH fire (torpedo, rocket, missile) (v)
 
-baHwl' gunner (n)
+baHwI' gunner (n)
 
 bang love, one who is loved (n)
 
@@ -4865,7 +4879,7 @@ ser progress (n)
 sermanyuQ Sherman's Planet (n)
 ses steam (n)
 
-Sev bandage (n)
+Sev banDaqe (n)
 
 Sev contain (an enemy) (v)
 sey be excited (v)
@@ -4983,7 +4997,7 @@ taD be frozen (v)
 taDmoH freeze (v)
 
 taH be at a negative angle (v)
-tay knife, dagger (n)
+tay knife, Daqger (n)
 
 tam be quiet (v)
 
@@ -5718,7 +5732,7 @@ back (of body) (n) Dub
 back (of hand) (n) chap
 back away from, back off (v) DoH
 bad, be bad (v) gab
-bandage (n) Sev
+banDaqe (n) Sev
 bar, saloon, cocktail lounge (n) tach
 bartender (n) chom
 barter (v) tlhong
@@ -6013,7 +6027,7 @@ cure (v) vor
 custom (n) tIigh
 cut (v) pe'
 cut, trim (hair) (v) chip
-dagger, knife (n) taj
+Daqger, knife (n) taj
 damage (n) OIH
 damage, cause damage (v) OIH
 dandruff (n) quHvaj
@@ -6445,7 +6459,7 @@ guilty, be guilty (v) Div
 
 gun, handgun (n) Hich
 
-gunner (n) baHwl',
+gunner (n) baHwI',
 matHa'
 
 gunpowder (n) ngat
@@ -7725,7 +7739,7 @@ Numbers indicate suffix type.
 
 —DajJ 4 his/her
 
-—Dag 5 locative
+—Daq 5 locative
 
 —Du' 2 plural (body part)
 
@@ -8089,10 +8103,10 @@ Da-jatl-A
 I cannot speak Klingon. tlhIngan Hol vijatlhlaHbe' TLIngan khol
 vi-JATL-
 lakh-BE
-Where is a good nuqDag 'oOH Qe' QaQ'e" NOOK-dak okh
+Where is a good nuqDaq 'oOH Qe' QaQ'e" NOOK-dak okh
 kkhe
 restaurant? KKHAKKH-e
-Where is the bathroom? nuqDag 'oOH puchpa"te' NOOK-dak okh
+Where is the bathroom? nuqDaq 'oOH puchpa"te' NOOK-dak okh
 pooch-PA-e
 How much fuel do we nin ‘tar wighaj nin ar wi-
 GHAJ
@@ -8140,7 +8154,7 @@ Put him on screen. yiHotlh yi-KHOTL
 That is unfortunate. Do'Ha' do-KHA
 Understood. I understand. jlyaj Ji-YAJ
 Success! Qapla' kkhap-LA
-You will be remembered batlh Dagawlu'taH batl da-KOW-
+You will be remembered batlh Daqawlu'taH batl da-KOW-
 loo-takh
 with honor.
 Animal! Ha'DIbaH KHA-di-bakh
@@ -8161,7 +8175,7 @@ When will the water be ghorgh tujchoHpu' bIQ ghorgh TOOJ-
 chokh-poo
 hot? bikkh
 Ts this seat taken? gquSDaQ ba! lu"a' KOOSH-dak BA-
-loo-a[[quSDaQ ba! lu"a'=>quSDagqg ba'lu"a']]
+loo-a[[quSDaQ ba! lu"a'=>quSDaqqg ba'lu"a']]
 I can't find my Qumwil'wlj vitu'laHbe' kkhoom—-WI-wi Jj
 communicator. Vi-TOO-
 lakh-BE
@@ -8201,7 +8215,7 @@ What do I do with this? chay' Dochvam vIlo' chy DOCH-vam
 vi-LoO
 (1.e., How do I use
 this?)
-What do I do with this? nuqDagq Dochvam vilan NOOK-dak
+What do I do with this? nuqDaqq Dochvam vilan NOOK-dak
 DOCH-vam
 (1.e., Where do I put V1i-LAN
 this?)
@@ -8232,7 +8246,7 @@ Will you read my ghitlh vighItlhta'bogh ghitl vi-
 GHITL-ta-bogh
 
 manuscript? DalaD'a' da-lad-A
-Where do you keep the nuqDagq yuch Dapol NOOK-dak
+Where do you keep the nuqDaqq yuch Dapol NOOK-dak
 yooch
 
 chocolate? da-POL
@@ -8306,7 +8320,7 @@ the speaker that something take place in the future. When it[[p.176]]
 is used, there is never a Type 7 aspect suffix. {-jaj} is often
 translated with <may> or <let,> and it is particularly useful when
 placing a curse or making a toast.
-{jaghpu'lI' DaghIjjaj} <may you scare your enemies>
+{jaghpu'lI' DaqhIjjaj} <may you scare your enemies>
 ({jaghpu'lI'} <your enemies,> {ghIj} <scare>)
 {tlhonchaj chIljaj} <may they lose their nostrils>
 ({tlhonchaj} <their nostrils,> {chIl} <lose>)
@@ -8471,7 +8485,7 @@ chu'wlI' trigger (n)
 Da behave as, act in the manner of (v)
 DaHjaj today (n)
 Daj test inconclusively (v)
-Dag Site, location (n)
+Daq Site, location (n)
 Dargh tea (n)
 Degh medal, emblem, symbol, insignia (n)
 DI litter, rubble, debris (n)
@@ -8792,7 +8806,7 @@ litter, rubble, debris (n) DI
 
 locate, seek and find (v) Sam
 
-location, site (n) Dag
+location, site (n) Daq
 
 lose, misplace (v) chil
 
@@ -8927,7 +8941,7 @@ Sharpshooting, marksmanship (n) vi'
 
 Shuttlecraft (n) lupDujHom
 
-Site, location (n) Dag
+Site, location (n) Daq
 
 Slave (n) toy'wl"a'
 
