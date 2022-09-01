@@ -1127,90 +1127,94 @@ sounds of Klingon words and sentences.
 
 
 
+
+
 4. VERBS
-Klingon verbs are mostly monosyllabic forms which may
-be accompanied by several affixes. As with Klingon
-nouns, Klingon verbs may take suffixes falling into a number
-of types based on their relative position following the verb.
-There are nine types of verb suffixes. Unlike Klingon
-nouns, Klingon verbs may take prefixes. Thus, if suffix types
-are indicated as numbers, the structure of a Klingon verb
-is:
-PREF ITX--VERB-"—1--—2--—3-—-4-—-5-—-6-—-7--8-—9
-4.1. Pronominal prefixes
-Fach Klingon verb begins with a single prefix that indicates
-who or what is performing the action described by the verb
-and, when relevant, who or what is the recipient of that
-action. In other words, Klingon verb prefixes indicate both
-the subject and the object of the sentence.
-4.1.1. Basic prefixes
-The basic set of prefixes can be presented ina chart. (In order
-to make the chart as clear as possible, some prefixes are
-repeated.)
-Note that both the subject and the object are combined[[p.33] ]
-OBJECT none <me> <you> <him/> <us> <you> <them>
-<her/it> <(plural)>
-SUBJECT
-<I> {jI-} -- {gqa-} {vI-} -- {Sa-} {vI-}
-<you> {bI-} {cho-} -- {Da-} {ju-} -- {Da-}
-<he/she/it> 0 {mu-} {Du-} 0 {nu-} {lI-} 0
-<we> {ma-— } —— {pI-} {wl-} —— {re-} {DI-}
-<you (plural)> {Su-} {tu-} —— {bo-} {che-} -—- {bo-}
-<they> 0 {mu-} {nI-} {lu-} {nu-} {1lI-} 0
 
-into a single prefix. 0 in the chart means that the particular
-Subject-object combinations are indicated by the absence of a
-prefix before the verb; -- in the chart notes subject-object
-combinations which cannot be expressed with the Klingon
+    Klingon verbs are mostly monosyllabic forms which may
+    be accompanied by several affixes. As with Klingon
+    nouns, Klingon verbs may take suffixes falling into a number
+    of types based on their relative position following the verb.
+    There are nine types of verb suffixes. Unlike Klingon
+    nouns, Klingon verbs may take prefixes. Thus, if suffix types
+    are indicated as numbers, the structure of a Klingon verb is:
 
-verb prefix system. For such meanings, suffixes (section 4.2.1)
-and/or pronouns (section 5.1) must be used.
+    PREFIX--VERB-—1--—2--—3-—-4-—-5-—-6-—-7--8-—9
 
-The prefixes in the first column of the chart (headed
-"“*none") are used when there is no object; that is, when the
-action of the verb affects only the subject (the "doer"'). The
-verb {Qong} <sleep> occurs with the pronominal prefixes as
-follows:
 
-{jIQong} <I sleep>
+    4.1. Pronominal prefixes
 
-{bIQong} <you sleep>
+        Each Klingon verb begins with a single prefix that indicates
+        who or what is performing the action described by the verb
+        and, when relevant, who or what is the recipient of that
+        action. In other words, Klingon verb prefixes indicate both
+        the subject and the object of the sentence.
 
-{Qong} <he/she/it sleeps, they sleep>
 
-{maQong} <we sleep>
+    4.1.1. Basic prefixes
 
-{SuQong} <you (plural) sleep>
-In the case of {Qong} <he/she/it sleeps, they sleep,> the exact
-Subject would be indicated elsewhere in the sentence or by
-context.
+        The basic set of prefixes can be presented ina chart. (In order
+        to make the chart as clear as possible, some prefixes are repeated.)
 
-This set of prefixes is also used when an object is possible,
-but unknown or vague. Thus, {jlyaj} <I understand> can be used[[p.34]]
-when the speaker understands things in general, knows what
-is going on, or understands what another speaker has just
-said. It cannot, however, be used for understanding a lan-
-guage or understanding a person. Similarly, {maSop} <we eat> can
-be used to indicate a general act of eating, but not if a specific
-food is mentioned.
+        Note that both the subject and the object are combined
+        into a single prefix. 0 in the chart means that the particular
+        Subject-object combinations are indicated by the absence of a
+        prefix before the verb; -- in the chart notes subject-object
+        combinations which cannot be expressed with the Klingon
+        verb prefix system. For such meanings, suffixes (section 4.2.1)
+        and/or pronouns (section 5.1) must be used.
 
-The remaining prefixes combine subject and object. Some
-of them are illustrated below, using the verb {legh} <see.>
 
-{qalegh} <I see you> {cholegh} <you see me>
-{vIlegh} <I see him/her/it/ {mulegh} <he/she/it sees me,>
-them> <they see me>
-{Salegh} <I see you (plural)> {tulegh} <you (plural) see me>
-{Dalegh} <you see him/her/ {Dulegh} <he/she/it sees you>
-it/them>
-{julegh} <you see us> {pllegh} <we see you>
-{legh} <he/she/it sees {lulegh} <they see him/her/it>
-him/her/it/them, >
-<they see them>
-4.1.2 Imperative prefixes[[4.1.2=>4.1.2.]]
-A special set of prefixes is used for imperatives, that is, verbs
-giving commands. Commands can be given only to <you> or <you
-(olural) .>
+                OBJECT      none    <me>    <you>   <him/her/it>      <us>    <you (plural)>   <them>
+                SUBJECT
+                  <I>     {jI-}   --      {gqa-}      {vI-}         --        {Sa-}           {vI-}
+                <you>     {bI-}   {cho-}   --         {Da-}         {ju-}     --              {Da-}
+            <he/she/it>   0       {mu-}   {Du-}       0             {nu-}     {lI-}           0
+                <we>      {ma-— }  ——     {pI-}       {wl-}         ——        {re-}           {DI-}
+        <you (plural)>    {Su-}   {tu-}   ——          {bo-}         {che-}    -—-             {bo-}
+                <they>    0       {mu-}   {nI-} {     lu-}          {nu-}     {lI-}           0
+
+
+
+        The prefixes in the first column of the chart (headed "none") are used when there is no object; 
+        that is, when the action of the verb affects only the subject (the "doer"'). 
+        The verb {Qong} <sleep> occurs with the pronominal prefixes as follows:
+
+        {jIQong}    <I sleep>
+        {bIQong}    <you sleep>
+        {Qong}      <he/she/it sleeps, they sleep>
+        {maQong}    <we sleep>
+        {SuQong}    <you (plural) sleep>
+
+        In the case of {Qong} <he/she/it sleeps, they sleep,> the exact
+        Subject would be indicated elsewhere in the sentence or by context.
+
+        This set of prefixes is also used when an object is possible,
+        but unknown or vague. Thus, {jIyaj} <I understand> can be used
+        when the speaker understands things in general, knows what
+        is going on, or understands what another speaker has just
+        said. It cannot, however, be used for understanding a language or understanding a person. 
+        Similarly, {maSop} <we eat> can be used to indicate a general act of eating, 
+        but not if a specific food is mentioned.
+
+        The remaining prefixes combine subject and object. Some
+        of them are illustrated below, using the verb {legh} <see.>
+
+
+        {qalegh}    <I see you>                         {cholegh}     <you see me>
+        {vIlegh}    <I see him/her/it/them>             {mulegh}      <he/she/it sees me,> <they see me>
+        {Salegh}    <I see you (plural)>                {tulegh}      <you (plural) see me>
+        {Dalegh}    <you see him/her/it/them>           {Dulegh}      <he/she/it sees you>
+        {julegh}    <you see us>                        {pIlegh}      <we see you>
+        {legh}      <he/she/it sees him/her/it/them,>   {lulegh}      <they see him/her/it>
+                    <they see them>
+
+
+
+    4.1.2 Imperative prefixes [[4.1.2 => 4.1.2.]]
+
+        A special set of prefixes is used for imperatives, that is, verbs
+        giving commands. Commands can be given only to <you> or <you (plural)>
 
 OBJECT none <me> <him/her/it> <us> <them>
 
@@ -1412,7 +1416,7 @@ here> ({naDev} <hereabouts,> {pugqpu' }
 Type 3 noun suffixes, these suffixes show how sure the
 speaker is about what is being said. [[p.40] ]
 {-chu'} <clearly, perfectly>
-{jlyajchu'} <I understand clearly> ({yaj} <understand>)
+{jIyajchu'} <I understand clearly> ({yaj} <understand>)
 {baHchu'} <he/she fired (the torpedo) perfectly> ({baH} <fire [a
 torpedo ] >)
 
@@ -2754,7 +2758,7 @@ In the preceding example, the clipped form can correspond
 to either a dropping of the prefix {vI-} <I--it> or the suffix {-lu'}
 <indefinite subject.>
 
-Proper Klingon: {jlyajchu'} <I understand clearly.>
+Proper Klingon: {jIyajchu'} <I understand clearly.>
 Clipped Klingon: {yajchu'} <Understood clearly.>
 ({yaj} <understand,> {-chu'} <clearly, perfectly>) [[p.74]]
 
@@ -2796,7 +2800,7 @@ Note that {ch, gh, ng,} and {tlh} are considered separate letters.
 Thus the syllable {no} would precede the syllable {nga} in the
 Klingon list.
 
-Fach Klingon word is tagged as to type (noun, verb, etc.).
+Each Klingon word is tagged as to type (noun, verb, etc.).
 This tag occurs at the end of the English translation. The
 abbreviations used to indicate word types are:
 
@@ -8164,7 +8168,7 @@ Go to jail. bIghHa'Daq ylIghos bigh-KHA-dak
 yi-GHOSH
 Put him on screen. yiHotlh yi-KHOTL
 That is unfortunate. Do'Ha' do-KHA
-Understood. I understand. jlyaj Ji-YAJ
+Understood. I understand. jIyaj Ji-YAJ
 Success! Qapla' kkhap-LA
 You will be remembered batlh Daqawlu'taH batl da-KOW-
 loo-takh
