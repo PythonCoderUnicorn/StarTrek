@@ -284,6 +284,7 @@ type, and English translations will be written in italics:
 
 
 1. THE SOUNDS OF KLINGON
+
 It is difficult to describe accurately the sounds of the Klingon
 language without using complex phonological and anatomical
 terminology. What follows, therefore, is intended to give only
@@ -297,176 +298,203 @@ The system of writing Klingon used in this dictionary has
 been developed so people who already know how to read
 English will have a minimum of difficulty approximating the
 sounds of Klingon words and sentences.
+
+
+
+
+
 1.1. Consonants
 
-{bo} As in English <bronchitis> or <gazebo.> Some Klingons
-pronounce this sound as if it were {m} and {b} articulated almost
-Simultaneously. Speakers of English can approximate
-this sound by saying <imbalance> without the initial <i> sound.
-A very small number of Klingons pronounce {b} as if it were {m. }
 
-{ch} As in English <chew> or <artichoke.>
+    {b} As in English <bronchitis> or <gazebo.> Some Klingons
+        pronounce this sound as if it were {m} and {b} articulated almost
+        Simultaneously. Speakers of English can approximate
+        this sound by saying <imbalance> without the initial <i> sound.
+        A very small number of Klingons pronounce {b} as if it were {m. }
 
-{D} This sound is close to English <d> in <dream> or <android,> but
-it is not quite the same. The English <d> sound is made by[[p.14]]
-touching the tip of the tongue to that part of the roof of the
-mouth just behind the upper teeth. Klingon {D} can best be
-approximated by English-speakers by touching the tip of the
-tongue to the roof of the mouth at a point about halfway
-between the teeth and the velum (or soft palate), that part of
-the roof of the mouth that is rather gooshy. As with Klingon
-{b,} some speakers pronounce {D} as if it were more like <nd,> and
-a distinct minority as if it were {n}---but, of course, with the
-tongue in the same position as for {D.}
 
-{gh} This is not like anything in English. It can be produced
-by putting the tongue in the same position it would be in to
-say English <g> as in <gobble,> but relaxing the tongue somewhat
-and humming. It is the same as Klingon {H} (see below), but
-with the vocal cords vibrating at the same time.
+    {ch} As in English <chew> or <artichoke.>
 
-{H} This is also not like anything in English, but it is just like
-<ch> in the name of the German composer <Bach> or in the
 
-Yiddish toast <l'chaim,> or the <j> in the Mexican city of <Tijuana>
-in <Baja California.> It is produced in the same way as Klingon
+    {D} This sound is close to English <d> in <dream> or <android,> but
+        it is not quite the same. The English <d> sound is made by[[p.14]]
+        touching the tip of the tongue to that part of the roof of the
+        mouth just behind the upper teeth. Klingon {D} can best be
+        approximated by English-speakers by touching the tip of the
+        tongue to the roof of the mouth at a point about halfway
+        between the teeth and the velum (or soft palate), that part of
+        the roof of the mouth that is rather gooshy. As with Klingon
+        {b,} some speakers pronounce {D} as if it were more like <nd,> and
+        a distinct minority as if it were {n}---but, of course, with the
+        tongue in the same position as for {D.}
 
-{gh,} but is articulated with a very coarse, strong rasp. Unlike
-Klingon {gh,} the vocal cords do not vibrate in saying Klingon
-{H. }
 
-{j} As in English <junk;> never ever as in French <jour.>
+    {gh} This is not like anything in English. It can be produced
+        by putting the tongue in the same position it would be in to
+        say English <g> as in <gobble,> but relaxing the tongue somewhat
+        and humming. It is the same as Klingon {H} (see below), but
+        with the vocal cords vibrating at the same time.
 
-{l} As in English <lunge> or <alchemy.>
 
-{m} As in English <mud> or <pneumatic.> Those few Klingons
-who pronounce {b} as {m} would say Klingon {baH} <fire (a torpedo) >
-and {maH} <we> the same way, and have to memorize which word
-is spelled which way.
+    {H} This is also not like anything in English, but it is just like
+        <ch> in the name of the German composer <Bach> or in the
+        Yiddish toast <l'chaim,> or the <j> in the Mexican city of <Tijuana>
+        in <Baja California.> It is produced in the same way as Klingon
 
-{n} As in English <nectarine> or <sunspot.> Those Klingons who
-pronounce {D} more like {n} can easily articulate and hear the
-two sounds differently. Even a {D} that sounds like {n} is
-pronounced with the tongue in the Klingon {D} position, not in
-the English <d> position. Klingon {n} is produced with the tongue
-in the same position as English <d.>
 
-{ng} As in English <furlong;> never as in English <engulf.> The <g>
-is never pronounced as a separate sound. This sound never
-occurs at the beginning of an English word, but it does come
-at the beginning of a number of Klingon words. English-[[keep hyphen] ]
-speakers may practice making this sound at the beginning of a
-word by saying English <dang it!,> then saying it again without
-the <da.>
+    {gh,} but is articulated with a very coarse, strong rasp. Unlike
+        Klingon {gh,} the vocal cords do not vibrate in saying Klingon
 
-{p} As in English <parallax> or <opprobrium.> It is always[[p.15]]
-articulated with a strong puff or pop, never laxly. Speakers of
-English may want to exercise care to avoid discharging saliva
-while articulating this sound. It should be noted, however,
-that Klingons do not worry about this.
 
-{q} Similar to English <k> in <kumguat,> but not quite that. The
-tongue position for English <k> is like that for Klingon {gh} and
-{H.} To produce Klingon {q,} the main body of the tongue
-touches the roof of the mouth at a point farther back than it
-does for {gh} or {H.} Indeed, the tongue reaches for or touches
-the uvula (the meshy blob that dangles down from the back of
-the roof of the mouth), so articulating {gq} approximates the
-sound of choking. The sound is usually accompanied by a
-Slight puff of air. English speakers are reminded that Klingon
-{gq} is never pronounced <kw> as in the beginning of English
-<quagmire.>
+    {H. }
+        {j} As in English <junk;> never ever as in French <jour.>
+        {l} As in English <lunge> or <alchemy.>
+        {m} As in English <mud> or <pneumatic.> Those few Klingons
+            who pronounce {b} as {m} would say Klingon {baH} <fire (a torpedo) >
+            and {maH} <we> the same way, and have to memorize which word
+            is spelled which way.
 
-{Q} This is like nothing particularly noteworthy in English.
 
-It is an overdone Klingon {q.} It is identical to {gq} except that it is
-very guttural and raspy and strongly articulated, somewhat
-like a blend of Klingon {gq} and {H.}
+    {n} As in English <nectarine> or <sunspot.> Those Klingons who
+        pronounce {D} more like {n} can easily articulate and hear the
+        two sounds differently. Even a {D} that sounds like {n} is
+        pronounced with the tongue in the Klingon {D} position, not in
+        the English <d> position. Klingon {n} is produced with the tongue
+        in the same position as English <d.>
 
-{r} This is not like the <r> in American English, but it does
-resemble the <r> in some dialects of British English, as well as
-the <r> in many languages of Europe. It is lightly trilled or
-rolled.
 
-{S} This sound is halfway between English <s> and <sh,> as in
-<syringe> and <shuttlecock.> It is made with the tip of the tongue
-reaching toward that part of the roof of the mouth which it
-touches to produce Klingon {D. }
+    {ng} As in English <furlong;> never as in English <engulf.> The <g>
+        is never pronounced as a separate sound. This sound never
+        occurs at the beginning of an English word, but it does come
+        at the beginning of a number of Klingon words. English-[[keep hyphen] ]
+        speakers may practice making this sound at the beginning of a
+        word by saying English <dang it!,> then saying it again without
+        the <da.>
 
-{t} As in English <tarpaulin> or <critigque.> It differs from Kling-
-on {D} in two ways: (1) like {p,} it is accompanied by a puff of air;
-and (2) the tongue touches a position on the roof of the
-mouth farther forward than that for {D. }
 
-{tlh} This sound does not occur in English, but it is very
-much like the final sound in <tetl,> the Aztec word for <egg,> if
-properly pronounced. To produce this sound, the tip of the
-tongue touches the same part of the roof of the mouth it
+    {p} As in English <parallax> or <opprobrium.> It is always[[p.15]]
+        articulated with a strong puff or pop, never laxly. Speakers of
+        English may want to exercise care to avoid discharging saliva
+        while articulating this sound. It should be noted, however,
+        that Klingons do not worry about this.
 
-touches for {t,} the sides of the tongue are lowered away from
-the side upper teeth, and air is forced through the space on
-both sides between tongue and teeth. The sound is produced
-with a great deal of friction, and the warning given in the
-description of Klingon {p} might be aptly repeated here.
 
-{v} As in English vulgar or demonstrative. [[p.16]]
+    {q} Similar to English <k> in <kumguat,> but not quite that. The
+        tongue position for English <k> is like that for Klingon {gh} and
+        {H.} To produce Klingon {q,} the main body of the tongue
+        touches the roof of the mouth at a point farther back than it
+        does for {gh} or {H.} Indeed, the tongue reaches for or touches
+        the uvula (the meshy blob that dangles down from the back of
+        the roof of the mouth), so articulating {gq} approximates the
+        sound of choking. The sound is usually accompanied by a
+        Slight puff of air. English speakers are reminded that Klingon
+        {gq} is never pronounced <kw> as in the beginning of English
+        <quagmire.>
 
-{w} Usually as in English <worrywart> or <cow.> On rare occa-
-Sions, especially if the speaker is being rather deliberate, it is
-pronounced strongly, more like {Hw} or even {Huw. }
 
-{y} As in English <yodel> or <joy.>
+    {Q} This is like nothing particularly noteworthy in English.
+        It is an overdone Klingon {q.} It is identical to {gq} except that it is
+        very guttural and raspy and strongly articulated, somewhat
+        like a blend of Klingon {gq} and {H.}
 
-{'} The apostrophe indicates a sound which is frequently
-uttered, but not written, in English. It is a glottal stop, the
-slight catch in the throat between the two syllables of <uh-oh> or
-<unh-unh,> meaning "no." When Klingon {'} comes at the end of
-a word, the vowel preceding the {'} is often repeated in a very
-soft whisper, as if an echo. Thus, Klingon {je'} <feed> almost
-sounds like {je'e,} where the articulation of the first {e} is
-abruptly cut off by the {',} and the second {e} is a barely audible
-whisper. When {'} follows {w} or {y} at the end of a word, there is
-often a whispered, echoed {u} or {I,} respectively. Occasionally
-the echo is quite audible, with a guttural sound like {gh}
-preceding the echoed vowel. For example, {yIlI'} <transmit
-it!> can sound more like {yIlI'ghI.} This extra-heavy echo is
-heard most often when the speaker is particularly excited or
-angry.
+
+    {r} This is not like the <r> in American English, but it does
+        resemble the <r> in some dialects of British English, as well as
+        the <r> in many languages of Europe. It is lightly trilled or
+        rolled.
+
+
+    {S} This sound is halfway between English <s> and <sh,> as in
+        <syringe> and <shuttlecock.> It is made with the tip of the tongue
+        reaching toward that part of the roof of the mouth which it
+        touches to produce Klingon {D. }
+
+
+    {t} As in English <tarpaulin> or <critigque.> It differs from Kling-
+        on {D} in two ways: (1) like {p,} it is accompanied by a puff of air;
+        and (2) the tongue touches a position on the roof of the
+        mouth farther forward than that for {D. }
+
+    {tlh} This sound does not occur in English, but it is very
+        much like the final sound in <tetl,> the Aztec word for <egg,> if
+        properly pronounced. To produce this sound, the tip of the
+        tongue touches the same part of the roof of the mouth it
+        touches for {t,} the sides of the tongue are lowered away from
+        the side upper teeth, and air is forced through the space on
+        both sides between tongue and teeth. The sound is produced
+        with a great deal of friction, and the warning given in the
+        description of Klingon {p} might be aptly repeated here.
+
+
+    {v} As in English vulgar or demonstrative.
+
+
+    {w} Usually as in English <worrywart> or <cow.> On rare occassion, 
+        especially if the speaker is being rather deliberate, it is
+        pronounced strongly, more like {Hw} or even {Huw. }
+
+
+    {y} As in English <yodel> or <joy.>
+
+
+    {'} The apostrophe indicates a sound which is frequently
+        uttered, but not written, in English. It is a glottal stop, the
+        slight catch in the throat between the two syllables of <uh-oh> or
+        <unh-unh,> meaning "no." When Klingon {'} comes at the end of
+        a word, the vowel preceding the {'} is often repeated in a very
+        soft whisper, as if an echo. Thus, Klingon {je'} <feed> almost
+        sounds like {je'e,} where the articulation of the first {e} is
+        abruptly cut off by the {',} and the second {e} is a barely audible
+        whisper. When {'} follows {w} or {y} at the end of a word, there is
+        often a whispered, echoed {u} or {I,} respectively. Occasionally
+        the echo is quite audible, with a guttural sound like {gh}
+        preceding the echoed vowel. For example, {yIlI'} <transmit it!> 
+        can sound more like {yIlI'ghI.} This extra-heavy echo is
+        heard most often when the speaker is particularly excited or
+        angry.
+
+
+
+
+
+
 
 1.2. Vowels
-There are five vowels in Klingon.
 
-{a} As in English <psalm;> never as in American English
-<crabapple.>
+    There are five vowels in Klingon.
 
-{e} As in English <sensor.>
+    {a} As in English <psalm;> never as in American English <crabapple.>
 
-{I} As English <i> in <misfit.> Once in a while, it is pronounced
-like <i> in <zucchini,> but this is very rare and it is not yet known
-exactly what circumstances account for it,
+    {e} As in English <sensor.>
 
-{o} As in English <mosaic.>
+    {I} As English <i> in <misfit.> Once in a while, it is pronounced
+        like <i> in <zucchini,> but this is very rare and it is not yet known
+        exactly what circumstances account for it,
 
-{u} AS in English <gnu> or <prune;> never as in <but> or <cute.>
+    {o} As in English <mosaic.>
 
-Note that when a vowel is followed by {w} or {y,} the
-combination of letters may not represent the same sound it
-does in English spelling:
+    {u} As in English <gnu> or <prune;> never as in <but> or <cute.>
 
-KLINGON RHYMES WITH ENGLISH AS IN
 
-{aw } <Ow> <CcOw>
-{ay} <y> <cry>
-{ey} <ay> <pay>[[p.17]]
-{Ly } <ey> <key>
-{oy} <oy> <toy>
+    NOTE that when a vowel is followed by {w} or {y,} the
+    combination of letters may not represent the same sound it
+    does in English spelling:
 
-Klingon {uy} resembles <ooey> in English <gooey.> Klingon {ew}
-resembles nothing in English, but can be approximated by
-running Klingon {e} and {u} together. Likewise, Klingon {Iw} is {TI}
-and {u} run together. No words in Klingon have {ow} or {uw.} If
-they did, they would be indistinguishable from words ending
-in {o} and {u,} respectively.
+    KLINGON RHYMES WITH ENGLISH AS IN
+
+    {aw } <Ow> < cow >
+    {ay} <y> < cry >
+    {ey} <ay> < pay >
+    {Ly } <ey> < key >
+    {oy} <oy> < toy >
+
+    Klingon {uy} resembles <ooey> in English <gooey.> Klingon {ew}
+    resembles nothing in English, but can be approximated by
+    running Klingon {e} and {u} together. Likewise, Klingon {Iw} is {TI}
+    and {u} run together. No words in Klingon have {ow} or {uw.} If
+    they did, they would be indistinguishable from words ending
+    in {o} and {u,} respectively.
+
 
 1.3. Stress
 
