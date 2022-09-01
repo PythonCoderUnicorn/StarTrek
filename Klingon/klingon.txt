@@ -1592,245 +1592,271 @@ sounds of Klingon words and sentences.
         <continuous> counterpart of {-ta',} and {-taH} a <continuous> coun-
         terpart of {-pu'.}
 
-4.2.8. Type 8: Honorific
 
-{-neS} <honorific>
+    4.2.8. Type 8: Honorific
 
-There is but one suffix in this category. It is used to express
-extreme politeness or deference. It is used only in addressing
-a superior, someone of higher rank in the Klingon social,
-political, or military hierarchy. It is never required.
+        {-neS} <honorific>
 
-{qaleghneS} <I am honored to see you> ({legh} <see>)
-{HIja'neS} <do me the honor of telling me> ({ja'} <tell>)
-This suffix is used rather infrequently by Klingons.
-4.2.9. Type 9: Syntactic markers
-Similar to Type 5 noun suffixes (section 3.3.5), these verb
-suffixes have to do with the verb's role in the sentence. The
-first six suffixes will be noted briefly here, but illustrated more
-completely in section 6.2.
-{-DI'} <as soon as, when>
-{DaSeHDI'} <as soon as you control if> ({SeH} <control>)
-{qara'DI'} <as soon as I command you> ({ra'} <command>)
-{-chugh} <if>
-{DaneHchugh} <if you want them> ({neH} <want>)
-{choja'chugh} <if you tell me> ({ja'} <tell>)
-{-pa'} <before>
-{choja'pa'} <before you tell me> ({ja'} <tell>)
-{qara'pa'} <before I command you> ({ra'} <command>)
-{-vis} <while>
+        There is but one suffix in this category. It is used to express
+        extreme politeness or deference. It is used only in addressing
+        a superior, someone of higher rank in the Klingon social,
+        political, or military hierarchy. It is never required.
 
-This suffix is always used along with the Type 7 suffix
-{-taH} <continuous.>[[p.44] ]
-{SutlhtaHvis} <while they are negotiating> ({Sutlh} <negotiate>)
-{bIQongtaHvis} <while you are sleeping> ({Qong} <sleep>)
-{-bogh} <which>
-This is the relative-clause marker. It is described in section
-6.2.3.
-{-meH} <for>
-This marks purpose clauses. See section 6.2.4.
-{-'a'} <interrogative>
-This suffix indicates that the sentence is a yes/no question;
-that is, a question which can be answered "‘yes" or °*no." (See
-also section 6.4.).
-{cholegh'a'} <do you see me?> ({legh} <see>)
-{yaj'a'} <does he/she understand?> ({yaj} <understand>)
-Questions of other types require special question words
-(section 6.4).
-{-wI'} <one who does, thing which does>
-This is the suffix described earlier (section 3.2.2) which
-turns verbs into nouns.
-{So'wlI'} <cloaking device> ({So'} <cloak, hide>)
-{baHwIl'} <gunner> ({baH} <fire [a torpedo]>)
-{joqwI'} <flag> ({jogq} <flutter, wave>)
-4.2.10. Relative ordering of the suffixes
-As with nouns, when more than one suffix is used with a verb,
-they must occur in the correct order, according to their type.
-No more than one suffix of each type may occur at a time. No
-instances have been found of a verb followed by nine suffixes,
-but it is theoretically possible. A few examples should suffice
-to show ordering of the suffixes.
-{nuHotlhpu"a'} <have they scanned us?>
-{nu-} (prefix) <they--us>
-{Hot lh} (verb) <scan>[[p.45] ]
-{-pu' } (7) <perfective>
-{-—'at} (9) <interrogative>
-{Qaw"eghpu'} <he/she destroyed himself/herself>
-0 (prefix) <he/she>
-{Oaw'" } (verb) <destroy>
-{-'egh} (1) <oneself>
-{—pu' } (7) <perfective>
+        {qaleghneS}     <I am honored to see you>           ({legh} <see>)
+        {HIja'neS}      <do me the honor of telling me>     ({ja'} <tell>)
 
-{wlchenmoHlaH} <we can create it>
-{wl} (prefix) <we--it>
-{chen } (verb) <take form>
-{—moH } (4) <cause>
-{-laH} (5) <can, able>
-{Daqawlu'taH} <you are to be remembered>
-{Da-} (prefix)  <you--him/her>
-{qaw} (verb) <remember>
-{-lu' } (5) <indefinite subject>
-{-taH} (7) <continuous>
-{vItlhapnISpu''} <I needed to take him/her>
-{vI-} (prefix) <I--him/her>
-{tlhap} (verb) <take>
-{-nIs } (2) <need>
-{-pu' } (7) <perfective>
-{HeghgangmoHlu'pu'} <it made him/her willing to die>
-0 (prefix) <he/she--him/her>
-{Hegh } (verb) <die>
-{-qang } (2) <willing>
-{—moH } (4) <cause>
-{-lu' } (5) <indefinite subject>
-{-pu' } (7) <perfective>
-{maghoSchoHmoHneS'a'} <may we execute a course (to some
-place) ?>
-{ma-— } (prefix) <we>
-{ghos } (verb) <proceed on a course>
-{-choH } (3) <change>
-{—moH } (4) <cause>
-{—neS } (8) <honorific>
-{—'al} (9) <interrogative>[[p.46] ]
-4.3. Rovers
-There is one additional set of verb suffixes which Klingon
-grammarians call {lengwI'mey} <rovers> (from {leng} <travel, roam,
-rove,> {-wI'} <thing which does,> {-mey} <plural>). Rovers are verb
-suffixes which do not have a fixed position in relation to the
-other suffixes following a verb but, instead, can come just
-about anywhere except following a Type 9 suffix. Their
-position is determined by the meaning intended. There are
-two types of rovers: the negative and the emphatic.
-{-be'} <not>
-This is the general suffix of negation, translated as English
-<not.> It follows the concept being negated.
-{vIllo'laHbe'} <they are useless to me, I cannot use them>
-{v1I—-} (prefix) <I--them>
-{lo'} (verb) <use>
-{-laH} (5) <can, able>
-{-be' } (rover) <not>
-{jisaHbe'} <I don't care (which of several courses of
-action is followed) >
+        This suffix is used rather infrequently by Klingons.
 
-{jI-} (prefix) <I>
-{SaH} (verb) <care, be concerned about>
-{—-be" } (rover) <not>
-{gay'be'} <it's not a problem, no problem (exclamation) >
-0 (prefix) <it>
-{qay' } (verb) <be a problem, be a hassle>
-{—-be" } (rover) <not>
-The roving nature of {-be'} is best illustrated in the following
-set of words.
-{choHoHviIp} <you are afraid to kill me>
-{choHoHviIpbe'} <you are not afraid to kill me>
-{choHoHbe'vIp} <you are afraid to not kill me>
-{cho-} (prefix) <you-—-me>
-{HOH } (verb) <kill>
-{-vIp} (2) <afraid>
-{—-be" } (rover) <not>
-In the second word, the negated notion is <afraid> (that is, <not
-afraid>), and {-be'} follows {-vIp.} In the third word, the negated
-notion is <kill> (that is, <not kill>), so {-be'} follows {HoH.}[[p.47]]
-The suffix {-be'} cannot be used with imperative verbs. For
-imperatives, the following suffix is required.
-{-Qo'} <don't!, won't>
-This negative suffix is used in imperatives and to denote
-refusal.
-{yIja'Qo'} <don't tell him/her!>
-{yI-} (prefix) <imperative: you-—-him/her>
-{ja'} (verb) <tell>
-{-—Qo!' } (rover) <don't!>
-{choja'Qo'chugh} <if you won't tell me, if you refuse to tell me>
-{cho-} (prefix) <you-—-me>
-{ja'} (verb) <tell>
-{-—Qo" } (rover) <won't>
-{-chugh} (9) <if>
-{HIHOHvIpQo'} <don't be afraid to kill me!>
-{HI-} (prefix) <imperative: you--me>
-{HOH } (verb) <kill>
-{-vIp} (2) <afraid>
-{-—Qo!' } (rover) <don't!>
-Unlike {-be',} the position of {-Qo'} does not change: it occurs
-last, unless followed by a Type 9 suffix. Nevertheless, it is
-considered a rover because it is the imperative counterpart to
-{-be'. }
-{-Ha'} <undo>
-This negative suffix implies not merely that something is
-not done (as does {-be'}), but that there is a change of state:
-something that was previously done is now undone. For
-convenience, it will here be translated as <undo,> but it is closer
-to the English prefixes <mis-, de-, dis-> (as in <misunderstand,
 
-demystify, disentangle>). It is also used if something is done
-wrongly. Unlike {-be', -Ha'} can be used in imperatives.
-{chenHa'moHlaH} <it can destroy them>
-0 (prefix) <it-—-them>
-{chen } (verb) <take form>[[p.48] ]
-{—-Ha" } (rover) <undo>
-{—moH } (4) <cause>
-{-laH} (5) <can, able>
-This verb actually means something like it can cause them to
-undo their form.
-{yIchu'Ha'} <disengage it! (e.g., cloaking device) >
-{yI-} (prefix) <imperative: you--it>
-{chu" } (verb) <engage, activate>
-{—-Ha" } (rover) <undo>
-{bIjatlhHa'chugh} <if you say the wrong thing>
-{bI-} (prefix) <you>
-{jatlh} (verb) <say>
-{—-Ha" } (rover) <undo>
-{-chugh} (9) <if>
-This shows how {-Ha'} can be used in the sense of <wrongly.> The
-word might be translated as <if you misspeak.> Using {-be'} (that
-is, {bIjatlhbe'chugh}) would mean <if you don't speak.>
-{Do'Ha'} <it is unfortunate>
-0 (prefix) <it>
-{-—Do" } (verb) <be lucky, fortunate>[[-Do'=Do'] ]
-{—-Ha" } (rover) <undo>
-The use of {-Ha'} in this sentence suggests a turn of luck from
-good to bad.
+    4.2.9. Type 9: Syntactic markers
 
-It is interesting that {-Ha'} always occurs right after the verb.
-It is not known why Klingon grammarians insist on calling it a
-rover. It was felt best not to argue with Klingon tradition,
-however, so {-Ha'} is here classified as a rover.
+        Similar to Type 5 noun suffixes (section 3.3.5), these verb
+        suffixes have to do with the verb's role in the sentence. The
+        first six suffixes will be noted briefly here, but illustrated more
+        completely in section 6.2.
 
-{-qu'} <emphatic>
+        {-DI'}      <as soon as, when>
+        {DaSeHDI'}  <as soon as you control if>     ({SeH} <control>)
+        {qara'DI'}  <as soon as I command you>      ({ra'} <command>)
 
-This suffix emphasizes or affirms whatever immediately
-precedes it.
+        {-chugh} <if>
+        {DaneHchugh}    <if you want them>      ({neH} <want>)
+        {choja'chugh}   <if you tell me>        ({ja'} <tell>)
 
-{yIHaghqu'} <study him/her well>[[Hagh=>HaD] ]
-{yI-} (prefix) <imperative: you-—-him/her>
-{Hagh} (verb) <study>[[Hagh=>HaD] |
-{-qu' } (rover) <emphatic>
+        {-pa'} <before>
+        {choja'pa'}     <before you tell me>    ({ja'} <tell>)
+        {qara'pa'}      <before I command you>  ({ra'} <command>)
 
-{nuQaw'qu'be!'} <they have not finished us off>
-{nu-} (prefix) <they-—-us>[[p.49]]
+        {-vis} <while>  This suffix is always used along with the Type 7 suffix
 
-{Oaw'" } (verb) <destroy>
-{-qu' } (rover) <emphatic>
-{—-be" } (rover) <not>
+        {-taH} <continuous.>
+        {SutlhtaHvis}   <while they are negotiating>    ({Sutlh} <negotiate>)
+        {bIQongtaHvis}  <while you are sleeping>        ({Qong} <sleep>)
 
-The roving nature of {-qu'} can be seen in the following set:
+        {-bogh} <which>   This is the relative-clause marker. It is described in section 6.2.3.
 
-{pIHoHvipbe'qu'} <we are NOT afraid to kill you>
+        {-meH} <for>    This marks purpose clauses. See section 6.2.4.
+        
+        {-'a'} <interrogative>
+                This suffix indicates that the sentence is a yes/no question;
+                that is, a question which can be answered "‘yes" or "no." (See also section 6.4.).
 
-{pIHoHvipqu'be'} <we are not AFRAID to kill you>
+        {cholegh'a'}    <do you see me?>            ({legh} <see>)
+        {yaj'a'}        <does he/she understand?>   ({yaj} <understand>)
 
-{pIHoHqu'vIpbe'} <we are not afraid to KILL you>
-{pI-} (prefix) <we--you>
-{HOH } (verb) <kill>
-{-vIp} (2) <afraid>
-{-be' } (rover) <not>
-{-qu' } (rover) <emphatic>
-The first word above might be used after an enemy chal-
-lenged the bravery of the speaker. The second might be
-followed by an explanation such as, "We are not willing to kill
-you because we require your services." The third word would
-be used to emphasize killing, as opposed to some other form
-of punishment.
-The rover {-qu'} also follows verbs when they are used
-adjectivally (section 4.4).
+        Questions of other types require special question words (section 6.4).
+
+        {-wI'} <one who does, thing which does>     This is the suffix described earlier (section 3.2.2) which turns verbs into nouns.
+        {So'wI'} <cloaking device>  ({So'} <cloak, hide>)
+        {baHwI'} <gunner>           ({baH} <fire [a torpedo]>)
+        {joqwI'} <flag>             ({jogq} <flutter, wave>)
+
+
+    4.2.10. Relative ordering of the suffixes
+
+        As with nouns, when more than one suffix is used with a verb,
+        they must occur in the correct order, according to their type.
+        No more than one suffix of each type may occur at a time. No
+        instances have been found of a verb followed by nine suffixes,
+        but it is theoretically possible. A few examples should suffice
+        to show ordering of the suffixes.
+
+        {nuHotlhpu"a'}      <have they scanned us?>
+        {nu-}   (prefix)    <they--us>
+        {Hotlh} (verb)      <scan>
+        {-pu' } (7)         <perfective>
+        {-'a}   (9)         <interrogative>
+
+        {Qaw"eghpu'}    <he/she destroyed himself/herself>
+        0       (prefix)    <he/she>
+        {Qaw'}  (verb)      <destroy>
+        {-'egh} (1)         <oneself>
+        {—pu' } (7)         <perfective>
+
+        {wIchenmoHlaH}  <we can create it>
+        {wI-}        (prefix)    <we--it>
+        {chen }      (verb)      <take form>
+        {—moH }      (4)         <cause>
+        {-laH}       (5)         <can, able>
+
+        {Daqawlu'taH} <you are to be remembered>
+        {Da-} (prefix)  <you--him/her>
+        {qaw} (verb)    <remember>
+        {-lu' } (5)     <indefinite subject>
+        {-taH} (7)      <continuous>
+
+        {vItlhapnISpu'} <I needed to take him/her>
+        {vI-} (prefix)  <I--him/her>
+        {tlhap} (verb)  <take>
+        {-nIS } (2)     <need>
+        {-pu' } (7)     <perfective>
+
+        {HeghqangmoHlu'pu'} <it made him/her willing to die>
+        0 (prefix)      <he/she--him/her>
+        {Hegh } (verb)  <die>
+        {-qang } (2)    <willing>
+        {—moH } (4)     <cause>
+        {-lu' } (5)     <indefinite subject>
+        {-pu' } (7)     <perfective>
+
+        {maghoSchoHmoHneS'a'} <may we execute a course (to someplace) ?>
+        {ma-— } (prefix)    <we>
+        {ghos } (verb)      <proceed on a course>
+        {-choH } (3)        <change>
+        {—moH } (4)         <cause>
+        {—neS } (8)         <honorific>
+        {—'al} (9)          <interrogative>
+
+
+    4.3. Rovers
+
+        There is one additional set of verb suffixes which Klingon
+        grammarians call {lengwI'mey} <rovers> (from {leng} <travel, roam,
+        rove,> {-wI'} <thing which does,> {-mey} <plural>). Rovers are verb
+        suffixes which do not have a fixed position in relation to the
+        other suffixes following a verb but, instead, can come just
+        about anywhere except following a Type 9 suffix. Their
+        position is determined by the meaning intended. There are
+        two types of rovers: the negative and the emphatic.
+
+        {-be'} <not>
+            This is the general suffix of negation, translated as English
+            <not.> It follows the concept being negated.
+
+        {vIlo'laHbe'}     <they are useless to me, I cannot use them>
+        {v1I—-} (prefix)  <I--them>
+        {lo'} (verb)     <use>
+        {-laH} (5)      <can, able>
+        {-be' } (rover) <not>
+        {jISaHbe'}      <I don't care (which of several courses of action is followed) >
+
+        {jI-} (prefix) <I>
+        {SaH} (verb) <care, be concerned about>
+        {—-be" } (rover) <not>
+
+        {qay'be'} <it's not a problem, no problem (exclamation) >
+        0 (prefix) <it>
+        {qay' } (verb) <be a problem, be a hassle>
+        {—-be" } (rover) <not>
+
+        The roving nature of {-be'} is best illustrated in the following set of words.
+
+        {choHoHviIp}        <you are afraid to kill me>
+        {choHoHviIpbe'}     <you are not afraid to kill me>
+        {choHoHbe'vIp}      <you are afraid to not kill me>
+        {cho-} (prefix)     <you-—-me>
+        {HOH } (verb)       <kill>
+        {-vIp} (2)          <afraid>
+        {—-be" } (rover)    <not>
+
+        In the second word, the negated notion is <afraid> (that is, <not
+        afraid>), and {-be'} follows {-vIp.} In the third word, the negated
+        notion is <kill> (that is, <not kill>), so {-be'} follows {HoH.}[[p.47]]
+        The suffix {-be'} cannot be used with imperative verbs. For
+        imperatives, the following suffix is required.
+
+        {-Qo'} <don't!, won't>      This negative suffix is used in imperatives and to denote refusal.
+        {yIja'Qo'}          <don't tell him/her!>
+        {yI-} (prefix)      <imperative: you-—-him/her>
+        {ja'} (verb)        <tell>
+        {-—Qo!' } (rover)   <don't!>
+
+        {choja'Qo'chugh}    <if you won't tell me, if you refuse to tell me>
+        {cho-} (prefix)     <you-—-me>
+        {ja'} (verb)        <tell>
+        {-—Qo" } (rover)    <won't>
+        {-chugh} (9)        <if>
+
+        {HIHoHvIpQo'}       <don't be afraid to kill me!>
+        {HI-} (prefix)      <imperative: you--me>
+        {HOH } (verb)       <kill>
+        {-vIp} (2)          <afraid>
+        {-—Qo!' } (rover)   <don't!>
+
+        Unlike {-be',} the position of {-Qo'} does not change: it occurs
+        last, unless followed by a Type 9 suffix. Nevertheless, it is
+        considered a rover because it is the imperative counterpart to {-be'. }
+
+        {-Ha'} <undo>
+            This negative suffix implies not merely that something is
+            not done (as does {-be'}), but that there is a change of state:
+            something that was previously done is now undone. For
+            convenience, it will here be translated as <undo,> but it is closer
+            to the English prefixes <mis-, de-, dis-> (as in <misunderstand,
+            demystify, disentangle>). It is also used if something is done
+            wrongly. Unlike {-be', -Ha'} can be used in imperatives.
+
+        {chenHa'moHlaH}     <it can destroy them>
+        0 (prefix)          <it-—-them>
+        {chen } (verb)      <take form>
+        {—-Ha" } (rover)    <undo>
+        {—moH } (4)         <cause>
+        {-laH} (5)          <can, able>
+
+        This verb actually means something like it can cause them to undo their form.
+
+        {yIchu'Ha'}     <disengage it! (e.g., cloaking device) >
+        {yI-} (prefix)  <imperative: you--it>
+        {chu" } (verb)  <engage, activate>
+        {—-Ha" } (rover) <undo>
+
+        {bIjatlhHa'chugh}   <if you say the wrong thing>
+        {bI-} (prefix)      <you>
+        {jatlh} (verb)      <say>
+        {—-Ha" } (rover)    <undo>
+        {-chugh} (9)        <if>
+
+        This shows how {-Ha'} can be used in the sense of <wrongly.> The
+        word might be translated as <if you misspeak.> Using {-be'} (that
+        is, {bIjatlhbe'chugh}) would mean <if you don't speak.>
+
+        {Do'Ha'}        <it is unfortunate>
+        0 (prefix)      <it>
+        {-—Do" } (verb) <be lucky, fortunate>[[-Do'=Do'] ]
+        {—-Ha" } (rover) <undo>
+
+        The use of {-Ha'} in this sentence suggests a turn of luck from good to bad.
+
+        It is interesting that {-Ha'} always occurs right after the verb.
+        It is not known why Klingon grammarians insist on calling it a
+        rover. It was felt best not to argue with Klingon tradition,
+        however, so {-Ha'} is here classified as a rover.
+
+        {-qu'} <emphatic>
+
+        This suffix emphasizes or affirms whatever immediately precedes it.
+
+        {yIHaghqu'}      <study him/her well>[ [Hagh => HaD]]
+        {yI-} (prefix)  <imperative: you-—-him/her>
+        {Hagh} (verb)   <study>[[Hagh=>HaD] |
+        {-qu' } (rover) <emphatic>
+
+        {nuQaw'qu'be!'}     <they have not finished us off>
+        {nu-} (prefix)      <they-—-us>
+        {Qaw'" } (verb)     <destroy>
+        {-qu' } (rover)     <emphatic>
+        {—-be" } (rover)    <not>
+
+        The roving nature of {-qu'} can be seen in the following set:
+
+        {pIHoHvipbe'qu'}    <we are NOT afraid to kill you>
+        {pIHoHvipqu'be'}    <we are not AFRAID to kill you>
+        {pIHoHqu'vIpbe'}    <we are not afraid to KILL you>
+        {pI-} (prefix)      <we--you>
+        {HOH } (verb)       <kill>
+        {-vIp} (2)          <afraid>
+        {-be' } (rover)     <not>
+        {-qu' } (rover)     <emphatic>
+
+        The first word above might be used after an enemy challenged the bravery of the speaker. 
+        The second might be followed by an explanation such as, "We are not willing to kill
+        you because we require your services." The third word would
+        be used to emphasize killing, as opposed to some other form
+        of punishment.
+
+        The rover {-qu'} also follows verbs when they are used adjectivally (section 4.4).
+
+
 4.4 Adjectives[[4.4=>4.4.]]
 There are no adjectives as such in Klingon. Those notions
 expressed as adjectives in English (such as <big, tired>) are
@@ -2702,7 +2728,7 @@ which it refers. It can never follow a noun with a plural suffix
 {Haw'pu' yaS 'ar} <How many officers fled?>
 ({Haw'pu'} <they fled,> {yaS} <officer>)
 {nin 'ar wIghaj} <How much fuel do we have?>
-({nIn} <fuel,> {wlIghaj} we <have it>)
+({nIn} <fuel,> {wIghaj} we <have it>)
 6.5. Commands
 Commands are given with appropriate imperative prefixes.
 See sections 4.1.2, 4.3.
@@ -2795,7 +2821,7 @@ Responses to commands and status reports are also prone to
 clipping.
 Proper Klingon: {So'wI' vichu'ta'} <I have engaged the cloak-
 ing device.>
-Proper Klingon: {So'wlI' chu'lu'ta'} <The cloaking device
+Proper Klingon: {So'wI' chu'lu'ta'} <The cloaking device
 has been engaged.>
 Clipped Klingon: {So'wI' chu'ta'} <Cloaking device engaged.>
 ({So'wl'} <cloaking device,> {viIchu'ta'} <I have engaged it,>
@@ -4698,7 +4724,7 @@ Oatlh be difficult (v)
 
 Oav be final, last (v)
 
-Oaw' destroy (n)[[(n)=>(v)]]
+Qaw' destroy (n)[[(n)=>(v)]]
 
 QOay transfer (v)
 
@@ -6140,7 +6166,7 @@ desert (v) chosS
 deserted, be deserted, chim
 empty, uninhabited (v)
 destination (n) ghoch
-destroy (n) Oaw'[[ (n)=>(v) ]]
+destroy (n) Qaw'[[ (n)=>(v) ]]
 
 destruction (n) OIH
 deteriorate (v) Sab
@@ -8159,8 +8185,8 @@ Well! Aha! toH tokh
 How did this happen? chay' chy
 What's going on?
 I don't understand. jilyajbe' jJi-YAJ-be
-I don't care. jisaHbe' Ji-SHAKH-be
-No problem! gay'be' ky-BE
+I don't care. jISaHbe' Ji-SHAKH-be
+No problem! qay'be' ky-BE
 Do you speak Klingon? tlhIngan Hol Dajatlh'a' Thingan khol
 Da-jatl-A
 I cannot speak Klingon. tlhIngan Hol vijatlhlaHbe' TLIngan khol
@@ -8544,7 +8570,7 @@ chov assess, evaluate (v)
 cho' succession (n)
 cho' succeed (to authority) (v)
 chuS'ugh type of musical instrument (n)
-chu'wlI' trigger (n)
+chu'wI' trigger (n)
 Da behave as, act in the manner of (v)
 DaHjaj today (n)
 Daj test inconclusively (v)
@@ -8710,7 +8736,7 @@ vi! sharpshooting,
 marksmanship (n)
 weQ candle (n)
 WO] radiation (n)
-wo] choHwlI' reactor (n)
+wo] choHwI' reactor (n)
 
 wug decide upon (v)
 
@@ -8964,7 +8990,7 @@ radiation (n) WO]
 
 rank (military, governmental) (n) patlh
 
-reactor (n) wo] choHwlI'
+reactor (n) wo] choHwI'
 
 realm, world (n) go!
 
