@@ -1432,7 +1432,7 @@ INTRODUCTION
         {tu'lu'} <someone/something finds it> is often translated by English <there is.>
 
         {naDev puqpu' tu'lu'}   <there are children around here, someone/something finds children here> 
-        ({naDev}                <hereabouts,>       {puqqpu' }
+        ({naDev}                <hereabouts,>       {puqpu' }
         <children>)
 
         {-laH} <can, able>
@@ -1948,146 +1948,128 @@ INTRODUCTION
 
 
 
-5.2. Numbers
-Klingon originally had a ternary number system; that is, one
+    5.2. Numbers
 
-based on three. Counting proceeded as follows: 1, 2, 3; 3+1,
+        The Klingon numbers are:
 
-342, 34+3; 2x34+1, 2342, 2x3+3; 3x3+1, 3x3+2,
+        1 {wa'} 
+        2 {cha'} 
+        3 {weJ} 
+        4 {los}
+        5 {vagh} 
+        6 {jav}
+        7 {Soch}
+        8 {chorgh}
+        9 {Hut }
+        10 {wa'maH}
 
-3x3+3; and then it got complicated. In accordance with
+        Higher numbers are formed by adding special number-
+        forming elements to the basic set of numbers (1--9). 
+        Thus, {wa'maH} <ten> consists of {wa'} <one> plus the number <ten> {maH.} 
+        Counting continues as follows:
 
-the more accepted practice, the Klingon Empire sometime
+        11 {wa'maH wa' } (that is, <ten and one>)
+        12 {wa'maH cha'} (that is, <ten and two>)
+        etc.
 
-back adopted a decimal number system, one based on ten.[[p.53]]
-Though no one Knows for sure, it is likely that this change
+        Higher numbers are based on 
+        {maH}               <ten,> 
+        {vatlh}             <hundred,> and
+        {SaD} or {SanID}    <thousand.> 
 
-was made more out of concern for understanding the scien-
 
-tific data of other civIlIzations than out of a spirit of cooper-
-ation.
+        20 {cha'maH}    (that is, <two tens>)
+        30 {we jmaH}    (that is, <three tens>)
+        etc.
 
-The Klingon numbers are:
+        100 {wa'vatlh}  (that is, <one hundred>)
+        200 {cha'vatlh} (that is, <two hundreds>)
+        etc.
 
-1 {wa'} 6 {jav}
+        1,000 {wa'SaD} or {wa'SanID}    (that is, <one thousand>)
+        2,000 {cha'SaD} or {cha'SanID}  (that is, <two thousands>)
+        etc.
 
-2 {cha'} 7 {Soch}
+        Numbers are combined as in English:
+            5,347   {vaghSad wejvatlh loSmaH Soch}  {vaghSanID wejvatlh loSmaH Soch}
+            604     {javvatlh loS}
+            31      {wejmaH wa' }
 
-3 {weJ} 8 {chorgh}
-4 {los} 9 {Hut }
+        higher numbers are:
+            ten thousand        {netlh}
+            hundred thousand    {bIp}
+            million             {'uy'}
+            Zero is             {pagh }
 
-5 {vagh} 10 {wa'maH}
+        Numbers are used as nouns. AS such, they may stand alone
+        as subjects or objects or they may modify another noun.
 
-Higher numbers are formed by adding special number-[[keep hyphen] ]
-forming elements to the basic set of numbers (1--9). Thus,
-{wa'maH} <ten> consists of {wa'} <one> plus the number-forming
-element for <ten,> {maH.} Counting continues as follows:
+        {mulegh cha'}   <Two (of them) see me.>
+        ({mulegh}       <they see me,> {cha'} <two>)
+        {wa' yIHoH}    <Kill one (of them) !>
+        ({wa'}          <one,> {yIHoH} <kill him/her!>)
 
-11 {wa'maH wa' } (that is, <ten and one>)
-12 {wa'maH cha'} (that is, <ten and two>)
-etc.
+        The preceding sentence is grammatically correct even without
+        the {wa'} because the prefix {yI-} indicates a singular object. The
+        {wa',} therefore, is used for emphasis only.
 
-Higher numbers are based on {maH} <ten,> {vatlh} <hundred,> and
-{SaD} or {SanID} <thousand.> Both {SaD} and {SanID} are equally
-correct for <thousand,> and both are used with roughly equal
-frequency. It is not known why this number alone has two
-variants.
+        Numbers used as modifiers precede the noun they modify.
+        {loS puqpu'} or {loS puq}           <four children>
+        {vaghmaH yuQmey} or {vaghmaH yuQ}   <fifty planets>
+        The plural suffixes ({-pu', -mey}) are not necessary when a number is used.
 
-20 {cha'maH} (that is, <two tens>)
+        When a number is used for numbering, as opposed to counting, it follows the noun. Compare:
+        {DuS wa'}   <torpedo tube number 1>
+        {wa' DuS}   <one torpedo tube>
 
-30 {we jmaH} (that is, <three tens>)
-etc.
+        Ordinal numbers (<first, second,> etc.) are formed by adding {-Dich} to the numbers.
+        {wa'DIch}   <first>
+        {cha'DIch}  <second>
+        {HutDIch}   <ninth>
 
-100 {wa'vatlh} (that is, <one hundred>)
-200 {cha'vatlh} (that is, <two hundreds>)
-etc.
+        Ordinal numbers follow the noun. {meb cha'DIch} <second guest>
+        Adding {-logh} to a number gives the notion of repetitions.
+        {wa'logh}   <once>
+        {cha'logh}  <twice>
+        {Hutlogh}   <nine times>
 
-1,000 {wa'SaD} or {wa'SanID} (that is, <one thousand>)
-2,000 {cha'SaD} or {cha'SanID} (that is, <two thousands>)
-etc.
+        These numbers function in the sentence as adverbials (section 5.4).
 
-Numbers are combined as in English:
 
-5,347 {vaghSad wejvatlh loSmaH Soch} or[[vaghSad=>vaghSaD]][[p.54]]
-{vaghSanID wejvatlh loSmaH Soch}
+    5.3. Conjunctions
 
-604 {javvatlh los}
+        Conjunctions are of two types: those that join nouns together
+        and those that join sentences together. The meanings of the
+        two types of conjunctions, however, are the same:
 
-31 {wejmaH wa' }
+        JOINING NOUNS       JOINING SENTENCES
+        {je}                {'ej}               <and>
+        {joq}               {qoj}               <and/or>
+        {ghap}              {pagh }             <either/or>
 
-Some of the number-forming elements for higher numbers
+        The conjunctions joining nouns come after the final noun.
+        {DeS 'uS je}    <an arm anda leg>
+        {DeS 'uS jog}   <an arm or a leg or both>
+        {DeS 'eS ghap}  <either an arm or a leg (but not both)>
 
-are:
-ten thousand {netLlh}
-hundred thousand {bIp}
-million {'uy'"}
+        The noun conjunction {je} has an additional function: when it
+        follows a verb, it means <also, too.>
 
-Zero is {pagh. }
+        {qaleghpu' je}  <I also saw you, I saw you too>
 
-Numbers are used as nouns. AS such, they may stand alone
-as subjects or objects or they may modify another noun.
-{mulegh cha'} <Two (of them) see me.>
-({mulegh} <they see me,> {cha'} <two>)
-{wa' ylIHoH} <Kill one (of them) !>
-({wa'} <one,> {yIHoH} <kill him/her!>)
-The preceding sentence is grammatically correct even without
-the {wa'} because the prefix {yI-} indicates a singular object. The
-{wa',} therefore, is used for emphasis only.
-Numbers used as modifiers precede the noun they modify.
-{loS puqqpu'} or {loS puq} <four children>
-{vaghmaH yuQmey} or {vaghmaH yuQ} <fifty planets>
-The plural suffixes ({-pu', -mey}) are not necessary when a
-number is used.
-When a number is used for numbering, as opposed to
-counting, it follows the noun. Compare:
-{DuS wa'} <torpedo tube number 1>
-{wa' DuS} <one torpedo tube>
-Ordinal numbers (<first, second,> etc.) are formed by adding
-{-Dich} to the numbers.
-{wa'DIch} <first>
-{cha'DIch} <second>
-{HutDIch} <ninth>
-Ordinal numbers follow the noun.
-{meb cha'DIch} <second guest>[[p.55] ]
-Adding {-logh} to a number gives the notion of repetitions.
-{wa'logh} <once>
-{cha'logh} <twice>
-{Hutlogh} <nine times>
-These numbers function in the sentence as adverbials (section
-5.4).
-5.3. Conjunctions
-Conjunctions are of two types: those that join nouns together
-and those that join sentences together. The meanings of the
-two types of conjunctions, however, are the same:
-JOINING NOUNS JOINING SENTENCES
-{je} {'ej} <and>
-{joq} {qoj} <and/or>
-{ghap} {pagh } <either/or>
-The conjunctions joining nouns come after the final noun.
-{DeS 'uS je} <an arm anda leg>
+        As in English, the meaning of such sentences is ambiguous:
+        <I and others saw you>      or    <I Saw you and others.>     
+        The exact meaning is determined by context.
 
-{DeS 'uS jog} <an arm or a leg or both>
+        In addition to the three listed above, there is one other sentence conjunction:
+        {'ach}  <but, nevertheless, however, even so>
+        This word is sometimes shortened to {'a.}
 
-{DeS 'eS ghap} <either an arm or a leg (but not both)>
+        The conjunctions joining sentences occur between the
+        sentences they join. For illustrations, see section 6.2.1.
 
-The noun conjunction {je} has an additional function: when it
-follows a verb, it means <also, too.>
 
-{galeghpu' je} <I also saw you, I Saw you too>
 
-As in English, the meaning of such sentences is ambiguous:
-<I and others saw you> or <I Saw you and others.> The exact
-meaning is determined by context.
-
-In addition to the three listed above, there is one other
-sentence conjunction:
-
-{'ach} <but, nevertheless, however, even so>
-
-This word is sometimes shortened to {'a.}
-
-The conjunctions joining sentences occur between the
-sentences they join. For illustrations, see section 6.2.1.
 5.4. Adverbials
 These words usually come at the beginning of a sentence and
 describe the manner of the activity.[[p.56]]
