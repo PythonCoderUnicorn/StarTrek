@@ -1347,119 +1347,131 @@ sounds of Klingon words and sentences.
         Though it is grammatically correct, it is culturally taboo.
 
 
-4.2.3. Type 3: Change
+    4.2.3. Type 3: Change
 
-Suffixes of this type indicate that the action described by the
-verb involves a change of some kind from the state of affairs
-that existed before the action took place.
+        Suffixes of this type indicate that the action described by the
+        verb involves a change of some kind from the state of affairs
+        that existed before the action took place.
 
-{-choH} <change in state, change in direction>
+        {-choH} <change in state, change in direction>
 
-{maDo'choH} <we are becoming lucky, we are undergoing
-a turn of luck> ({Do'} <be lucky>)
+        {maDo'choH}     <we are becoming lucky, we are undergoing a turn of luck>   ({Do'} <be lucky>)
 
-{ghoSchoH} <he/she is beginning to go (somewhere) >
-({ghoS} <go>)
+        {ghoSchoH} <he/she is beginning to go (somewhere) >
+        ({ghoS} <go>)
 
-The implication of the second example is that he or she was
-going either nowhere or somewhere else sometime before the
-phrase was uttered. Note that the translation of this suffix
-may be English <become> or <begin to.>
+        The implication of the second example is that he or she was
+        going either nowhere or somewhere else sometime before the
+        phrase was uttered. Note that the translation of this suffix
+        may be English <become> or <begin to>
 
-{-ga'} <resume>
+        {-qa'} <resume>
 
-Using this suffix implies that an action had been taking
-place, then it stopped, and then it began again.
+        Using this suffix implies that an action had been taking
+        place, then it stopped, and then it began again.
 
-{vInejgqa'} <I am resuming the search, I am searching for[[p.38]]
-him/her again> ({nej} <search>)
-4.2.4. Type 4: Cause
+        {vInejqa'} <I am resuming the search, I am searching for him/her again>    ({nej} <search>)
 
-{-moH} <cause>
 
-Adding this suffix to a verb indicates that the subject is
-causing a change of condition or causing a new condition to
-come into existence.
+    4.2.4. Type 4: Cause
 
-{tIjwl'ghom vIchenmoH} <I form a boarding party>
-({tIljwl'ghom} <boarding party,>
-{chen} <take form, take shape>)
-This sentence might also be translated <I cause a boarding
-party to be formed.>
-{HIQoymoH} <let me hear (Something)> ({Qoy} <hear>)
-More revealingly, this sentence could be translated <cause me
-to hear (something) .> Note that this sentence would not be
-used in asking permission to hear; it is a direct command.
+        {-moH} <cause>
 
-Normally, the best English translation of a verb with {-moH}
-does not contain the word <cause.> For example, {chenmoH}
-<he/she makes, creates> could be translated <he/she causes to take
-shape> ({chen} <take form, take shape>), but this is an awkward
-English phrase.
+        Adding this suffix to a verb indicates that the subject is
+        causing a change of condition or causing a new condition to
+        come into existence.
 
-4.2.5. Type 5: Indefinite subject/ability
+        {tIjwl'ghom vIchenmoH}  <I form a boarding party>
+        ({tIljwl'ghom}          <boarding party,>
+        {chen}                  <take form, take shape>)
 
-The two suffixes of Type 5 have nothing much to do with each
-other except for both being Type 5. As a result, no verb
-occurs with both of these suffixes at the same time.
-{-lu'} <indefinite subject>
-This suffix is used to indicate that the subject is unknown,
-indefinite, and/or general. Since the subject is always the
-same (that is, it is always unstated), the pronominal prefixes
-(section 4.1.1) are used ina different way. Those prefixes
-which normally indicate first- or second-person subject and[[p.39]]
-third-person singular object ({vlI-, Da-, wl-, bo-}) are used to
-indicate first- or second-person object. Thus, {vI-,} which
-normally means <I do something to him/her,> when in a verb
-with {-lu'} means <someone/something does something to me.>
-Similarly, the prefix {lu-,} which normally means <they do
-something to him/her,> becomes <someone/something does
-something to them.>
-{Daqawlu'} <someone/something remembers you>
-({gqaw} <remember>)
-{wlleghlu'} <someone/something sees us> ({legh} <see>)
-{Soplu'} <someone/something eats it> ({Sop} <eat>)
-Verbs with {-lu'} are often translated into the English passive
-voice.
-{Daqqawlu'} <you are remembered>
-{wlleghlu'} <we are seen>
-{Soplu'} <it is eaten>
-When used with the verb {tu'} <find, observe> and a third-[[keep
-hyphen] |
-person singular subject pronoun (0), the resulting verb form
-{tu'lu'} <someone/something finds it> is often translated by En-
-glish <there is.>
-{naDev pugpu' tu'lu'} <there are children around here,
-someone/something finds children
-here> ({naDev} <hereabouts,> {pugqpu' }
-<children>)
-{-laH} <can, able>
-{jIQonglaH} <I can sleep> ({Qong} <sleep>)
-{choleghlaH} <you can see me> ({legh} <see>)
-{nuQaw'laH} <he/she can destroy us> ({Qaw'} <destroy>)
-4.2.6. Type 6: Qualification
-Type 3 noun suffixes, these suffixes show how sure the
-speaker is about what is being said. [[p.40] ]
-{-chu'} <clearly, perfectly>
-{jIyajchu'} <I understand clearly> ({yaj} <understand>)
-{baHchu'} <he/she fired (the torpedo) perfectly> ({baH} <fire [a
-torpedo ] >)
+        This sentence might also be translated <I cause a boarding party to be formed.>
 
-{-bej} <certainly, undoubtedly>
-{chImbej} <it is undoubtedly empty> ({chIm} <be empty>)
-{nuSeHbej} <he/she is certainly controlling us> ({SeH} <con-
-trol>)
+        {HIQoymoH}  <let me hear (Something)>   ({Qoy} <hear>)
 
-{-law'} <seemingly, apparently>
+        More revealingly, this sentence could be translated <cause me
+        to hear (something) .> Note that this sentence would not be
+        used in asking permission to hear; it is a direct command.
 
-{chIimlaw'} <it appears to be empty> ({chIm} <be empty>)
-{nuSeHlaw'} <he/she seems to be controlling us> ({SeH} <con-
-trol>)
+        Normally, the best English translation of a verb with {-moH}
+        does not contain the word <cause.> For example, {chenmoH}
+        <he/she makes, creates> could be translated <he/she causes to take
+        shape> ({chen} <take form, take shape>), but this is an awkward
+        English phrase.
 
-This suffix expresses any uncertainty on the speaker's part
-and may even be thought of as meaning <I think> or <I suspect.>
-Thus, the previous two sentences could be translated <I think
-it's empty, I suspect that he/she is controlling us.>
+
+    4.2.5. Type 5: Indefinite subject/ability
+
+        The two suffixes of Type 5 have nothing much to do with each
+        other except for both being Type 5. As a result, no verb
+        occurs with both of these suffixes at the same time.
+        {-lu'} <indefinite subject>
+
+        This suffix is used to indicate that the subject is unknown,
+        indefinite, and/or general. Since the subject is always the
+        same (that is, it is always unstated), the pronominal prefixes
+        (section 4.1.1) are used ina different way. 
+        
+        Those prefixes which normally indicate first- or second-person subject and 
+        third-person singular object ({vI-, Da-, wI-, bo-}) are used to
+        indicate first- or second-person object. 
+        
+        Thus, {vI-,} which normally means <I do something to him/her,> 
+        when in a verb with {-lu'} means  <someone/something does something to me.>
+        Similarly, the prefix {lu-,} which normally means <they do something to him/her> 
+        becomes <someone/something does something to them.>
+
+        {Daqawlu'}  <someone/something remembers you>       ({gqaw} <remember>)
+        {wIleghlu'} <someone/something sees us>             ({legh} <see>)
+        {Soplu'}    <someone/something eats it>             ({Sop} <eat>)
+
+        Verbs with {-lu'} are often translated into the English passive voice.
+
+        {Daqawlu'}     <you are remembered>
+        {wIleghlu'}     <we are seen>
+        {Soplu'}        <it is eaten>
+
+        When used with the verb {tu'}  <find, observe> and a third- [[keep hyphen] 
+        person singular subject pronoun (0), the resulting verb form
+        {tu'lu'} <someone/something finds it> is often translated by English <there is.>
+
+        {naDev puqpu' tu'lu'}   <there are children around here, someone/something finds children here> 
+        ({naDev}                <hereabouts,>       {pugqpu' }
+        <children>)
+
+        {-laH} <can, able>
+
+        {jIQonglaH}     <I can sleep>               ({Qong} <sleep>)
+        {choleghlaH}    <you can see me>            ({legh} <see>)
+        {nuQaw'laH}     <he/she can destroy us>     ({Qaw'} <destroy>)
+
+
+    4.2.6. Type 6: Qualification
+
+        Type 3 noun suffixes, these suffixes show how sure the
+        speaker is about what is being said.
+
+        {-chu'}     <clearly, perfectly>
+
+        {jIyajchu'}     <I understand clearly>                      ({yaj} <understand>)
+        {baHchu'}       <he/she fired (the torpedo) perfectly>      ({baH} <fire [a torpedo ] >)
+
+        {-bej} <certainly, undoubtedly>
+
+        {chImbej}   <it is undoubtedly empty>               ({chIm} <be empty>)
+        {nuSeHbej}  <he/she is certainly controlling us>    ({SeH} <control>)
+
+        {-law'} <seemingly, apparently>
+
+        {chIimlaw'}     <it appears to be empty>                ({chIm} <be empty>)
+        {nuSeHlaw'}     <he/she seems to be controlling us>     ({SeH} <control>)
+
+        This suffix expresses any uncertainty on the speaker's part
+        and may even be thought of as meaning <I think> or <I suspect.>
+        Thus, the previous two sentences could be translated 
+        <I think it's empty, I suspect that he/she is controlling us.>
+
+
 4.2.7. Type 7: Aspect
 Klingon does not express tenses (past, present, future). These
 ideas come across from context or other words in the sentence
@@ -2563,7 +2575,7 @@ verbs, in the sense of <I am, you are,> etc.
 
 {yaS SoH} <You are an officer.>
 
-{pugpu' chaH} <They are children.>
+{puqpu' chaH} <They are children.>
 
 The pronoun always follows the noun.
 
@@ -2581,7 +2593,7 @@ subject is a noun, it follows the third-person pronoun ({ghaH}
 <topic>
 suffix (see section 3.3.5).
 
-{pugpu' chaH gama'pu!' ‘'e'} <The prisoners are children.>[[gama'pu'
+{puqpu' chaH gama'pu!' ‘'e'} <The prisoners are children.>[[gama'pu'
 'e'=>gama'pu' Te!) ]
 
 {pa'DajDaq ghaHtaH la"e'} <The commander is in his
@@ -4535,7 +4547,7 @@ gqawHaq memory banks (n)
 QawmoH remind (v)
 
 gay' be a problem, be a hassle (v)
-ga'vam Genesis (n)
+-qa'vam Genesis (n)
 
 gech idea (n)
 
@@ -6440,7 +6452,7 @@ gas (n) SIp
 gate (n) lojmIt
 gear, equipment (n) luch
 general (rank) (n) Sa'[[p.135]]
-Genesis (n) ga'vam
+Genesis (n) -qa'vam
 genius (n) wilgh
 get (v) Sug
 get away from (v) DoH
@@ -7912,7 +7924,7 @@ Numbers indicate suffix type; R stands for rover.
 —pa' 9 before
 —pu' 7 perfective
 —qang 2 willing
-—ga' 3 do again, resume
+—-qa' 3 do again, resume
 —qu' R emphatic
 —Qo' R don't!, won't
 —rup 2 ready, prepared (referring to beings)
@@ -8379,7 +8391,7 @@ form nouns. Compare the following sets:
 {naD} <commendation> ({naD} <commend>)
 {naDHa'ghach} <discommendation>
 ({naDHa'} <discommend>)
-{naDga'gha'ch} <re-commendation> ({naDga'} <commend>[[gha'ch=>
+{naD-qa'gha'ch} <re-commendation> ({naD-qa'} <commend>[[gha'ch=>
 ghach] ]]
 
 <again>) [[p.177]]
