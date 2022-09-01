@@ -1167,7 +1167,7 @@ sounds of Klingon words and sentences.
 
                 OBJECT      none    <me>    <you>   <him/her/it>      <us>    <you (plural)>   <them>
                 SUBJECT
-                  <I>     {jI-}   --      {gqa-}      {vI-}         --        {Sa-}           {vI-}
+                  <I>     {jI-}   --      {qa-}      {vI-}         --        {Sa-}           {vI-}
                 <you>     {bI-}   {cho-}   --         {Da-}         {ju-}     --              {Da-}
             <he/she/it>   0       {mu-}   {Du-}       0             {nu-}     {lI-}           0
                 <we>      {ma-— }  ——     {pI-}       {wl-}         ——        {re-}           {DI-}
@@ -1240,42 +1240,57 @@ sounds of Klingon words and sentences.
         with {yI-} or {pe-} (see section 4.2.1).
 
 
-4.1.3 Notational conventions[[4.1.3=>4.1.3.]]
-As a notational convention, prefixes indicating subject and
-object will be translated as <subject--object;> e.g., {gqa-} <I--you,>
-{pI-} <we--them.> Imperative prefixes will be translated similarly,
-preceded by the word <imperative:> {tI-} <imperative: you--them.>
-Also, prefixes which can refer to male, female, inanimate,
-Singular, and/or plural (e.g., {vI-} <I--him/her/it/them>) will be
-translated correctly, but usually without giving all the options
-(e.g., <I--him/her>). This convention will also be used when
-translating verbs containing these prefixes; e.g., {vllegh} <I see
-him/her.>
-4.2. Verb suffixes
-There are nine types of verb suffixes.
-4.2.1. Type 1: Oneself/one another
-{-egh} <oneself>[[-egh=>-'egh] |]
-This suffix is used to indicate that the action described by
-the verb affects the performer of the action, the subject. It is
-translated by English <self.> When this suffix is used, the prefix
-set indicating "’no object" must also be used.
-{jIqip'egh} <I hit myself> ({gqIp} <hit>)
-{bIgIp'egh} <you hit yourself>
-{qIip'egh} <he/she hits himself/herself>
-It is also possible to use this suffix with imperative verbs.
-As with nonimperatives, the prefix indicating "no object"
-must be used.
-{yIja"egh} <tell yourself!> ({ja'} <tell>)
-{peja"egh} <tell yourselves!>[[p.36] ]
-{-chugq} <one another>
-This suffix is used only with plural subjects. It is translated
+    4.1.3 Notational conventions [[4.1.3 => 4.1.3.]]
 
-<each other> or <one another.> The prefix set indicating "no
-object" is also used when this suffix is used.
-{magipchugq} <we hit each other> ({qIp} <hit>)
-{Sugipchug} <you (plural) hit each other>
-{qIpchugq} <they hit each other>
-{pegqipchug} <hit each other!>
+        As a notational convention, prefixes indicating subject and
+        object will be translated as <subject--object> 
+        e.g., 
+            {qa-} <I--you,> 
+            {pI-} <we--them.> 
+        Imperative prefixes will be translated similarly,
+        preceded by the word <imperative:> {tI-} <imperative: you--them.>
+
+        Also, prefixes which can refer to male, female, inanimate,
+        Singular, and/or plural (e.g., {vI-} <I--him/her/it/them>) will be
+        translated correctly, but usually without giving all the options
+        (e.g., <I--him/her>). This convention will also be used when
+        translating verbs containing these prefixes; e.g., {vIlegh} <I see him/her.>
+
+
+    4.2. Verb suffixes
+
+        There are nine types of verb suffixes.
+
+    4.2.1. Type 1: Oneself/one another
+
+        {-egh} <oneself> [[-egh =>-'egh ]]
+
+        This suffix is used to indicate that the action described by
+        the verb affects the performer of the action, the subject. It is
+        translated by English <self.> When this suffix is used, the prefix
+        set indicating "’no object" must also be used.
+
+        {jIqip'egh}     <I hit myself>  ({qIp} <hit>)
+        {biqIp'egh}     <you hit yourself>
+        {qIip'egh}      <he/she hits himself/herself>
+
+        It is also possible to use this suffix with imperative verbs.
+        As with nonimperatives, the prefix indicating "no object" must be used.
+
+        {yIja"egh}  <tell yourself!> ({ja'} <tell>)
+        {peja"egh}  <tell yourselves!>
+        {-chuq}     <one another>
+
+        This suffix is used only with plural subjects. 
+        It is translated <each other> or <one another.> 
+        The prefix set indicating "no object" is also used when this suffix is used.
+
+        {maqIpchuq}     <we hit each other>     ({qIp} <hit>)
+        {SuqIpchuq}     <you (plural) hit each other>
+        {qIpchuq}       <they hit each other>
+        {peqIpchuq}     <hit each other!>
+
+
 4.2.2. Type 2: Volition/predisposition
 Suffixes of this type express how much choice the subject has
 about the action described or how predisposed the subject is
@@ -2369,7 +2384,7 @@ him/her.>
 The entire relative construction {qIppu'bogh yaS} <officer who
 hit him/her> is the object of the verb {vIlegh} <I see him/her,> so it
 precedes the verb.
-{mulegh gqIppu'bogh yaS} <The officer who hit him/her
+{mulegh qIppu'bogh yaS} <The officer who hit him/her
 sees me.>
 Here, {qIppu'bogh yaS} is the subject of the verb {mulegh} <he/she
 sees me,> so it follows the verb.
@@ -2529,7 +2544,7 @@ whether it is the first or second verb.
 
 Finally, the use of {rIntaH} to indicate that an action is
 accomplished (section 4.2.7) is another example of the two-[[keep
-hyphen] |]
+hyphen] ]]
 verb (or two-sentence) construction.
 
 6.3. " To be!!
@@ -8205,7 +8220,7 @@ MiV-vam
 You need a rest. bIleSnis bi-LESH-nish
 Pay now! DaH yIDIl dakh yi-DIL
 Four thousand throats gaStaHvis wa! ram 1loS KASH-takh-
-vish wa ram[[loS=>loSSaD] |]
+vish wa ram[[loS=>loSSaD] ]]
 may be cut in one night SaD Hugh SIjlaH losh shad
 khoogh[ [SaD=>] ]
 by a running man. getbogh LoD SHIJ-lLakh
@@ -8358,7 +8373,7 @@ form nouns. Compare the following sets:
 {naDHa'ghach} <discommendation>
 ({naDHa'} <discommend>)
 {naDga'gha'ch} <re-commendation> ({naDga'} <commend>[[gha'ch=>
-ghach] |]
+ghach] ]]
 
 <again>) [[p.177]]
 5. OTHER KINDS OF WORDS
