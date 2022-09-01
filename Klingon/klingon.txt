@@ -992,14 +992,14 @@ INTRODUCTION
         accomplished by stressing the noun (saying it emphatically) or
         by special syntactic constructions.
 
-        {lujpu' jIH'e'} <I, and only I, have failed.> [[ lujpu' => jIlujpu' ]] <It is I who has failed.>
+        {lujpu' jIH'e'} <I, and only I, have failed.> [[ lujpu' =>  jIlujpu' ]] <It is I who has failed.>
 
         {De"e! vItlhapnISpu'} <I needed to get the INFORMATION.>
         <It was the information (and not something else) that I needed.>
 
-        Without the {'e',} these same sentences would have no noun[['e' =>- 'e']] singled out for emphasis:
+        Without the {'e',} these same sentences would have no noun[['e' => - 'e']] singled out for emphasis:
 
-        {lujpu' jIH} <I have failed.> [[lujpu' => jIlujpu']]
+        {lujpu' jIH} <I have failed.> [[lujpu' =>  jIlujpu']]
 
         {De' vItlhapnISpu''} <I needed to get the information.>
 
@@ -1207,7 +1207,7 @@ INTRODUCTION
 
 
 
-    4.1.2 Imperative prefixes [[4.1.2 => 4.1.2.]]
+    4.1.2 Imperative prefixes [[4.1.2 =>  4.1.2.]]
 
         A special set of prefixes is used for imperatives, that is, verbs
         giving commands. Commands can be given only to <you> or <you (plural)>
@@ -1232,11 +1232,11 @@ INTRODUCTION
         {yIqIp}    <hit him/her/it!>    {tIqIp}     <hit them!>
 
         To indicate action directed against oneself in an imperative
-        verb (e.g., <tell yourself>), the suffix {-egh} <oneself> is used along [[-egh =>- 'egh ]]
+        verb (e.g., <tell yourself>), the suffix {-egh} <oneself> is used along [[-egh => - 'egh ]]
         with {yI-} or {pe-} (see section 4.2.1).
 
 
-    4.1.3 Notational conventions [[4.1.3 => 4.1.3.]]
+    4.1.3 Notational conventions [[4.1.3 =>  4.1.3.]]
 
         As a notational convention, prefixes indicating subject and
         object will be translated as <subject--object> 
@@ -1259,7 +1259,7 @@ INTRODUCTION
 
     4.2.1. Type 1: Oneself/one another
 
-        {-egh} <oneself> [[-egh =>-'egh ]]
+        {-egh} <oneself> [[-egh => -'egh ]]
 
         This suffix is used to indicate that the action described by
         the verb affects the performer of the action, the subject. It is
@@ -1822,9 +1822,9 @@ INTRODUCTION
 
         This suffix emphasizes or affirms whatever immediately precedes it.
 
-        {yIHaghqu'}      <study him/her well>[ [Hagh => HaD]]
+        {yIHaghqu'}      <study him/her well>[ [Hagh =>  HaD]]
         {yI-} (prefix)  <imperative: you-—-him/her>
-        {Hagh} (verb)   <study>[[Hagh=>HaD] |
+        {Hagh} (verb)   <study>[[Hagh=> HaD] |
         {-qu' } (rover) <emphatic>
 
         {nuQaw'qu'be!'}     <they have not finished us off>
@@ -1853,7 +1853,7 @@ INTRODUCTION
         The rover {-qu'} also follows verbs when they are used adjectivally (section 4.4).
 
 
-    4.4 Adjectives [[4.4 => 4.4.]]
+    4.4 Adjectives [[4.4 =>  4.4.]]
 
         There are no adjectives as such in Klingon. Those notions
         expressed as adjectives in English (such as <big, tired>) are
@@ -1900,10 +1900,10 @@ INTRODUCTION
 
         In addition to possessive suffixes for nouns (section 3.3.4) and
         pronominal prefixes for verbs (section 4.1), there is a set of
-        nine pronouns which are independent words. [[nine => ten]]
+        nine pronouns which are independent words. [[nine =>  ten]]
 
         {jIH}    <I, me>            {maH}       <we, us>
-        {SoH}   <you>               {tlhIH}     <you (plural)> [[SOH => SoH]]
+        {SoH}   <you>               {tlhIH}     <you (plural)> [[SOH =>  SoH]]
         {ghaH}  <he/she, him/her>   {chaH}      <they, them>
         {"oH}   <it>                {bIH}       <they, them>
         {'e'}   <that>
@@ -2069,85 +2069,74 @@ INTRODUCTION
         sentences they join. For illustrations, see section 6.2.1.
 
 
+    5.4. Adverbials
 
-5.4. Adverbials
-These words usually come at the beginning of a sentence and
-describe the manner of the activity.[[p.56]]
+        These words usually come at the beginning of a sentence and
+        describe the manner of the activity.
 
-{batlh} <with honor, in an honored fashion>
+        {batlh}     <with honor, in an honored fashion>
+        {bong}      <by accident, accidentally, not intentionally>
+        {chaq}      <perhaps>
+        {chIch}     <on purpose, purposely>
+        {DaH}       <now>
+        {Do'}       <with luck, luckily>
+        {loQ}       <slightly, a little bit>
+        {nom}       <fast, quickly>
+        {not}       <never>
+        {pay'}      <suddenly>
+        {pIj}       <often>
+        {QIt}       <slowly>
+        {reH}       <always>
+        {rut}       <sometimes>
+        {tugh}      <soon>
+        {vaj}       <thus, in that case, so, accordingly, then>
+        {wej}       <not yet>
 
-{bong} <by accident, accidentally, not intentionally>
+        Examples:
 
-{chagq} <perhaps>
+        {bong yaS vIHoHpu'}     <I accidentally killed the officer.>
+        ({yaS}                  <officer,> 
+        {vIHoHpu'}              <I killed him/her>)
 
-{chIch} <on purpose, purposely>
+        {batlh Daqawlu'taH}     <You will be remembered with honor.>
+        ({Daqawlu'taH}          <somebody continues to remember you>)
 
-{DaH} <now>
+        {vaj Daleghpu'}         <Then you have seen it.>
+        ({Daleghpu'}            <you have seen it>)
+        {wej vIlegh}            <I don't see him/her yet>
+        ({vIlegh}               <I see him/her>)
+        
+        One word fits somewhat awkwardly into this category: {neH} <only, merely, just>
 
-{Do'} <with luck, luckily>
+        Unlike the other adverbials, it follows the verb which it
+        modifies. The semantic effect is one of trivializing the action.
 
-{loQ} <slightly, a little bit>
+        {gqgama' viqIppu' neH}  <I merely hit the prisoner.>
+        {qama'}                 <prisoner,> 
+        {vIqIppu'}              <I hit him/her>)
+        {Du} ylIQotlh neH}      <Just disable the ship!>
+        {Duj}                   <ship, vessel,> 
+        {yIQotlh}               <disable it!>
 
-{nom} <fast, quickly>
 
-{not} <never>
+        The use of {neH} in the preceding sentence implies that the ship
+        is to be disabled, but not damaged further.
+        Also unlike the other adverbials, {neH} can follow a noun. In
+        such cases, it means <only, alone.>
 
-{pay'} <suddenly>
+        {yaS neH}       <only the officer, the officer alone>
+        {jonta' neH}    <only the engine>
 
-{pIj} <often>
+        Adverbials sometimes occur alone, functioning more or
+        less as exclamations (section 5.5). For example:
 
-{QIt} <slowly>
+        {nom}   <Move fast! Move quickly!>
+        {wej}   <Don't do it yet!>
+        {tugh}  <Hurry up!>
 
-{reH} <always>
 
-{rut} <sometimes>
 
-{tugh} <soon>
-
-{vaj} <thus, in that case, so, accordingly, then>
-
-{wej} <not yet>
-
-Examples:
-
-{bong yaS vIHoHpu'} <I accidentally killed the officer.>
-({yaS} <officer,> {vIHoHpu'} <I killed
-him/her>)
-
-{batlh Daqawlu'taH} <You will be remembered with honor.>
-({Daqawlu'taH} <somebody continues to
-remember you>)
-
-{va} Daleghpu'} <Then you have seen it.>
-
-({Daleghpu'} <you have seen it>)
-
-{wej vIlegh} <I don't see him/her yet>
-
-({vIlegh} <I see him/her>)
-One word fits somewhat awkwardly into this category:
-{neH} <only, merely, just>
-
-Unlike the other adverbials, it follows the verb which it
-modifies. The semantic effect is one of trivializing the action.
-{gqgama' viqIppu' neH} <I merely hit the prisoner.>
-({qama'} <prisoner,> {vIqIppu'} <I hit him/
-her>)
-{Du} ylIQotlh neH} <Just disable the ship!>
-({Duj} <ship, vessel,> {yIQotlh} <disable it!>)
-[[p.97] ]
-The use of {neH} in the preceding sentence implies that the ship
-is to be disabled, but not damaged further.
-Also unlike the other adverbials, {neH} can follow a noun. In
-such cases, it means <only, alone.>
-{yaS neH} <only the officer, the officer alone>
-{jonta' neH} <only the engine>
-Adverbials sometimes occur alone, functioning more or
-less as exclamations (section 5.5). For example:
-{nom} <Move fast! Move quickly!>
-{wej} <Don't do it yet!>
-{tugh} <Hurry up!>
-5.5 Exclamations[[5.5=>5.5.]]
+5.5 Exclamations [[5.5 => 5.5.]]
 These expressions stand as sentences in their own right.
 {ghobe'} <No.> (response to a question)
 {Ha'} <Let's go! Come on!>
@@ -2434,7 +2423,7 @@ describing what is to be accomplished ends with the Type 9
 suffix {-meH,} which may be translated <for, for the purpose of,
 in order to.> The purpose clause always precedes the noun or
 verb whose purpose it is describing.
-{ja'chuqmeH rojHom neH jaghla'} <The enemy commander[[jaghla'=>jagh
+{ja'chuqmeH rojHom neH jaghla'} <The enemy commander[[jaghla'=> jagh
 la']]
 wishes a truce (in order)
 to confer.>[[p.65]]
@@ -2442,7 +2431,7 @@ The phrase {ja'chugmeH rojHom} <a truce (in order) to confer> is
 
 the object of the verb {neH} <he/she wants it;> the subject is
 {jaghla'} <enemy commander.> The object is a noun {rojHom} <truce>
-[[jaghla'=>jagh la']]
+[[jaghla'=> jagh la']]
 preceded by the purpose clause {ja'chugqmeH} <for the purpose
 of conferring> or <in order to confer.> (The verb is made up of {ja'}
 <tell,> {-chug} <each other;> thus, <confer> is <tell each other.>)
@@ -2603,7 +2592,7 @@ subject is a noun, it follows the third-person pronoun ({ghaH}
 suffix (see section 3.3.5).
 
 {puqpu' chaH gama'pu!' ‘'e'} <The prisoners are children.>[[gama'pu'
-'e'=>gama'pu' Te!) ]
+'e'=> gama'pu' Te!) ]
 
 {pa'DajDaq ghaHtaH la"e'} <The commander is in his
 
@@ -2864,25 +2853,25 @@ V verb (section 4) [[p.78]]
 In looking through the dictionary, it will be noticed that
 there are a number of noun/verb pairs; that is, the same word
 is both a noun anda verb. Futhermore, there are some words
-[| [Futhermore=>Furthermore ] |
+[| [Futhermore=> Furthermore ] |
 which are identical in form (and nearly identical in meaning)
 to some suffixes (for example, {laH} is a noun meaning <accom-
 plishment> and {-laH} is a verb suffix meaning <can, able>).
 
 There are also a number of Klingon synonyms; that is two
-Klingon words with identical meanings (for example, {joh, jaw} [[joh=>
+Klingon words with identical meanings (for example, {joh, jaw} [[joh=> 
 joH] ]
 <lord,> {chetvI', DuS} <torpedo tube>). Occasionally one member of
 such a synonym set can be analyzed. Thus, {baHwI'} <gunner>
 consists of the verb {baH} <fire (a torpedo)> plus the suffix {-wI"'}
 <one who does something.> The other word for <gunner,> {matha', }
-[[matha'=>matHa'" ] ]
+[[matha'=> matHa'" ] ]
 remains impervious to analysis. Sometimes one member of a
 set may be partially analyzed. For example, {jonta'} <engine>
 begins with {jon,} which is also found in {jonwI'} <engineer,> and
 ends with {ta',} which also occurs in {mIqta'} <machinery.> The
 other members of these synonym sets, {QuQ} <engine> and {Jjo'}
-<machinery,> cannont be further analyzed. (It is likely that [[cannont=>
+<machinery,> cannont be further analyzed. (It is likely that [[cannont=> 
 cannot] ]
 there are sets of synonyms with three or more members, but
 none has been found to date.)
@@ -4697,7 +4686,7 @@ Oatlh be difficult (v)
 
 Oav be final, last (v)
 
-Qaw' destroy (n)[[(n)=>(v)]]
+Qaw' destroy (n)[[(n)=> (v)]]
 
 QOay transfer (v)
 
@@ -5690,7 +5679,7 @@ acceptance (n) laj
 access (n) naw'
 accidentally, by accident (adv) bong
 accommodate (v) ma!
-accompany (n) tlhej[[ (n)=>(v) ]]
+accompany (n) tlhej[[ (n)=> (v) ]]
 accomplish (v) ta'
 accomplished, be accomplished, rin
 finished (v)
@@ -6139,7 +6128,7 @@ desert (v) chosS
 deserted, be deserted, chim
 empty, uninhabited (v)
 destination (n) ghoch
-destroy (n) Qaw'[[ (n)=>(v) ]]
+destroy (n) Qaw'[[ (n)=> (v) ]]
 
 destruction (n) OIH
 deteriorate (v) Sab
@@ -6735,7 +6724,7 @@ Justice (n) ruv
 
 keep, save (v) pol
 
-kellicam (n) gquell'gam[ [quell 'gqam=>gqellI'gam] |
+kellicam (n) gquell'gam[ [quell 'gqam=> gqellI'gam] |
 
 kevas (n) gevas
 
@@ -8237,25 +8226,25 @@ When will the water be ghorgh tujchoHpu' bIQ ghorgh TOOJ-
 chokh-poo
 hot? bikkh
 Ts this seat taken? gquSDaQ ba! lu"a' KOOSH-dak BA-
-loo-a[[quSDaQ ba! lu"a'=>quSDaqqg ba'lu"a']]
+loo-a[[quSDaQ ba! lu"a'=> quSDaqqg ba'lu"a']]
 I can't find my Qumwil'wlj vitu'laHbe' kkhoom—-WI-wi Jj
 communicator. Vi-TOO-
 lakh-BE
 This helmet suits you. Du'ITHchoHmoH miIv vam doo-IKH-
-chokh-mohk [[mlIlv vam=>mIvvam] |
+chokh-mohk [[mlIlv vam=> mIvvam] |
 
 MiV-vam
 You need a rest. bIleSnis bi-LESH-nIsh
 Pay now! DaH yIDIl dakh yi-DIL
 Four thousand throats gaStaHvis wa! ram 1loS KASH-takh-
-vish wa ram[[loS=>loSSaD] ]]
+vish wa ram[[loS=> loSSaD] ]]
 may be cut in one night SaD Hugh SIjlaH losh shad
-khoogh[ [SaD=>] ]
+khoogh[ [SaD=> ] ]
 by a running man. getbogh LoD SHIJ-lLakh
 KET-bogh
 lod
 Revenge is a dish which is bortaS bIr jablu'DI'reH bor-TAS bir
-JAB-loo-DI[[jablu'DI'reH=>jablu'DI' reH]]
+JAB-loo-DI[[jablu'DI'reH=> jablu'DI' reH]]
 best served cold. QaQqu' nay' rekh
 kkhakkh-KOO ny
 How much do you want Dochvetlh DIlmeH Huch DOCH-vetl
@@ -8272,7 +8261,7 @@ IT can't drink that. Dochvetlh vitlhutlhlaHbe' DOCH-vetl
 vi-TLOOTL-—
 lakh-BE
 Go away! naDev vo!' ylIghos na-dev-VO yi-
-GHOSH[ [naDev vo'=>naDevvo' ] |
+GHOSH[ [naDev vo'=> naDevvo' ] |
 What do I do with this? chay' Dochvam vIlo' chy DOCH-vam
 vi-LoO
 (1.e., How do I use
@@ -8373,7 +8362,7 @@ strong a conviction as {-bej} <certainly.>
 {-mo'} <because>
 This suffix is identical to the Type 5 noun suffix {-mo'} and
 has the same meaning, <due to, because of.>
-{bIganmo'} <because you are old> ({gan} <be old>) [[gan=>qan] ]
+{bIganmo'} <because you are old> ({gan} <be old>) [[gan=> qan] ]
 {Heghpu'mo!' yaS} <because the officer died> ({Hegh} <die,>
 {yaS} <officer>)
 {-jaj} <may>
@@ -8400,7 +8389,7 @@ form nouns. Compare the following sets:
 {naD} <commendation> ({naD} <commend>)
 {naDHa'ghach} <discommendation>
 ({naDHa'} <discommend>)
-{naD-qa'gha'ch} <re-commendation> ({naD-qa'} <commend>[[gha'ch=>
+{naD-qa'gha'ch} <re-commendation> ({naD-qa'} <commend>[[gha'ch=> 
 ghach] ]]
 
 <again>) [[p.177]]
@@ -8437,7 +8426,7 @@ adverbials, {jay'} always comes at the end of the sentence.
 
 ({mIch} <sector,> {'elpu'} <they've entered it>)
 
-5.5 Exclamations[[5.5=>5.5.]]
+5.5 Exclamations[[5.5=> 5.5.]]
 As it turns out, cursing is a one art among Klingons. There
 are many more curses than those three listed in the earlier
 edition of the dictionary. It is not always clear how to use
@@ -8469,7 +8458,7 @@ Tag questions (ending a statement with a question such as
 
 “*right?" or "isn't that so?") are formed by using the verb {gar}
 
-[[gar=>qar] ]
+[[gar=> qar] ]
 
 <be accurate> plus the suffix {-'a'} <interrogative.> This word either
 
@@ -8507,7 +8496,7 @@ commonly, this is a time element (a noun or phrase meaning
 The adverbial may actually follow the object noun (but
 still precede the verb) when the object noun is topicalized by
 means of the noun suffix {-'e'} (see Section 3.3.5.).
-{Hagwil' 'e' DaH yisam} <Find the SURGEON now!>[[HagqwI' 'e!'=>
+{Hagwil' 'e' DaH yisam} <Find the SURGEON now!>[[HagqwI' 'e!'=> 
 Haqwi"e'] ]
 ({HaqwIl'} <surgeon,> {DaH} <now,>
 {yisam} <find him/her!>)
@@ -8584,7 +8573,7 @@ latlh additional one, other one (n)
 la'quv Supreme Commander (n)
 la't'a' commandant (n)
 len recess, break (n)
-LeSSov foresight (n) [[LeSSov=>leSSov] ]
+LeSSov foresight (n) [[LeSSov=> leSSov] ]
 lingwl' generator (n)
 lo! use (n)
 
@@ -8665,7 +8654,7 @@ ruch proceed, go ahead, do it (v)
 rura' pente' Rura Penthe (n)
 rustay bonding ritual (n)
 Sam locate, seek and find (v)
-sIbI' immediately (adv) [[sIbI'=>SIbI']]
+sIbI' immediately (adv) [[sIbI'=> SIbI']]
 Sogh lieutenant (n)
 SoJ food (n)
 Sonchly death ritual (for a leader) (n)
@@ -8834,7 +8823,7 @@ honored, be honored (v) Quv
 hypo, pneumatic Hergh Qaywl',
 
 hypo (n) Herghwl'
-immediately (adv) SIbI'[[sIbI'=>SIbI"] ]
+immediately (adv) SIbI'[[sIbI'=> SIbI"] ]
 important, be important (v) potlh
 initiate proceedings, tagh
 
@@ -9114,7 +9103,7 @@ fundamental grammar rules, words, and expressions that
 illustrate the nature of the complex Klingon culture, as well as:
 o A precise pronunciation guide
 o Commands in Clipped Klingon
-Oo Proper use of affixes and suffixes[[affixes=>prefixes] ]
+Oo Proper use of affixes and suffixes[[affixes=> prefixes] ]
 Oo Conjuctions, exclamations and superlatives
 o Simple and complex sentence structure
 PLUS: The Klingon translation and pronunciations of
