@@ -163,26 +163,28 @@ undertaken to record and analyze the language and culture of
 the Klingons, with the ultimate goal of preparing an encyclo-
 pedia, as well as teaching materials. This dictionary repre-
 sents the initial results of that effort.
+
 The dictionary is divided into two main parts: grammatical
 sketch and dictionary proper.
-The grammatical sketch 1s intended to be an outline of
+
+The grammatical sketch is intended to be an outline of
 Klingon grammar, not a complete description. Nevertheless,
 it should allow the reader to put Klingon words together in an
 acceptable manner. Many of the rules given in the grammati-
 cal sketch are those set down by Klingon grammarians. It
-should be remembered that even though the rules say ~'al-
-ways'' and ~*never,'!' when Klingon is actually spoken these
+should be remembered that even though the rules say "always" 
+and "never" when Klingon is actually spoken these
 rules are sometimes broken. What the rules represent, in
-other words, is what Klingon grammarians agree on as the
-~*best'' Klingon.
+other words, is what Klingon grammarians agree on as the "best" Klingon.
+
 Because research is not yet completed, this dictionary is of
 necessity somewhat limited in scope. There are certainly
-more Klingon words than those listed here. Three groups of[[p.10]]
+more Klingon words than those listed here. Three groups of 
 words in particular are, for the most part, unrepresented:
 scientific terminology; words for native tools, customs, flora,
-and fauna; and vocabulary dealing with food. Terms associat-—
-ed with the various sciences are the subject of a special study,
-and a report 1s currently being prepared. Klingon words for
+and fauna; and vocabulary dealing with food. Terms associated 
+with the various sciences are the subject of a special study,
+and a report is currently being prepared. Klingon words for
 traditional tools and long-standing customs are difficult to
 translate into English. Native plants and animals are likewise
 difficult to comprehend at the present time. Such matters will
@@ -192,26 +194,23 @@ been problems recruiting staff interested in studying Klingon
 eating habits. Until that study is under way, it was thought
 inappropriate to present a list of words whose meanings are
 not properly understood.
-As more data are gathered the list of words will undoubted-
 
-ly grow. Even at this early stage, however, some patterns are
+As more data are gathered the list of words will undoubtedly grow. 
+Even at this early stage, however, some patterns are
 emerging. For example, there are no words for greetings,
-
 such as <hello, how are you, good morning,> and so on. It seems
 apparent that such words and phrases simply do not exist in
 Klingon. When two Klingons meet each other (except in cases
 where military protocol determines behavior), if anything of
-
-an introductory nature 1S said, it 1S an expression that can best
+an introductory nature is said, it is an expression that can best
 be translated as <What do you want?> Unlike most speakers of
 English, who begin conversations with greetings, inquiries
 about the state of health of the conversants, and remarks
-
 about the weather, Klingons tend to begin conversations by
 Simply stating the main points.
 
-Although Klingons are proud of their language and fre-
-quently engage in long discussions about its expressiveness
+Although Klingons are proud of their language and frequently 
+engage in long discussions about its expressiveness
 and beauty, they have found it impractical for communication
 outside the Klingon Empire. For intra- and intergalactic
 communication, the Klingon government, along with most
@@ -219,8 +218,10 @@ other governments, has accepted English as the lingua franca.
 In general, only those Klingons of the upper classes (which
 include higher-level governmental and military officials) learn
 English. As a result, English has taken on two additional
-functions in Klingon society. First, it is used as a symbol of
-rank or status. Those Klingons who know English will use it
+functions in Klingon society. 
+
+First, it is used as a symbol of rank or status. 
+Those Klingons who know English will use it
 among themselves to show off their erudition and make their
 place in society known to all who happen to be listening.
 Second, English is used when it is thought best to keep[[p.11]]
@@ -254,36 +255,38 @@ dom. The student of Klingon is warned to check into the
 political situation of the Klingon Empire before trying to
 talk.
 
-There 1S a native writing system for Klingon (called {plIgaD})
+There is a native writing system for Klingon (called {pIqaD})
 which seems to be well suited to the various dialects. This
 writing system is not yet well understood and is, therefore,
 not used in this dictionary. Instead, a transcription system
 based on the English alphabet has been devised. An article is
 being prepared for the <Klingon Encyclopedia> which will
-explain the details of {plIgaD.}
+explain the details of {pIqaD.}
 
 In the grammatical sketch portion of this dictionary, as a
 notational convention, Klingon will be written in boldface
 type, and English translations will be written in italics:
 {tlhIngan} <Klingon.>
 
-The author would like to thank the Scientific Research
-Council for making funds available to carry out this research,
-as well as various members of the Federation Interlanguage[[p.12] ]
-Institute who were quite helpful in criticizing earlier drafts of
-the dictionary. The author apologizes for any mistakes, and
-Sincerely hopes that none of them leads to any unfortunate
-misunderstandings.
 
-Finally, a great deal of credit must be given to the Klingon
-informant who provided all of the data upon which this
-dictionary is based. Although a prisoner of the Federation, he
-worked long, hard hours to make his knowledge available to
-citizens of the Federation. Maltz, we thank you. [[p.13]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. THE SOUNDS OF KLINGON
 It is difficult to describe accurately the sounds of the Klingon
 language without using complex phonological and anatomical
-terminology. What follows, therefore, 1S intended to give only
+terminology. What follows, therefore, is intended to give only
 a guide to pronunciation. The best way to learn to pronounce
 Klingon with no trace of a Terran or other accent is to become
 friends with a group of Klingons and spend a great deal of
@@ -305,7 +308,7 @@ A very small number of Klingons pronounce {b} as if it were {m. }
 {ch} As in English <chew> or <artichoke.>
 
 {D} This sound is close to English <d> in <dream> or <android,> but
-it 1s not quite the same. The English <d> sound is made by[[p.14]]
+it is not quite the same. The English <d> sound is made by[[p.14]]
 touching the tip of the tongue to that part of the roof of the
 mouth just behind the upper teeth. Klingon {D} can best be
 approximated by English-speakers by touching the tip of the
@@ -322,11 +325,11 @@ say English <g> as in <gobble,> but relaxing the tongue somewhat
 and humming. It is the same as Klingon {H} (see below), but
 with the vocal cords vibrating at the same time.
 
-{H} This is also not like anything in English, but it 1s just like
+{H} This is also not like anything in English, but it is just like
 <ch> in the name of the German composer <Bach> or in the
 
 Yiddish toast <l'chaim,> or the <j> in the Mexican city of <Tijuana>
-in <Baja California.> It 1S produced in the same way as Klingon
+in <Baja California.> It is produced in the same way as Klingon
 
 {gh,} but is articulated with a very coarse, strong rasp. Unlike
 Klingon {gh,} the vocal cords do not vibrate in saying Klingon
@@ -371,12 +374,12 @@ the uvula (the meshy blob that dangles down from the back of
 the roof of the mouth), so articulating {gq} approximates the
 sound of choking. The sound is usually accompanied by a
 Slight puff of air. English speakers are reminded that Klingon
-{gq} 1S never pronounced <kw> as in the beginning of English
+{gq} is never pronounced <kw> as in the beginning of English
 <quagmire.>
 
 {Q} This is like nothing particularly noteworthy in English.
 
-It 1S an overdone Klingon {q.} It is identical to {gq} except that it is
+It is an overdone Klingon {q.} It is identical to {gq} except that it is
 very guttural and raspy and strongly articulated, somewhat
 like a blend of Klingon {gq} and {H.}
 
@@ -391,7 +394,7 @@ reaching toward that part of the roof of the mouth which it
 touches to produce Klingon {D. }
 
 {t} As in English <tarpaulin> or <critigque.> It differs from Kling-
-on {D} in two ways: (1) like {p,} it 1S accompanied by a puff of air;
+on {D} in two ways: (1) like {p,} it is accompanied by a puff of air;
 and (2) the tongue touches a position on the roof of the
 mouth farther forward than that for {D. }
 
@@ -417,7 +420,7 @@ pronounced strongly, more like {Hw} or even {Huw. }
 {'} The apostrophe indicates a sound which is frequently
 uttered, but not written, in English. It is a glottal stop, the
 slight catch in the throat between the two syllables of <uh-oh> or
-<unh-unh,> meaning ~*no.'' When Klingon {'} comes at the end of
+<unh-unh,> meaning "no." When Klingon {'} comes at the end of
 a word, the vowel preceding the {'} is often repeated in a very
 soft whisper, as if an echo. Thus, Klingon {je'} <feed> almost
 sounds like {je'e,} where the articulation of the first {e} is
@@ -427,7 +430,7 @@ often a whispered, echoed {u} or {I,} respectively. Occasionally
 the echo is quite audible, with a guttural sound like {gh}
 preceding the echoed vowel. For example, {yIlI'} <transmit
 it!> can sound more like {yIlI'ghI.} This extra-heavy echo is
-heard most often when the speaker 1S particularly excited or
+heard most often when the speaker is particularly excited or
 angry.
 
 1.2. Vowels
@@ -479,7 +482,7 @@ both the verb and the suffix ending in {'} are stressed. In
 addition, if the meaning of any particular suffix is to be
 emphasized, the stress may shift to that syllable. Suffixes
 indicating negation or emphasis (section 4.3) are frequently
-stressed, as 1S the interrogative suffix (section 4.2.9).
+stressed, as is the interrogative suffix (section 4.2.9).
 
 In a noun, the stressed syllable is usually the syllable right
 before the first noun suffix, or the final syllable if there is no
@@ -539,14 +542,14 @@ of {jol} <transport beam> plus {pa'} <room.>
 A second type of complex noun consists of a verb followed by
 a suffix meaning one who does or thing which does. The
 English suffix <-er> (as in <builder> ©*’one who builds'!' or <toaster>
-~*thing which toasts'') is a rough equivalent. In Klingon, the[[p.20]]
+"thing which toasts") is a rough equivalent. In Klingon, the[[p.20]]
 suffix is {-wI'.} It occurs, for example, in {baHwI'} <gunner,> which
 consists of the verb {baH} <fire (a torpedo)> plus {-wI'} <one who
-does.> Thus, {baHwI'} is literally ~*‘one who fires [a torpedo].'!
+does.> Thus, {baHwI'} is literally "‘one who fires [a torpedo].'!
 Similarly, {So'wI'} <cloaking device> comes from the verb {So'}
 <cloak> plus {-wI'} <thing which does.> {So'wI'} is a ~°thing which
 Cloaks.'!
-A noun formed by adding {-wI'} to a verb 1S a regular noun,
+A noun formed by adding {-wI'} to a verb is a regular noun,
 so it may be used along with another noun to form a
 compound noun. For example, {tIjwI'ghom} <boarding party>
 comes from {tIjwI'} <boarder> plus {ghom} <group;> and {tIjwI'} comes
@@ -557,7 +560,7 @@ less frequently, three syllables long, but which are not
 complex nouns of the types described above. These nouns
 probably at one time were formed by combining simple
 nouns, but one or all of the nouns forming the complex noun
-are no longer in use, so it 1S not possible (without extensive
+are no longer in use, so it is not possible (without extensive
 etymological research) to know what the individual pieces
 mean.
 
@@ -565,7 +568,7 @@ For example, {'ejDo'} means <starship.> The syllable {'ej} also
 occurs in {'ejyo'} <Starfleet.> There are, however, no known
 Klingon words {'ej, Do',} or {yo'} that have anything to do with
 Starfleet, starships, the Federation, or space vehicles of any
-kind. It 1s quite likely that {Do'} is an Old Klingon word for
+kind. It is quite likely that {Do'} is an Old Klingon word for
 Space vessel (the modern Klingon word is {Duj}) that is used
 nowhere except in the noun {'ejDo'.} Of course, without
 further study, that remains pure conjecture.
@@ -582,7 +585,7 @@ follows: [[p.21] ]
 
 NOUN-~-1--2--3--4-—-5
 
-Of course, if no suffix of Type 1 1s used but a suffix of Type 2 is
+Of course, if no suffix of Type 1 is used but a suffix of Type 2 is
 used, the Type 2 suffix comes right after the noun. If a suffix
 of Type 5 is the only suffix used, it comes right after the noun.
 Only when two or more suffixes are used does their order
@@ -601,7 +604,7 @@ the suffix.
 {Qagh} <mistake> {Qagh'a'} <major blunder>
 {woQ} <power> {woQ'a'} <ultimate power>
 {-Hom} diminutive
-This 1s the opposite of the augmentative suffix. It indicates
+This is the opposite of the augmentative suffix. It indicates
 that what the noun refers to is smaller, less important, or less
 powerful than it would be without the suffix.
 {SuS} <wind, breeze> {SuSHom} <wisp of air>
@@ -636,12 +639,12 @@ ably already know whom is being talked about, so they would
 also know whether he or she or they is the correct meaning.
 Fortunately for students of Klingon, it iS never incorrect to
 add a plural suffix to a noun referring to more than one entity,
-even in those cases where it 1S unnecessary to do so. Accord-
+even in those cases where it is unnecessary to do so. Accord-
 ingly, both {yaS maH} and {yaSpu' maH} are correct, both
 meaning <we are officers> ({-pu'} is a plural suffix). On the other
 hand, a plural suffix cannot be added to a noun referring to
 only one thing, even if pronouns are present in the sentence.
-In Klingon, {yaSpu' jIH} <I am officers> 1S aS incorrect as its
+In Klingon, {yaSpu' jIH} <I am officers> is aS incorrect as its
 English translation.
 There are three different plural suffixes in Klingon.
 {-pu'} <plural for beings capable of using language>
@@ -663,7 +666,7 @@ This suffix is used to mark the plural of any noun.
 {yuQ} <planet> {yuQmey} <planets>
 It can also be used with nouns referring to beings capable of
 using language (those nouns which take {-pu'}). When it is so
-used, it adds a notion of ~*scattered all about'' to the meaning.
+used, it adds a notion of "scattered all about" to the meaning.
 Compare:
 {pug} <child>
 {puqpu'} <children>
@@ -687,7 +690,7 @@ tinct:
 {peng} <torpedo>
 {vIj} <thruster>
 The singular forms may take the {-mey} suffix, but the
-meaning always carries the ~*scattered all about'' connotation:
+meaning always carries the "scattered all about" connotation:
 {DoSmey} <targets scattered all about>
 {pengmey} <torpedoes all over the place>
 Inherently plural nouns are treated grammatically as singu-
@@ -784,7 +787,7 @@ inherently plural noun), {-vam} is translated <these.>
 {-vetlh} <that>
 
 This suffix indicates that the noun refers to an object which
-1s not nearby or which is being brought up again as the topic
+is not nearby or which is being brought up again as the topic
 of conversation.
 
 {nuHvetlh} <that weapon (over there)>
@@ -821,28 +824,28 @@ this is accomplished by using suffixes.
 {-Dag} <locative>
 This suffix indicates that something is happening (or has
 happened or will happen) in the vicinity of the noun to which
-it 1s attached. It is normally translated by an English preposi-
+it is attached. It is normally translated by an English preposi-
 tion: <to, in, at, on.> The exact translation is determined by the
 meaning of the whole sentence. For example, {pa'Dag} is {pa'}
 <room> plus the suffix {-Dag.} It may occur in sentences such as
 the following:
 {pa'Daq jIHtaH} <I'm in the room.>
 {pa'Daq yljaH} <Go to the room.>
-In the first sentence, {JIH} <I> 1s used in the sense of <I am> (see
+In the first sentence, {JIH} <I> is used in the sense of <I am> (see
 section 6.3), so <in> is the most reasonable translation of {-Daq. }
 In the second sentence, the verb is {jaH} <go,> so <to> makes the
 most sense as a translation of {-Dagq.} An English preposition
 
 need not be part of the translation. Klingon {Dung} means <area
 above,> and {DungDag} is <overhead,> literally something like ~-at
-the area above.'' For further discussion on prepositional
+the area above." For further discussion on prepositional
 concepts, see section 3.4.
-It 1S worth noting at this point that the concepts expressed
+It is worth noting at this point that the concepts expressed
 by the English adverbs <here, there,> and <everywhere> are
 expressed by nouns in Klingon: {naDev} <hereabouts,> {pa'} <there-
 abouts,> {Dat} <everywhere.> These words may perhaps be trans-
-lated more literally as ~°area around here,'' ~*’area over there,''
-and ~ all places,'' respectively. Unlike other nouns, these
+lated more literally as ~°area around here," "’area over there,"
+and ~ all places," respectively. Unlike other nouns, these
 three words are never followed by the locative suffix. (Note[[p.28] ]
 that {pa'} <thereabouts> and {pa'} <room> are identical in sound;
 {pa'Dag,} however, can mean only <in/to the room.>)
@@ -858,19 +861,19 @@ approaching it>)
 proceeding toward it>)
 If the locative suffix is used with such verbs, the resulting
 sentence is somewhat redundant, but not out-and-out wrong.
-{DujJDaq ghoStaH} <It 1S approaching toward the ship.>
+{DujJDaq ghoStaH} <It is approaching toward the ship.>
 {-vo'} <from>
 This suffix is similar to {-Dagq} but is used only when action is
 in a direction away from the noun suffixed with {-vo'.}
 {pa'vo' yljaH} <Leave the room!>
 A more literal translation of this sentence might be °°Go from
-the room.''
+the room."
 {-mo'} <due to, because of>
 This suffix occurs in sentences such as:
 {SuSmo' jogtaH} <It is fluttering in the breeze.>
 The noun {SuSmo'} means <due to the breeze,> so the whole
-sentence is literally ~*due to the breeze, it [a flag] is flutter-
-ing.''
+sentence is literally "due to the breeze, it [a flag] is flutter-
+ing."
 {-vaD} <for, intended for>
 This suffix indicates that the noun to which it is attached is
 in some way the beneficiary of the action, the person or thing
@@ -888,7 +891,7 @@ accomplished by stressing the noun (saying it emphatically) or
 by special syntactic constructions.
 {lujpu' jiIH'te'} <I, and only I, have failed.>[[lujpu'=>jIlujpu')]
 <It is I who has failed.>
-{De''e! vitlhapniSpu'} <I needed to get the INFORMATION.>
+{De"e! vitlhapniSpu'} <I needed to get the INFORMATION.>
 <It was the information (and not
 something else) that I needed.>
 Without the {'e',} these same sentences would have no noun[['e'=>-'‘'e']]
@@ -945,9 +948,9 @@ exactly the same fashion.
 Some combinations of two (or more) nouns in a row are so
 common aS to have become everyday words. These are the
 compound nouns (as discussed in section 3.2.1). In addition,
-it 1s possible to combine nouns in the manner of a compound
+it is possible to combine nouns in the manner of a compound
 noun to produce a new construct even if it is not a legitimate
-compound noun (° legitimate'' in the sense that it would be
+compound noun (° legitimate" in the sense that it would be
 found in a dictionary).
 The translation of two nouns combined in this way, say[[p.31]]
 N1I-N2 (that is, noun #1 followed by noun #2), would be <N2
@@ -979,14 +982,14 @@ example:
 English prepositional phrases are also rendered in Klingon
 by this noun-noun construction. Prepositional concepts such
 as above and below are actually nouns in Klingon, best
-translated as ~’area above,'' ~’ area below,'' etc. The locative
+translated as ~’area above," ~’ area below," etc. The locative
 suffix (section 3.3.5) follows the second noun. For example:
 {nagh DungDag} <above the rock>
 {nagh} (noun) <rock>
 {Dung} (noun) <area above>
 {-Daq} (5) <locative>
-More literally, this is ~*’at the area above the rock'' or ~‘at the
-rock's above-area.''[[p.32]]
+More literally, this is "’at the area above the rock" or ~‘at the
+rock's above-area."[[p.32]]
 4. VERBS
 Klingon verbs are mostly monosyllabic forms which may
 be accompanied by several affixes. As with Klingon
@@ -995,7 +998,7 @@ of types based on their relative position following the verb.
 There are nine types of verb suffixes. Unlike Klingon
 nouns, Klingon verbs may take prefixes. Thus, if suffix types
 are indicated as numbers, the structure of a Klingon verb
-1S:
+is:
 PREF ITX--VERB-~—1--—2--—3-—-4-—-5-—-6-—-7--8-—9
 4.1. Pronominal prefixes
 Fach Klingon verb begins with a single prefix that indicates
@@ -1027,7 +1030,7 @@ verb prefix system. For such meanings, suffixes (section 4.2.1)
 and/or pronouns (section 5.1) must be used.
 
 The prefixes in the first column of the chart (headed
-~“*none'') are used when there is no object; that is, when the
+~“*none") are used when there is no object; that is, when the
 action of the verb affects only the subject (the °°doer'!'). The
 verb {Qong} <sleep> occurs with the pronominal prefixes as
 follows:
@@ -1048,11 +1051,11 @@ context.
 This set of prefixes is also used when an object is possible,
 but unknown or vague. Thus, {jlyaj} <I understand> can be used[[p.34]]
 when the speaker understands things in general, knows what
-1S going on, or understands what another speaker has just
+is going on, or understands what another speaker has just
 said. It cannot, however, be used for understanding a lan-
 guage or understanding a person. Similarly, {maSop} <we eat> can
 be used to indicate a general act of eating, but not if a specific
-food 1S mentioned.
+food is mentioned.
 
 The remaining prefixes combine subject and object. Some
 of them are illustrated below, using the verb {legh} <see.>
@@ -1068,7 +1071,7 @@ it/them>
 him/her/it/them, >
 <they see them>
 4.1.2 Imperative prefixes[[4.1.2=>4.1.2.]]
-A special set of prefixes is used for imperatives, that 1s, verbs
+A special set of prefixes is used for imperatives, that is, verbs
 giving commands. Commands can be given only to <you> or <you
 (olural) .>
 
@@ -1078,14 +1081,14 @@ OBJECT none <me> <him/her/it> <us> <them>
 
 <you (plural)> {pe-} {HI-} {yI-} {gho-} {tI-}
 
-Note that, with one exception, the identical prefix 1s used
+Note that, with one exception, the identical prefix is used
 regardless of whether the command is being given to one or
 
 more than one person. The single exception is when a
-command iS given but there 1S no object. In such cases, a
+command iS given but there is no object. In such cases, a
 special prefix {pe-} is used to give a command to several people.
 Examples of the imperative prefixes follow. Exclamation
-points in the translation indicate that it 1S a command.
+points in the translation indicate that it is a command.
 {ylQong} <sleep!> {peQong} <(you plural) sleep!>
 {HIqIp} <hit me!> {ghogIip} <hit us!>[[p.35]]
 {yIqgIp} <hit him/her/it!> {tIqIp} <hit them!>
@@ -1111,20 +1114,20 @@ There are nine types of verb suffixes.
 This suffix is used to indicate that the action described by
 the verb affects the performer of the action, the subject. It is
 translated by English <self.> When this suffix is used, the prefix
-set indicating ~’no object'' must also be used.
+set indicating ~’no object" must also be used.
 {jIqip'egh} <I hit myself> ({gqIp} <hit>)
 {bIgIp'egh} <you hit yourself>
 {qIip'egh} <he/she hits himself/herself>
 It is also possible to use this suffix with imperative verbs.
-As with nonimperatives, the prefix indicating ~*no object''
+As with nonimperatives, the prefix indicating "no object"
 must be used.
-{yIja''egh} <tell yourself!> ({ja'} <tell>)
-{peja''egh} <tell yourselves!>[[p.36] ]
+{yIja"egh} <tell yourself!> ({ja'} <tell>)
+{peja"egh} <tell yourselves!>[[p.36] ]
 {-chugq} <one another>
 This suffix is used only with plural subjects. It is translated
 
-<each other> or <one another.> The prefix set indicating ~*no
-object'' is also used when this suffix is used.
+<each other> or <one another.> The prefix set indicating "no
+object" is also used when this suffix is used.
 {magipchugq} <we hit each other> ({qIp} <hit>)
 {Sugipchug} <you (plural) hit each other>
 {qIpchugq} <they hit each other>
@@ -1178,7 +1181,7 @@ however, {-rup} is required.
 {mugipviIp} <they are afraid to hit us> ({qIp} <hit>)
 
 This suffix is rarely used with a prefix meaning <I> or <we.>
-Though it 1S grammatically correct, it is culturally taboo.
+Though it is grammatically correct, it is culturally taboo.
 4.2.3. Type 3: Change
 Suffixes of this type indicate that the action described by the
 verb involves a change of some kind from the state of affairs
@@ -1236,7 +1239,7 @@ occurs with both of these suffixes at the same time.
 {-lu'} <indefinite subject>
 This suffix is used to indicate that the subject is unknown,
 indefinite, and/or general. Since the subject is always the
-same (that 1s, it is always unstated), the pronominal prefixes
+same (that is, it is always unstated), the pronominal prefixes
 (section 4.1.1) are used ina different way. Those prefixes
 which normally indicate first- or second-person subject and[[p.39]]
 third-person singular object ({vlI-, Da-, wl-, bo-}) are used to
@@ -1300,7 +1303,7 @@ completed, and whether an action is a Single event ora
 continuing one.
 
 The absence of a Type 7 suffix usually means that the action
-1s not completed and is not continuous (that is, it 1S not one of
+is not completed and is not continuous (that is, it is not one of
 the things indicated by the Type 7 suffixes). Verbs with no
 Type 7 suffix are translated by the English simple present
 tense.
@@ -1354,11 +1357,11 @@ is a fait accompli: it is done, and it cannot be undone.
 The English translations of {riIntaH} and {-ta'} are usually the
 same. The notion of absolute finality implied by {rIntaH}
 seldom comes across.
-It should be noted that {riIntaH} 1S sometimes used for[[p.42] ]
+It should be noted that {riIntaH} is sometimes used for[[p.42] ]
 dramatic effect, even in cases when the action could be
 undone.
 {-taH} <continuous>
-This suffix indicates that an action 1S ongoing.
+This suffix indicates that an action is ongoing.
 {nughoStaH} <it is approaching us> ({ghoS} <approach>)
 {yIghoStaH} <steady on course!, maintain this course!>
 ({ghoS} <go, approach, proceed on a course>)
@@ -1405,10 +1408,10 @@ terpart of {-pu'.}
 
 {-neS} <honorific>
 
-There is but one suffix in this category. It 1S used to express
+There is but one suffix in this category. It is used to express
 extreme politeness or deference. It is used only in addressing
 a superior, someone of higher rank in the Klingon social,
-political, or military hierarchy. It 1S never required.
+political, or military hierarchy. It is never required.
 
 {qaleghneS} <I am honored to see you> ({legh} <see>)
 {HIja'neS} <do me the honor of telling me> ({ja'} <tell>)
@@ -1440,7 +1443,7 @@ This is the relative-clause marker. It is described in section
 This marks purpose clauses. See section 6.2.4.
 {-'a'} <interrogative>
 This suffix indicates that the sentence is a yes/no question;
-that is, a question which can be answered ~‘yes'' or °*no.'! (See
+that is, a question which can be answered ~‘yes" or °*no.'! (See
 also section 6.4.).
 {cholegh'a'} <do you see me?> ({legh} <see>)
 {yaj'a'} <does he/she understand?> ({yaj} <understand>)
@@ -1459,12 +1462,12 @@ No more than one suffix of each type may occur at a time. No
 instances have been found of a verb followed by nine suffixes,
 but it is theoretically possible. A few examples should suffice
 to show ordering of the suffixes.
-{nuHotlhpu''a'} <have they scanned us?>
+{nuHotlhpu"a'} <have they scanned us?>
 {nu-} (prefix) <they--us>
 {Hot lh} (verb) <scan>[[p.45] ]
 {-pu' } (7) <perfective>
 {-—'at} (9) <interrogative>
-{Qaw''eghpu'} <he/she destroyed himself/herself>
+{Qaw"eghpu'} <he/she destroyed himself/herself>
 0 (prefix) <he/she>
 {Oaw'" } (verb) <destroy>
 {-'egh} (1) <oneself>
@@ -1501,7 +1504,7 @@ place) ?>
 {—neS } (8) <honorific>
 {—'al} (9) <interrogative>[[p.46] ]
 4.3. Rovers
-There 1s one additional set of verb suffixes which Klingon
+There is one additional set of verb suffixes which Klingon
 grammarians call {lengwI'mey} <rovers> (from {leng} <travel, roam,
 rove,> {-wl'} <thing which does,> {-mey} <plural>). Rovers are verb
 suffixes which do not have a fixed position in relation to the
@@ -1565,7 +1568,7 @@ considered a rover because it is the imperative counterpart to
 {-Ha'} <undo>
 This negative suffix implies not merely that something is
 not done (as does {-be'}), but that there is a change of state:
-something that was previously done 1S now undone. For
+something that was previously done is now undone. For
 convenience, it will here be translated as <undo,> but it is closer
 to the English prefixes <mis-, de-, dis-> (as in <misunderstand,
 
@@ -1598,7 +1601,7 @@ is, {bIjatlhbe'chugh}) would mean <if you don't speak.>
 The use of {-Ha'} in this sentence suggests a turn of luck from
 good to bad.
 
-It 1S interesting that {-Ha'} always occurs right after the verb.
+It is interesting that {-Ha'} always occurs right after the verb.
 It is not known why Klingon grammarians insist on calling it a
 rover. It was felt best not to argue with Klingon tradition,
 however, so {-Ha'} is here classified as a rover.
@@ -1697,7 +1700,7 @@ beings capable of using language; otherwise, {bIH} <they> is used.
 The pronouns {'e'} and {net} are used only in special sentence
 constructions (see section 6.2.5).
 
-There 1S no grammatical gender in Klingon. Third-person[[p.52]]
+There is no grammatical gender in Klingon. Third-person[[p.52]]
 Singular pronouns can be translated <he> or <she> as context
 dictates.
 
@@ -1738,10 +1741,10 @@ way nouns are; instead, the set of possessive noun suffixes is
 used (section 3.3.4).
 
 Finally, pronouns can be used as verbs, in the sense of ~'I
-am, '' etc. (See section 6.3).
+am, " etc. (See section 6.3).
 
 5.2. Numbers
-Klingon originally had a ternary number system; that 1S, one
+Klingon originally had a ternary number system; that is, one
 
 based on three. Counting proceeded as follows: 1, 2, 3; 3+1,
 
@@ -1822,7 +1825,7 @@ as subjects or objects or they may modify another noun.
 ({mulegh} <they see me,> {cha'} <two>)
 {wa' ylIHoH} <Kill one (of them) !>
 ({wa'} <one,> {yIHoH} <kill him/her!>)
-The preceding sentence 1S grammatically correct even without
+The preceding sentence is grammatically correct even without
 the {wa'} because the prefix {yI-} indicates a singular object. The
 {wa',} therefore, is used for emphasis only.
 Numbers used as modifiers precede the noun they modify.
@@ -1869,7 +1872,7 @@ follows a verb, it means <also, too.>
 
 As in English, the meaning of such sentences is ambiguous:
 <I and others saw you> or <I Saw you and others.> The exact
-meaning 1S determined by context.
+meaning is determined by context.
 
 In addition to the three listed above, there is one other
 sentence conjunction:
@@ -1947,7 +1950,7 @@ her>)
 ({Duj} <ship, vessel,> {yIQotlh} <disable it!>)
 [[p.97] ]
 The use of {neH} in the preceding sentence implies that the ship
-1s to be disabled, but not damaged further.
+is to be disabled, but not damaged further.
 Also unlike the other adverbials, {neH} can follow a noun. In
 such cases, it means <only, alone.>
 {yaS neH} <only the officer, the officer alone>
@@ -1974,13 +1977,13 @@ These expressions stand as sentences in their own right.
 {'eH} <Ready!>
 {HIja'} and {HISlaH} <yes> seem to be used interchangeably.
 {SuH, Su',} and {'eH} all mean that the speaker is about to give
-a command. They are comparable to the ~*Ready!'' at the
-beginning of a race: © °Ready! Set! Go!'' {SuH} and {Su',} but not
+a command. They are comparable to the "Ready!" at the
+beginning of a race: © °Ready! Set! Go!" {SuH} and {Su',} but not
 {'eH, } can also be used to indicate that the speaker is ready to
 do something or that arrangements have been made for
 something to happen. Some speakers of Klingon pronounce
 {SuH} as if it were {SSS,} almost like the English expression for
-“*be quiet'': <shhh!>
+“*be quiet": <shhh!>
 {pItlh} is used for <It's done! I've done it! I've finished! All
 done!> etc. [[p.58] ]
 The expression {toH} is roughly equivalent to English <aha!>
@@ -2057,7 +2060,7 @@ OBJECT-—-VERB--SUBJECT
 
 This the reverse of the order in English, so care should be
 taken to avoid interpreting sentences backward. The subject
-1s the person or thing doing the action described by the verb;
+is the person or thing doing the action described by the verb;
 The object is the recipient of that action.
 The importance of word order can be seen by comparing
 the following sentences.
@@ -2135,7 +2138,7 @@ or
 <The child sees the officer and hits the officer.>
 or
 <The child sees and hits the officer.>
-It 1s possible, however, to use pronouns rather than nouns in
+It is possible, however, to use pronouns rather than nouns in
 the second of the joined sentences. [[p.62] ]
 {yaS legh pug 'ej ghaH gIp ghaH} ({ghaH} <he/she>)
 <The child sees the officer and he/she hits him/her.>
@@ -2172,7 +2175,7 @@ IT will kill you.>
 misspeak,> {qaHoH} <I kill
 you>)
 Note that although the English translation uses the word <will,>
-there 1S no marker for future in Klingon. The unsuffixed verb
+there is no marker for future in Klingon. The unsuffixed verb
 {HoH} <kill> is neutral as to time: since the person being[[p.63]]
 addressed is being given a chance to speak, that person must
 still be alive. Thus, the killing must take place in the future.
@@ -2214,7 +2217,7 @@ as all subjects follow the verb. In the second phrase, {yaS} is the
 object (the officer is getting hit), so it precedes {qlIppu'bogh, }
 just as all objects precede the verb.
 The whole construction (relative clause plus head noun), as
-a unit, 1S used in a sentence as a noun. Accordingly, this
+a unit, is used in a sentence as a noun. Accordingly, this
 construction follows or precedes the verb of the sentence,
 depending on whether it is the subject or object.
 {qIippu'bogh yaS vilegh} <I see the officer who hit
@@ -2293,7 +2296,7 @@ not exclusively, with verbs of thinking or observation
 (such as <know, see>). They are always treated as the object
 verb, and the verb always takes a prefix indicating
 a third-person singular object. What is a single sentence
-in English is often two sentences in Klingon. {net} 1s used
+in English is often two sentences in Klingon. {net} is used
 only under special circumstances (see page 66), but {'e'} is
 common. Several examples should make the use of {'e'}
 clear. [[p.66] ]
@@ -2326,7 +2329,7 @@ is used instead of {'e'.}
 {gama'pu' DIHOH net Sov} <One knows we kill prisoners.>
 As above, the first sentence here is {qama'pu' DIHoH} <We kill
 prisoners.> The second sentence is {net Sov} <One knows that.>
-The full construction implies that it 1S common knowledge
+The full construction implies that it is common knowledge
 that the group to which the speaker belongs kills prisoners.
 
 {Qu'vaD 1I' net tu'bej} <One certainly finds it useful for
@@ -2339,7 +2342,7 @@ part is {net tu'bej} <One certainly finds that> or <One certainly
 observes that.> The full construction might also be translated
 <One will certainly observe that it is useful to the mission.> Note
 that although the word <will> makes a more flowing translation,
-there 1s nothing in the Klingon sentence indicating future
+there is nothing in the Klingon sentence indicating future
 tense.
 
 When the verb of the second sentence is {neH} <want,> neither[[p.67]]
@@ -2374,8 +2377,8 @@ in either order.
 {gaja'pu' HIgaghQo' }
 
 or {HIqaghQo' gaja'pu'} <I told you not to interrupt me.>
-This is literally <I told you, ~°Don't interrupt me!''> or <°°Don't
-interrupt me'' I told you> ({gqaja'pu'} <I told you,> {HIqaghQo'} <don't
+This is literally <I told you, ~°Don't interrupt me!"> or <°°Don't
+interrupt me" I told you> ({gqaja'pu'} <I told you,> {HIqaghQo'} <don't
 interrupt me!>). An aspect marker (here, {-pu'} <perfective>) may
 always be attached to the verb of saying, regardless of
 whether it is the first or second verb.
@@ -2386,7 +2389,7 @@ hyphen] |]
 verb (or two-sentence) construction.
 
 6.3. °° To be!!
-There 1S no verb corresponding to English <to be> in Klingon.
+There is no verb corresponding to English <to be> in Klingon.
 On the other hand, all pronouns (section 5.1) can be used as
 verbs, in the sense of <I am, you are,> etc.
 
@@ -2399,7 +2402,7 @@ verbs, in the sense of <I am, you are,> etc.
 The pronoun always follows the noun.
 
 Similarly, there is no verb corresponding to <to be> in the
-sense of ~'to be at a place.'' Again, the pronouns are used,
+sense of ~'to be at a place." Again, the pronouns are used,
 followed, where appropriate, by verbal suffixes.
 
 {pa'wljDaq jIHtaH} <I am in my quarters.>
@@ -2415,7 +2418,7 @@ suffix (see section 3.3.5).
 {pugpu' chaH gama'pu!' ‘'e'} <The prisoners are children.>[[gama'pu'
 'e'=>gama'pu' Te!) ]
 
-{pa'DajDaq ghaHtaH la''e'} <The commander is in his
+{pa'DajDaq ghaHtaH la"e'} <The commander is in his
 
 quarters.>
 
@@ -2423,7 +2426,7 @@ These sentences might also be translated <As for the prisoners,
 they are children; As for the commander, he iS in his quarters.>
 6.4. Questions
 There are two types of questions: those which may be
-answered ~‘yes'' or °*no,'' and those which require explana-
+answered ~‘yes" or °*no," and those which require explana-
 tions as answers.
 
 Yes/no questions are formed with the Type 9 suffix {-'a'}
@@ -2468,9 +2471,9 @@ Both {'Iv} and {nug} are treated as nouns as far as the
 pronominal prefixes are concerned. That is, they are consid-
 ered third person.
 
-{nughoStaH nug} <What 1S coming toward us?> ({nughoStaH} <it
+{nughoStaH nug} <What is coming toward us?> ({nughoStaH} <it
 
-1s proceeding toward us>)
+is proceeding toward us>)
 
 {nug Dalegh} <What do you see?> ({Dalegh} <you see it>)
 
@@ -2517,7 +2520,7 @@ Commands are given with appropriate imperative prefixes.
 See sections 4.1.2, 4.3.
 6.6. Comparatives and superlatives
 The idea of something being more or greater than something
-else (comparative) 1s expressed by means of a construction
+else (comparative) is expressed by means of a construction
 which can be represented by the following formula:
 AQ {law'} B Q {pus}
 In this formula, A and B are the two things being compared
@@ -2540,10 +2543,10 @@ In comparative and superlative constructions, the verb of
 quality ({jaq} <be bold> in the sentences above) must be said
 twice.[[p.72] ]
 7. CLIPPED KLINGON
-The preceding grammatical sketch describes ~*proper''!
+The preceding grammatical sketch describes "proper"!
 Klingon, that is, Klingon as it is taught in Klingon schools or
 to non-Klingons. In actual day-to-day use, however, spoken
-Klingon may vary somewhat from its ~’proper'' form, usually
+Klingon may vary somewhat from its ~’proper" form, usually
 by leaving some elements out. This abbreviated form of
 speaking, called Clipped Klingon by Klingon grammarians, is
 heard quite frequently in military contexts where quick
@@ -2596,7 +2599,7 @@ Clipped Klingon: {jolpa' yljaH}
 
 ({jolpa'} <transport room,> {-Dag} <locative,> {jaH} <go>)
 
-It 1S not common, when noun suffixes are chopped, for the
+It is not common, when noun suffixes are chopped, for the
 imperative prefix on the verb to be dropped as well.
 
 7.2. Responses to commands, status reports
@@ -2673,10 +2676,10 @@ V verb (section 4) [[p.78]]
 
 In looking through the dictionary, it will be noticed that
 there are a number of noun/verb pairs; that is, the same word
-1s both a noun anda verb. Futhermore, there are some words
+is both a noun anda verb. Futhermore, there are some words
 [| [Futhermore=>Furthermore ] |
 which are identical in form (and nearly identical in meaning)
-to some suffixes (for example, {laH} 1S a noun meaning <accom-
+to some suffixes (for example, {laH} is a noun meaning <accom-
 plishment> and {-laH} is a verb suffix meaning <can, able>).
 
 There are also a number of Klingon synonyms; that is two
@@ -3442,7 +3445,7 @@ Ho! admire (v)
 
 Ho! tooth (n)
 
-Ho!''oy' toothache (n)
+Ho!"oy' toothache (n)
 
 Hu ZOO (n)
 
@@ -7377,7 +7380,7 @@ tolerate (v) chergh
 tomorrow (n) wa'leS
 tongue (n) jat
 tooth (n) Ho!
-toothache (n) Ho!''oy'
+toothache (n) Ho!"oy'
 topaline (n) toplin
 torpedo (n) peng
 torpedoes (n) cha
@@ -7975,10 +7978,10 @@ Da-jatl-A
 I cannot speak Klingon. tlhIngan Hol vijatlhlaHbe' TLIngan khol
 vi-JATL-
 lakh-BE
-Where 1S a good nuqDag 'oOH Qe' QaQ'e'! NOOK-dak okh
+Where is a good nuqDag 'oOH Qe' QaQ'e'! NOOK-dak okh
 kkhe
 restaurant? KKHAKKH-e
-Where is the bathroom? nuqDag 'oOH puchpa''te' NOOK-dak okh
+Where is the bathroom? nuqDag 'oOH puchpa"te' NOOK-dak okh
 pooch-PA-e
 How much fuel do we nin ‘tar wighaj nin ar wi-
 GHAJ
@@ -8001,7 +8004,7 @@ Where can I get my shoes nugDaq waqwlj NOOK-dak WAK-
 wiJ
 cleaned? vilamHa'choHmoH vi-lam—-KHA-
 chokh-mokh
-Will it hurt? ‘oy''ta' oy-A
+Will it hurt? ‘oy"ta' oy-A
 Beam me aboard. HIjol khi-JOL
 Activate the transport jol ylIchu' Jol yi-CHOO
 beam!
@@ -8023,7 +8026,7 @@ Come here! HIghos khi-GHOSH
 Go to jail. bIghHa'Daq ylIghos bigh-KHA-dak
 yi-GHOSH
 Put him on screen. yiHotlh yi-KHOTL
-That 1s unfortunate. Do'Ha' do-KHA
+That is unfortunate. Do'Ha' do-KHA
 Understood. I understand. jlyaj Ji-YAJ
 Success! Qapla' kkhap-LA
 You will be remembered batlh Dagawlu'taH batl da-KOW-
@@ -8046,8 +8049,8 @@ Okay. lu! <or> luq loo <or> look
 When will the water be ghorgh tujchoHpu' bIQ ghorgh TOOJ-
 chokh-poo
 hot? bikkh
-Ts this seat taken? gquSDaQ ba! lu''a' KOOSH-dak BA-
-loo-a[[quSDaQ ba! lu''a'=>quSDagqg ba'lu''a']]
+Ts this seat taken? gquSDaQ ba! lu"a' KOOSH-dak BA-
+loo-a[[quSDaQ ba! lu"a'=>quSDagqg ba'lu"a']]
 I can't find my Qumwil'wlj vitu'laHbe' kkhoom—-WI-wi Jj
 communicator. Vi-TOO-
 lakh-BE
@@ -8155,7 +8158,7 @@ culture with the rest of us. {taHjaj bogq.}[[p.174]]
 3.3.1. Type 1: Noun Suffixes: Augmentative/diminutive
 {-oy} <endearment>
 
-This 1S an infrequently used, but nonetheless very inter-
+This is an infrequently used, but nonetheless very inter-
 esting noun suffix. It is a very peculiar suffix because it is the
 only suffix that begins with a vowel rather than a consonant.
 (Though there are no examples, it is suspected that for those
@@ -8228,7 +8231,7 @@ The earlier belief that adverbials come only at the begin-
 ning of sentences turns out to be not quite accurate. For a
 more correct description, see Section 6.7.
 
-There 1S a second word (in addition to {neH} <only, merely>)
+There is a second word (in addition to {neH} <only, merely>)
 which fits into this category despite its very peculiar behav-
 10r:
 
@@ -8267,7 +8270,7 @@ application. A few additional curses are listed below.
 
 {Qovpatlh}
 
-The invective {va} 1s actually just a shortened form of
+The invective {va} is actually just a shortened form of
 {Qu'vatlh.} Note also that the adverbial {jay'} <intensely> is
 invective in force (Section 5.4.).[[p.179]]
 
@@ -8277,7 +8280,7 @@ invective in force (Section 5.4.).[[p.179]]
 
 Tag questions (ending a statement with a question such as
 
-“*right?'' or ~*isn't that so?'') are formed by using the verb {gar}
+“*right?" or "isn't that so?") are formed by using the verb {gar}
 
 [[gar=>qar] ]
 
@@ -8318,7 +8321,7 @@ The adverbial may actually follow the object noun (but
 still precede the verb) when the object noun is topicalized by
 means of the noun suffix {-'e'} (see Section 3.3.5.).
 {Hagwil' 'e' DaH yISam} <Find the SURGEON now!>[[HagqwI' 'e!'=>
-Haqwi''e'] ]
+Haqwi"e'] ]
 ({HaqwIl'} <surgeon,> {DaH} <now,>
 {yISam} <find him/her!>)
 6.8. Indirect objects
@@ -8366,7 +8369,7 @@ DungluQ noon (n)
 Duy'a' ambassador (n)
 ghaytan likely (adv) [[p.182] ]
 ghew bug, cootie (n)
-ghe!''or netherworld
+ghe!"or netherworld
 (where dishonored go) (n)
 ghoch track, track down (v)
 ghojmoq nurse, nanny, governess (n)
@@ -8494,7 +8497,7 @@ toD rescue (n)[[p.185]]
 toDujJ courage, bravery (n)
 toQDuj Bird of Prey (vessel) (n)
 totLlh commodore (n)
-toy'wl''a' Slave (n)
+toy'wl"a' Slave (n)
 tlham gravity (n)
 tlhij apologize (v)
 tlhilHal mine (n)
@@ -8815,7 +8818,7 @@ Shuttlecraft (n) lupDujHom
 
 Site, location (n) Dag
 
-Slave (n) toy'wl''a'
+Slave (n) toy'wl"a'
 
 Subspace (n) "evnagh
 
@@ -8928,8 +8931,8 @@ Oo Proper use of affixes and suffixes[[affixes=>prefixes] ]
 Oo Conjuctions, exclamations and superlatives
 o Simple and complex sentence structure
 PLUS: The Klingon translation and pronunciations of
-representative phrases like ~*Always trust your instincts,''
-**Activate the transport beam,'' and °*Surrender or die.'!
+representative phrases like "Always trust your instincts,"
+**Activate the transport beam," and °*Surrender or die.'!
 Marc Okrand designed and developed the Klingon language and
 culture for the STAR TREK® feature films and STAR TREK
 THE NEXT GENERATION®.
