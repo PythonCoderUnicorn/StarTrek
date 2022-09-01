@@ -686,7 +686,7 @@ sounds of Klingon words and sentences.
 
         {yaS vimojpu'} <I became an officer.>
         {yaS DImojpu'} <We became officers.>
-        {yaS JIH} <I am an officer.>
+        {yaS jIH} <I am an officer.>
         {yaS maH} <We are officers.>
 
         In the first pair of sentences, the only difference is the verb
@@ -891,106 +891,125 @@ sounds of Klingon words and sentences.
         <an> and <the> are used in translations to make the English sound
         more natural.
 
+
+    3.3.5. Type 5: Syntactic markers
+
+        These suffixes indicate something about the function of the
+        noun in the sentence. As in English, subjects and objects are
+        normally indicated by the position of the noun or nouns in
+        the sentence. The following two English sentences have the
+        same words, but the sentences have different meanings due to
+        the order of the words:
+
+        <Dogs chase cats.>
+        <Cats chase dogs.>
+
+        Subjects and objects in Klingon are likewise indicated by
+        word order. This is described in section 6.1.
+        In other instances, English indicates the function of nouns
+        in a sentence by adding words, particularly prepositions. In
+        the following English sentence, the word <around> before
+        <canaries> indicates that the canaries are neither chasing nor
+        being chased:
+
+        <Dogs chase cats around canaries.>
+
+        Similarly, in Klingon, nouns which indicate something
+        other than subject or object usually must have some special
+        indication of exactly what their function is. Unlike English,
+        this is accomplished by using suffixes.
+
+        {-Dag} <locative>
+
+        This suffix indicates that something is happening (or has
+        happened or will happen) in the vicinity of the noun to which
+        it is attached. It is normally translated by an English preposi-
+        tion: <to, in, at, on.> The exact translation is determined by the
+        meaning of the whole sentence. For example, {pa'Dag} is {pa'}
+        <room> plus the suffix {-Dag.} It may occur in sentences such as
+        the following:
+
+        {pa'Daq jIHtaH} <I'm in the room.>
+        {pa'Daq yIjaH} <Go to the room.>
+
+        In the first sentence, {jIH} <I> is used in the sense of <I am> (see
+        section 6.3), so <in> is the most reasonable translation of {-Daq. }
+        In the second sentence, the verb is {jaH} <go,> so <to> makes the
+        most sense as a translation of {-Dagq.} 
         
-3.3.5. Type 5: Syntactic markers
-These suffixes indicate something about the function of the
-noun in the sentence. As in English, subjects and objects are
-normally indicated by the position of the noun or nouns in
-the sentence. The following two English sentences have the
-same words, but the sentences have different meanings due to
-the order of the words:
-<Dogs chase cats.>
-<Cats chase dogs.>[[p.27]]
-Subjects and objects in Klingon are likewise indicated by
-word order. This is described in section 6.1.
-In other instances, English indicates the function of nouns
-in a sentence by adding words, particularly prepositions. In
-the following English sentence, the word <around> before
-<canaries> indicates that the canaries are neither chasing nor
-being chased:
-<Dogs chase cats around canaries.>
-Similarly, in Klingon, nouns which indicate something
-other than subject or object usually must have some special
-indication of exactly what their function is. Unlike English,
-this is accomplished by using suffixes.
-{-Dag} <locative>
-This suffix indicates that something is happening (or has
-happened or will happen) in the vicinity of the noun to which
-it is attached. It is normally translated by an English preposi-
-tion: <to, in, at, on.> The exact translation is determined by the
-meaning of the whole sentence. For example, {pa'Dag} is {pa'}
-<room> plus the suffix {-Dag.} It may occur in sentences such as
-the following:
-{pa'Daq jIHtaH} <I'm in the room.>
-{pa'Daq yljaH} <Go to the room.>
-In the first sentence, {JIH} <I> is used in the sense of <I am> (see
-section 6.3), so <in> is the most reasonable translation of {-Daq. }
-In the second sentence, the verb is {jaH} <go,> so <to> makes the
-most sense as a translation of {-Dagq.} An English preposition
+        An English preposition need not be part of the translation. 
+        Klingon {Dung} means <area above,> and {DungDag} is <overhead,> literally something like "at
+        the area above." For further discussion on prepositional concepts, see section 3.4.
 
-need not be part of the translation. Klingon {Dung} means <area
-above,> and {DungDag} is <overhead,> literally something like ~-at
-the area above." For further discussion on prepositional
-concepts, see section 3.4.
-It is worth noting at this point that the concepts expressed
-by the English adverbs <here, there,> and <everywhere> are
-expressed by nouns in Klingon: {naDev} <hereabouts,> {pa'} <there-
-abouts,> {Dat} <everywhere.> These words may perhaps be trans-
-lated more literally as "area around here," "’area over there,"
-and ~ all places," respectively. Unlike other nouns, these
-three words are never followed by the locative suffix. (Note[[p.28] ]
-that {pa'} <thereabouts> and {pa'} <room> are identical in sound;
-{pa'Dag,} however, can mean only <in/to the room.>)
-There are a few verbs whose meanings include locative
-notions, such as {ghoS} <approach, proceed.> The locative suffix
-need not be used on nouns which are the objects of such
-verbs.
-{Du} ghoStaH} <It is approaching the ship.>
-({Duj} <ship, vessel,> {ghoStaH} <it is
-approaching it>)
-{yuQ wlghoStaH} <We are proceeding toward the planet.>
-({yuQ} <planet,> {vighoStaH} <we are
-proceeding toward it>)
-If the locative suffix is used with such verbs, the resulting
-sentence is somewhat redundant, but not out-and-out wrong.
-{DujJDaq ghoStaH} <It is approaching toward the ship.>
-{-vo'} <from>
-This suffix is similar to {-Dagq} but is used only when action is
-in a direction away from the noun suffixed with {-vo'.}
-{pa'vo' yljaH} <Leave the room!>
-A more literal translation of this sentence might be °°Go from
-the room."
-{-mo'} <due to, because of>
-This suffix occurs in sentences such as:
-{SuSmo' jogtaH} <It is fluttering in the breeze.>
-The noun {SuSmo'} means <due to the breeze,> so the whole
-sentence is literally "due to the breeze, it [a flag] is flutter-
-ing."
-{-vaD} <for, intended for>
-This suffix indicates that the noun to which it is attached is
-in some way the beneficiary of the action, the person or thing
-for whom or for which the activity occurs.
-{QOu'vaD 1I' De'vam} <This information is useful for
-the mission.>[[p.29] ]
+        It is worth noting at this point that the concepts expressed
+        by the English adverbs <here, there,> and <everywhere> are
+        expressed by nouns in Klingon: {naDev} <hereabouts,> {pa'} <there-abouts,> {Dat} <everywhere.> 
+        These words may perhaps be translated more literally as "area around here," "’area over there,"
+        and "all places," respectively. Unlike other nouns, these
+        three words are never followed by the locative suffix. 
+        that {pa'} <thereabouts> and {pa'} <room> are identical in sound;
+        {pa'Dag,} however, can mean only <in/to the room.>)
 
-The noun {Qu'vaD} means <for the mission,> and in this sentence
-{-vaD} indicates that the information is intended to be used
-somehow for the mission under discussion.
-{-"e'} <topic>
-This suffix emphasizes that the noun to which it is attached
-is the topic of the sentence. In English, this is frequently
-accomplished by stressing the noun (saying it emphatically) or
-by special syntactic constructions.
-{lujpu' jiIH'te'} <I, and only I, have failed.>[[lujpu'=>jIlujpu')]
-<It is I who has failed.>
-{De"e! vitlhapnispu'} <I needed to get the INFORMATION.>
-<It was the information (and not
-something else) that I needed.>
-Without the {'e',} these same sentences would have no noun[['e'=>-'‘'e']]
-singled out for emphasis:
-{lujpu' jIH} <I have failed.>[[lujpu'=>jIlujpu']]
-{De' vitlhapniispu'} <I needed to get the information.>
-For a further use of {-'e',} see section 6.3.
+        There are a few verbs whose meanings include locative
+        notions, such as {ghoS} <approach, proceed.> The locative suffix
+        need not be used on nouns which are the objects of such verbs.
+
+        {Du} ghoStaH} <It is approaching the ship.>
+            ({Duj} <ship, vessel,> {ghoStaH} <it is approaching it>)
+
+        {yuQ wIghoStaH} <We are proceeding toward the planet.>
+            ({yuQ} <planet,> {vIghoStaH} <we are proceeding toward it>)
+
+        If the locative suffix is used with such verbs, the resulting
+        sentence is somewhat redundant, but not out-and-out wrong.
+        {DujJDaq ghoStaH} <It is approaching toward the ship.>
+
+        {-vo'} <from>
+
+        This suffix is similar to {-Dagq} but is used only when action is
+        in a direction away from the noun suffixed with {-vo'.}
+        {pa'vo' yIjaH} <Leave the room!>
+        A more literal translation of this sentence might be "Go from the room."
+
+        {-mo'} <due to, because of>
+
+        This suffix occurs in sentences such as:
+        {SuSmo' jogtaH} <It is fluttering in the breeze.>
+        The noun {SuSmo'} means <due to the breeze,> so the whole
+        sentence is literally "due to the breeze, it [a flag] is fluttering."
+
+        {-vaD} <for, intended for>
+
+        This suffix indicates that the noun to which it is attached is
+        in some way the beneficiary of the action, the person or thing
+        for whom or for which the activity occurs.
+        {Qu'vaD lI' De'vam} <This information is useful for the mission.>
+
+        The noun {Qu'vaD} means <for the mission,> and in this sentence
+        {-vaD} indicates that the information is intended to be used
+        somehow for the mission under discussion.
+
+        {-'e'} <topic>
+
+        This suffix emphasizes that the noun to which it is attached
+        is the topic of the sentence. In English, this is frequently
+        accomplished by stressing the noun (saying it emphatically) or
+        by special syntactic constructions.
+
+        {lujpu' jIH'e'} <I, and only I, have failed.> [[ lujpu' => jIlujpu' ]] <It is I who has failed.>
+
+        {De"e! vItlhapnISpu'} <I needed to get the INFORMATION.>
+        <It was the information (and not something else) that I needed.>
+
+        Without the {'e',} these same sentences would have no noun[['e' =>- 'e']] singled out for emphasis:
+
+        {lujpu' jIH} <I have failed.> [[lujpu' => jIlujpu']]
+
+        {De' vItlhapnISpu''} <I needed to get the information.>
+
+        For a further use of {-'e',} see section 6.3.
+
+        
 3.3.6. Relative ordering of the suffixes
 As briefly illustrated in the discussion of {-vam} <this> and {-vetlh}
 <that> (section 3.3.4), when a noun is followed by more than
@@ -1074,13 +1093,13 @@ example:
 English prepositional phrases are also rendered in Klingon
 by this noun-noun construction. Prepositional concepts such
 as above and below are actually nouns in Klingon, best
-translated as ~’area above," ~’ area below," etc. The locative
+translated as "’area above," "’ area below," etc. The locative
 suffix (section 3.3.5) follows the second noun. For example:
 {nagh DungDag} <above the rock>
 {nagh} (noun) <rock>
 {Dung} (noun) <area above>
 {-Daq} (5) <locative>
-More literally, this is "’at the area above the rock" or ~‘at the
+More literally, this is "’at the area above the rock" or "‘at the
 rock's above-area."[[p.32]]
 4. VERBS
 Klingon verbs are mostly monosyllabic forms which may
@@ -1091,7 +1110,7 @@ There are nine types of verb suffixes. Unlike Klingon
 nouns, Klingon verbs may take prefixes. Thus, if suffix types
 are indicated as numbers, the structure of a Klingon verb
 is:
-PREF ITX--VERB-~—1--—2--—3-—-4-—-5-—-6-—-7--8-—9
+PREF ITX--VERB-"—1--—2--—3-—-4-—-5-—-6-—-7--8-—9
 4.1. Pronominal prefixes
 Fach Klingon verb begins with a single prefix that indicates
 who or what is performing the action described by the verb
@@ -1122,8 +1141,8 @@ verb prefix system. For such meanings, suffixes (section 4.2.1)
 and/or pronouns (section 5.1) must be used.
 
 The prefixes in the first column of the chart (headed
-~“*none") are used when there is no object; that is, when the
-action of the verb affects only the subject (the °°doer"'). The
+"“*none") are used when there is no object; that is, when the
+action of the verb affects only the subject (the "doer"'). The
 verb {Qong} <sleep> occurs with the pronominal prefixes as
 follows:
 
@@ -1206,7 +1225,7 @@ There are nine types of verb suffixes.
 This suffix is used to indicate that the action described by
 the verb affects the performer of the action, the subject. It is
 translated by English <self.> When this suffix is used, the prefix
-set indicating ~’no object" must also be used.
+set indicating "’no object" must also be used.
 {jIqip'egh} <I hit myself> ({gqIp} <hit>)
 {bIgIp'egh} <you hit yourself>
 {qIip'egh} <he/she hits himself/herself>
@@ -1487,7 +1506,7 @@ would be more appropriate.
 This word implies that data are in the process of being
 transmitted, but that there is a finite amount of data, so there
 will be a definite end to the transmission. The fact that the
-verb {l1I'} and the suffix {-lI'} are identical in sound is purely
+verb {llI'} and the suffix {-lI'} are identical in sound is purely
 coincidental, so far as can be determined. [[p.43]]
 
 The suffix {-taH} <continuous> can be used whether there is a
@@ -1535,7 +1554,7 @@ This is the relative-clause marker. It is described in section
 This marks purpose clauses. See section 6.2.4.
 {-'a'} <interrogative>
 This suffix indicates that the sentence is a yes/no question;
-that is, a question which can be answered ~‘yes" or °*no." (See
+that is, a question which can be answered "‘yes" or °*no." (See
 also section 6.4.).
 {cholegh'a'} <do you see me?> ({legh} <see>)
 {yaj'a'} <does he/she understand?> ({yaj} <understand>)
@@ -1575,7 +1594,7 @@ to show ordering of the suffixes.
 {qaw} (verb) <remember>
 {-lu' } (5) <indefinite subject>
 {-taH} (7) <continuous>
-{vItlhapniispu'} <I needed to take him/her>
+{vItlhapnISpu''} <I needed to take him/her>
 {vI-} (prefix) <I--him/her>
 {tlhap} (verb) <take>
 {-nis } (2) <need>
@@ -1832,7 +1851,7 @@ Pronouns are not used in possessive constructions in the
 way nouns are; instead, the set of possessive noun suffixes is
 used (section 3.3.4).
 
-Finally, pronouns can be used as verbs, in the sense of ~'I
+Finally, pronouns can be used as verbs, in the sense of "'I
 am, " etc. (See section 6.3).
 
 5.2. Numbers
@@ -2086,7 +2105,7 @@ curses. Only three such curses have been noted to date.
 
 {ghuy'cha'} <*@S%>
 
-{QOu'vatlh} <#*@!>
+{Qu'vatlh} <#*@!>
 5.6. Names and address
 Klingon names are frequently mispronounced by non-[[keep hypen] ]
 Klingons. Furthermore, when written in the writing systems
@@ -2165,9 +2184,9 @@ seeing whom is by the order of the words in the sentence. The
 verb {legh} is preceded by the prefix 0 <he/she--him/her.>
 When the subject and/or object is first or second person,
 the prefix on the verb must be the proper one.
-{puq villegh JIH} <I see the child.>
+{puq villegh jIH} <I see the child.>
 ({vIlegh} <I see him/her>)
-{JIH mulegh pug} <The child sees me.>
+{jIH mulegh pug} <The child sees me.>
 ({mulegh} <he/she sees me>)
 Actually, the first- and second-person pronouns are seldom
 used in sentences of this type (though they can, as here, be
@@ -2424,11 +2443,11 @@ prisoners.> The second sentence is {net Sov} <One knows that.>
 The full construction implies that it is common knowledge
 that the group to which the speaker belongs kills prisoners.
 
-{Qu'vaD 1I' net tu'bej} <One certainly finds it useful for
+{Qu'vaD lI' net tu'bej} <One certainly finds it useful for
 
 the mission.>
 
-The first part of this example is {Qu'vaD l1I'} <It is useful for the
+The first part of this example is {Qu'vaD llI'} <It is useful for the
 mission> ({Qu'vaD} <for the mission,> {lI'} <it is useful>). The second
 part is {net tu'bej} <One certainly finds that> or <One certainly
 observes that.> The full construction might also be translated
@@ -2469,7 +2488,7 @@ in either order.
 {gaja'pu' HIgaghQo' }
 
 or {HIqaghQo' gaja'pu'} <I told you not to interrupt me.>
-This is literally <I told you, "Don't interrupt me!"> or <°°Don't
+This is literally <I told you, "Don't interrupt me!"> or <"Don't
 interrupt me" I told you> ({gqaja'pu'} <I told you,> {HIqaghQo'} <don't
 interrupt me!>). An aspect marker (here, {-pu'} <perfective>) may
 always be attached to the verb of saying, regardless of
@@ -2480,7 +2499,7 @@ accomplished (section 4.2.7) is another example of the two-[[keep
 hyphen] |]
 verb (or two-sentence) construction.
 
-6.3. °° To be!!
+6.3. " To be!!
 There is no verb corresponding to English <to be> in Klingon.
 On the other hand, all pronouns (section 5.1) can be used as
 verbs, in the sense of <I am, you are,> etc.
@@ -2494,7 +2513,7 @@ verbs, in the sense of <I am, you are,> etc.
 The pronoun always follows the noun.
 
 Similarly, there is no verb corresponding to <to be> in the
-sense of ~'to be at a place." Again, the pronouns are used,
+sense of "'to be at a place." Again, the pronouns are used,
 followed, where appropriate, by verbal suffixes.
 
 {pa'wljDaq jIHtaH} <I am in my quarters.>
@@ -2518,7 +2537,7 @@ These sentences might also be translated <As for the prisoners,
 they are children; As for the commander, he is in his quarters.>
 6.4. Questions
 There are two types of questions: those which may be
-answered ~‘yes" or °*no," and those which require explana-
+answered "‘yes" or °*no," and those which require explana-
 tions as answers.
 
 Yes/no questions are formed with the Type 9 suffix {-'a'}
@@ -2638,7 +2657,7 @@ twice.[[p.72] ]
 The preceding grammatical sketch describes "proper"!
 Klingon, that is, Klingon as it is taught in Klingon schools or
 to non-Klingons. In actual day-to-day use, however, spoken
-Klingon may vary somewhat from its ~’proper" form, usually
+Klingon may vary somewhat from its "’proper" form, usually
 by leaving some elements out. This abbreviated form of
 speaking, called Clipped Klingon by Klingon grammarians, is
 heard quite frequently in military contexts where quick
@@ -2687,7 +2706,7 @@ Finally, other grammatical markers, particularly noun suf-
 fixes, may be left out of commands.
 
 Proper Klingon: {jolpa'Dag yIjaH} <Go to the transport room!>
-Clipped Klingon: {jolpa' yljaH}
+Clipped Klingon: {jolpa' yIjaH}
 
 ({jolpa'} <transport room,> {-Dag} <locative,> {jaH} <go>)
 
@@ -3634,9 +3653,9 @@ je! buy, purchase (v)
 je! feed (someone else) (v)
 jib hair (on head) (n)
 
-JIH I, me (pro)
+jIH I, me (pro)
 
-JIH viewing screen (n)
+jIH viewing screen (n)
 
 jIj cooperate (v)
 
@@ -4727,7 +4746,7 @@ Out be vulgar (v)
 
 OQuv coordinates (n)
 
-QOu' duty, quest, mission, task, chore (n)
+Qu' duty, quest, mission, task, chore (n)
 
 raD force, compel (v)
 
@@ -6542,7 +6561,7 @@ hurt (n) "oy!
 hurt (v) "oy!
 husband (n) loDnal
 hypnotize (v) vong
-I, me (pro) JIH
+I, me (pro) jIH
 ice (n) chuch[[p.138] ]
 idea (n) gech
 identical, be identical (v) nib
@@ -6748,7 +6767,7 @@ marriage (n) tlhogh
 marry (husband does this) (v) Saw
 marry (wife does this) (v) nay
 matter (n) Hap
-me, I (pro) JIH
+me, I (pro) jIH
 mean, be mean (v) ge
 mean to, intend (v) Hech
 measure (v) Juv
@@ -7183,7 +7202,7 @@ science officer (n) QeDpin
 scientist (n) tej
 scold (v) gqun
 scream, cry out, shout (v) jach
-screen, viewing screen (n) JIH
+screen, viewing screen (n) jIH
 search for, seek, look for (v) nej
 second (num) cha'DIch
 second (of time) (n) lup
@@ -7609,7 +7628,7 @@ vicious, be vicious (v) nas
 
 victory, triumph (n) yay
 
-viewing screen (n) JIH
+viewing screen (n) jIH
 
 violent, be violent (v) ral
 
@@ -8480,7 +8499,7 @@ jay' intensely (invective) (adv)
 ja'chug succession ritual (ancient) (n)
 jech disguise, costume (n)
 yey itinerary (n)
-JIH monitor (v)
+jIH monitor (v)
 jogh Quadrant (n)
 JuHgo' home world (n)
 lagh ensign (n)
@@ -8803,7 +8822,7 @@ mine (n) tlhilHal
 
 mock (v) vag
 
-monitor (v) JIH
+monitor (v) jIH
 
 move, be in motion (v) vVIH
 
