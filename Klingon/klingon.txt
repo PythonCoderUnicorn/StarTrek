@@ -743,7 +743,7 @@ sounds of Klingon words and sentences.
         used, it adds a notion of "scattered all about" to the meaning.
 
         Compare:
-            {pug} <child>
+            {puq} <child>
             {puqpu'} <children>
             {puqmey} <children all over the place>
 
@@ -1103,8 +1103,8 @@ sounds of Klingon words and sentences.
         {-—mey } (2)    <plural>
         {-Daq}  (5)     <locative>
 
-        {pugwil' gamDu'} <my child's feet>
-        {pug }  (noun)  <child>
+        {puqwil' gamDu'} <my child's feet>
+        {puq }  (noun)  <child>
         {—wI' } (4)     <my>
         {qam}   (noun)  <foot>
         {-Du}   (2)     <plural>
@@ -1436,7 +1436,7 @@ sounds of Klingon words and sentences.
         {tu'lu'} <someone/something finds it> is often translated by English <there is.>
 
         {naDev puqpu' tu'lu'}   <there are children around here, someone/something finds children here> 
-        ({naDev}                <hereabouts,>       {pugqpu' }
+        ({naDev}                <hereabouts,>       {puqqpu' }
         <children>)
 
         {-laH} <can, able>
@@ -1857,34 +1857,41 @@ sounds of Klingon words and sentences.
         The rover {-qu'} also follows verbs when they are used adjectivally (section 4.4).
 
 
-4.4 Adjectives[[4.4=>4.4.]]
-There are no adjectives as such in Klingon. Those notions
-expressed as adjectives in English (such as <big, tired>) are
-expressed by verbs in Klingon (<be big, be tired>). A verb
-expressing a state or quality can be used immediately follow-
-ing a noun to modify that noun.
-{pug Doy'} <tired child>
-{pug} <child>
-{Doy'} <be tired>
-{Dujmey tIn} <big ships>
-{Dujmey} <ships, vessels>
-{tIn} <be big>
-The rover {-qu'} <emphatic> (section 4.3) may follow verbs
-functioning adjectivally. In this usage, it is usually translated
-<very.>
-{Dujmey tIngqu'} <very big ships>[[p.50]]
-{wanlIl' ramgqu'} <a very unimportant event>
-{wanl'} <event, occurrence>
-{ram} <be trivial, unimportant>
-If a Type 5 noun suffix is used (section 3.3.5), it follows the
-verb, which, when used to modify the noun in this way, can
-have no other suffix except the rover {-qu'} <emphatic.> The Type
-5 noun suffix follows {-qu'.}
-{veng tInDaq} <in the big city>
-{veng} <city>
-{tIn} <be big>
-{-Daq} <locative>
-{veng tIngu'Daq} <in the very big city>[[p.51]]
+    4.4 Adjectives [[4.4 => 4.4.]]
+
+        There are no adjectives as such in Klingon. Those notions
+        expressed as adjectives in English (such as <big, tired>) are
+        expressed by verbs in Klingon (<be big, be tired>). A verb
+        expressing a state or quality can be used immediately follow-
+        ing a noun to modify that noun.
+
+        {puq Doy'}  <tired child>
+        {puq}       <child>
+        {Doy'}       <be tired>
+        {Dujmey tIn} <big ships>
+        {Dujmey}     <ships, vessels>
+        {tIn}       <be big>
+
+        The rover {-qu'} <emphatic> (section 4.3) may follow verbs
+        functioning adjectivally. In this usage, it is usually translated <very.>
+
+        {Dujmey tIngqu'}    <very big ships>[[p.50]]
+        {wanlIl' ramgqu'}   <a very unimportant event>
+        {wanl'}             <event, occurrence>
+        {ram}               <be trivial, unimportant>
+
+        If a Type 5 noun suffix is used (section 3.3.5), it follows the
+        verb, which, when used to modify the noun in this way, can
+        have no other suffix except the rover {-qu'} <emphatic.> The Type
+        5 noun suffix follows {-qu'.}
+
+        {veng tInDaq}       <in the big city>
+        {veng}              <city>
+        {tIn}               <be big>
+        {-Daq}              <locative>
+        {veng tIngu'Daq}    <in the very big city>
+
+
 5. OTHER KINDS OF WORDS
 By far the bulk of Klingon words are nouns and verbs. There
 are a few others which, probably as an expedient, Klingon
@@ -2043,7 +2050,7 @@ The preceding sentence is grammatically correct even without
 the {wa'} because the prefix {yI-} indicates a singular object. The
 {wa',} therefore, is used for emphasis only.
 Numbers used as modifiers precede the noun they modify.
-{loS pugqpu'} or {loS pug} <four children>
+{loS puqqpu'} or {loS puq} <four children>
 {vaghmaH yuQmey} or {vaghmaH yuQ} <fifty planets>
 The plural suffixes ({-pu', -mey}) are not necessary when a
 number is used.
@@ -2278,9 +2285,9 @@ is the person or thing doing the action described by the verb;
 The object is the recipient of that action.
 The importance of word order can be seen by comparing
 the following sentences.
-{pug legh yaS} <The officer sees the child.>
-{yaS legh pug} <The child sees the officer.>
-In both sentences, the words are identical: {pug} <child,> {legh}
+{puq legh yaS} <The officer sees the child.>
+{yaS legh puq} <The child sees the officer.>
+In both sentences, the words are identical: {puq} <child,> {legh}
 [[p.60]]
 <he/she sees him/her,> {yaS} <officer.> The only way to know who is
 seeing whom is by the order of the words in the sentence. The
@@ -2289,14 +2296,14 @@ When the subject and/or object is first or second person,
 the prefix on the verb must be the proper one.
 {puq villegh jIH} <I see the child.>
 ({vIlegh} <I see him/her>)
-{jIH mulegh pug} <The child sees me.>
+{jIH mulegh puq} <The child sees me.>
 ({mulegh} <he/she sees me>)
 Actually, the first- and second-person pronouns are seldom
 used in sentences of this type (though they can, as here, be
 used for emphasis), so the following sentences illustrate more
 commonly occurring sentence types.
-{pug villegh} <I see the child.>
-{mulegh pug} <The child sees me.>
+{puq villegh} <I see the child.>
+{mulegh puq} <The child sees me.>
 Imperative sentences (commands) follow the same rules.
 {So'wl' yIchu'} <Engage the cloaking device!>
 ({So'wl'} <cloaking device,>
@@ -2343,8 +2350,8 @@ When a noun (as opposed to simply a verbal prefix)
 indicates subject and/or object, there are some options in
 Klingon. In its fullest form, a Klingon sentence repeats the
 noun:
-{yaS legh pug 'ej yaS gIp pug}
-({yaS} <officer,> {pug} <child,> {legh} <he/she sees
+{yaS legh puq 'ej yaS gIp puq}
+({yaS} <officer,> {puq} <child,> {legh} <he/she sees
 him/her,> {qIp} <he/she hits him/her>)
 <The child sees the officer and the child hits
 the officer.>
@@ -2354,7 +2361,7 @@ or
 <The child sees and hits the officer.>
 It is possible, however, to use pronouns rather than nouns in
 the second of the joined sentences. [[p.62] ]
-{yaS legh pug 'ej ghaH gIp ghaH} ({ghaH} <he/she>)
+{yaS legh puq 'ej ghaH gIp ghaH} ({ghaH} <he/she>)
 <The child sees the officer and he/she hits him/her.>
 or
 <The child sees the officer and hits him/her.>
@@ -4503,7 +4510,7 @@ puch toilet (n)
 
 puchpa' washroom (n)
 
-pugh dregs (n)
+puqh dregs (n)
 
 puH land (n)
 
@@ -4525,10 +4532,10 @@ pup be perfect, exact (v)
 
 pup kick (v)
 
-pug child, offspring (n)
+puq child, offspring (n)
 puqbe' daughter (n)
 
-pug loD son (n)
+puq loD son (n)
 
 puQ be fed up (v)
 
@@ -5989,7 +5996,7 @@ chat (v) jaw[[p.124] ]
 cheat (v) ngor
 cheek (n) gevpob
 chew (v) yiv
-child, offspring (n) pug
+child, offspring (n) puq
 chin (n) wos
 chocolate (n) yuch
 choice (n) wiv
@@ -6127,7 +6134,7 @@ dark, be dark (v) Hurgh
 data (n) De'
 data transceiving device (n) HabllI'
 data transmission (n) jabbI'ID
-daughter (n) pugbe'
+daughter (n) puqbe'
 dawn (n) jajlo'
 day (from dawn to dawn) (n) jay
 day after tomorrow (n) cha'les
@@ -6229,7 +6236,7 @@ doubt (v) Hon
 dread (v) Haj
 dream (v) naj
 
-dregs (n) pugh
+dregs (n) puqh
 
 drill (military) (n) geq[ [p.130] ]
 
@@ -6987,7 +6994,7 @@ ocean (n) biQ'ta!'
 odd, be odd (v) Jum
 offend (v) maw
 officer (n) yas, ‘utlh
-offspring, child (n) pug
+offspring, child (n) puq
 often (adv) ply
 okay, yes, I will (excl) lug, lu'
 old, be old (not new) (v) ngo'
@@ -7410,7 +7417,7 @@ somebody, something, anybody, vay'
 anything (n)[[p.154]]
 sometimes (adv) rut
 somewhere (n) vogh
-son (n) pug loD
+son (n) puq loD
 soon (adv) tugh
 sore (n) "oy!
 sore, be sore (v) "oy!
