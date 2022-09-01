@@ -1377,8 +1377,8 @@ INTRODUCTION
         causing a change of condition or causing a new condition to
         come into existence.
 
-        {tIjwl'ghom vIchenmoH}  <I form a boarding party>
-        ({tIljwl'ghom}          <boarding party,>
+        {tIjwI'ghom vIchenmoH}  <I form a boarding party>
+        ({tIljwI'ghom}          <boarding party,>
         {chen}                  <take form, take shape>)
 
         This sentence might also be translated <I cause a boarding party to be formed.>
@@ -2208,70 +2208,87 @@ INTRODUCTION
 
 
 6. SYNTAX
-As in any language, Klingon sentences range from the very
-Simple and straightforward to the very complex and convo-
-luted. What follows here are the mere basics of Klingon
-sentence structure. This information should provide a good
-foundation so that students of Klingon can converse properly,
-though not eloguently, while learning more about the lan-
-guage.
-6.1. Basic sentences
-The basic structure of a Klingon sentence is:
 
-OBJECT-—-VERB--SUBJECT
+    As in any language, Klingon sentences range from the very
+    Simple and straightforward to the very complex and convoluted. 
+    What follows here are the mere basics of Klingon
+    sentence structure. This information should provide a good
+    foundation so that students of Klingon can converse properly,
+    though not eloguently, while learning more about the language.
 
-This the reverse of the order in English, so care should be
-taken to avoid interpreting sentences backward. The subject
-is the person or thing doing the action described by the verb;
-The object is the recipient of that action.
-The importance of word order can be seen by comparing
-the following sentences.
-{puq legh yaS} <The officer sees the child.>
-{yaS legh puq} <The child sees the officer.>
-In both sentences, the words are identical: {puq} <child,> {legh}
-[[p.60]]
-<he/she sees him/her,> {yaS} <officer.> The only way to know who is
-seeing whom is by the order of the words in the sentence. The
-verb {legh} is preceded by the prefix 0 <he/she--him/her.>
-When the subject and/or object is first or second person,
-the prefix on the verb must be the proper one.
-{puq villegh jIH} <I see the child.>
-({vIlegh} <I see him/her>)
-{jIH mulegh puq} <The child sees me.>
-({mulegh} <he/she sees me>)
-Actually, the first- and second-person pronouns are seldom
-used in sentences of this type (though they can, as here, be
-used for emphasis), so the following sentences illustrate more
-commonly occurring sentence types.
-{puq villegh} <I see the child.>
-{mulegh puq} <The child sees me.>
-Imperative sentences (commands) follow the same rules.
-{So'wl' yIchu'} <Engage the cloaking device!>
-({So'wl'} <cloaking device,>
-{yIchu'} <engage it!>)
-{DoS ylIbuS} <Concentrate on the target!>
-({DoS} <target,> {yIbuS} <concentrate on it!>)
-{yaSpu' tIHoH} <Kill the officers!>
-({yaSpu'} <officers,> {tIHoH} <kill them!>)
-Any noun in the sentence indicating something other than
-subject or object comes first, before the object noun. Such
-nouns usually end ina Type 5 noun suffix (section 3.3.5).
-{pa'Daq yaS vileghpu'} <I saw the officer in the room.>
-({pa'Daq} <in the room, >
-{yaS} <officer,> {vIleghpu'} <I saw him/
-her>)
-Other examples of this construction are given in section
-3.3.5.
-6.2. Complex sentences
-A few of the more common types of more elaborate Klingon
-sentences will be illustrated. [[p.61]]
+    6.1. Basic sentences
 
-6.2.1. Compound sentences
-Two sentences may be joined together to form a longer
-compound sentence. Both sentences must be able to stand
-alone as properly formed sentences. When combined, they
-Simply come one after the other, joined by a conjunction (see
-section 5.3).
+        The basic structure of a Klingon sentence is:
+
+            OBJECT-—-VERB--SUBJECT
+
+        This the reverse of the order in English, so care should be
+        taken to avoid interpreting sentences backward. The subject
+        is the person or thing doing the action described by the verb;
+        The object is the recipient of that action.
+        The importance of word order can be seen by comparing the following sentences.
+
+        {puq legh yaS}  <The officer sees the child.>
+        {yaS legh puq}  <The child sees the officer.>
+            In both sentences, the words are identical: 
+            {puq}   <child,> 
+            {legh}  <he/she sees him/her,> 
+            {yaS}   <officer.> 
+            
+        The only way to know who is seeing whom is by the order of the words in the sentence. 
+        The verb {legh} is preceded by the prefix 0 <he/she--him/her.>
+        When the subject and/or object is first or second person,
+        the prefix on the verb must be the proper one.
+
+            {puq villegh jIH}   <I see the child.>
+            ({vIlegh}           <I see him/her>)
+            {jIH mulegh puq}    <The child sees me.>
+            ({mulegh}           <he/she sees me>)
+
+        Actually, the first- and second-person pronouns are seldom
+        used in sentences of this type (though they can, as here, be
+        used for emphasis), so the following sentences illustrate more
+        commonly occurring sentence types.
+
+            {puq villegh}   <I see the child.>
+            {mulegh puq}    <The child sees me.>
+
+        Imperative sentences (commands) follow the same rules.
+
+            {So'wI' yIchu'}     <Engage the cloaking device!>
+            ({So'wI'}           <cloaking device,>
+            {yIchu'}            <engage it!>)
+            {DoS ylIbuS}        <Concentrate on the target!>
+            {DoS}               <target,> 
+            {yIbuS}             <concentrate on it!>
+            {yaSpu' tIHoH}      <Kill the officers!>
+            {yaSpu'}            <officers,> 
+            {tIHoH}             <kill them!>
+
+        Any noun in the sentence indicating something other than
+        subject or object comes first, before the object noun. Such
+        nouns usually end ina Type 5 noun suffix (section 3.3.5).
+    
+        {pa'Daq yaS vileghpu'}          <I saw the officer in the room.>
+        {pa'Daq}                        <in the room, >
+        {yaS}                           <officer,> 
+        {vIleghpu'}                     <I saw him/her>)
+
+        Other examples of this construction are given in section 3.3.5.
+
+
+    6.2. Complex sentences
+
+        A few of the more common types of more elaborate Klingon
+        sentences will be illustrated.
+
+    6.2.1. Compound sentences
+
+        Two sentences may be joined together to form a longer
+        compound sentence. Both sentences must be able to stand
+        alone as properly formed sentences. When combined, they
+        Simply come one after the other, joined by a conjunction (see section 5.3).
+        
 {jisoptaH 'ej QongtaH} <I am eating, and he/she is
 sleeping.>
 {jisoptaH 'ach QongtaH} <I am eating, but he/she is
@@ -2772,7 +2789,7 @@ ing device.>
 Proper Klingon: {So'wI' chu'lu'ta'} <The cloaking device
 has been engaged.>
 Clipped Klingon: {So'wI' chu'ta'} <Cloaking device engaged.>
-({So'wl'} <cloaking device,> {viIchu'ta'} <I have engaged it,>
+({So'wI'} <cloaking device,> {viIchu'ta'} <I have engaged it,>
 {chu'lu'ta'} <it has been engaged>)
 
 In the preceding example, the clipped form can correspond
@@ -3036,7 +3053,7 @@ guage) (pro)
 
 chal sky (n)
 
-chamwl' technician (n)
+chamwI' technician (n)
 
 chap back (of hand) (n)
 
@@ -3097,7 +3114,7 @@ chID admit (v)
 
 chlj navigate (v)
 
-chijwl' navigator (n)
+chijwI' navigator (n)
 
 chim be empty, deserted, uninhabited (v)
 
@@ -3193,7 +3210,7 @@ Dech Surround (v)
 
 Degh helm (n)
 
-Deghwl' helmsman (n)
+DeghwI' helmsman (n)
 
 DejJ collapse (v)
 
@@ -3211,7 +3228,7 @@ DeS arm (body part) (n)
 Dev lead, guide (v)
 
 De' data, information (n)
-De'wl' computer (n)
+De'wI' computer (n)
 
 DIb privilege (n)
 
@@ -3336,7 +3353,7 @@ ghar diplomacy (n)
 
 ghargh serpent, worm (n)
 
-gharwl' diplomat (n)
+gharwI' diplomat (n)
 
 ghatlh dominate (v)
 
@@ -3384,7 +3401,7 @@ ghojJ learn (v)
 
 gho jmoH teach, instruct (v)
 
-ghojwl' student (n)
+ghojwI' student (n)
 
 ghol opponent, adversary (n)
 
@@ -3518,7 +3535,7 @@ HeS commit a crime (v)
 
 HeS Crime (n)
 
-HeSwl' Criminal (n)
+HeSwI' Criminal (n)
 
 Hev receive (v)
 
@@ -3595,7 +3612,7 @@ Hot touch, feel (v)
 Hotlh project, put on (screen) (v)
 Hot Lh scan (v)
 
-HotLlhwl' scanner (n)
+HotLlhwI' scanner (n)
 
 Hov star (n)
 
@@ -3739,7 +3756,7 @@ jon capture (v)
 
 jonta' engine (n)
 
-jonwl' engineer (n)
+jonwI' engineer (n)
 
 Jog flap, flutter, wave (v)
 jJoq or, and/or (joining nouns) (conj)
@@ -3747,7 +3764,7 @@ joqwi' flag (n)
 
 jor explode (v)
 
-jorwl' explosive (n)
+jorwI' explosive (n)
 
 JOS gossip (v)
 
@@ -3819,7 +3836,7 @@ lel get out, take out (v)
 leng roam, travel, rove (v)
 leng trip, voyage (n)
 
-lengwl' rover (grammatical term) (n)
+lengwI' rover (grammatical term) (n)
 leQ Switch (n)
 
 les days from now (n)
@@ -3894,7 +3911,7 @@ lot catastrophe (n)
 
 lotlh rebel (v)
 
-lotlhwl' rebel (n)
+lotlhwI' rebel (n)
 
 Loy guess (v)
 
@@ -3934,7 +3951,7 @@ mach be small (v)
 
 magh betray (v)
 
-maghwl' traitor (n)[[p.94]]
+maghwI' traitor (n)[[p.94]]
 
 maH ten (number-forming element) (num)
 maH we, uS (pro)
@@ -4149,7 +4166,7 @@ nIiH right (side) (n)
 
 niH steal (v)
 
-niHwl' thief (n)
+niHwI' thief (n)
 
 nij leak (v)
 
@@ -4201,7 +4218,7 @@ no! ancestors (n)
 
 nub be suspect (v)
 
-nubwl' predecessor (n)
+nubwI' predecessor (n)
 
 nuch Coward (n)
 
@@ -4459,7 +4476,7 @@ pu be weak (v)
 
 pu ymoH weaken (v)
 
-pujwl' weakling (n)
+pujwI' weakling (n)
 
 pum accusation (n)
 
@@ -4816,7 +4833,7 @@ ratlh remain (v)
 rav floor (n)
 ray' targets (n)
 ra' order, command (v)
-ra'wl' commander (n)
+ra'wI' commander (n)
 reghulus Regulus (n)
 reghuluSngan Regulan (n)
 reghulus
@@ -4829,7 +4846,7 @@ retlh area beside, area next to (n)
 rewbe' citizen (n)
 righ be lame (v)
 riH energize (v)
-riHwl' energizer (n)
+riHwI' energizer (n)
 rin be accomplished, finished (v) [[p.106] ]
 rip council, assembly (n) [TKD K-E]
 r1iQ be injured (v)
@@ -5084,7 +5101,7 @@ tengchaH Space station (n)
 
 tep cargo (n)
 
-tepgengwl' cargo carrier (n)
+tepgengwI' cargo carrier (n)
 
 teq remove, take off (v)
 tera' Barth (n)
@@ -5143,7 +5160,7 @@ tor kneel (v)
 tos climb (v)
 
 toy' serve (a master) (v)
-toy'wl' servant (n)
+toy'wI' servant (n)
 
 to! tactics (n)
 
@@ -5212,7 +5229,7 @@ tlhil mine (v)
 
 tlhil mineral (n)
 
-tlhilwl' miner (n)
+tlhilwI' miner (n)
 
 tlhingan Klingon (n)
 
@@ -5348,7 +5365,7 @@ VUV respect (v)
 
 vu' manage (v)
 
-vu'lwl' manager (n)
+vu'lwI' manager (n)
 
 wam hunt (v)
 
@@ -5553,7 +5570,7 @@ yu'egh wave (n)
 
 "av guard (v)
 
-‘avwl' guard (n)
+‘avwI' guard (n)
 
 "aw' sting (v)
 
@@ -5629,7 +5646,7 @@ Tetlh Sword (n)
 
 "Os represent (v)
 
-"oSwl' emissary (n)
+"oSwI' emissary (n)
 
 "Ov compete (v)[[p.117]]
 
@@ -5895,7 +5912,7 @@ careless, be careless (v) yepHa'
 
 cargo (n) tep
 
-Cargo carrier (n) tepgqengwl'
+Cargo carrier (n) tepgqengwI'
 
 carry (v) gqeng
 
@@ -5962,7 +5979,7 @@ climb (v) tos
 clip (v) poDmoH
 clipped, be clipped (v) poD
 Cloak, hide (v) So!
-cloaking device (n) So'wL'
+cloaking device (n) So'wI'
 close in, get closer, come nearer (v) chol
 close, shut (v) SoQmoH
 closed, be closed, be shut (v) SoQ
@@ -5984,7 +6001,7 @@ come (v) ghos
 come on (excl) Ha'
 comet (n) lly
 command (v) ra'
-commander (n) la', ra'wl'
+commander (n) la', ra'wI'
 commit a crime (v) HeS
 communicate (v) Qum
 communications officer (n) Qumpin
@@ -5996,7 +6013,7 @@ complain (v) bep
 comply (v) HeQ
 
 compromise (v) mos
-computer (n) De'wl'
+computer (n) De'wI'
 concentrate (v) gqim
 concentrate on, focus on, bus
 think only about (v)
@@ -6051,7 +6068,7 @@ crazy, be crazy (v) maw '
 credit (monetary unit) (n) DeQ
 crew, crewman (n) beq
 Crime (n) HeS
-Criminal (n) HeSwl'
+Criminal (n) HeSwI'
 crowd (n) ghom'a'
 crowd (v) gev
 Cruise (v) gugh[[p.127] ]
@@ -6135,7 +6152,7 @@ dilithium crystal (n) cha'pujgqut
 dinner (n) "uQ
 diplomacy (n) ghar
 diplomacy, conduct diplomacy (v) ghar
-diplomat (n) gharwl'
+diplomat (n) gharwI'
 dirt (n) lam[[p.129] ]
 dirt under fingernails (n) but Lh
 dirty, be dirty (v) lam
@@ -6233,7 +6250,7 @@ embassy (n) rivSo'
 
 emergency (n) chach
 
-emissary (n) Duy, ‘oSwl'
+emissary (n) Duy, ‘oSwI'
 
 emperor (n) ta', voDleH
 
@@ -6266,7 +6283,7 @@ engage, activate (a device) (v) chu'
 
 engine (n) jonta', QuQ
 
-engineer (n) jonwl'
+engineer (n) jonwI'
 
 enjoy (v) tiv
 
@@ -6325,7 +6342,7 @@ experiment (v) ngong
 expert, be expert, skilled (v) po'
 explain (v) Only
 explode (v) jor
-explosive (n) jorwl'
+explosive (n) jorwI'
 eye (n) min
 eyebrow (n) Huy'
 face (n) gab
@@ -6559,7 +6576,7 @@ helm (n) Degh
 
 helmet (n) miv[[p.137]]
 
-helmsman (n) Deghwl'
+helmsman (n) DeghwI'
 
 help, aid (v) OaH
 
@@ -6807,7 +6824,7 @@ maintenance (n) leH
 male, man (n) LoD
 man (n) LoD
 manage (v) vu'
-manager (n) vu'lwl'
+manager (n) vu'lwI'
 maneuver (engines) (v) QoD
 maneuver (military term) (n) tuH
 manual, control manually, by ruQ
@@ -6847,7 +6864,7 @@ mind, brain (n) yab
 mind sifter (Klingon psychic tuQDog
 probe) (n)
 mine (v) tlhil
-miner (n) tlhilwl'
+miner (n) tlhilwI'
 mineral (n) tlhil
 minute (of time) (n) tup
 misinterpret (v) yajHa'
@@ -6881,7 +6898,7 @@ name (v) pong
 nap (v) Dum
 native (n) Sung
 navigate (v) chlj
-navigator (n) chijwl'
+navigator (n) chijwI'
 necessary, be necessary, "ut
 
 essential (v)
@@ -7045,7 +7062,7 @@ power, energy (n) Hos
 powerful, be powerful (v) HoSghaj
 practice, train, prepare (v) geq
 precede (v) nung
-predecessor (n) nubwl'
+predecessor (n) nubwI'
 prefer (v) mas
 prefix (n) moHag
 prepare for, be alerted to (v) ghuH
@@ -7122,7 +7139,7 @@ ready, standing by (excl) SuH, Su'
 realize (v) tlhoj[[p.149] ]
 reason (n) meq
 reason (v) meq
-rebel (n) lotlhwl'
+rebel (n) lotlhwI'
 rebel (v) lotilh
 receive (v) Hev
 
@@ -7221,7 +7238,7 @@ round up (v) lig
 route, course (n) He
 
 rove, roam, travel (v) leng
-rover (grammatical term) (n) lengwl'
+rover (grammatical term) (n) lengwI'
 rude, be rude (v) Doch
 ruins (n) pigh
 rule, reign, run (v) che!
@@ -7243,7 +7260,7 @@ save, keep (v) pol
 save, rescue (Vv) toD
 
 scan (v) Hotlh
-scanner (n) Hotlhwl'
+scanner (n) HotlhwI'
 scare (v) ghlj
 scatter, disperse (v) ghomHa'
 scavenge (v) gor
@@ -7277,7 +7294,7 @@ separate (v) chev
 sergeant (n) bu'
 serious, be serious (v) Sagh
 serpent, worm (n) ghargh
-servant (n) toy'wl'
+servant (n) toy'wI'
 serve (a master) (v) toy'
 serve (food) (v) jab
 set up, establish (v) cher
@@ -7416,7 +7433,7 @@ strong, be strong (v) Hos
 structure, building (n) gach
 stubborn, be stubborn (v) mul
 
-student (n) ghojwl'
+student (n) ghojwI'
 study (v) HaD
 
 Stuff (v) ghoD
@@ -7481,7 +7498,7 @@ tax (v) rup
 teach, instruct (v) gho jmoH
 teachings (n) paQDI'norgh
 
-technician (n) chamwl'
+technician (n) chamwI'
 tell, report (v) ja!
 Tellun Star System (n) telun Hovtay'
 temperature (n) Hat
@@ -7511,7 +7528,7 @@ they, them (capable of using language) chaH
 they, them (incapable of language) bIH
 
 (pro)
-thief (n) niHwl'
+thief (n) niHwI'
 thin, be thin (v) lang
 thing (n) Doch
 think (v) Qub
@@ -7555,7 +7572,7 @@ toxic, be toxic (v) SuQ[[p.158] ]
 trade (v) mech
 tradition (n) lurDech
 train, prepare (v) geq
-traitor (n) maghwl'
+traitor (n) maghwI'
 transact (v) Huq
 transceiving device (for data) (n) HabllI'
 transfer (v) Qay
@@ -7816,7 +7833,7 @@ Numbers indicate suffix type.
 
 —wlj 4 my
 
-—wl' 4 my (noun capable of using language)
+—wI' 4 my (noun capable of using language)
 
 —'q' 1 augmentative
 
@@ -7916,7 +7933,7 @@ Numbers indicate suffix type; R stands for rover.
 —ta' 7 accomplished, done
 -vip 2 afraid
 -vis 9 while
-—wl' 9 one who is, one who does, thing which does
+—wI' 9 one who is, one who does, thing which does
 —'q' 9 <interrogative
 —'egh 1 oneself
 4. Special number suffixes
@@ -8074,7 +8091,7 @@ interrogatlve —'a' 9
 need —nis 2
 not —be' R
 one another —chug 1
-one who is, one who does —wl' 9
+one who is, one who does —wI' 9
 oneself —'egh 1
 perfective —pu' 7[[p.168] ]
 perfectly —chu' 6
@@ -8342,7 +8359,7 @@ This suffix is used when the speaker thinks that his or her
 assertion should be obvious to the listener. Nevertheless,
 there is still room for doubt; the suffix does not imply as
 strong a conviction as {-bej} <certainly.>
-{nepwl' Daba'} <he/she is obviously lying> ({nepwI'} <liar,>
+{nepwI' Daba'} <he/she is obviously lying> ({nepwI'} <liar,>
 {Da} <act in the manner of, behave as>)
 4.2.9. Type 9: Verb Suffixes: Syntactic markers
 {-mo'} <because>
@@ -8537,11 +8554,11 @@ ghoch track, track down (v)
 ghojmoq nurse, nanny, governess (n)
 ghuv recruit (n)
 Hagtaj scalpel (n)
-Haqwl' Surgeon (n)
+HaqwI' Surgeon (n)
 Ha'DIbaH meat, animal (n)
 Hegh death (n)
-Hergh Qaywl', hypo, pneumatic hypo (n)
-Herghwl'
+Hergh QaywI', hypo, pneumatic hypo (n)
+HerghwI'
 HIj deliver, transport goods (v)
 HoH killing (n)
 jas differently (adv)
@@ -8560,7 +8577,7 @@ la'quv Supreme Commander (n)
 la't'a' commandant (n)
 len recess, break (n)
 LeSSov foresight (n) [[LeSSov=> leSSov] ]
-lingwl' generator (n)
+lingwI' generator (n)
 lo! use (n)
 
 lupDujHom Sshuttlecraft (n)
@@ -8583,7 +8600,7 @@ naH fruit, vegetable (n)
 naQ be full, whole, entire (v)
 naQ Cain, staff (n)
 nargh escape (v)
-ne jwl' probe (n)
+ne jwI' probe (n)
 nenghep Age of Ascension (n)
 nentay Rite of Ascension (n)
 nimbuS wej Nimbus III (n)
@@ -8619,7 +8636,7 @@ gel consider, take into account (v)
 git be possible (v)
 go! world, realm (n)
 gughDu jy cruiser (n)
-gqumwl' governor (n)
+gqumwI' governor (n)
 gutluch type of hand weapon (n)
 Qquv honor (n)
 Quv be honored (v)
@@ -8648,7 +8665,7 @@ SOv knowledge (n)
 SuD gamble, take a chance,
 take a risk (v)
 Sugh install (in office) (v)
-Suvwl' warrior (n)
+SuvwI' warrior (n)
 tagh lung (n)
 tagh begin a process, initiate (v)
 taH continue, go on, endure (v)
@@ -8789,9 +8806,9 @@ full, be full, whole, entire (v) naQ
 gamble, take a chance, SuD
 
 take a risk (v)
-generator (n) lingwl'
+generator (n) lingwI'
 governess, nurse, nanny (n) ghojmog
-governor (n) gqumwl'
+governor (n) gqumwI'
 gratitude, appreciation (n) tlho!'
 gravity (n) tlham
 Great Hall (n) vaS'ta'
@@ -8806,9 +8823,9 @@ home world (n) JuHgo'
 honor (n) Qquv
 honor (v) quvmoH
 honored, be honored (v) Quv
-hypo, pneumatic Hergh Qaywl',
+hypo, pneumatic Hergh QaywI',
 
-hypo (n) Herghwl'
+hypo (n) HerghwI'
 immediately (adv) SIbI'[[sIbI'=> SIbI"] ]
 important, be important (v) potlh
 initiate proceedings, tagh
@@ -8920,7 +8937,7 @@ praise, commend, approve (v) naD
 
 preferable, be preferable (v) gqaq
 
-probe (n) ne jwl'
+probe (n) ne jwI'
 
 procedure, process (n) miw
 
@@ -8992,7 +9009,7 @@ succession ritual (ancient) (n) ja'chug
 
 Supreme Commander (n) la'quv
 
-Surgeon (n) Haqwl'
+Surgeon (n) HaqwI'
 
 take apart, disassemble (v) lagh
 
@@ -9024,7 +9041,7 @@ treason, commit treason (v) "ur
 
 tribute, salute (n) van
 
-trigger (n) chu'wl'
+trigger (n) chu'wI'
 
 truth (n) vit
 
@@ -9034,7 +9051,7 @@ vegetable, fruit (n) naH
 
 war (n) noH
 
-warrior (n) Suvwl', vaj
+warrior (n) SuvwI', vaj
 
 warship (n) vesSDuj
 
