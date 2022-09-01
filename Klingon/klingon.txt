@@ -337,7 +337,7 @@ INTRODUCTION
 
     {H} This is also not like anything in English, but it is just like
         <ch> in the name of the German composer <Bach> or in the
-        Yiddish toast <l'chaim,> or the <j> in the Mexican city of <Tijuana>
+        Yiddish tQaSt <l'chaim,> or the <j> in the Mexican city of <Tijuana>
         in <Baja California.> It is produced in the same way as Klingon
 
 
@@ -582,8 +582,8 @@ INTRODUCTION
 
         A second type of complex noun consists of a verb followed by
         a suffix meaning one who does or thing which does. The
-        English suffix <-er> (as in <builder> ©*’one who builds"' or <toaster>
-        "thing which toasts") is a rough equivalent. In Klingon, the[[p.20]]
+        English suffix <-er> (as in <builder> ©*’one who builds"' or <tQaSter>
+        "thing which tQaSts") is a rough equivalent. In Klingon, the[[p.20]]
         suffix is {-wI'.} It occurs, for example, in {baHwI'} <gunner,> which
         consists of the verb {baH} <fire (a torpedo)> plus {-wI'} <one who
         does.> Thus, {baHwI'} is literally "‘one who fires [a torpedo]."
@@ -2135,92 +2135,78 @@ INTRODUCTION
         {tugh}  <Hurry up!>
 
 
+    5.5 Exclamations [[5.5 => 5.5.]]
 
-5.5 Exclamations [[5.5 => 5.5.]]
-These expressions stand as sentences in their own right.
-{ghobe'} <No.> (response to a question)
-{Ha'} <Let's go! Come on!>
-{HIja'} or {HislaH} <Yes.> (response to a question)
-{lu'} or {lug} <Yes. Okay. I will.>
-{maj} <Good.> (expressing satisfaction)
-{majQa'} <Very good. Well done.>
-{nugneH} <What do you want?> (greeting)
-{pItlh} <Done!>
-{Oo'} <No. I won't. I refuse.>
-{SuH} or {Su'} <Ready!>
-{toH} <Well! So!>
-{wejpuH} <Charming.> (used only ironically)
-{'eH} <Ready!>
-{HIja'} and {HislaH} <yes> seem to be used interchangeably.
-{SuH, Su',} and {'eH} all mean that the speaker is about to give
-a command. They are comparable to the "Ready!" at the
-beginning of a race: © °Ready! Set! Go!" {SuH} and {Su',} but not
-{'eH, } can also be used to indicate that the speaker is ready to
-do something or that arrangements have been made for
-something to happen. Some speakers of Klingon pronounce
-{SuH} as if it were {SSS,} almost like the English expression for
-“*be quiet": <shhh!>
-{pItlh} is used for <It's done! I've done it! I've finished! All
-done!> etc. [[p.58] ]
-The expression {toH} is roughly equivalent to English <aha!>
-Also included in the category of exclamations are Klingon
-curses. Only three such curses have been noted to date.
+        These expressions stand as sentences in their own right.
 
-{Ol 'yaH} <*?!#@>
+        {ghobe'}                <No.> (response to a question)
+        {Ha'}                   <Let's go! Come on!>
+        {HIja'} or {HISlaH}     <Yes.> (response to a question)
+        {lu'} or {lug}          <Yes. Okay. I will.>
+        {maj}                   <Good.> (expressing satisfaction)
+        {majQa'}                <Very good. Well done.>
+        {nugneH}                <What do you want?> (greeting)
+        {pItlh}                 <Done!>
+        {Oo'}                   <No. I won't. I refuse.>
+        {SuH} or {Su'}          <Ready!>
+        {toH}                   <Well! So!>
+        {wejpuH}                <Charming.> (used only ironically)
+        {'eH}                   <Ready!>
 
-{ghuy'cha'} <*@S%>
+        {HIja'} and {HislaH} <yes> seem to be used interchangeably.
+        {SuH, Su',} and {'eH} all mean that the speaker is about to give
+        a command. They are comparable to the "Ready!" at the
+        beginning of a race: "Ready! Set! Go!" {SuH} and {Su',} but not
+        {'eH, } can also be used to indicate that the speaker is ready to
+        do something or that arrangements have been made for
+        something to happen. Some speakers of Klingon pronounce
+        {SuH} as if it were {SSS,} almost like the English expression for “be quiet": <shhh!>
+        {pItlh} is used for <It's done! I've done it! I've finished! All done!> etc. 
+        
+        The expression {toH} is roughly equivalent to English <aha!>
+        Also included in the category of exclamations are Klingon
+        curses. Only three such curses have been noted to date.
 
-{Qu'vatlh} <#*@!>
-5.6. Names and address
-Klingon names are frequently mispronounced by non-[[keep hypen] ]
-Klingons. Furthermore, when written in the writing systems
-of other languages, they usually end up with spellings which
-only suggest their true pronunciation. For example, the
-Klingon sound {tlh} at the beginning of a word is almost always
-written <kl> by English speakers, presumably because the sound
-<tl> cannot occur at the beginning of an English word. Similarly,
-Klingon {Q} is often rendered <kr,> and Klingon {gq} always comes
-out <k.>
+        {Ol 'yaH}   <*?!#@>
+        {ghuy'cha'} <*@S%>
+        {Qu'vatlh}  <#*@!>
 
-The following is a list of a few Klingon names along with
+    5.6. Names and address
 
-their usual English spellings.
+        Klingon names are frequently mispronounced by non-[[keep hypen] ]
+        Klingons. Furthermore, when written in the writing systems
+        of other languages, they usually end up with spellings which
+        only suggest their true pronunciation. For example, the
+        Klingon sound {tlh} at the beginning of a word is almost always
+        written <kl> by English speakers, presumably because the sound
+        <tl> cannot occur at the beginning of an English word. Similarly,
+        Klingon {Q} is often rendered <kr,> and Klingon {gq} always comes
+        out <k.>
 
-{mara } <Mara>
+        The following is a list of a few Klingon names along with their usual English spellings.
 
-{matlh} <Maltz>
+        {mara }     <Mara>
+        {matlh}     <Maltz>
+        {qeng}      <Kang>
+        {qeylis}    <Kahless>
+        {qolotlh}   <Koloth>
+        {qor}       <Kor>
+        {qoreQ}     <Korax>
+        {QaS }      <Kras>
+        {Qel }      <Krell>
+        {Qugh}      <Kruge>
+        {torgh}     <Torg>
+        {valQIS}   <Valkris>
 
-{qgeng} <Kang>
+        Names may be used in direct address (that is, calling
+        somebody by name) at the beginning or end of the sentence.
+        Other words in direct address (such as {qaH} <sir,> {joHwI'} <my
+        lord>) are used similarly.
 
-{qeylis} <Kahless>
+        {torgh HIghoS}  <Torg, come here!> ({HIghoS} <proceed toward me!>)
+        {lu' qah}       <Yes, sir!>
 
-{qolotlh} <Koloth>
 
-{qor} <Kor>
-
-{qoreQ} <Korax>
-
-{OaS } <Kras>
-
-{Oel } <Krell>
-
-{Qugh} <Kruge>
-
-{torgh} <Torg>
-
-{valQis } <Valkris>
-
-Names may be used in direct address (that is, calling
-
-somebody by name) at the beginning or end of the sentence.
-Other words in direct address (such as {qaH} <sir,> {joHwI'} <my
-lord>) are used similarly.
-
-{torgh HIghoS} <Torg, come here!> ({HIghoS} <pro-
-
-ceed toward me!>)
-
-{lu' gaH} <Yes, sir!>[[p.59]]
 6. SYNTAX
 As in any language, Klingon sentences range from the very
 Simple and straightforward to the very complex and convo-
@@ -4678,7 +4664,7 @@ OaQ be good (v)
 
 QOargh fissure (n)
 
-Oas troops (n)
+QaS troops (n)
 
 Qat be popular (v)
 
@@ -6183,7 +6169,7 @@ disturb (v) SuJ
 divide (v) wav
 dock (n) vergh
 dock (v) vergh
-doctor, physician (n) Oel
+doctor, physician (n) Qel
 dominate (v) ghatlh
 done (excl) pitlh
 door, gate (n) lojmIt
@@ -7030,7 +7016,7 @@ phaser pistol (n) pu'HIch
 phaser rifle (n) pu'beH
 phenomenon, event, wanl'
 occurrence (n)
-physician, doctor (n) Oel
+physician, doctor (n) Qel
 pick up (v) woH
 pickle (cucumber) (n) Hurgh
 pity (v) vup
@@ -7598,7 +7584,7 @@ trip (n) leng
 triumph, victory (n) yay
 trivial, be trivial, trifling, ram
 unimportant (v)
-troops (n) Oas
+troops (n) QaS
 trouble (n) Seng
 trouble, cause trouble (v) Seng
 Troyius (n) Doy'yuS
@@ -8370,7 +8356,7 @@ This suffix is used to express a desire or wish on the part of
 the speaker that something take place in the future. When it[[p.176]]
 is used, there is never a Type 7 aspect suffix. {-jaj} is often
 translated with <may> or <let,> and it is particularly useful when
-placing a curse or making a toast.
+placing a curse or making a tQaSt.
 {jaghpu'lI' DaqhIjjaj} <may you scare your enemies>
 ({jaghpu'lI'} <your enemies,> {ghIj} <scare>)
 {tlhonchaj chIljaj} <may they lose their nostrils>
