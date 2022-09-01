@@ -783,106 +783,115 @@ sounds of Klingon words and sentences.
         plural meaning.
 
 
-3.3.3. Type 3: Qualification
-Suffixes of this type indicate the speaker's attitude toward the
-noun, or how sure the speaker is that the noun is being used
-appropriately.
-{-qogq} <so-called>
-This suffix indicates that the noun is being used ina false or
-ironic fashion. Saying {rojqoq} <so-called peace,> rather than
-Simply {roj} <peace,> indicates that the speaker does not really
-believe that peace is legitimate or likely to endure.
-{-Hey} <apparent>
-This suffix indicates that the speaker is pretty sure the
-object referred to by the noun is accurately described by the
-noun, but has some doubts. For example, if the scanner on a
-Klingon ship senses an object, and the officer reporting the
-presence of this object assumes, but is not yet sure, that the
-object is a vessel, he will probably refer to the object as
-{DujHey} <an apparent vessel,> rather than simply {Duj} <vessel.>
-[[p.25]]
-{-na'} <definite>
-This is the counterpart of {-Hey.} It indicates that there is no
-doubt in the speaker's mind as to the accuracy of his or her
-choice of words. Once the Klingon officer referred to above is
-Sure that the object the scanner has found is a vessel, he might
-report the presence of {Dujna'} <a definite vessel, undoubtedly a
+    3.3.3. Type 3: Qualification
 
-vessel.>
+        Suffixes of this type indicate the speaker's attitude toward the
+        noun, or how sure the speaker is that the noun is being used
+        appropriately.
 
-3.3.4. Type 4: Possession/specification
+        {-qogq} <so-called>
 
-Type 4 is the largest class of noun suffixes. It consists of all the
-possessive suffixes, plus suffixes which can be translated as
-English <this> and <that.>
+        This suffix indicates that the noun is being used ina false or
+        ironic fashion. Saying {rojqoq} <so-called peace,> rather than
+        Simply {roj} <peace,> indicates that the speaker does not really
+        believe that peace is legitimate or likely to endure.
 
-The possessive suffixes are:
+        {-Hey} <apparent>
 
-{-wlj} <my> {-maj} <our>
+        This suffix indicates that the speaker is pretty sure the
+        object referred to by the noun is accurately described by the
+        noun, but has some doubts. For example, if the scanner on a
+        Klingon ship senses an object, and the officer reporting the
+        presence of this object assumes, but is not yet sure, that the
+        object is a vessel, he will probably refer to the object as
+        {DujHey} <an apparent vessel,> rather than simply {Duj} <vessel.>
 
-{-lIj} <your> {-rajJ} <your (plural)>
+        {-na'} <definite>
 
-{-Daj} <his, her, its> {-chaj} <their>
+        This is the counterpart of {-Hey.} It indicates that there is no
+        doubt in the speaker's mind as to the accuracy of his or her
+        choice of words. Once the Klingon officer referred to above is
+        Sure that the object the scanner has found is a vessel, he might
+        report the presence of {Dujna'} <a definite vessel, undoubtedly a vessel.>
 
-Thus, {jJuH} <home> occurs in {juHwlj} <my home,> {juHlIj} <your
-home,> {juHchaj} <their home,> etc.
 
-When the noun being possessed refers to a being capable of
-using language, a special set of suffixes is used for first- and
-second-person possessors:
+    3.3.4. Type 4: Possession/specification
 
-{-wI'} <my> {-ma'} <our>
+        Type 4 is the largest class of noun suffixes. It consists of all the
+        possessive suffixes, plus suffixes which can be translated as
+        English <this> and <that.>
 
-{-lI'} <your> {-ra'} <your (plural)>
+        The possessive suffixes are:
 
-These suffixes occur in, for example, {jJoHwI'} <my lord> and
-{puglI'} <your child.> It is grammatically correct to use the
-regular possessive suffixes with nouns referring to beings
-capable of speech (as in {pugqllIj} <your child>), but such con-
-structions are considered derogatory; {joHwIlj} for <my lord>
-borders on the taboo. Students of Klingon should bear this
-in mind.
+        {-wIj} <my> {-maj} <our>
 
-To indicate that one noun is the possessor of another noun
-(e.g., <enemy's weapon>), no suffix is used. Instead, the two
-nouns are said in the order possessor-possessed: {jagh nuH}
-<enemy's weapon> (literally, <enemy weapon>). This construction
-is also used for phrases translated by <of the> in English, such as
-<weapon of the enemy.> (See also section 3.4.) [[p.26]]
+        {-lIj} <your> {-raj} <your (plural)>
 
-There are two suffixes indicating how close to the speaker
-the object referred to by the noun is.
+        {-Daj} <his, her, its> {-chaj} <their>
 
-{-vam} <this>
+        Thus, {juH} <home> occurs in {juHwlj} <my home,> {juHlIj} <your
+        home,> {juHchaj} <their home,> etc.
 
-Like its English translation, this suffix indicates that the
-noun refers to an object which is nearby or which is the topic
-of the conversation.
+        When the noun being possessed refers to a being capable of
+        using language, a special set of suffixes is used for first- and
+        second-person possessors:
 
-{nuHvam} <this weapon (near me as I speak) >
+        {-wI'} <my> {-ma'} <our>
 
-{yuQvam} <this planet (that we've been talking about)>
-When used with a plural noun (one with a plural suffix or an
-inherently plural noun), {-vam} is translated <these.>
+        {-lI'} <your> {-ra'} <your (plural)>
 
-{nuHmeyvam} <these weapons>
+        These suffixes occur in, for example, {joHwI'} <my lord> and
+        {puqlI'} <your child.> It is grammatically correct to use the
+        regular possessive suffixes with nouns referring to beings
+        capable of speech (as in {puqlIj'} <your child>), but such con-
+        structions are considered derogatory; {joHwIj} for <my lord>
+        borders on the taboo. Students of Klingon should bear this
+        in mind.
 
-{-vetlh} <that>
+        To indicate that one noun is the possessor of another noun
+        (e.g., <enemy's weapon>), no suffix is used. Instead, the two
+        nouns are said in the order possessor-possessed: {jagh nuH}
+        <enemy's weapon> (literally, <enemy weapon>). This construction
+        is also used for phrases translated by <of the> in English, such as
+        <weapon of the enemy.> (See also section 3.4.)
 
-This suffix indicates that the noun refers to an object which
-is not nearby or which is being brought up again as the topic
-of conversation.
+        There are two suffixes indicating how close to the speaker
+        the object referred to by the noun is.
 
-{nuHvetlh} <that weapon (over there)>
-{yuQvetlh} <that planet (as opposed to the one we were just
-talking about)>
-When used with a plural noun, {-vetlh} is translated <those:>
-{nuHmeyvetlh} <those weapons>
-There is no Klingon equivalent for English <a, an, the.> In
-translating from Klingon to English, one must use context as
-a guide to when to use <a> or <an> and when <the.> In this book, <a> or
-<an> and <the> are used in translations to make the English sound
-more natural.
+        {-vam} <this>
+
+        Like its English translation, this suffix indicates that the
+        noun refers to an object which is nearby or which is the topic
+        of the conversation.
+
+        {nuHvam} <this weapon (near me as I speak) >
+
+        {yuQvam} <this planet (that we've been talking about)>
+
+        When used with a plural noun (one with a plural suffix or an
+        inherently plural noun), {-vam} is translated <these.>
+
+        {nuHmeyvam} <these weapons>
+
+        {-vetlh} <that>
+
+        This suffix indicates that the noun refers to an object which
+        is not nearby or which is being brought up again as the topic
+        of conversation.
+
+        {nuHvetlh} <that weapon (over there)>
+
+        {yuQvetlh} <that planet (as opposed to the one we were just talking about)>
+
+        When used with a plural noun, {-vetlh} is translated <those:> {nuHmeyvetlh} <those weapons>
+
+        There is no Klingon equivalent for English <a, an, the.> In
+        translating from Klingon to English, one must use context as
+        a guide to when to use <a> or <an> and when <the.> In this book, <a> or
+        <an> and <the> are used in translations to make the English sound
+        more natural.
+
+        
 3.3.5. Type 5: Syntactic markers
 These suffixes indicate something about the function of the
 noun in the sentence. As in English, subjects and objects are
@@ -999,7 +1008,7 @@ suffixes follow. (Suffix types are indicated by numbers.)
 {—mo ' } (5) <due to>
 {pa'wljDaq} <in my quarters>
 {pa'} (noun) <room>[[p.30]]
-{-wlj} (4) <my>
+{-wIj} (4) <my>
 {-Daq} (5) <locative>
 {Duypu'gogchaj} <their so-called emissaries>
 {Duy} (noun) <emissary>
@@ -2120,7 +2129,7 @@ their usual English spellings.
 Names may be used in direct address (that is, calling
 
 somebody by name) at the beginning or end of the sentence.
-Other words in direct address (such as {qaH} <sir,> {jJoHwI'} <my
+Other words in direct address (such as {qaH} <sir,> {joHwI'} <my
 lord>) are used similarly.
 
 {torgh HIghoS} <Torg, come here!> ({HIghoS} <pro-
