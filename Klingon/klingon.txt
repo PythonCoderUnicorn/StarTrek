@@ -1069,52 +1069,64 @@ sounds of Klingon words and sentences.
         {—vam }   (4)   <this>
 
 
-3.4. The noun-noun construction
-Some combinations of two (or more) nouns in a row are so
-common aS to have become everyday words. These are the
-compound nouns (as discussed in section 3.2.1). In addition,
-it is possible to combine nouns in the manner of a compound
-noun to produce a new construct even if it is not a legitimate
-compound noun (° legitimate" in the sense that it would be
-found in a dictionary).
-The translation of two nouns combined in this way, say[[p.31]]
-N1I-N2 (that is, noun #1 followed by noun #2), would be <N2
-of the N1.> For example, {nuH} <weapon> and {pegh} <secret> combine
-to form {nuH pegh} <secret of the weapon.> An alternate transla-
-tion would be <N1's N2,> in this case, <the weapon's secret.> As
-discussed in section 3.3.4, this is the Klingon possessive
-construction for a noun possessed by another noun.
-When the noun-noun construction is used, only the second
-noun can take syntactic suffixes (Type 5). Both nouns,
-however, may take suffixes of the other four types. For
-example:
-{nuHvam pegh} <secret of this weapon>
-{nuH } (noun) <weapon>
-{—vam } (4) <this>
-{pegh} (noun) <secret>
-{jaghpu' yuQmeyDaq} <at/to the enemies' planets>
-{jagh} (noun) <enemy>
-{-pu' } (2) <plural>
-{yuQ} (noun) <planet>
-{-—mey } (2) <plural>
-{-Daq} (5) <locative>
-{pugwil' gamDu'} <my child's feet>
-{pug } (noun) <child>
-{—-wl" } (4) <my>
-{qam} (noun) <foot>
-{-Du} (2) <plural>
+    3.4. The noun-noun construction
 
-English prepositional phrases are also rendered in Klingon
-by this noun-noun construction. Prepositional concepts such
-as above and below are actually nouns in Klingon, best
-translated as "’area above," "’ area below," etc. The locative
-suffix (section 3.3.5) follows the second noun. For example:
-{nagh DungDaq} <above the rock>
-{nagh} (noun) <rock>
-{Dung} (noun) <area above>
-{-Daq} (5) <locative>
-More literally, this is "’at the area above the rock" or "‘at the
-rock's above-area."[[p.32]]
+        Some combinations of two (or more) nouns in a row are so
+        common aS to have become everyday words. These are the
+        compound nouns (as discussed in section 3.2.1). In addition,
+        it is possible to combine nouns in the manner of a compound
+        noun to produce a new construct even if it is not a legitimate
+        compound noun (° legitimate" in the sense that it would be found in a dictionary).
+
+        The translation of two nouns combined in this way, say 
+        N1-N2 (that is, noun #1 followed by noun #2), would be <N2 of the N1.> 
+
+        For example, {nuH} <weapon> and {pegh} <secret> combine to form {nuH pegh} <secret of the weapon.> 
+        
+        An alternate translation would be <N1's N2,> in this case, <the weapon's secret.> 
+        As discussed in section 3.3.4, this is the Klingon possessive
+        construction for a noun possessed by another noun.
+
+        When the noun-noun construction is used, only the second
+        noun can take syntactic suffixes (Type 5). Both nouns,
+        however, may take suffixes of the other four types. For example:
+
+        {nuHvam pegh} <secret of this weapon>
+        {nuH } (noun)   <weapon>
+        {—vam } (4)     <this>
+        {pegh} (noun)   <secret>
+
+        {jaghpu' yuQmeyDaq} <at/to the enemies' planets>
+        {jagh}  (noun)  <enemy>
+        {-pu' } (2)     <plural>
+        {yuQ}   (noun)  <planet>
+        {-—mey } (2)    <plural>
+        {-Daq}  (5)     <locative>
+
+        {pugwil' gamDu'} <my child's feet>
+        {pug }  (noun)  <child>
+        {—wI' } (4)     <my>
+        {qam}   (noun)  <foot>
+        {-Du}   (2)     <plural>
+
+        English prepositional phrases are also rendered in Klingon
+        by this noun-noun construction. Prepositional concepts such
+        as above and below are actually nouns in Klingon, best
+        translated as "area above," "area below," etc. The locative
+        suffix (section 3.3.5) follows the second noun. For example:
+
+        {nagh DungDaq} <above the rock>
+        {nagh} (noun)   <rock>
+        {Dung} (noun)   <area above>
+        {-Daq} (5)      <locative>
+
+        More literally, this is "at the area above the rock" or "at the rock's above-area."
+
+
+
+
+
+
 4. VERBS
 Klingon verbs are mostly monosyllabic forms which may
 be accompanied by several affixes. As with Klingon
