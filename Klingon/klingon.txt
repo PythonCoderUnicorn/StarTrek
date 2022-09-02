@@ -2288,11 +2288,11 @@ INTRODUCTION
         compound sentence. Both sentences must be able to stand
         alone as properly formed sentences. When combined, they
         Simply come one after the other, joined by a conjunction (see section 5.3).
-        
-        {jisoptaH 'ej QongtaH}          <I am eating, and he/she is sleeping.>
-        {jisoptaH 'ach QongtaH}         <I am eating, but he/she is sleeping.>
-        {bisoptaH goj bItlhutlhtaH}     <You are eating and/or you are drinking.>
-        {bisoptaH pagh biItlhutlhtaH}   <You are either eating or else you are drinking.>
+
+        {jISoptaH 'ej QongtaH}          <I am eating, and he/she is sleeping.>
+        {jISoptaH 'ach QongtaH}         <I am eating, but he/she is sleeping.>
+        {bISoptaH goj bItlhutlhtaH}     <You are eating and/or you are drinking.>
+        {bISoptaH pagh biItlhutlhtaH}   <You are either eating or else you are drinking.>
 
         When the subject of both of the joined sentences is
         the same, the English translation may be reduced to a less
@@ -2333,51 +2333,49 @@ INTRODUCTION
         <I see and hit the officer.>
 
 
+    6.2.2. Subordinate clauses
 
+        Klingon verbs ending in Type 9 suffixes (other than {-'a'}
+        <interrogative> and {-wI'} <one who does, one which does>) always
+        occur in sentences with another verb. Hence, they are verbs
+        in subordinate clauses.
 
-<<<<<<<<<<<<<<<<<
+        {cha yIbaH qara'DI'} 
+        or 
+        {qara'DI' cha yIbaH}   <Fire the torpedoes at my command!>
 
-6.2.2. Subordinate clauses
-
-Klingon verbs ending in Type 9 suffixes (other than {-'a'}
-<interrogative> and {-wI'} <one who does, one which does>) always
-occur in sentences with another verb. Hence, they are verbs
-in subordinate clauses.
-
-{cha ylbaH gara'DI'} or {gqara'DI' cha yIbaH}   <Fire the torpedoes at my command!>
-
-    The two parts of this sentence are 
-    {cha ylIbaH} <fire the torpedoes!> and {qara'DI'} <when I command you> 
-    or <as soon as I command you.> 
+        The two parts of this sentence are 
+        {cha yIbaH} <fire the torpedoes!> and {qara'DI'} <when I command you> 
+        or <as soon as I command you.> 
     
-    {-DI'} is a Type 9 suffix meaning <as soon as, when,> 
-    so {tgqara'DI'} must occur as part of a larger sentence.
+        {-DI'} is a Type 9 suffix meaning <as soon as, when,> 
+        so {tqara'DI'} must occur as part of a larger sentence.
     
-    Note that the order of the two parts of the sentence is variable.
-    A few further examples should make the use of subordinate clauses clear.
+        Note that the order of the two parts of the sentence is variable.
+        A few further examples should make the use of subordinate clauses clear.
+        
+        {bIjatlhHa'chugh qaHoH} or {qaHoH blIjatlhHa'chugh} 
+        <If you say the wrong thing, IT will kill you.>
+        ({bIjatlhHa'chugh} 
+        <if you misspeak,> {qaHoH} <I kill you>)
     
-    {bIjatlhHa'chugh qaHoH} or {qaHoH blIjatlhHa'chugh} 
-    <If you say the wrong thing, IT will kill you.>
-    ({bIjatlhHa'chugh} 
-    <if you misspeak,> {qaHoH} <I kill you>)
-    
-    Note that although the English translation uses the word <will,>
-    there is no marker for future in Klingon. The unsuffixed verb
-    {HoH} <kill> is neutral as to time: since the person being[[p.63]]
-    addressed is being given a chance to speak, that person must
-    still be alive. Thus, the killing must take place in the future.
+        Note that although the English translation uses the word <will,>
+        there is no marker for future in Klingon. The unsuffixed verb
+        {HoH} <kill> is neutral as to time: since the person being[[p.63]]
+        addressed is being given a chance to speak, that person must
+        still be alive. Thus, the killing must take place in the future.
 
-    {SutlhtaHvis chaH DIHIvpu' } or {DIHIvpu' SutlhtaHvis chaH} 
-                    <While they were negotiating we attacked them.>
-    {SutlhtaHvis}  <while they are negotiating, >
-    {chaH}          <they,> 
-    {DIHIvpu' }     <we attacked them>
+        {SutlhtaHvis chaH DIHIvpu' } or {DIHIvpu' SutlhtaHvis chaH} 
+                        <While they were negotiating we attacked them.>
+        {SutlhtaHvis}  <while they are negotiating, >
+        {chaH}          <they,> 
+        {DIHIvpu' }     <we attacked them>
     
-    The notion of <were negotiating,> rather than <are negotiating, >
-    comes from the suffix {-pu'} <perfective> attached to the verb {HIv}
-    <attack.> A translation such as <While they are negotiating we
-    attacked them> makes little sense in English and misrepresents
-    the meaning of the Klingon sentence.
+        The notion of <were negotiating,> rather than <are negotiating, >
+        comes from the suffix {-pu'} <perfective> attached to the verb {HIv}
+        <attack.> A translation such as <While they are negotiating we
+        attacked them> makes little sense in English and misrepresents
+        the meaning of the Klingon sentence.
 
 
 6.2.3. Relative clauses
@@ -2783,7 +2781,7 @@ Some of the features of Clipped Klingon are described below.
         In giving commands, the imperative prefix (section 4.1.2)
         may be left off, leaving the bare verb.
 
-        Proper Klingon: {ylIbaH}    <Fire (the torpedoes) !>
+        Proper Klingon: {yIbaH}    <Fire (the torpedoes) !>
         Clipped Klingon: {baH}
 
         Proper Klingon: {wly ylIcha'}   <Show the tactical display!>
