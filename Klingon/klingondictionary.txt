@@ -661,94 +661,75 @@ klingon = {
     'gun' : "(n) HIch",
     'gunner' : "(n) baHwI'",
 
+    'hair'  : ["(n) pob (on body)", "(n) jIb (on head)"],
+    'half' : "(n) bID",
+    'hand' : "(n) ghop",
+    'handful' : "(v) puS",
+    'handgun' : "(n) HIch",
+    'handsome' : "(v) "IH",
+    'hang' : "(v) HuS",
+    'hangover' : "(v) 'uH",
+    'happen' : "(v) qaS",
+    'happy' : "(v) Quch",
+    'hard' : "(v) let",
+    'harmful' : "(v) joch",
+    'harvest' : "(v) yob",
+    'hassle' : "(v) qay",
+    'hate' : "(v) muS",
+    'have' : "(v) ghaj",
+    'he: "(pro) ghaH",' 
+    'she': "(pro) ghaH",
+    'him' : "(pro) ghaH",
+    'her' : "(pro) ghaH",
+    'head' : "(n) nach",
+    'headache' : "(v) wuQ",
+    'healthy' : "(v) pIv",
+    'hear' : "(v) Qoy",
+    'heart' : "(n) tIq",
+    'heat' : "(n) tuj",
+    'heavy' : "(v) 'ugh",
+    'helm' : "(n) Degh",
+    'helmet' : "(n) mIv",
+    'helmsman' : "(n) DeghwI'",
+    'help' : "(v) QaH",
+    'here' : "(n) naDev",
+    'hide' : "(v) So'",
+    'high' : "(v) jen",
+    'hill' : "(n) HuD",
+    'mountain' : "(n) HuD",
+    'hinder' : "(v) nIS",
+    'history' : "(n) qun",
+    'hit' : "(v) qIp",
+    'holster' : "(n) vaH",
+    'home' : "(n) JuH",
+    'honest' : "(v) yuDHa'",
+    'honor' : "(n) batlh",
+    'honored' : " (adv) batlh",
+    'hope' : "(v) tul",
+    'horizontal' : "(v) SaS",
+    'hostage' : "(n) vub",
+    'hot' : "(v) tuj",
+    'hour' : "(n) rep",
+    'how many' : "(ques) 'ar",
+    'how much' : "(ques) 'ar",
+    'how' : "(ques) chay'",
+    'however' : " (conj) "ach, ‘a",
+    'hull' : "(n) Som",
+    'human' : "(n) Human",
+    'humanoid' : "(n) yoq",
+    'hundred' : "(num)  vatlh",
+    'hundred thousand' : "(num)  bIp",
+    'hungry' : "(v) ghung",
+    'hunt' : "(v) wam",
+    'hurry' : "(v) moD",
+    hurt : "(n,v) "oy'",
+    'husband' : "(n) loDnal",
+    'hypnotize' : "(v) vong",
 
-    
 
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-    hair (on body) : "(n) pob
-    hair (on head) : "(n) jib
-    half : "(n) bID
-    hand : "(n) ghop
-    handful, be a handful, be few : "(v) puS
-    handgun : "(n) Hich
-    handsome, be handsome : "(v) "TH
-    hang : "(v) Hus
-    hangover, have a hangover, "uH
-    be hung over : "(v)
-    happen, occur : "(v) gas
-    happy, be happy : "(v) Quch
-    hard, be hard (like a rock) : "(v) let
-    harmful, be harmful : "(v) joch
-    harvest : "(v) yob
-    hassle, be a hassle, be a gay'
-    problem : "(v)
-    hate, detest : "(v) mus
-    have, possess : "(v) ghaj
-    he, she, him, her (pro) ghaH
-    head : "(n) nach
-    headache, have a headache : "(v) wuQ
-    healthy, be healthy : "(v) piv
-    hear : "(v) Qoy
-    heart : "(n) tIiq
-    heat : "(n) tu
-    heavy, be heavy : "(v) "ugh
-    helm : "(n) Degh
-    helmet : "(n) mivp.137,
-    helmsman : "(n) DeghwI'
-    help, aid : "(v) OaH
-    her, him, she, he (pro) ghaH
-    here, hereabouts : "(n) naDev
-    hide : "(v) So'",
-    high, be high : "(v) jen
-    hill, mountain : "(n) HuD
-    him, her, he, she (pro) ghaH
-    hinder, interfere : "(v) nis
-    history : "(n) gun
-    hit (with hand, fist, implement) : "(v) qlIp
-    holster : "(n) vaH
-    home : "(n) JuH
-    honest, be honest : "(v) yuDHa'
-    honor : "(n) batlh
-    honored, with honor : " (adv) batlh
-    hope : "(v) tul
-    horizontal, be horizontal : "(v) SaS
-    hostage : "(n) vub
-    hot, be hot : "(v) tu
-    hour : "(n) rep
-    how many? (ques) "ar
-    how much? (ques) "ar
-    how? (ques) chay'
-    however : " (conj) "ach, ‘a
-    hull : "(n) Som
-    human : "(n) Human
-    humanoid : "(n) Yod
-    hundred : "(num)  vatlh
-    hundred thousand : "(num)  bIp
-    hungry, be hungry : "(v) ghung
-    hunt : "(v) wam
-    hurry : "(v) moD
-    hurt : "(n) "oy'",
-    hurt : "(v) "oy'",
-    husband : "(n) loDnal
-    hypnotize : "(v) vong
-
-
-
-
 
 
 
