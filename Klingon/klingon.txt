@@ -7026,210 +7026,211 @@ KLINGON AFFIXES
 
 
 
-
+=============================================
 
 KLINGON-ENGLisH
-bagh tie (v)
-beQ be flat (v)
-betleH type of hand weapon (n)
-bIj punish (v)
-bIj punishment (n)
-bIreQtagh bregit lung (n)
-boQ aid, assistance (n)
-chab pie, tart, dumpling (n)
-chil lose, misplace (v)
-chov assess, evaluate (v)
-cho' succession (n)
-cho' succeed (to authority) (v)
-chuS'ugh type of musical instrument (n)
-chu'wI' trigger (n)
-Da behave as, act in the manner of (v)
-DaHjaj today (n)
-Daj test inconclusively (v)
-Daq Site, location (n)
-Dargh tea (n)
-Degh medal, emblem, symbol, insignia (n)
-DI litter, rubble, debris (n)
-DoD mark (in coordinates) (n)
-DungluQ noon (n)
-Duy'a' ambassador (n)
-ghaytan likely (adv) [[p.182] ]
-ghew bug, cootie (n)
-ghe!"or netherworld
-(where dishonored go) (n)
-ghoch track, track down (v)
-ghojmoq nurse, nanny, governess (n)
-ghuv recruit (n)
-Hagtaj scalpel (n)
-HaqwI' Surgeon (n)
-Ha'DIbaH meat, animal (n)
-Hegh death (n)
-Hergh QaywI', hypo, pneumatic hypo (n)
-HerghwI'
-HIj deliver, transport goods (v)
-HoH killing (n)
-jas differently (adv)
-jatlh say (v)
-jay' intensely (invective) (adv)
-ja'chug succession ritual (ancient) (n)
-jech disguise, costume (n)
-yey itinerary (n)
-jIH monitor (v)
-jogh Quadrant (n)
-JuHgo' home world (n)
-lagh ensign (n)
-lagh take apart, disassemble (v)
-latlh additional one, other one (n)
-la'quv Supreme Commander (n)
-la't'a' commandant (n)
-len recess, break (n)
-LeSSov foresight (n) [[LeSSov=> leSSov] ]
-lingwI' generator (n)
-lo! use (n)
 
-lupDujHom Sshuttlecraft (n)
-lurgh direction (spatial) (n)
-mangHom cadet (n)
-matlh be loyal (v)
-me Jj leave, depart (v)
-meqba' legal proceeding, type of (n)
-miw procedure, process (n)
-morgh protest (v)
-mun intervene (v)[[p.183]]
-muvmoH recruit (v)
-muvtay initiation (n)
-nab plan, procedure (n)
-naD praise, commend, approve (v)
-naD commendation (n)
-naDHa' discommend, disapprove (v)
-naDHa'ghach discommendation (n)
-naH fruit, vegetable (n)
-naQ be full, whole, entire (v)
-naQ Cain, staff (n)
-nargh escape (v)
-ne jwI' probe (n)
-nenghep Age of Ascension (n)
-nentay Rite of Ascension (n)
-nimbuS wej Nimbus III (n)
-nis disrupt, interfere with (v)
-niteb alone, acting alone (adv)
-nitlhpach fingernail (n)
-noH war (n)
-notlh be obsolete (v)
-nuHmey arsenal (n)
-nuqjatlh what did you say?
+    bagh tie (v)
+    beQ be flat (v)
+    betleH type of hand weapon (n)
+    bIj punish (v)
+    bIj punishment (n)
+    bIreQtagh bregit lung (n)
+    boQ aid, assistance (n)
+    chab pie, tart, dumpling (n)
+    chil lose, misplace (v)
+    chov assess, evaluate (v)
+    cho' succession (n)
+    cho' succeed (to authority) (v)
+    chuS'ugh type of musical instrument (n)
+    chu'wI' trigger (n)
+    Da behave as, act in the manner of (v)
+    DaHjaj today (n)
+    Daj test inconclusively (v)
+    Daq Site, location (n)
+    Dargh tea (n)
+    Degh medal, emblem, symbol, insignia (n)
+    DI litter, rubble, debris (n)
+    DoD mark (in coordinates) (n)
+    DungluQ noon (n)
+    Duy'a' ambassador (n)
+    ghaytan likely (adv) [[p.182] ]
+    ghew bug, cootie (n)
+    ghe!"or netherworld
+    (where dishonored go) (n)
+    ghoch track, track down (v)
+    ghojmoq nurse, nanny, governess (n)
+    ghuv recruit (n)
+    Hagtaj scalpel (n)
+    HaqwI' Surgeon (n)
+    Ha'DIbaH meat, animal (n)
+    Hegh death (n)
+    Hergh QaywI', hypo, pneumatic hypo (n)
+    HerghwI'
+    HIj deliver, transport goods (v)
+    HoH killing (n)
+    jas differently (adv)
+    jatlh say (v)
+    jay' intensely (invective) (adv)
+    ja'chug succession ritual (ancient) (n)
+    jech disguise, costume (n)
+    yey itinerary (n)
+    jIH monitor (v)
+    jogh Quadrant (n)
+    JuHgo' home world (n)
+    lagh ensign (n)
+    lagh take apart, disassemble (v)
+    latlh additional one, other one (n)
+    la'quv Supreme Commander (n)
+    la't'a' commandant (n)
+    len recess, break (n)
+    LeSSov foresight (n) [[LeSSov=> leSSov] ]
+    lingwI' generator (n)
+    lo! use (n)
 
-huh? what? (excl)
-ngeHbe j cosmos (n)
-ngoch policy (n)
-pach Claw (n)
-patlh rank (military, governmental) (n)
-peHghep Age of Inclusion (n)
-peQ magnetism (n)
-peQ chem magnetic field (n)
-pe'vIl forcefully, by force (adv)
-pin'a' master (n)
-plIpyus pipius (n)
-pliw odor (n)
-pop reward (n)
-potlh be important (v)
-gaD Challenge (n)
-gaD Challenge (v)
-gagh serpent worm (as food) (n)
-gag be preferable (v)
-gar be accurate (v) [[p.184] ]
-gawHaq data banks (Singular) (n)
-gel consider, take into account (v)
-git be possible (v)
-go! world, realm (n)
-gughDu jy cruiser (n)
-gqumwI' governor (n)
-gutluch type of hand weapon (n)
-Qquv honor (n)
-Quv be honored (v)
-quvmoH honor (v)
+    lupDujHom Sshuttlecraft (n)
+    lurgh direction (spatial) (n)
+    mangHom cadet (n)
+    matlh be loyal (v)
+    me Jj leave, depart (v)
+    meqba' legal proceeding, type of (n)
+    miw procedure, process (n)
+    morgh protest (v)
+    mun intervene (v)[[p.183]]
+    muvmoH recruit (v)
+    muvtay initiation (n)
+    nab plan, procedure (n)
+    naD praise, commend, approve (v)
+    naD commendation (n)
+    naDHa' discommend, disapprove (v)
+    naDHa'ghach discommendation (n)
+    naH fruit, vegetable (n)
+    naQ be full, whole, entire (v)
+    naQ Cain, staff (n)
+    nargh escape (v)
+    ne jwI' probe (n)
+    nenghep Age of Ascension (n)
+    nentay Rite of Ascension (n)
+    nimbuS wej Nimbus III (n)
+    nis disrupt, interfere with (v)
+    niteb alone, acting alone (adv)
+    nitlhpach fingernail (n)
+    noH war (n)
+    notlh be obsolete (v)
+    nuHmey arsenal (n)
+    nuqjatlh what did you say?
 
-QaH help (n)
-QOang Chancellor (n)
-OI'tomer Khitomer (n)
-OltT'tu' Paradise (n)
-Ool beam away (v)
-Oo' no, I disagree (excl)
-Oo'nos Kronos (n)
-ra'ghomquv High Command (n)
-ri! hail (v)
-ri'Se' hailing frequency (n)
-ro'gegh!'Iwchab rokeg blood pie (n)
-ruch proceed, go ahead, do it (v)
-rura' pente' Rura Penthe (n)
-rustay bonding ritual (n)
-Sam locate, seek and find (v)
-sIbI' immediately (adv) [[sIbI'=> SIbI']]
-Sogh lieutenant (n)
-SoJ food (n)
-Sonchly death ritual (for a leader) (n)
-SOv knowledge (n)
-SuD gamble, take a chance,
-take a risk (v)
-Sugh install (in office) (v)
-SuvwI' warrior (n)
-tagh lung (n)
-tagh begin a process, initiate (v)
-taH continue, go on, endure (v)
-targh targ (n)
-tay ceremony, rite, ritual (n)
-tob test conclusively, prove (v)
-toD rescue (n)[[p.185]]
-toDujJ courage, bravery (n)
-toQDuj Bird of Prey (vessel) (n)
-totLlh commodore (n)
-toy'wl"a' Slave (n)
-tlham gravity (n)
-tlhij apologize (v)
-tlhilHal mine (n)
-tlhIingan Hubbeg Klingon Defense Force (n)
-tlhob request, ask, plead (v)
-tlho!' appreciation, gratitude (n)
-tlho' thank (v)
-vay warrior (n)
-van salute, tribute (n)
-van'a' award (n)
-vag mock (v)
-vas hall, assembly hall (n)
-vas'a' Great Hall (n)
-veH tin Great Barrier (n)
-vegqlargh devil, demon, Fek'lhr (n)
-verengan Ferengi (n)
-vesDuj warship (n)
-vID be belligerent (v)
-vVIH move, be in motion (v)
-vit truth (n)
-vi! sharpshooting,
-marksmanship (n)
-weQ candle (n)
-WO] radiation (n)
-wo] choHwI' reactor (n)
+    huh? what? (excl)
+    ngeHbe j cosmos (n)
+    ngoch policy (n)
+    pach Claw (n)
+    patlh rank (military, governmental) (n)
+    peHghep Age of Inclusion (n)
+    peQ magnetism (n)
+    peQ chem magnetic field (n)
+    pe'vIl forcefully, by force (adv)
+    pin'a' master (n)
+    plIpyus pipius (n)
+    pliw odor (n)
+    pop reward (n)
+    potlh be important (v)
+    gaD Challenge (n)
+    gaD Challenge (v)
+    gagh serpent worm (as food) (n)
+    gag be preferable (v)
+    gar be accurate (v) [[p.184] ]
+    gawHaq data banks (Singular) (n)
+    gel consider, take into account (v)
+    git be possible (v)
+    go! world, realm (n)
+    gughDu jy cruiser (n)
+    gqumwI' governor (n)
+    gutluch type of hand weapon (n)
+    Qquv honor (n)
+    Quv be honored (v)
+    quvmoH honor (v)
 
-wug decide upon (v)
+    QaH help (n)
+    QOang Chancellor (n)
+    OI'tomer Khitomer (n)
+    OltT'tu' Paradise (n)
+    Ool beam away (v)
+    Oo' no, I disagree (excl)
+    Oo'nos Kronos (n)
+    ra'ghomquv High Command (n)
+    ri! hail (v)
+    ri'Se' hailing frequency (n)
+    ro'gegh!'Iwchab rokeg blood pie (n)
+    ruch proceed, go ahead, do it (v)
+    rura' pente' Rura Penthe (n)
+    rustay bonding ritual (n)
+    Sam locate, seek and find (v)
+    sIbI' immediately (adv) [[sIbI'=> SIbI']]
+    Sogh lieutenant (n)
+    SoJ food (n)
+    Sonchly death ritual (for a leader) (n)
+    SOv knowledge (n)
+    SuD gamble, take a chance,
+    take a risk (v)
+    Sugh install (in office) (v)
+    SuvwI' warrior (n)
+    tagh lung (n)
+    tagh begin a process, initiate (v)
+    taH continue, go on, endure (v)
+    targh targ (n)
+    tay ceremony, rite, ritual (n)
+    tob test conclusively, prove (v)
+    toD rescue (n)[[p.185]]
+    toDujJ courage, bravery (n)
+    toQDuj Bird of Prey (vessel) (n)
+    totLlh commodore (n)
+    toy'wl"a' Slave (n)
+    tlham gravity (n)
+    tlhij apologize (v)
+    tlhilHal mine (n)
+    tlhIingan Hubbeg Klingon Defense Force (n)
+    tlhob request, ask, plead (v)
+    tlho!' appreciation, gratitude (n)
+    tlho' thank (v)
+    vay warrior (n)
+    van salute, tribute (n)
+    van'a' award (n)
+    vag mock (v)
+    vas hall, assembly hall (n)
+    vas'a' Great Hall (n)
+    veH tin Great Barrier (n)
+    vegqlargh devil, demon, Fek'lhr (n)
+    verengan Ferengi (n)
+    vesDuj warship (n)
+    vID be belligerent (v)
+    vVIH move, be in motion (v)
+    vit truth (n)
+    vi! sharpshooting,
+    marksmanship (n)
+    weQ candle (n)
+    WO] radiation (n)
+    wo] choHwI' reactor (n)
 
-yagh organism (n)
+    wug decide upon (v)
 
-yaH be taken away (v)
+    yagh organism (n)
 
-ye jquv High Council (n)
+    yaH be taken away (v)
 
-"aH paraphernalia (n)
+    ye jquv High Council (n)
 
-"ay admiral (n)
+    "aH paraphernalia (n)
 
-"ech brigadier (n)
+    "ay admiral (n)
 
-"evnagh Subspace (n)
+    "ech brigadier (n)
 
-"oD arbitrate, mediate (v)
-Totlh photon (n)
+    "evnagh Subspace (n)
 
-"oy'naQ painstick (n)
+    "oD arbitrate, mediate (v)
+    Totlh photon (n)
+
+    "oy'naQ painstick (n)
 
 
 
@@ -7242,345 +7243,346 @@ Totlh photon (n)
 
 ENGLisH-KLINGON
 
-accurate, be accurate (v) gar
-
-act in the manner of, behave as (v) Da
-additional one, other one (n) latlh
-admiral (n) "ay
-
-Age of Ascension (n) nenghep
-Age of Inclusion (n) peHghep
-aid, assistance (n) boQ
-alone, acting alone (adv) niteb
-ambassador (n) Duy'a'
-apologize (v) tlhij
-appreciation, gratitude (n) tlho!'
-approve, commend, praise (v) naD
-arbitrate, mediate (v) "oD
-arsenal (n) nuHmey
-assess, evaluate (v) chov
-award (n) van'a'
-beam away (v) Ool
-begin a process, initiate (v) tagh
-behave as, act in the manner of (v) Da
-belligerent, be belligerent (v) vIiID
-Bird of Prey (vessel) (n) toQDuj
-bonding ritual (n) rustay
-break, recess (n) len
-bregit lung (n) bIreQtagh
-brigadier (n) "ech[[p.187] ]
-bug, cootie (n) ghew
-cadet (n) mangHom
-Cain, staff (n) naQ
-candle (n) weQ
-ceremony, rite, ritual (n) tay
-Challenge (v) gaD
-Challenge (n) gaD
-Chance, take a chance, gamble (v) SuD
-Chancellor (n) QOang
-claw (n) pach
-commandant (n) la'ta!'
-commend, approve, praise (v) naD
-commendation (n) naD
-commodore (n) totlh
-complete, be complete, whole (v) naQ
-consider, take into account (v) gel
-continue, go on, endure (v) taH
-cosmos (n) ngeHbe j
-costume, disguise (n) jech
-courage, bravery (n) toDujy
-
-cruiser (n) gughDu Jj
-data banks (Singular) (n) gawHaq
-death (n) Hegh
-death ritual (for a leader) (n) Sonchly
-debris, litter, rubble (n) DI
-decide upon (v) wug
-deliver, transport goods (v) HIj
-devil, demon, Fek'lhr (n) veqlargh
-differently (adv) jas
-direction (spatial) (n) lurgh
-disassemble, take apart (v) lagh
-discommend, disapprove (v) naDHa'
-discommendation (n) naDHa'ghach
-disguise, costume (n) jech
-disrupt, interfere with (v) nis
-emblem, symbol, Degh
-
-medal, insignia (n)
-endure, continue, go on (v) taH
-ensign (n) lagh
-escape (v) nargh
-evaluate, assess (v) chov[[p.188] ]
-Ferengi (n) verengan
-fingernail (n) nitlhpach
-flat, be flat (v) beQ
-food (n) SoJ
-forcefully, by force (adv) pe'vIl
-foresight (n) leSSov
-fruit, vegetable (n) naH
-full, be full, whole, entire (v) naQ
-gamble, take a chance, SuD
-
-take a risk (v)
-generator (n) lingwI'
-governess, nurse, nanny (n) ghojmog
-governor (n) gqumwI'
-gratitude, appreciation (n) tlho!'
-gravity (n) tlham
-Great Hall (n) vaS'ta'
-Great Barrier (n) veH tin
-hail (v) ri!
-hailing frequency (n) ri'Se'
-hall, assembly hall (n) vas
-help (n) QaH
-High Council (n) yejyquv
-High Command (n) ra'ghomquv
-home world (n) JuHgo'
-honor (n) Qquv
-honor (v) quvmoH
-honored, be honored (v) Quv
-hypo, pneumatic Hergh QaywI',
-
-hypo (n) HerghwI'
-immediately (adv) SIbI'[[sIbI'=> SIbI"] ]
-important, be important (v) potlh
-initiate proceedings, tagh
 
-begin process (v)
-initiation (n) muvtay
-install (in office) (v) Sugh
-intensely (invective) (adv) jay'
-interfere with, disrupt (v) nis
-intervene (v) mun
-itinerary (n) Jey
+    accurate, be accurate (v) gar
+
+    act in the manner of, behave as (v) Da
+    additional one, other one (n) latlh
+    admiral (n) "ay
+
+    Age of Ascension (n) nenghep
+    Age of Inclusion (n) peHghep
+    aid, assistance (n) boQ
+    alone, acting alone (adv) niteb
+    ambassador (n) Duy'a'
+    apologize (v) tlhij
+    appreciation, gratitude (n) tlho!'
+    approve, commend, praise (v) naD
+    arbitrate, mediate (v) "oD
+    arsenal (n) nuHmey
+    assess, evaluate (v) chov
+    award (n) van'a'
+    beam away (v) Ool
+    begin a process, initiate (v) tagh
+    behave as, act in the manner of (v) Da
+    belligerent, be belligerent (v) vIiID
+    Bird of Prey (vessel) (n) toQDuj
+    bonding ritual (n) rustay
+    break, recess (n) len
+    bregit lung (n) bIreQtagh
+    brigadier (n) "ech[[p.187] ]
+    bug, cootie (n) ghew
+    cadet (n) mangHom
+    Cain, staff (n) naQ
+    candle (n) weQ
+    ceremony, rite, ritual (n) tay
+    Challenge (v) gaD
+    Challenge (n) gaD
+    Chance, take a chance, gamble (v) SuD
+    Chancellor (n) QOang
+    claw (n) pach
+    commandant (n) la'ta!'
+    commend, approve, praise (v) naD
+    commendation (n) naD
+    commodore (n) totlh
+    complete, be complete, whole (v) naQ
+    consider, take into account (v) gel
+    continue, go on, endure (v) taH
+    cosmos (n) ngeHbe j
+    costume, disguise (n) jech
+    courage, bravery (n) toDujy
+
+    cruiser (n) gughDu Jj
+    data banks (Singular) (n) gawHaq
+    death (n) Hegh
+    death ritual (for a leader) (n) Sonchly
+    debris, litter, rubble (n) DI
+    decide upon (v) wug
+    deliver, transport goods (v) HIj
+    devil, demon, Fek'lhr (n) veqlargh
+    differently (adv) jas
+    direction (spatial) (n) lurgh
+    disassemble, take apart (v) lagh
+    discommend, disapprove (v) naDHa'
+    discommendation (n) naDHa'ghach
+    disguise, costume (n) jech
+    disrupt, interfere with (v) nis
+    emblem, symbol, Degh
+
+    medal, insignia (n)
+    endure, continue, go on (v) taH
+    ensign (n) lagh
+    escape (v) nargh
+    evaluate, assess (v) chov[[p.188] ]
+    Ferengi (n) verengan
+    fingernail (n) nitlhpach
+    flat, be flat (v) beQ
+    food (n) SoJ
+    forcefully, by force (adv) pe'vIl
+    foresight (n) leSSov
+    fruit, vegetable (n) naH
+    full, be full, whole, entire (v) naQ
+    gamble, take a chance, SuD
+
+    take a risk (v)
+    generator (n) lingwI'
+    governess, nurse, nanny (n) ghojmog
+    governor (n) gqumwI'
+    gratitude, appreciation (n) tlho!'
+    gravity (n) tlham
+    Great Hall (n) vaS'ta'
+    Great Barrier (n) veH tin
+    hail (v) ri!
+    hailing frequency (n) ri'Se'
+    hall, assembly hall (n) vas
+    help (n) QaH
+    High Council (n) yejyquv
+    High Command (n) ra'ghomquv
+    home world (n) JuHgo'
+    honor (n) Qquv
+    honor (v) quvmoH
+    honored, be honored (v) Quv
+    hypo, pneumatic Hergh QaywI',
 
-Khitomer (n) OI'tomer
+    hypo (n) HerghwI'
+    immediately (adv) SIbI'[[sIbI'=> SIbI"] ]
+    important, be important (v) potlh
+    initiate proceedings, tagh
 
-killing (n) HoH[[p.189] ]
+    begin process (v)
+    initiation (n) muvtay
+    install (in office) (v) Sugh
+    intensely (invective) (adv) jay'
+    interfere with, disrupt (v) nis
+    intervene (v) mun
+    itinerary (n) Jey
 
-Klingon Defense Force (n) tlhIingan Hubbeg
+    Khitomer (n) OI'tomer
 
-knowledge (n) SOv
+    killing (n) HoH[[p.189] ]
 
-Kronos (n) OQo'noSs
+    Klingon Defense Force (n) tlhIingan Hubbeg
 
-leave, depart (v) me Jj
+    knowledge (n) SOv
 
-legal proceeding, type of (n) meqba'
+    Kronos (n) OQo'noSs
 
-lieutenant (n) Sogh
+    leave, depart (v) me Jj
 
-likely (adv) ghaytan
+    legal proceeding, type of (n) meqba'
 
-litter, rubble, debris (n) DI
+    lieutenant (n) Sogh
 
-locate, seek and find (v) Sam
+    likely (adv) ghaytan
 
-location, site (n) Daq
+    litter, rubble, debris (n) DI
 
-lose, misplace (v) chil
+    locate, seek and find (v) Sam
 
-loyal, be loyal (v) matlh
+    location, site (n) Daq
 
-lung (n) tagh
+    lose, misplace (v) chil
 
-magnetic field (n) peQ chem
+    loyal, be loyal (v) matlh
 
-magnetism (n) peQ
+    lung (n) tagh
 
-mark (in coordinates) (n) DoD
+    magnetic field (n) peQ chem
 
-marksmanship, vi'
-Ssharpshooting (n)
+    magnetism (n) peQ
 
-master (n) pin'a'
+    mark (in coordinates) (n) DoD
 
-meat, animal (n) Ha'DIbaH
+    marksmanship, vi'
+    Ssharpshooting (n)
 
-medal, emblem, Degh
-symbol, insignia (n)
+    master (n) pin'a'
 
-mediate, arbitrate (v) "oD
+    meat, animal (n) Ha'DIbaH
 
-mine (n) tlhilHal
+    medal, emblem, Degh
+    symbol, insignia (n)
 
-mock (v) vag
+    mediate, arbitrate (v) "oD
 
-monitor (v) jIH
+    mine (n) tlhilHal
 
-move, be in motion (v) vVIH
+    mock (v) vag
 
-musical instrument, type of (n) chuS'ugh
+    monitor (v) jIH
 
-netherworld ghe!'or
-(where dishonored go) (n)
+    move, be in motion (v) vVIH
 
-Nimbus III (n) nimbuS wej
+    musical instrument, type of (n) chuS'ugh
 
-no, I disagree (excl) Oo'
+    netherworld ghe!'or
+    (where dishonored go) (n)
 
-noon (n) DungluQ
+    Nimbus III (n) nimbuS wej
 
-nurse, nanny, governess (n) ghojmoq
+    no, I disagree (excl) Oo'
 
-obsolete, be obsolete (v) notlh
+    noon (n) DungluQ
 
-odor (n) plw
+    nurse, nanny, governess (n) ghojmoq
 
-organism (n) yagh
+    obsolete, be obsolete (v) notlh
 
-other one, additional one (n) latlh
+    odor (n) plw
 
-painstick (n) "oy'naQ
+    organism (n) yagh
 
-Paradise (n) OltT'tu'
+    other one, additional one (n) latlh
 
-paraphernalia (n) "aH[[p.190] ]
+    painstick (n) "oy'naQ
 
-photon (n) Totlh
+    Paradise (n) OltT'tu'
 
-pie, tart, dumpling (n) chab
+    paraphernalia (n) "aH[[p.190] ]
 
-pipius (n) plipyus
+    photon (n) Totlh
 
-plan, procedure (n) nab
+    pie, tart, dumpling (n) chab
 
-policy (n) ngoch
+    pipius (n) plipyus
 
-possible, be possible (v) git
+    plan, procedure (n) nab
 
-praise, commend, approve (v) naD
+    policy (n) ngoch
 
-preferable, be preferable (v) gqaq
+    possible, be possible (v) git
 
-probe (n) ne jwI'
+    praise, commend, approve (v) naD
 
-procedure, process (n) miw
+    preferable, be preferable (v) gqaq
 
-proceed, go ahead, do it (v) ruch
+    probe (n) ne jwI'
 
-protest (v) morgh
+    procedure, process (n) miw
 
-punish (v) bIj
+    proceed, go ahead, do it (v) ruch
 
-punishment (n) bIj
+    protest (v) morgh
 
-Quadrant (n) jogh
+    punish (v) bIj
 
-radiation (n) WO]
+    punishment (n) bIj
 
-rank (military, governmental) (n) patlh
+    Quadrant (n) jogh
 
-reactor (n) wo] choHwI'
+    radiation (n) WO]
 
-realm, world (n) go!
+    rank (military, governmental) (n) patlh
 
-recess, break (n) len
+    reactor (n) wo] choHwI'
 
-recruit (n) ghuv
+    realm, world (n) go!
 
-recruit (v) muvmoH
+    recess, break (n) len
 
-request, ask, plead (v) tlhob
+    recruit (n) ghuv
 
-rescue (n) toD
+    recruit (v) muvmoH
 
-reward (n) pop
+    request, ask, plead (v) tlhob
 
-risk, take a risk, take a chance (v) SuD
+    rescue (n) toD
 
-rite, ritual, ceremony (n) tay
+    reward (n) pop
 
-Rite of Ascension (n) nentay
+    risk, take a risk, take a chance (v) SuD
 
-rokeg blood pie (n) ro'gegh'Iwchab
+    rite, ritual, ceremony (n) tay
 
-Rura Penthe (n) rura' pente'
+    Rite of Ascension (n) nentay
 
-salute, tribute (n) van
+    rokeg blood pie (n) ro'gegh'Iwchab
 
-say (v) jatlh
+    Rura Penthe (n) rura' pente'
 
-scalpel (n) Hagtaj
+    salute, tribute (n) van
 
-seek and find, locate (v) Sam
+    say (v) jatlh
 
-serpent worm (as food) (n) gagh
+    scalpel (n) Hagtaj
 
-Sharpshooting, marksmanship (n) vi'
+    seek and find, locate (v) Sam
 
-Shuttlecraft (n) lupDujHom
+    serpent worm (as food) (n) gagh
 
-Site, location (n) Daq
+    Sharpshooting, marksmanship (n) vi'
 
-Slave (n) toy'wl"a'
+    Shuttlecraft (n) lupDujHom
 
-Subspace (n) "evnagh
+    Site, location (n) Daq
 
-succeed (to authority) (v) cho'[[p.191]]
+    Slave (n) toy'wl"a'
 
-succession (n) cho'
+    Subspace (n) "evnagh
 
-succession ritual (ancient) (n) ja'chug
+    succeed (to authority) (v) cho'[[p.191]]
 
-Supreme Commander (n) la'quv
+    succession (n) cho'
 
-Surgeon (n) HaqwI'
+    succession ritual (ancient) (n) ja'chug
 
-take apart, disassemble (v) lagh
+    Supreme Commander (n) la'quv
 
-taken away, be taken away (v) yaH
+    Surgeon (n) HaqwI'
 
-targ (n) targh
+    take apart, disassemble (v) lagh
 
-tart, pie, dumpling (n) chab
+    taken away, be taken away (v) yaH
 
-tea (n) Dargh
+    targ (n) targh
 
-test conclusively, prove (v) tob
+    tart, pie, dumpling (n) chab
 
-test inconclusively (v) Daj
+    tea (n) Dargh
 
-thank (v) tlho!
+    test conclusively, prove (v) tob
 
-tie (v) bagh
+    test inconclusively (v) Daj
 
-today (n) DaHjaj
+    thank (v) tlho!
 
-track, track down (v) ghoch
+    tie (v) bagh
 
-traitor (n) "urwLl'
+    today (n) DaHjaj
 
-transport goods, deliver (v) HIj
+    track, track down (v) ghoch
 
-treason, commit treason (v) "ur
+    traitor (n) "urwLl'
 
-tribute, salute (n) van
+    transport goods, deliver (v) HIj
 
-trigger (n) chu'wI'
+    treason, commit treason (v) "ur
 
-truth (n) vit
+    tribute, salute (n) van
 
-use (n) lo!
+    trigger (n) chu'wI'
 
-vegetable, fruit (n) naH
+    truth (n) vit
 
-war (n) noH
+    use (n) lo!
 
-warrior (n) SuvwI', vaj
+    vegetable, fruit (n) naH
 
-warship (n) vesSDuj
+    war (n) noH
 
-weapon: gutluch, betleH
-types of hand weapons (n)
+    warrior (n) SuvwI', vaj
 
-what did you say? nuqjatlh
-huh? what? (excl)
+    warship (n) vesSDuj
 
-whole, be whole, full, entire (v) naQ
+    weapon: gutluch, betleH
+    types of hand weapons (n)
 
-world, realm (n) go'[[p.192] ]
+    what did you say? nuqjatlh
+    huh? what? (excl)
+
+    whole, be whole, full, entire (v) naQ
+
+    world, realm (n) go'[[p.192] ]
 
 
 
