@@ -1,0 +1,2120 @@
+
+'abandon' : "lon (v.)",
+
+
+ability (n) laH
+    area, area above (n) Dung
+    absent, be absent (v) Dach
+    absentminded, be absent-— JeH
+    minded (v)
+    abuse (n) ghong
+    abuse (v) ghong
+    accelerate (v) chung
+    accept (v) laj
+    acceptance (n) laj
+    access (n) naw'
+    accidentally, by accident (adv) bong
+    accommodate (v) ma!
+    accompany (n) tlhej[[ (n)=> (v) ]]
+    accomplish (v) ta'
+    accomplished, be accomplished, rin
+    finished (v)
+    accomplishment (n) ta'
+    accord (n) rom
+    accumulate (v) vi'
+    accusation (n) pum
+    accuse (v) pum
+    ache (n) ‘oy'[[p.119]]
+    ache (v) "oy!
+    achieve (v) chav
+    achievement (n) chav
+    acid (n) pey
+    acquire (v) Suq
+    act, take action (v) vang
+    activate (a device) (v) chu'
+    add (v) chel
+    address, speech, lecture (n) SoQ
+    adjust (v) 1TS
+    administer (v) 1loH
+    administration (n) 1loH
+    admire (v) Ho!
+    admit (v) chID
+    advance (v) Duv
+    advanced, be advanced, "TItlh
+    highly developed (v)
+    adversary (n) ghol
+    advice (n) ges
+    advise (v) ges
+    aft (n) "oO!
+
+    afternoon (n) pov
+    agency (n) tum
+    agent (n) Duy
+    aggressive, be aggressive (v) vaQ
+    agonizer, Klingon agonizer (n) QIghpej
+    agony (n) bep
+    agree (v) Oochbe'
+    agriculture (n) Satlh
+    aid (v) OQaH
+    aide (n) boQ
+    aide-de-camp (n) boQDu'
+    airlock (n) HIchDal
+    alarm (n) ghum
+    alarm, sound an alarm (v) ghum
+    alert (n) ghuH
+    alert (v) ghuHmoH
+    alerted, be alerted to (v) ghuH
+    alien (n) nov
+    all (n) Hoch[[p.120] ]
+    all gone, be all gone (v) loj
+    alliance (n) bog
+    allow (v) chaw'
+    alone, be alone (v) mob
+    also (conj) je
+    alter (v) CchoH
+    altitude (n) 'Iv
+    always (adv) reH
+    ammunition (n) nich
+    analysis (n) po J
+    analyze (v) poy
+    ancestor (n) gempa'
+    ancestors (n) no!
+    ancient, be ancient (v) tIO
+    and (joining nouns) (conj) je
+    and (joining sentences) (conj) "ej
+    anger (n) OQeH
+    angry, be angry (v) OeH
+    animal (n) Ha'DIbaH
+    animal: different types "er, Qogh, Qa'
+    of animals (n)
+    annoy (v) nuQ
+    answer (v) jang
+    antimatter (n) rugh
+    anyone (n) vay'
+    appear (v) nargh
+    approach (v) ghos
+    area, district (n) yos
+    argue (v) ghoH
+    arm (body part) (n) Des
+    arms (small) (n) nuHHom
+    army (n) mangghom
+    arrest (v) gop
+    arrive (v) paw
+    ascend (v) Sal
+    ashamed, be ashamed (v) tuH
+    ask (v) tlhob
+    assemble, meet (v) ghom
+    assembly (n) ye]
+    assist (v) boQ[[p.121]]
+    asteroid (n) ghopDap
+
+    atmosphere (n) muD
+    attack (v) Hiv
+    attempt (v) niID
+    attention, pay attention (v) gqim
+    attitude-control thrusters (n) lolSeHcha
+    authority (n) woQ
+    baby (n) ghu
+    back (of body) (n) Dub
+    back (of hand) (n) chap
+    back away from, back off (v) DoH
+    bad, be bad (v) gab
+    banDaqe (n) Sev
+    bar, saloon, cocktail lounge (n) tach
+    bartender (n) chom
+    barter (v) tlhong
+    base (military term) (n) waw'
+    battle (n) may '
+    battle array (n) may 'morgh
+    battle cruiser (n) may 'Duj
+    beam (aboard) (v) Jol
+    beam, transport beam (n) Jol
+    bear, endure (v) SIO
+    beard (n) rol
+    beautiful, be beautiful (v) 'TH
+    become (v) mo Jj
+    beg, plead (v) goy'
+    being (nonhumanoid) (n) Dep
+    believe (v) Har
+    belly (n) chor
+    below, area below (n) bing
+    belt (n) gogh
+    bend (v) SIH
+    beside, area beside (n) retlh
+    betray (v) magh
+    between, area between (n) JOF
+    big, be big (v) tiIn
+    birthday (n) gos[[p.122] ]
+    bite (v) chop
+    black, be black (v) g1Ij
+    blame (n) pich
+    blame (v) pich
+    block, prevent (v) bot
+    blood (n) "Tw
+    blow one's top (v) Qay'
+    blue, be blue, green, yellow (v) SuD
+    board, go aboard (v) tly
+    body (n) porgh
+    boil (v) pub
+    bold, be bold (v) jag
+    bone (n) Hom
+    book (n) pag
+    boot (n) Das
+    boot spike (n) DaSpu'
+    boring, be boring (v) Dal
+    born, be born (v) bogh
+    borrow (v) ngIp
+    boss (n) pin
+    bother (v) nuQ
+    boundary (n) veH
+
+    boy (n) loDHom
+
+    brag (v) mly
+
+    brain, mind (n) yab
+
+    brave, be brave (v) yYOH
+
+    break (v) ghor
+
+    break (rules) (v) biv
+
+    breakfast (n) nilQ
+
+    breath (n) tlhuH
+
+    breathe (v) tlhuH
+
+    breed (v) Sep
+
+    breeze (n) SuS
+
+    bridge (of a ship) (n) meH
+
+    bright, be bright, be light (v) WOov
+
+    bring (v) gem
+
+    brother (n) loDnI'
+
+    build up, take form (v) chen
+
+    building (n) gach
+
+    burn (v) meQ
+
+    bury (v) mol[[p.123] ]
+
+    business (n) malja'
+
+    but (conj) "ach, ‘a
+
+    buy (v) je!
+
+    cage (n) mo '
+
+    calculate (v) Sim
+
+    calendar (n) 'TSjaH
+
+    call, name (v) pong
+
+    calm, be calm (v) jot
+
+    camp (military term) (n) raQ
+
+    cancel (v) gil
+
+    cape (clothing) (n) ngup
+
+    capital (of a place) (n) mon
+
+    captain (n) HoD
+
+    capture (v) jon
+
+    care for, take care of (v) Qorgh
+
+    care (about), be concerned SaH
+    (about) (v)
+
+    careful, be careful (v) yep
+
+    careless, be careless (v) yepHa'
+
+    cargo (n) tep
+
+    Cargo carrier (n) tepgqengwI'
+
+    carry (v) gqeng
+
+    catalog (n) mem
+
+    catastrophe (n) lot
+
+    cautious, be cautious (v) HoJ
+
+    cave (n) Dis
+
+    cease, stop (v) mev
+
+    celebrate (v) Lop
+
+    center (n) botlh
+
+    certainty (n) DIch
+
+    chain (n) mir
+
+    Chair (n) gus
+
+    change (n) CchoH
+
+    change (v) CchoH
+
+    charge (military term) (v) yov
+
+    charge (up) (v) HuJ
+
+    charming (used only we JpuH
+    1ronically) (excl)
+
+    chase, follow (v) tlha'
+
+    chat (v) jaw[[p.124] ]
+
+    cheat (v) ngor
+    cheek (n) gevpob
+    chew (v) yiv
+    child, offspring (n) puq
+    chin (n) wos
+    chocolate (n) yuch
+    choice (n) wiv
+    choke (v) VoQ
+    choose (v) wiv
+    chore, task (n) Qu!
+    chronometer (n) tlhag
+    circle (n) gho
+    citizen (n) rewbe'
+    city (n) veng
+    CivIlIzation (n) tayqeg
+    CivIlIze (v) taymoH
+    CivIlIzed, be civIlIzed (v) tay
+    claim (territory) (v) DoQ
+    classification (n) buv
+    classify (v) buv
+    clean, be clean (v) Say'
+    clear, be clear, not obstructed (v) Huv
+    clever, be clever (v) val
+    cliff (n) qo]
+    climb (v) tos
+    clip (v) poDmoH
+    clipped, be clipped (v) poD
+    Cloak, hide (v) So!
+    cloaking device (n) So'wI'
+    close in, get closer, come nearer (v) chol
+    close, shut (v) SoQmoH
+    closed, be closed, be shut (v) SoQ
+    clothing (n) Sut
+    cloud (n) "eng
+    clumsy, be clumsy (v) Soy'
+    coat (n) wep
+    cockroach (n) vetlh
+    cocktail lounge, bar (n) tach
+    code (n) ngoqg
+    cold, be cold (v) bIr[[p.125]]
+    collapse (v) DejJ
+    collar (n) mongDech
+    collect (v) bos
+    collide (v) paw'
+    colony (n) mID
+    column (n) tut
+    come (v) ghos
+    come on (excl) Ha'
+    comet (n) lly
+    command (v) ra'
+    commander (n) la', ra'wI'
+    commit a crime (v) HeS
+    communicate (v) Qum
+    communications officer (n) Qumpin
+    communicator, communi- OumwI '
+    cations device (n)
+    compel (v) raD
+    compete (v) "Ov
+    complain (v) bep
+    comply (v) HeQ
+
+    compromise (v) mos
+    computer (n) De'wI'
+    concentrate (v) gqim
+    concentrate on, focus on, bus
+    think only about (v)
+    concern, be concerned (about), SaH
+    care (about) (v)
+    condemn (v) gqich
+    confer (v) ja'chug
+    confess (v) Dis
+    confide (v) tey'
+    confine (v) wegh
+    conflict (n) yol
+    confuse (v) mismoH
+    confused, be confused (v) mis
+    confusion (n) m1is
+    conglomeration (n) tlhogd
+    congratulate (v) Hoy'
+    connect (v) rar
+    conquer (v) chargh[[p.126] ]
+    consent (v) ghib
+    consequential thing, some- potlh
+    thing important (n)
+    conspiracy (n) Qus
+    conspire (v) Qus
+    consul (n) jojlu'
+    contain (an enemy) (v) Sev
+    contain (have inside) (v) ngas
+    contradict (v) tlhoch
+    contribute (v) ghag
+    control (v) SeH
+    control panel (n) SeHlaw
+    convey (v) geng
+    convince (v) pon
+    cook (v) vut
+    cooperate (v) yeq
+    coordinates (n) OQuv
+    corporal (rank) (n) Da'
+    corpse (n) lom
+    correct, be correct (v) lugh
+    corrupt (v) gqalmoH
+    corrupt, be corrupt (v) gal
+    council (n) ye]
+    Council of Elders (n) guprip
+    count (v) togh
+    counterfeit, be counterfeit (v) ngeb
+    country, countryside (n) Hatlh
+    course, dish (at a meal) (n) nay'
+    course, route (n) He
+    court (n) bo'DIj
+    court-martial (v) ghIpDIj
+    coward (n) nuch
+    crazy, be crazy (v) maw '
+    credit (monetary unit) (n) DeQ
+    crew, crewman (n) beq
+    Crime (n) HeS
+    Criminal (n) HeSwI'
+    crowd (n) ghom'a'
+    crowd (v) gev
+    Cruise (v) gugh[[p.127] ]
+
+    cry (v) SaQ
+    cry out, shout, scream (v) jach
+    crystal (geologic formation) (n) gut
+    cunning, be cunning (v) "ong
+    cure (v) vor
+    custom (n) tIigh
+    cut (v) pe'
+    cut, trim (hair) (v) chip
+    Daqger, knife (n) taj
+    damage (n) OIH
+    damage, cause damage (v) OIH
+    dandruff (n) quHvaj
+    danger (n) OQob
+    dangerous, be dangerous (v) OQob
+    dare (v) ngIl
+    dark, be dark (v) Hurgh
+    data (n) De'
+    data transceiving device (n) HabllI'
+    data transmission (n) jabbI'ID
+    daughter (n) puqbe'
+    dawn (n) jajlo'
+    day (from dawn to dawn) (n) jay
+    day after tomorrow (n) cha'les
+    day before yesterday (n) cha'Hu'
+    days ago (n) Hu!
+    days from now (n) les
+    daytime (n) pem
+    debate (v) ngach
+    decay (v) ragh
+    deceive (v) toy
+    decide (v) wug
+    decline, deteriorate (v) Sab
+    decrease (v) nup
+    defeat (v) yey
+    defect (n) Duy'
+    defect (v) cheH
+    defective, be defective (v) Duy'
+    defend (v) Hub
+    defense (n) Hub[[p.128] ]
+    deflectors (n) begh
+    delay (v) mim
+    demand (v) poQ
+    demolish (v) peg
+    Denebia (n) DenIbya'
+    Denebian (n) DenIlbya'ngan
+    Denebian slime devil (n) DenIbya' Qatlh
+    deny (v) tem
+    deodorant (n) nosvagh
+    depart (v) tlheD
+    depend on (v) WuV
+    depressed, be depressed (v) "Tt
+    descend (v) ghir
+    describe (v) Del
+    desert (n) Deb
+    desert (v) chosS
+    deserted, be deserted, chim
+    empty, uninhabited (v)
+    destination (n) ghoch
+    destroy (n) Qaw'[[ (n)=> (v) ]]
+
+    destruction (n) OIH
+    deteriorate (v) Sab
+    detest (v) musS
+    developed, be developed Hach
+    (e.g., CivIlIzation) (v)
+    device (n) jan
+    devise, invent (v) "ogh
+    dictator (n) HL'
+    dictatorship (n) HI'tuy
+    dictionary (n) mu'ghom
+    die (v) Hegh
+    different, be different (v) pim
+    difficult, be difficult (v) Oatlh
+    dignity (n) nur
+    dilithium (n) cha'puj
+    dilithium crystal (n) cha'pujgqut
+    dinner (n) "uQ
+    diplomacy (n) ghar
+    diplomacy, conduct diplomacy (v) ghar
+    diplomat (n) gharwI'
+    dirt (n) lam[[p.129] ]
+    dirt under fingernails (n) but Lh
+    dirty, be dirty (v) lam
+    disable (v) Ootlh
+    disagree (v) Ooch
+    disappear (v) ngab
+    disaster (n) Qugh
+    discipline (n) Sun
+    discourage (v) tung
+    discover (v) tu'
+    discuss (v) ja'chug
+    disease (n) rop
+    disgraced, be disgraced (v) web
+    disguise (v) jech
+    dish, course (food) (n) nay'
+    dishonest, be dishonest (v) yuD
+    dislike (v) par
+    disobey (v) lobHa'
+    disperse, scatter (v) ghomHa'
+    display, show (picture) (v) cha'
+    displeased, be displeased (v) belHa'
+    dispute (v) ghoH
+    disregard (v) gqimHa'
+    dissolve (v) ngos
+    distance, range (n) chug
+    distress call (n) Sotlaw'
+    distressed, be in distress (v) Sot
+    district, area (n) yos
+    distrust (v) voqHa'
+    disturb (v) SuJ
+    divide (v) wav
+    dock (n) vergh
+    dock (v) vergh
+    doctor, physician (n) Qel
+    dominate (v) ghatlh
+    done (excl) pitlh
+    door, gate (n) lojmIt
+    doubt (v) Hon
+    dread (v) Haj
+    dream (v) naj
+
+    dregs (n) puqh
+
+    drill (military) (n) geq[ [p.130] ]
+
+    drink (v) tlhutlh
+
+    drool (v) bol
+
+    drop (v) chagh
+
+    drunk, be drunk, intoxicated (v) chech
+
+    dry, be dry (v) OQaD
+
+    duel (v) Hay'
+
+    dull, be dull, uninteresting (v) getlh
+
+    dumbfounded, be dumb- yay'
+    founded, uninteresting, shocked (v)
+
+    duty (n) Qu!
+
+    duty station, station (n) yaH
+
+    dysentery (n) pom
+
+    Barth (n) tera'
+
+    Farther, Terran (n) tera'ngan
+
+    earthquake, experience an Qom
+    earthquake or tremor (v)
+
+    easy, be easy (v) ngeD
+
+    eat (v) Sop
+
+    eavesdrop (v) Daq
+
+    edge (n) HeH
+
+    eight (num) chorgh
+
+    eighth (num) chorghDIich
+
+    Flas (n) "elas
+
+    elder (n) qup
+
+    embark (v) ten
+
+    embassy (n) rivSo'
+
+    emergency (n) chach
+
+    emissary (n) Duy, ‘oSwI'
+
+    emperor (n) ta', voDleH
+
+    empire (n) wo!
+
+    empty, be empty, deserted, chim
+    uninhabited (v)
+
+    encounter, meet (v) ghom
+
+    encourage (v) tungHa'
+
+    endure, bear (v) SIO
+
+    enemy (n) jagh
+
+    energize (v) riH
+
+    energize, fire (e.g., thrusters) (v) laQ
+
+    energizer (n) rIHwi'[[p.131]]
+
+    energy beings (n) HoSDo"
+
+    energy field (n) HoSchem
+
+    energy, power (n) Hos
+
+    engage, activate (a device) (v) chu'
+
+    engine (n) jonta', QuQ
+
+    engineer (n) jonwI'
+
+    enjoy (v) tiv
+
+    enough, be enough, be yap
+    sufficient (v)
+
+    enter, go in (v) "el
+
+    entity (n) Dol
+
+    equipment, gear (n) luch
+
+    era (n) bov
+
+    err, make a mistake (v) Qagh
+
+    error, mistake (n) Qagh
+
+    escort (v) Dor
+
+    espionage (n) 1TnDab
+
+    essential, be essential, Tut
+
+    necessary (v)
+    establish, set up (v) cher
+    estimate, judge (v) noH
+    ethics (n) ghob
+    evade, take evasive action (v) jun
+    even so (conj) "ach, ‘a
+    event, occurrence, wanl'
+
+    phenomenon (n)
+    everyone, everything (n) Hoch
+    everywhere (n) Dat
+    evil, be evil (v) migh
+    exact, be exact, perfect (v) pup
+    exaggerate (v) lach
+    examine (v) nuD
+    excellent, be excellent (v) pov
+    exceptional, be exceptional, le'
+
+    special (v)
+    exchange, substitute (v) tam
+    excite (v) SeymoH
+    excited, be excited (v) Sey
+    execute, put to death (v) muH
+    exhaust (n) taQbang[[p.132] ]
+    exhaust (v) tlhuch
+    exile (v) ghiIm
+    expand (v) Sach
+    expect (v) pIH
+    expedition (n) Hog
+    experiment (n) ngong
+    experiment (v) ngong
+    expert, be expert, skilled (v) po'
+    explain (v) Only
+    explode (v) jor
+    explosive (n) jorwI'
+    eye (n) min
+    eyebrow (n) Huy'
+    face (n) gab
+    fact (n) ngoD
+    factory (n) laSvargh
+    fail (v) luj
+    fair, be fair (v) may
+    trust, have faith in (v) Voq
+    fake, be fake (v) ngeb
+    fall (v) pum
+    false, be false (v) ngeb
+    family (n) gorDu'
+    famous, be famous, well known (v) noy
+    fanatical, be fanatical (v) ngotlih
+    far, be far, be remote (v) Hop
+    farm (n) Du!
+    farm (v) wl J
+    fascinate (v) vuQ
+    fast, quickly (adv) nom
+    be fat (v) pli', ror
+    fatal, be fatal (v) HeghmoH
+    fate (n) San
+    father (n) Vav
+    fault (seismic) (n) Seq
+    fault, blame (n) pich
+    fed up, be fed up (v) puQ
+
+    Federation (n) DIvL'
+    Federation battle cruiser (n) Divi'may'Duj[[p.133] ]
+    feed (someone else) (v) je!
+    feel, touch (v) Hot
+    female, woman (n) be!
+    festival (n) yupma '
+    few, be few, be several, be puS
+    a handful (v)
+    fib, lie (v) nep
+    field (of land) (n) yotlh
+    fierce, be fierce (v) gu'
+    fifth (num) vaghDIch
+    fight (v) Suv
+    fight dirty (v) HIgh
+    fill (v) teb
+    final, be final, last (v) Oav
+    find (v) tu'
+    fine, tax (v) rup
+    finger (n) nitlh
+    finished, be finished, rin
+    accomplished (v)
+    fire (n) gqul
+    fire (torpedo, rocket, missile) (v) baH
+    fire, energize (e.g., thrusters) (v) laQ
+    first (num) wa'DIch
+    fissure (n) Qargh
+    fist (n) ro!
+    five (num) vagh
+    fix, repair (v) tL!
+    flag (n) joqwi'
+    flap, flutter, wave (v) Jog
+    flee, get out (Vv) Haw'
+    fleet (of ships) (n) yo!
+    flood (n) SoD
+    flood (v) SoD
+    floor (n) rav
+    flutter, flap, wave (v) Jog
+    fly (v) puv
+    focus on, concentrate on, bus
+    think only about (v)
+    follow (a course) (v) ghos
+    follow (rules) (v) pab[[p.134]]
+    follow, chase (v) tlha'
+    fool (n) QoH
+    foolish, be foolish, Dogh
+    silly (v)
+    foot (n) gam
+    forbid (v) tuch
+    force (v) raD
+    force field (n) Surchem
+    fore (n) "et
+    forehead (n) Ouch
+    foreign, be foreign, alien (v) nov
+    foreigner (n) nov
+    forest, woods (n) ngem
+    forget (v) 113
+    fortunate, be fortunate, lucky (v) Do!
+    four (num) Los
+    fourth (num) loSDich
+    free, be free, independent (v) tlhab
+
+    freedom, independence (n) tlhab
+    freeze (v) taDmoH
+    freighter (n) tongDujy
+    frequency (radio) (n) Se!
+    friend (n) Jup
+    frozen, be frozen (v) taD
+    frustrated, be frustrated (v) mogh
+    fuel (n) nin
+    function, work, succeed (v) Qap
+    funeral (n) nol
+    funny, be funny (v) tlhaQ
+    galactic rim (n) qibHes
+    galaxy (n) glib
+    galley (n) vutpa'
+    game (n) Quy
+    garbage (n) veQ
+    garbage scow (n) veQDujJ
+    gargle (v) ghagh
+    gas (n) SIp
+    gate (n) lojmIt
+    gear, equipment (n) luch
+    general (rank) (n) Sa'[[p.135]]
+    Genesis (n) -qa'vam
+    genius (n) wilgh
+    get (v) Sug
+    get away from (v) DoH
+    get in (v) yong
+    get out, flee (v) Haw'
+    get out, take out (v) lel
+    get up (v) Hu!
+    gift (n) nob
+    girl (n) be'Hom
+    give (v) nob
+    Give up, surrender (v) jegh
+    glass (tumbler) (n) HIvje'
+    glove (n) pogh
+    glow (v) Wwew
+    go (v) jaH
+    go aboard (v) tly
+    go away from (v) ghos
+    go in (v) "el
+    goal (n) ngoQ
+    good (expressing satisfaction) (excl) maj
+    good, be good (v) QOaQ
+    good, very good, well done majQa'
+    (excl)
+    gossip (v) Jos
+    gossip, rumor (n) Jos
+    govern (v) qum
+    government (n) qum
+    gown (n) paH
+    grain (n) tir
+    grammar (n) pab
+    grandfather (n) vavnl'
+    grandmother (n) SoSnl'
+    grave (n) mo L
+    great, be great, wonderful (v) Dun
+    greedy, be greedy (v) gqur
+    green, be green, blue, yellow (v) SuD
+
+    gripe (v) bep
+
+    grouchy, be grouchy, mean (v) ge
+
+    ground (n) yav
+
+    group (n) ghom[[p.136] ]
+
+    guard (n) ‘avwl"
+
+    guard (v) "av
+
+    guess (v) Loy
+
+    guest (n) melb
+
+    guide, lead (v) Dev
+
+    guilty, be guilty (v) Div
+
+    gun, handgun (n) Hich
+
+    gunner (n) baHwI',
+    matHa'
+
+    gunpowder (n) ngat
+
+    hair (on body) (n) pob
+
+    hair (on head) (n) jib
+
+    half (n) bID
+
+    hand (n) ghop
+
+    handful, be a handful, be few (v) puS
+
+    handgun (n) Hich
+
+    handsome, be handsome (v) "TH
+
+    hang (v) Hus
+
+    hangover, have a hangover, "uH
+
+    be hung over (v)
+
+    happen, occur (v) gas
+
+    happy, be happy (v) Quch
+
+    hard, be hard (like a rock) (v) let
+
+    harmful, be harmful (v) joch
+
+    harvest (v) yob
+
+    hassle, be a hassle, be a gay'
+
+    problem (v)
+
+    hate, detest (v) mus
+
+    have, possess (v) ghaj
+
+    he, she, him, her (pro) ghaH
+
+    head (n) nach
+
+    headache, have a headache (v) wuQ
+
+    healthy, be healthy (v) piv
+
+    hear (v) Qoy
+
+    heart (n) tIiq
+
+    heat (n) tu
+
+    heavy, be heavy (v) "ugh
+
+    helm (n) Degh
+
+    helmet (n) miv[[p.137]]
+
+    helmsman (n) DeghwI'
+
+    help, aid (v) OaH
+
+    her, him, she, he (pro) ghaH
+
+    here, hereabouts (n) naDev
+
+    hide (v) So!
+
+    high, be high (v) jen
+
+    hill, mountain (n) HuD
+
+    him, her, he, she (pro) ghaH
+
+    hinder, interfere (v) nis
+
+    history (n) gun
+
+    hit (with hand, fist, implement) (v) gqlIp
+
+    holster (n) vaH
+
+    home (n) JuH
+
+    honest, be honest (v) yuDHa'
+
+    honor (n) batlh
+
+    honored, with honor (adv) batlh
+
+    hope (v) tul
+    horizontal, be horizontal (v) SaS
+    hostage (n) vub
+    hot, be hot (v) tu
+    hour (n) rep
+    how many? (ques) "ar
+    how much? (ques) "ar
+    how? (ques) chay'
+    however (conj) "ach, ‘a
+    hull (n) Som
+    human (n) Human
+    humanoid (n) Yod
+    hundred (num) vatlh
+    hundred thousand (num) bIp
+    hungry, be hungry (v) ghung
+    hunt (v) wam
+    hurry (v) moD
+    hurt (n) "oy!
+    hurt (v) "oy!
+    husband (n) loDnal
+    hypnotize (v) vong
+    I, me (pro) jIH
+    ice (n) chuch[[p.138] ]
+    idea (n) gech
+    identical, be identical (v) nib
+    identify (v) ngu'
+    ignorant, be ignorant (v) jiv
+    ill, be ill, sick (v) rop
+    illegal, be illegal (v) Hat
+    immortal, be immortal (v) Jub
+    impact, strike (v) mup
+    impatient, be impatient (v) boH
+    important thing, something potlh
+    important (n)
+    impressive, be impressive (v) DoJ
+    improve (v) Dub
+    impulse power (n) Hong
+    in that case, then, thus, so (adv) vay
+    incompetent, be incompetent (v) tlhib
+    increase (v) ghur
+    independence, freedom (n) tlhab
+    independent, be independent, tlhab
+    free (v)
+    indigestion (n) pog
+    infect (v) ngej
+    inferior, be inferior (v) Olv
+    infirmary (n) ropyaH
+    influence (v) SIgh
+    information (n) De'
+    inhabitant (n) ngan
+    inhabited, be inhabited (v) tog
+    injure (v) rlQmoH
+    injured, be injured (v) r1IQ
+    innocent, be innocent (v) chun
+    insist (v) gap
+    instincts (n) Duy
+    instruct, teach (v) gho jmoH
+    insubordinate, be insubor- tlhiv
+    dinate (v)
+
+    insult (v) tIch
+
+    insurrection (n) QuD
+
+    intelligent, be intelligent (v) val
+
+    intend, mean to (v) Hech
+
+    intentionally, on purpose (adv) chich[[p.139]]
+
+    interesting, be interesting (v) Daj
+
+    interfere (v) nis
+
+    interrogate (v) yu'
+
+    interrupt (v) gagh
+
+    intoxicated, be intoxicated, chech
+    drunk (v)
+
+    introduce (v) 11TH
+
+    invade (v) yot
+
+    invasion (n) yot
+
+    invent, devise (v) "ogh
+
+    ton (n) tat
+
+    irritable, be irritable (v) bergh
+
+    it (pro) "OH
+
+    jacket, coat (n) wep
+
+    jail (n) bIghHa'
+
+    Jog, run (v) get
+
+    join (v) muv
+
+    journal, log (n) Qonos
+
+    judge, estimate (v) noH
+
+    judgment (n) yoy
+
+    jump (v) Sup
+
+    Jurisdiction (n) teblaw'
+
+    just, only, merely, (adv) neH
+
+    Justice (n) ruv
+
+    keep, save (v) pol
+
+    kellicam (n) gquell'gam[ [quell 'gqam=> gqellI'gam] |
+
+    kevas (n) gevas
+
+    kick (v) pup
+
+    kidnap (v) guch
+
+    kill (v) HoH
+
+    Klingon (n) tlhingan
+
+    Klingon Empire (n) tlhingan wo'
+
+    Klingon writing system (n) pigaD
+
+    knee (n) giv
+
+    kneel (v) tor
+
+    knife (n) taj
+
+    know (v) SOv
+
+    label (n) per[[p.140] ]
+
+    label (v) per
+
+    lake (n) ngeng
+
+    lame, be lame (v) righ
+
+    land (n) puH
+
+    land (v) Saq
+
+    landing party (n) Saqghom
+
+    language (n) Hol
+
+    last, be last, final (v) Oav
+
+    lateral, be lateral, move nech
+    laterally (v)
+
+    laugh (v) Hagh
+
+    law (n) chut
+
+    lazy, be lazy (v) buD
+
+    lead, guide (v) Dev
+
+    leak (v) nij
+    learn (v) ghoj
+    lecture, speech (n) SOQ
+    left (side) (n) pos
+    left over, be left over (v) chuv
+    leftovers (grammatical term) (n) chuvmey
+    leg (n) "us
+    legal, be legal (v) mub
+    lend (v) nojJ
+    let's go (excl) Ha'
+    lie, fib (v) nep
+    lie, recline (v) Oot
+    life (n) yin
+    life signs (n) yinroH
+    life-support system (n) yintagh
+    light, be light, bright (v) WOvV
+    light (weight), be light (v) tis
+    like (v) parHa'
+    limit (v) vus
+    line, rope (n) tlhegh
+    lip (n) wus
+    liguor (n) HIg
+    listen (v) "Ty
+    live (v) yin
+    log, journal (n) Qonos
+    long, be long, lengthy nt!
+    (duration) (v)[[p.141]]
+    long, be long, lengthy (of an tig
+    object) (v)
+    look for, seek, search for (v) nej
+    loose, be loose (v) QeyHa'
+    loosen (v) QeyHa'moH
+    lord (n) jaw, JOH
+    love, one who is loved (n) bang
+    luckily, with luck (adv) Do!
+    lucky, be lucky, fortunate, (v) Do!
+    lunch (n) megh
+    machinery (n) jo', migta'
+    mad, be mad (v) OeH
+    maintain (v) leH
+    maintenance (n) leH
+    male, man (n) LoD
+    man (n) LoD
+    manage (v) vu'
+    manager (n) vu'lwI'
+    maneuver (engines) (v) QoD
+    maneuver (military term) (n) tuH
+    manual, control manually, by ruQ
+    hand (v)
+    manuscript (n) ghitlh
+    many, be many, numerous (v) law'
+    marriage (n) tlhogh
+    marry (husband does this) (v) Saw
+    marry (wife does this) (v) nay
+    matter (n) Hap
+    me, I (pro) jIH
+    mean, be mean (v) ge
+    mean to, intend (v) Hech
+    measure (v) Juv
+
+    medicine (n) Hergh
+    meet (for the first time) (v) QIH
+    meet, encounter, assemble (v) ghom
+    meeting (n) gep
+    melt (v) tet
+    memory banks (n) gqawHaq
+    menu (n) HIDjJolev
+    merchant (n) Suy[[p.142] ]
+    merchant ship (n) SuyDujJ
+    mercy (n) pung
+    merely, just, only (adv) neH
+    messy, be messy, sloppy (v) ghIH
+    metal (n) bas
+    meteor (n) chunDab
+    midday (n) pemjep
+    middle, center (n) botlh
+    midnight (n) ramjep
+    midnight snack (n) ghem
+    military (n) OL'
+    million (num) "uy!
+    mind, brain (n) yab
+    mind sifter (Klingon psychic tuQDog
+    probe) (n)
+    mine (v) tlhil
+    miner (n) tlhilwI'
+    mineral (n) tlhil
+    minute (of time) (n) tup
+    misinterpret (v) yajHa'
+    mission, quest, duty (n) Qu!
+    mistake, err, be mistaken, Qagh
+    make a mistake (v)
+    mistake, error (n) Qagh
+    mix (v) DuD
+    mixed up, be mixed up, be con- milS
+    fused (v)
+    module (n) bobcho!"
+    money (n) Huch
+    month (Klingon) (n) jar
+    moon (n) mas
+    moonlight (n) maSwov
+    morning (n) po
+    mortal, be mortal (v) jubbe'
+    mother (n) Sos
+    mountain, hill (n) HuD
+    mouth (n) nujJ
+    mugato (n) mughato'
+    murder (v) chot
+    muscle (n) Somraw
+    mustache (n) loch[[p.143] ]
+    mutiny (v) gIQ
+    myth (n) wich
+    nacelle (n) HanDogh
+    nag (v) bo J
+    name (n) pong
+    name (v) pong
+    nap (v) Dum
+    native (n) Sung
+    navigate (v) chlj
+    navigator (n) chijwI'
+    necessary, be necessary, "ut
+
+    essential (v)
+    neck (n) mong
+    necklace (n) ghigh
+    negative (angle), be ata taH
+
+    negative angle (v)
+    negotiate (v) Sut lh
+    neighbor (n) jil
+    nervous, be nervous (v) bit
+    Neural (n) nural
+    Neuralese (n) nuralngan
+    neutral zone (n) neHmaH
+    never (adv) not
+    nevertheless (conj) "ach, ‘a
+    new, be new (v) chu'
+    next to, area next to (n) retlh
+    night (n) ram
+    nine (num) Hut
+    ninth (num) HutDich
+    no (answer to a question) (excl) ghobe'
+    no, I won't, I refuse (excl) Qo!
+    nobility (n) chuQun
+    noisy, be noisy (v) chus
+    nothing, none (n) pagh
+    nonsense (n) Dap
+    nose (n) ghich
+    nostril (n) tlhon
+    not yet (adv) we J
+    nothing, none (n) pagh
+    notice (v) tu'
+    noun (n) DIp[[p.144] ]
+    nova (n) puyjaqg
+    now (adv) DaH
+    number (n) mI '
+    numerous, be numerous (v) law'
+    oath (n) "Ip
+    Obey (v) lob
+    object (v) bep
+    obliterate (v) Sang
+    observe (v) tu!
+    obstruct (v) waQ
+    obtain (v) Suq
+    occupy (military term) (v) Dan
+    occur, happen (v) gas
+    occurrence, event, wanl'
+
+    phenomenon (n)
+    ocean (n) biQ'ta!'
+    odd, be odd (v) Jum
+    offend (v) maw
+    officer (n) yas, ‘utlh
+    offspring, child (n) puq
+    often (adv) ply
+    okay, yes, I will (excl) lug, lu'
+    old, be old (not new) (v) ngo'
+    old, be old (not young) (v) gan
+    omit (v) nop
+    once (adv) wa'logh
+    one (num) wa'
+    only, merely, just (adv) neH
+    Onward, go onward, proceed (v) ghos
+
+    open (v) posmoH
+    open, be open, opened (v) pos
+    opinion (n) vuD
+    opponent, adversary (n) ghol
+    opportunity (n) "eb
+    option, possibility (n) DuH
+    or, and/or (joining nouns) (conj) JOq
+    or, and/or (joining sentences) gqoj
+    (conj)
+    or, either/or (joining nouns) ghap
+    (conj) [[p.145]]
+    or, either/or (joining sen- pagh
+    tences) (conj)
+    Orange, be orange, red (v) Dog
+    orbit (v) bav
+    order, command (v) ra'
+    Organia (n) "orghenya'
+    Organian (n) "orghenya'ngan
+    Organian Peace Treaty (n) "orghenya'
+    rojmab
+    organization, federation (n) Divl'
+    Origin (n) mung
+    outside (n) Hur
+    overhead, area overhead (n) Dung
+    override (v) ngep
+    overtake, pass (v) Jus
+    pain (n) "oy!
+    pajamas (n) nivnav
+    palm (of hand) (n) toch
+    panic (v) 1Im
+    pants (n) yopwaH
+    paper (n) nav
+    paper clip (n) mavjop
+    parallel, be parallel, go Don
+    parallel to (v)
+    parallel course (n) HeDon
+    participate (v) jes
+    partner (n) goch
+    party, group (n) ghom
+    pass (v) Jus
+    passenger (n) raQpo'
+    passionate, be passionate nong
+    (v)
+    patient (n) SID
+    patient, be patient (v) Cuv
+    patrol (v) nglv
+    pay attention (v) gim
+    pause (v) yev
+    pay for (v) DIL
+    peace (n) roy
+    peace, make peace (v) roj[[p.146] ]
+    peace treaty (n) rojmab
+    penalty (n) jiIp
+    percent (n) vatlhvl'
+    perfect, be perfect, exact (v) pup
+    perhaps (adv) chag
+    permit (n) chaw'
+    allow, permit (v) chaw'
+    person (humanoid) (n) ghot, nuv
+
+    persuade (v) pon
+    pet (n) SaJ
+    pet, stroke (v) yach
+    phaser (n) pu'
+    phaser banks (n) pu'DaH
+    phaser crew (n) pu'beg
+    phaser pistol (n) pu'HIch
+    phaser rifle (n) pu'beH
+    phenomenon, event, wanl'
+    occurrence (n)
+    physician, doctor (n) Qel
+    pick up (v) woH
+    pickle (cucumber) (n) Hurgh
+    pity (v) vup
+    place (v) lan
+    plan (v) nab
+    planet (n) yuQ
+    planetoid (n) yuQHom
+    plant (v) poch
+    plastic (n) mep
+    play (v) reH
+    play a game (v) Quy
+    plead, beg (v) goy'
+    pleased, be pleased (v) bel
+    pleasure (n) bel
+    poison (n) tar
+    ponytail (n) DaQ
+    ponytail holder (n) choljaH
+    popular, be popular (v) Qat
+    population (n) roghvaH
+    possess, have (v) ghaj
+    possibility, option (n) DuH
+    possible, be possible (v) DuH[[p.147] ]
+    postpone (v) lum
+    power (political) (n) woQ
+    power, energy (n) Hos
+    powerful, be powerful (v) HoSghaj
+    practice, train, prepare (v) geq
+    precede (v) nung
+    predecessor (n) nubwI'
+    prefer (v) mas
+    prefix (n) moHag
+    prepare for, be alerted to (v) ghuH
+    prepare, train, practice (v) geq
+    prepared, be prepared (to ghus
+    launch) (v)
+    present (v) much
+    present, be present (not SaH
+    absent) (v)
+    presentation (n) much
+    preserve (v) chog
+    press down (v) "uy
+    prevent, block (v) bot
+    primitive, be primitive (v) lutlh
+    prison, jail (n) bIghHa'
+    prisoner (n) qama '
+    privilege (n) DIb
+    prize (n) tev
+    problem, be a problem, be gay'
+    a hassle (v)
+
+    proceed on a course, go ghos
+    Onward (v)
+    proclaim (v) maq
+    procrastinate (v) lum
+    produce (v) ling
+    program (a computer) (v) ghun
+    progress (n) Ser
+    progress (v) tlhetlh
+    prohibit (v) bot
+    project (n) jinmol
+    project, put on (screen) (v) Hotlh
+    promise (v) lay'
+    promote (v) num
+    propel (v) vo'[[p.148] ]
+    prosper, be prosperous (v) chep
+    protect (v) QOan
+    proud, be proud (v) Hem
+    prove (v) tob
+    punish (v) Hup
+    pupil (of eye) (n) lur
+    purchase (v) je!
+    pure, be pure (v) watlh
+    purposely, on purpose, chich
+    intentionally (adv)
+    puSh (v) yuv
+    put down (v) roQ
+    put on (clothes) (v) tuQmoH
+    put on (screen), project (v) Hotlh
+    putrid, be putrid (v) ngim
+    guadrotriticale (n) loSpev
+    qualified, be qualified (v) "um
+    Quarrel (v) Sol
+    quest (n) Qu!
+    question, interrogate (v) yu!
+    guickly (adv) nom
+    quiet, be quiet (v) tam
+    quit (v) bup
+    race (type, sort, class) (n) Segh
+    radan (crude dilithium Dom
+    crystal) (n)
+    raid (v) weH
+    rain (v) Sis
+    raise (v) pep
+    range, distance (n) chug
+    ransom (n) voHDajybo'
+    rare, be rare (v) qub
+    raw, be raw, unprocessed (v) tlhol
+    ray (n) tlH
+    reach (v) Sich
+    read (v) laD
+    ready (excl) "eH
+    ready, standing by (excl) SuH, Su'
+    realize (v) tlhoj[[p.149] ]
+    reason (n) meq
+    reason (v) meq
+    rebel (n) lotlhwI'
+    rebel (v) lotilh
+    receive (v) Hev
+
+    recline, lie (v) Oot
+    recognize (v) ghov
+    recommend, suggest (v) chup
+    record (n) ta
+
+    record (v) gon
+
+    red, be red, orange (v) Dog
+    refuge (n) luligh
+    refuse, I refuse (excl) Qo!
+    region (n) sep
+
+    regret (v) pay
+    Regulan (n) reghuluSngan
+    Regulan bloodworm (n) reghulus 'Iwghargh
+    Regulus (n) reghulus
+    reign, rule (v) che'
+
+    relax, rest (v) les
+    relieve (v) Son
+    religion (n) lalDan
+    rely on (v) WuV
+
+    remain (v) ratlh
+    remember (v) gqaw
+
+    remind (v) QawmoH
+    remote, be remote, far (v) Hop
+    remove, take off (v) teq
+
+    Remus (n) ri[ymus
+    rendezvous (v) ghom
+    repair (v) tL!
+
+    reply (v) Jang
+    report, tell (v) ja!
+    represent (v) "Os
+    require (v) poQ
+
+    rescue (v) toD
+    research (v) OQul
+    resemble (v) rur
+
+    resent (v) gqeH
+
+    resign (v) pajJ
+    resource (n) Sup[[p.150] ]
+    resources (n) JO
+
+    respect (v) VuV
+    responsible, be responsible (v) ngoy'
+    rest, relax (v) les
+    restaurant (n) Oe!
+    restless, be restless (v) ngojJ
+    retaliate (v) noD
+    retreat (v) HeD
+
+    return (v) chegh
+    reveal, show (v) "ang
+    revenge (n) bortas
+    revolt (v) Daw'
+    revolt, revolution (n) Daw'
+
+    rich, be rich (v) mip
+
+    ride (v) ligh
+    ridicule (v) nuS
+
+    rifle (n) beH
+
+    right (side) (n) niH
+
+    right, be right, correct (v) lugh
+
+    ring (for finger) (n) Oeb
+
+    river (n) bIQtIgq
+    roam, travel, rove (v) leng
+
+    rob (v) Hej
+
+    robe (n) mop
+
+    robot (n) gqoq
+    rock, stone (n) nagh
+    Romulan (n) romuluSngan
+    Romulus (n) romulus
+    room (n) pa'
+    rope, line (n) tlhegh
+    rotten, be rotten (v) non
+    rough, be rough (v) ghegh
+    round up (v) lig
+    route, course (n) He
+
+    rove, roam, travel (v) leng
+    rover (grammatical term) (n) lengwI'
+    rude, be rude (v) Doch
+    ruins (n) pigh
+    rule, reign, run (v) che!
+    rumor, gossip (n) Jos
+
+    run, jog (v) get[[p.151]]
+    run, rule (v) che!
+    ruthless, be ruthless (v) wlH
+    Sabotage (v) Sorgh
+    saccharin (n) HaQchor
+    sad, be sad (v) "TO
+    saloon, bar (n) tach
+    salute (v) van
+    same, be the same (v) rap
+    satellite (n) SIbDOH
+    satisfied, be satisfied (v) yon
+    Satisfy (v) yonmoH
+    save, keep (v) pol
+    save, rescue (Vv) toD
+
+    scan (v) Hotlh
+    scanner (n) HotlhwI'
+    scare (v) ghlj
+    scatter, disperse (v) ghomHa'
+    scavenge (v) gor
+    school (n) DuSaQ
+    science (n) OeD
+    science officer (n) QeDpin
+    scientist (n) tej
+    scold (v) gqun
+    scream, cry out, shout (v) jach
+    screen, viewing screen (n) jIH
+    search for, seek, look for (v) nej
+    second (num) cha'DIch
+    second (of time) (n) lup
+    secret (n) pegh
+    secret, keep something secret (v) pegh
+    section (n) ‘ay'
+    sector, zone (n) mich
+    security (n) Hung
+
+    see (v) legh
+    seek, search for (v) nej
+    select (v) wiv
+    self-confident, be self-confident (v) jeQ
+    selfish, be selfish (v) mut
+    sell (v) ngev
+    send (v) ngeH[[p.152] ]
+    sensor (n) noch
+    sentence (n) mu'tlhegh
+
+    separate (v) chev
+    sergeant (n) bu'
+    serious, be serious (v) Sagh
+    serpent, worm (n) ghargh
+    servant (n) toy'wI'
+    serve (a master) (v) toy'
+    serve (food) (v) jab
+    set up, establish (v) cher
+    seven (num) Soch
+    seventh (num) SochDIich
+    several, be several (v) puS
+    Shadow (n) Olb
+    Shame (v) tuHmoH
+    sharp, be sharp (v) Jey
+    she, he, her, him (pro) ghaH
+    Sherman's Planet (n) SermanyuQ
+    shield (n) yoD
+    shield (v) yoD
+    shine, be shiny (v) boch
+    ship, vessel (n) Duy
+    shocked, be shocked, dumbfounded yay'
+
+    (v)
+    shoe (n) waq
+    Shoot (v) bach
+    Shore leave (n) leSpoH
+    Shortcut (n) gqigh
+    shot (n) bach
+    Shoulder (n) volchaH
+    shout, scream, cry out (v) jach
+    show, display (picture) (v) cha'
+    show, reveal (v) "ang
+    shut (v) SoQmoH
+    shut, be shut (v) SoQ
+    sick, be sick, ill (v) rop
+    side (n) Dop
+    Sight (with gunsight) (v) puS
+    Sign (a treaty) (v) gi!
+    Silence (v) tammoH
+    silly, be silly (v) Dogh[[p.153] ]
+    Simple, be simple (v) nap
+    Simultaneous, happen simultaneously quq
+
+    (v)
+    Sin (v) yem
+    Sincere, be sincere (v) "TL
+    Sir (n) gqaH
+    Sister (n) be'nI'
+    sit (v) ba!
+    Situation (n) ghu'
+    SlxX (num) jJav
+    Sixth (num) javDich
+    skilled, be skilled (v) po'
+    skin (n) Dir
+    skin (v) Surgh
+    sky (n) chal
+    sleep (v) Qong
+    Slightly, a little bit (adv) 1loQ
+    slingshot (n) moy'bI'
+    slit (v) ST J
+    Sloppy, be sloppy, messy (v) ghIH
+    SlowIy (adv) Olt
+
+    sly, be sly (v) "ong
+    small, be small (v) mach
+    smart, be smart (v) val
+    smear (v) ngoH
+    smell, emit odor (v) He'
+    smell, sense odors (v) largh
+    smoke (n) tlhich
+    smooth, be smooth (v) Hab
+    snow (v) peD
+    so, then, thus, in that case (adv) vay
+    so, well (excl) toH
+    society (n) nuqh
+    socks (n) paSlogh
+    soft, be soft (v) tun
+    soldier (n) mang
+    soldiers (n) negh
+    solid, be solid (v) Sub
+    solution (liquid) (n) tas
+    somebody, something, anybody, vay'
+    anything (n)[[p.154]]
+    sometimes (adv) rut
+    somewhere (n) vogh
+    son (n) puq loD
+    soon (adv) tugh
+    sore (n) "oy!
+    sore, be sore (v) "oy!
+    sorry, be sorry (v) Qos
+    sour, be sour (v) wlb
+    source (n) Hal
+    Space (n) logh
+    Space station (n) tengchaH
+    speak (v) jatlh
+    special, be special, exceptional (v) le'
+    species (n) mut
+    specimen (n) chovnatlh
+    speech (vocal sounds) (n) OlIch
+    speech, lecture, address (n) SoQ
+    sphere (n) moQ
+    spin (v) Ding
+    Spine (n) pip
+    spy (n) ghogqwlL'
+    spy (v) ghog
+    squadron (n) nawlogh
+    Stab (v) DuQ
+    Stand (v) Qam
+    standing by, ready (excl) SuH, Su'
+    Star (n) Hov
+    star base (n) "ejyyo'waw'
+    star system (n) Hovtay'
+    Starfleet (n) "ejyo'
+    starship, starship class (n) "ejDo'
+    Station, duty station (n) yaH
+    status (n) Dotlh
+    steal (v) niH
+    steam (n) Ses
+    step on (v) gho'
+    Sticky, be sticky (v) Hum
+    sting (v) "aw'
+    stink (v) He'So"
+    stomach (n) burgh
+
+    stone, rock (n) nagh[[p.155] ]
+    stoop (v) JoD
+
+    stop, cease (v) mev
+
+    storm (v) Jev
+
+    story (n) lut
+    strange, be strange (v) HuJ
+    strategy (n) Dup
+    strength (n) Hos
+
+    strike, impact (v) mup
+
+    stroke, pet (v) yach
+    strong, be strong (v) Hos
+    structure, building (n) gach
+    stubborn, be stubborn (v) mul
+
+    student (n) ghojwI'
+    study (v) HaD
+
+    Stuff (v) ghoD
+    stupid, be stupid (v) OIp
+    sublight speed (n) gho'Do
+    substitute (v) tam
+    succeed, work, function (v) Qap
+    success (n) Qapla'
+    suddenly (adv) pay'
+
+    suffer (v) bech
+    sufficient, be sufficient (v) yap
+
+    suffix (n) mo jaQ
+    suggest, recommend (v) chup
+    Suicide, commit suicide (v) HoH'egh
+    superior (n) moch
+    superior, be superior (v) niv
+    support (military term) (n) ngaq
+    surface (of a planet) (n) ghor
+    Surgery (n) Haq
+    surprise (v) mer
+    Surrender, give up (v) jegh
+    surround (v) Dech
+    Suspect, be suspect (v) nub
+    suspicious, be suspicious (v) pIH
+    Swallow (v) ghup
+
+    Swear, vow (v) "Ip
+
+    Switch (n) leQ
+
+    Sword (n) Tetlh
+    system (n) pat[[p.156] ]
+    tactical display (n) wIy
+    tactical officer (n) ya
+
+    tactics (n) to!
+
+    take (v) tlhap
+
+    take action (v) vang
+
+    take away (v) nge'
+
+    take care of, care for (v) Qorgh
+
+    take down (v) jotlh
+
+    take form, build up (v) chen
+    take off, remove (v) teq
+
+    take out, get out (v) lel
+
+    target (n) DoS
+    targets (n) ray'
+
+    task, chore (n) Qu!
+
+    tax (v) rup
+
+    teach, instruct (v) gho jmoH
+    teachings (n) paQDI'norgh
+
+    technician (n) chamwI'
+    tell, report (v) ja!
+    Tellun Star System (n) telun Hovtay'
+    temperature (n) Hat
+    temple (Structure) (n) chirgh
+    temporary, be temporary (v) ru'
+    tempt (v) tlhu'moH
+    tempted, be tempted (v) tlhu'
+    ten (combining form) (num) maH
+    ten (num) wa'maH
+    ten thousand (num) netlh
+    tenth (num) wa'maHDIch
+    Terran (n) tera'ngan
+    that (previous topic) (pro) "e', net
+    them, they (capable of using language) chaH
+
+    (pro)
+    them, they (incapable of language) bIH
+
+    (pro)
+    then, thus, in that case, so (adv) vay
+    theory (n) nger
+    theragen (n) Oab
+    there, over there, thereabouts (n) pa'
+    they, them (capable of using language) chaH
+
+    (pro) [[p.157]]
+    they, them (incapable of language) bIH
+
+    (pro)
+    thief (n) niHwI'
+    thin, be thin (v) lang
+    thing (n) Doch
+    think (v) Qub
+    think only about, concentrate on, bus
+
+    focus on (v)
+    third (num) we jDIch
+    thirsty, be thirsty (v) "OF
+    thousand (num) SaD, SanID
+    threaten (v) buQ
+    three (num) we J
+    throat (n) Hugh
+    throw away (v) woD
+    thrust (v) ghos
+    thruster (n) vj
+    thrusters (n) chuyDaH
+    thus, so, in that case (adv) vay
+    tickle (v) gotlh
+    tight, be tight (v) Oey
+    tighten (v) QeymoH
+    time (v) poH
+    time, period of time (n) poH
+    tired, be tired (v) Doy'
+    toe (n) yaD
+    together, be together (v) tay'
+    toilet (n) puch
+    tolerate (v) chergh
+    tomorrow (n) wa'leS
+    tongue (n) jat
+    tooth (n) Ho!
+    toothache (n) Ho!"oy'
+    topaline (n) toplin
+    torpedo (n) peng
+    torpedoes (n) cha
+
+    torpedo tube (n) Cchetvli', DuS
+    torture (v) joy'
+    touch, feel (v) Hot
+    tough, be tough (v) rotlh
+    toxic, be toxic (v) SuQ[[p.158] ]
+    trade (v) mech
+    tradition (n) lurDech
+    train, prepare (v) geq
+    traitor (n) maghwI'
+    transact (v) Huq
+    transceiving device (for data) (n) HabllI'
+    transfer (v) Qay
+    translate (v) mugh
+    translator (n) mughwlL'
+    transmission (of data) (n) jabbI'ID
+    transmit data (to a place) (v) LI!
+    transmit data (away from a place) (v) lab
+    transport (v) lup
+    transport beam (n) Jol
+    transport room (n) jolpa'
+    transporter ionizer unit (n) jolvoy'
+    travel, roam (v) leng
+    treason (n) "urmang
+    treaty (n) mab
+    tree (n) Sor
+    tremor, experience a tremor (v) Qom
+    tribble (n) ylIH
+    trick (v) toy
+    tricorder (n) Hogra'
+    trifling, be trifling, trivial, ram
+    unimportant (v)
+    trillium (n) DIlyum
+    trim (hair) (v) chip
+    trip (n) leng
+    triumph, victory (n) yay
+    trivial, be trivial, trifling, ram
+    unimportant (v)
+    troops (n) QaS
+    trouble (n) Seng
+    trouble, cause trouble (v) Seng
+    Troyius (n) Doy'yuS
+    truce (n) rojHom
+    true, be true (v) teH
+    trunk (of body) (n) ro
+    trust, have faith in (v) Voq
+    truth, tell the truth (v) vit[[p.159] ]
+    try (v) niID
+    tube, torpedo tube (n) Cchetvli', DuS
+    tunic (n) yivbeH
+    tunnel (n) "och
+    turn (v) tlhe!
+    twice (adv) cha'logh
+    twilight (n) choS
+    two (num) cha'
+    ugly, be ugly (v) moH
+    unconditional surrender (n) Doghjyey
+    unconscious, be unconscious (Vv) vul
+    under, area under (n) bing
+    underground (n) wutlh
+
+    understand (v) yal
+
+    undress (v) tuQHa 'moH
+
+    uneasy, be uneasy (v) bit, jotHa'
+
+    unhappy, be unhappy (v) QuchHa'
+
+    uniform (n) HIp
+
+    unimportant, be unimportant, ram
+    trivial (v)
+
+    uninhabited, be uninhabited, empty, chim
+    deserted (v)
+
+    uninteresting, be uninteresting (v) getlh
+
+    United Federation of Planets (n) yuQjI jDIivi'
+
+    universe (n) ‘u!
+
+    unprocessed, be unprocessed, raw (v) tlhol
+
+    unusual, be unusual (v) motlhbe'
+
+    upside down, be upside down (v) yoy
+
+    urgent, be urgent (v) pav
+
+    us, we (pro) maH
+
+    use (v) lo!
+
+    useful, be useful (v) 1T!
+
+    usual, be usual (v) motlh
+
+    vacate (v) geD
+
+    vacation, take a vacation (v) ghIQ
+
+    valley (n) ngech
+
+    valuable, be valuable (v) lo'laH
+
+    vanish (v) ngab
+
+    variety (n) Sar[[p.160] ]
+
+    various, be varied (v) Sar
+
+    vegetation (n) tI
+
+    vein (n) "aD
+
+    velocity (n) Do
+
+    vent (n) yib
+
+    verb (n) wot
+
+    verify (v) "ol
+
+    vertical, be vertical (v) chong
+
+    vessel, ship (n) Duy
+
+    vicious, be vicious (v) nas
+
+    victory, triumph (n) yay
+
+    viewing screen (n) jIH
+
+    violent, be violent (v) ral
+
+    visit (v) Such
+
+    visual display (n) HaSta
+
+    vocabulary (n) mu'tay'
+
+    voice (n) ghogh
+
+    volunteer (v) Sap
+
+    vow, Swear (v) "Ip
+
+    voyage (n) leng
+
+    Vulcan (person) (n) vulgangan
+
+    Vulcan (planet) (n) vulgan
+
+    vulgar, be vulgar (v) Qut
+
+    wait (for) (v) Los
+
+    wake (Someone) up (v) vemmoH
+
+    wake up, cease sleeping (v) vem
+
+    walk (v) yit
+
+    want (v) neH
+
+    war (n) ves
+
+    warn (v) ghuHmoH
+
+    warp drive (n) pivghor
+
+    washroom (n) puchpa'
+
+    watch (v) bejJ
+    water (n) bIO
+    wave, flap, flutter (v) Jog
+    we, uS (pro) maH
+    weak, be weak (v) pu
+    weapon (n) nuH
+    wear (clothes) (v) tuQ
+    week (Klingon) (n) Hogh[[p.161] ]
+    well done, very good (excl) majQa'
+    well, so (excl) toH
+    what do you want? (greeting) (excl) nuqneH
+    what? (ques) nuq
+    when? (ques) ghorgh
+    where? (ques) nuqDaq
+    white, be white (v) chis
+    who? (ques) "Iv
+    why? (ques) qatlh
+    wife (n) be'nal
+    wind, breeze (n) Sus
+    woman (n) be!
+    won't, I won't, I refuse (excl) Qo!
+    wonderful, be wonderful, great (v) Dun
+    woods, forest (n) ngem
+    word (n) mu '
+    work, function (v) Qap
+    work, toil (v) vum
+    worm, serpent (n) ghargh
+    worsen (v) "argh
+    worthless, be worthless (v) lo'laHbe'
+    write (v) ghitlh
+    writing system, Klingon writing
+    system (n) pigaD
+    yawn (v) Hob
+    year (Klingon) (n) Dis
+    years ago (n) ben
+    years from now (n) nem
+    yellow, be yellow, blue, green (v) SuD
+    yes, Okay, I will (excl) lug, lu'
+    yes, true (answer to yes/no guestion) HIja', HISlaH
+    (excl)
+
+    yesterday (n) wa'Hu'
+    you (plural) (pro) tlhiIH
+    you (pro) SOH
+    young, be young (v) Qup
+    zero (num) pagh
+    zone, sector (n) 
