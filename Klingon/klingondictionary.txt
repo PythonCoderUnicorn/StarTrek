@@ -855,7 +855,70 @@ klingon = {
     'lucky' : "(v) Do'",
     'lunch' : "(n) megh",
 
-
+    'machinery' : "(n) jo', mIqta'",
+    'mad' : "(v) QeH",
+    'maintain' : "(v) leH",
+    'maintenance' : "(n) leH",
+    'male' : "(n) loD",
+    'man' : "(n) loD",
+    'manage' : "(v) vu'",
+    'manager' : "(n) vu'wI'",
+    'maneuver' : ["(v) QoD (engines)","(n) tuH (military)"]
+    'manual' : "(v) ruQ", 
+    'manuscript' : "(n) ghitlh",
+    'many' : "(v) law'",
+    'marriage' : "(n) tlhogh",
+    'marry'  : ["(v) Saw (husband does this)","(v) nay (wife does this)"],
+    'matter' : "(n) Hap",
+    'me' : "(pro) jIH",
+    'I' : "(pro) jIH",
+    'mean' :[ "(v) gej (to be)","(v) Hech (to)"],
+    'measure' : "(v) juv",
+    'medicine' : "(n) Hergh",
+    'meet' : ["(v) qIH (1st time)","(v) ghom"]
+    'meeting' : "(n) qep",
+    'melt' : "(v) tet",
+    'memory banks' : "(n) qawHaq",
+    'menu' : "(n) HIDjolev",
+    'merchant' : "(n) Suy",
+    'merchant ship' : "(n) SuyDuj",
+    'mercy' : "(n) pung",
+    'merely' : "(adv) neH",
+    'messy' : "(v) ghIH",
+    'metal' : "(n) baS",
+    'meteor' : "(n) chunDab",
+    'midday' : "(n) pemjep",
+    'middle' : "(n) botlh",
+    'midnight' : "(n) ramjep",
+    'midnight snack' : "(n) ghem",
+    'military' : "(n) QI'",
+    'million' : "(num)  'uy'",
+    'mind' : "(n) yab",
+    'mind sifter' : "(n) tuQDoq",
+    'mine' : "(v) tlhIl",
+    'miner' : "(n) tlhIlwI'",
+    'mineral' : "(n) tlhIl",
+    'minute' : "(n) tup",
+    'misinterpret' : "(v) yajHa'",
+    'mission' : "(n) Qu'",
+    'mistake' : "(v) Qagh",
+    'mix' : "(v) DuD",
+    'mixed up' : "(v) mIS",
+    'module' : "(n) bobcho'","
+    'money' : "(n) Huch",
+    'month'  : "(n) jar (Klingon)",
+    'moon' : "(n) maS",
+    'moonlight' : "(n) maSwov",
+    'morning' : "(n) po",
+    'mortal' : "(v) jubbe'",
+    'mother' : "(n) SoS",
+    'mountain' : "(n) HuD",
+    'mouth' : "(n) nuj",
+    'murder' : "(v) chot",
+    'muscle' : "(n) Somraw",
+    'mustache' : "(n) loch",
+    'mutiny' : "(v) qIQ",
+    'myth' : "(n) wIch",
 
 
 
@@ -863,88 +926,10 @@ klingon = {
 }
 
 
-    machinery : "(n) jo', migta'
-    mad, be mad : "(v) OeH
-    maintain : "(v) leH
-    maintenance : "(n) leH
-    male, man : "(n) LoD
-    man : "(n) LoD
-    manage : "(v) vu'
-    manager : "(n) vu'lwI'
-    maneuver (engines) : "(v) QoD
-    maneuver (military term) : "(n) tuH
-    manual, control manually, by ruQ
-    hand : "(v)
-    manuscript : "(n) ghitlh
-    many, be many, numerous : "(v) law'
-    marriage : "(n) tlhogh
-    marry (husband does this) : "(v) Saw
-    marry (wife does this) : "(v) nay
-    matter : "(n) Hap
-    me, I : "(pro)  jIH
-    mean, be mean : "(v) ge
-    mean to, intend : "(v) Hech
-    measure : "(v) Juv
-    medicine : "(n) Hergh
-    meet (for the first time) : "(v) QIH
-    meet, encounter, assemble : "(v) ghom
-    meeting : "(n) gep
-    melt : "(v) tet
-    memory banks : "(n) qawHaq
-    menu : "(n) HIDjJolev
-    merchant : "(n) Suyp.142] ]
-    merchant ship : "(n) SuyDujJ
-    mercy : "(n) pung
-    merely, just, only : " (adv) neH
-    messy, be messy, sloppy : "(v) ghIH
-    metal : "(n) bas
-    meteor : "(n) chunDab
-    midday : "(n) pemjep
-    middle, center : "(n) botlh
-    midnight : "(n) ramjep
-    midnight snack : "(n) ghem
-    military : "(n) OL'
-    million : "(num)  "uy'",
-    mind, brain : "(n) yab
-    mind sifter (Klingon psychic tuQDog
-    probe) : "(n)
-    mine : "(v) tlhil
-    miner : "(n) tlhilwI'
-    mineral : "(n) tlhil
-    minute (of time) : "(n) tup
-    misinterpret : "(v) yajHa'
-    mission, quest, duty : "(n) Qu'",
-    mistake, err, be mistaken, Qagh
-    make a mistake : "(v)
-    mistake, error : "(n) Qagh
-    mix : "(v) DuD
-    mixed up, be mixed up, be con- milS
-    fused : "(v)
-    module : "(n) bobcho'","
-    money : "(n) Huch
-    month (Klingon) : "(n) jar
-    moon : "(n) mas
-    moonlight : "(n) maSwov
-    morning : "(n) po
-    mortal, be mortal : "(v) jubbe'
-    mother : "(n) Sos
-    mountain, hill : "(n) HuD
-    mouth : "(n) nujJ
-    mugato : "(n) mughato'
-    murder : "(v) chot
-    muscle : "(n) Somraw
-    mustache : "(n) lochp.143] ]
-    mutiny : "(v) gIQ
-    myth : "(n) wich
+
+
+
     nacelle : "(n) HanDogh
-
-
-
-
-
-
-
-
     nag : "(v) bo J
     name : "(n) pong
     name : "(v) pong
