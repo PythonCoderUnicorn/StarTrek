@@ -6645,335 +6645,372 @@ ENGLisH-KLINGON
     
     
     
+    
+    
+    
+    
+    
+    
+    
 KLINGON AFFIXES
+
+
 1. Noun suffixes
-Numbers indicate suffix type.
 
-—chaj 4 their
+    Numbers indicate suffix type.
 
-—DajJ 4 his/her
+    —chaj 4 their
 
-—Daq 5 locative
+    —DajJ 4 his/her
 
-—Du' 2 plural (body part)
+    —Daq 5 locative
 
-—Hey 3. apparent
+    —Du' 2 plural (body part)
 
-—Hom 1 diminutive
+    —Hey 3. apparent
 
--1Tj 4 your
+    —Hom 1 diminutive
 
--I{' 4 your (noun capable of using language)
+    -1Tj 4 your
 
-—ma J 4 our
+    -I{' 4 your (noun capable of using language)
 
-—ma' 4 our (noun capable of using language)
+    —ma J 4 our
 
-—mey 2 plural (general)
+    —ma' 4 our (noun capable of using language)
 
-—mo' 5S due to
+    —mey 2 plural (general)
 
-—na' 3 definite
+    —mo' 5S due to
 
-—pu' 2 plural (beings capable of using language)
+    —na' 3 definite
 
-—qoq 3. so-called
+    —pu' 2 plural (beings capable of using language)
 
-—rajJ 4 your (plural)
+    —qoq 3. so-called
 
-—ra' 4 your (plural) (noun capable of using language)
+    —rajJ 4 your (plural)
 
--—vaD 5S for
+    —ra' 4 your (plural) (noun capable of using language)
 
-—vam 4 this[[p.163]]
+    -—vaD 5S for
 
--vetih 4 that
+    —vam 4 this[[p.163]]
 
-—vo' 5S from
+    -vetih 4 that
 
-—wlj 4 my
+    —vo' 5S from
 
-—wI' 4 my (noun capable of using language)
+    —wlj 4 my
 
-—'q' 1 augmentative
+    —wI' 4 my (noun capable of using language)
 
-—'e! 5 topic
+    —'q' 1 augmentative
+
+    —'e! 5 topic
+    
+    
+    
 
 2. Pronominal prefixes
 
-0 he/she/it (no object), he/she/it-—-him/her/it/them, they
-(no object), they--them
+    0 he/she/it (no object), he/she/it-—-him/her/it/them, they
+    (no object), they--them
 
-bI- you (no object)
+    bI- you (no object)
 
-bo- you (plural)-—-—-him/her/it/them
+    bo- you (plural)-—-—-him/her/it/them
 
-che- you (plural)--us
+    che- you (plural)--us
 
-cho- you--me
+    cho- you--me
 
-Da- you-—-him/her/it/them
+    Da- you-—-him/her/it/them
 
-DI- we--them
+    DI- we--them
 
-Du- he/she/it-——-you
+    Du- he/she/it-——-you
 
-gho- imperative: you--us, you (plural)-—us
+    gho- imperative: you--us, you (plural)-—us
 
-HI- imperative: you--me, you (plural)--—me
+    HI- imperative: you--me, you (plural)--—me
 
-jI- I (no object)
+    jI- I (no object)
 
-Ju- you--us
+    Ju- you--us
 
-1I- he/she/it--you (plural), they--you (plural)
+    1I- he/she/it--you (plural), they--you (plural)
 
-lu- they-—-him/her/it
+    lu- they-—-him/her/it
 
-ma- we (no object)
+    ma- we (no object)
 
-mu- he/she/it--me, they--me
+    mu- he/she/it--me, they--me
 
-ni- they--you
+    ni- they--you
 
-nu- he/she/it--us, they--us
+    nu- he/she/it--us, they--us
 
-pe- imperative: you (plural) (no object)
+    pe- imperative: you (plural) (no object)
 
-pl- we-—-you
+    pl- we-—-you
 
-qa- I--you
+    qa- I--you
 
-re- we--you (plural)
+    re- we--you (plural)
 
-Sa- I--you (plural)
+    Sa- I--you (plural)
 
-Su- you (plural) (no object)
+    Su- you (plural) (no object)
 
-tI- imperative: you--them, you (plural) -—-them
+    tI- imperative: you--them, you (plural) -—-them
 
-tu- you (plural)--—me
+    tu- you (plural)--—me
 
-vi- we-—-him/her/it
+    vi- we-—-him/her/it
 
-wl- I--him/her/it/them
+    wl- I--him/her/it/them
 
-yl- imperative: you (no object), you--him/her/it, you
-(olural)—--him/her/it[[p.164]]
+    yl- imperative: you (no object), you--him/her/it, you
+    (olural)—--him/her/it
+
+
+
 
 3. Verb suffixes
 
-Numbers indicate suffix type; R stands for rover.
-—beH 2 ready, set up (referring to devices)
-—bej 6 certainly, undoubtedly
-—be!' R not
-—bogh 9 which (relative-clause marker)
-—choH 3. change
--chugh 9 if
-—chug 1 one another
-—chu!' 6 clearly, perfectly
--DI' 9 as soon as, when
-—-Ha' R undo
-—-laH 5 can, able
-—-law' 6 seems, apparently
--lI! 7 in progress
-—lu' 5 indefinite subject
-—meH 9 for (purpose-clause marker)
-—-moH 4 cause
-—nes 8 honorific
-—nis 2 need
-—pa' 9 before
-—pu' 7 perfective
-—qang 2 willing
-—-qa' 3 do again, resume
-—qu' R emphatic
-—Qo' R don't!, won't
-—rup 2 ready, prepared (referring to beings)
-—taH 7 continuous
-—ta' 7 accomplished, done
--vip 2 afraid
--vis 9 while
-—wI' 9 one who is, one who does, thing which does
-—'q' 9 <interrogative
-—'egh 1 oneself
+    Numbers indicate suffix type; R stands for rover.
+    —beH 2 ready, set up (referring to devices)
+    —bej 6 certainly, undoubtedly
+    —be!' R not
+    —bogh 9 which (relative-clause marker)
+    —choH 3. change
+    -chugh 9 if
+    —chug 1 one another
+    —chu!' 6 clearly, perfectly
+    -DI' 9 as soon as, when
+    —-Ha' R undo
+    —-laH 5 can, able
+    —-law' 6 seems, apparently
+    -lI! 7 in progress
+    —lu' 5 indefinite subject
+    —meH 9 for (purpose-clause marker)
+    —-moH 4 cause
+    —nes 8 honorific
+    —nis 2 need
+    —pa' 9 before
+    —pu' 7 perfective
+    —qang 2 willing
+    —-qa' 3 do again, resume
+    —qu' R emphatic
+    —Qo' R don't!, won't
+    —rup 2 ready, prepared (referring to beings)
+    —taH 7 continuous
+    —ta' 7 accomplished, done
+    -vip 2 afraid
+    -vis 9 while
+    —wI' 9 one who is, one who does, thing which does
+    —'q' 9 <interrogative
+    —'egh 1 oneself
+    
+    
 4. Special number suffixes
-—-Dich forms ordinal numbers (<first, second,> etc.)
--logh forms <once, twice, three times,> etc.[[p.165]]
-ENGLisH INDEX TO KLINGON AFFIXES
-1. Noun suffixes
-Numbers indicate suffix type.
-apparent —Hey 3
-augmentative —'q' 1
-definite —na' 3
-diminutive —Hom 1
-due to —mo' 5
-for —vaD 5
-from —vo' 5
-his/her —DajJ 4
-locative —Daq 5
-my —wlj é
-my (noun capable of using language) —-wI' =
 
-our —ma J =
+    —-Dich forms ordinal numbers (<first, second,> etc.)
+    -logh forms <once, twice, three times,> etc.[[p.165]]
+    ENGLisH INDEX TO KLINGON AFFIXES
+    1. Noun suffixes
+    Numbers indicate suffix type.
+    apparent —Hey 3
+    augmentative —'q' 1
+    definite —na' 3
+    diminutive —Hom 1
+    due to —mo' 5
+    for —vaD 5
+    from —vo' 5
+    his/her —DajJ 4
+    locative —Daq 5
+    my —wlj é
+    my (noun capable of using language) —-wI' =
 
-our (noun capable of using language) —ma' =
+    our —ma J =
 
-plural (beings capable of using language) —pu' 2
+    our (noun capable of using language) —ma' =
 
-plural (body part) —Du' 2
+    plural (beings capable of using language) —pu' 2
 
-plural (general) —mey 2
+    plural (body part) —Du' 2
 
-so-called —qoq 3
+    plural (general) —mey 2
 
-that -vetlh 4
+    so-called —qoq 3
 
-their —chaj =
+    that -vetlh 4
 
-this —vam A[[p.166] ]
+    their —chaj =
 
-topic —'e! 5
+    this —vam A[[p.166] ]
 
-your -1Tj é
+    topic —'e! 5
 
-your (noun capable of using language) -I{' =
+    your -1Tj é
 
-your (plural) —raj 4
+    your (noun capable of using language) -I{' =
 
-your (plural) (noun capable of using language) -ra' =
+    your (plural) —raj 4
+
+    your (plural) (noun capable of using language) -ra' =
+    
+    
+    
 2. Pronominal prefixes
 
-he/she/it (no object) 0
+    he/she/it (no object) 0
 
-he/she/it-—-him/her/it/them 0
+    he/she/it-—-him/her/it/them 0
 
-he/she/it-—-—me mu-
+    he/she/it-—-—me mu-
 
-he/she/it-——us nu-
+    he/she/it-——us nu-
 
-he/she/it-——-you Du-
+    he/she/it-——-you Du-
 
-he/she/it--you (plural) 1I-
+    he/she/it--you (plural) 1I-
 
-I (no object) ji-
+    I (no object) ji-
 
-I--him/her/it/them vi-
+    I--him/her/it/them vi-
 
-I--you qa-
+    I--you qa-
 
-I--you (plural) Sa-
+    I--you (plural) Sa-
 
-they (no object) 0
+    they (no object) 0
 
-they-—-him/her/it lu-
+    they-—-him/her/it lu-
 
-they--me mu-
+    they--me mu-
 
-they--them 0
+    they--them 0
 
-they--us nu-
+    they--us nu-
 
-they--you ni-
+    they--you ni-
 
-they--you (plural) 1liI-
+    they--you (plural) 1liI-
 
-we (no object) ma-
+    we (no object) ma-
 
-we-—-him/her/it wl-
+    we-—-him/her/it wl-
 
-we--them DI-
+    we--them DI-
 
-we-—-you pl-
+    we-—-you pl-
 
-we--you (plural) re-
+    we--you (plural) re-
 
-you (no object) bI-
+    you (no object) bI-
 
-you-—-him/her/it/them Da-
+    you-—-him/her/it/them Da-
 
-you--me cho-
+    you--me cho-
 
-you--us Ju-
+    you--us Ju-
 
-you (plural) (no object) Su-
+    you (plural) (no object) Su-
 
-you (plural)-—-—-him/her/it/them bo-
+    you (plural)-—-—-him/her/it/them bo-
 
-you (plural)--—me tu-
+    you (plural)--—me tu-
 
-you (plural)--us che-
+    you (plural)--us che-
 
-imperative: you (no object) yi-
+    imperative: you (no object) yi-
 
-imperative: you-—-him/her/it yi-[[p.167] ]
+    imperative: you-—-him/her/it yi-[[p.167] ]
 
-imperative: you--me HI-
+    imperative: you--me HI-
 
-imperative: you--them tI-
+    imperative: you--them tI-
 
-imperative: you--us gho-
+    imperative: you--us gho-
 
-imperative: you (plural) (no object) pe-
+    imperative: you (plural) (no object) pe-
 
-imperative: you (plural)-—-him/her/it yl-
+    imperative: you (plural)-—-him/her/it yl-
 
-imperative: you (plural)--me HI-
+    imperative: you (plural)--me HI-
 
-imperative: you (plural) -——-them tI-
+    imperative: you (plural) -——-them tI-
 
-imperative: you (plural)--—us gho-
+    imperative: you (plural)--—us gho-
+
+
 
 3. Verb suffixes
 
-Numbers indicate suffix type; R stands for rover.
-able —-laH 5
-accomplished —ta' 7
-afraid —-vip 2
-apparently -law' 6
-as soon as -DI! 9
-before —pa' g
-can —-laH 5
-cause —-moH =
-certainly —bej 6
-change —choH 3
-clearly —chu' 6
-continuous —taH 7
-do again —qa' 3
-don't! —Qo' R
-done —ta' |
-emphatic —qu' R
-for (purpose-clause marker) —meH 9
-honorific —nes 8
-if -chugh 9
-in progress —l|T' 7
-indefinite subject —lu' 5
-interrogatlve —'a' 9
-need —nis 2
-not —be' R
-one another —chug 1
-one who is, one who does —wI' 9
-oneself —'egh 1
-perfective —pu' 7[[p.168] ]
-perfectly —chu' 6
-prepared (referring to beings) —rup 2
-progress, in progress —l|T' 7
-ready (referring to beings) —rup 2
-ready (referring to devices) —beH 2
-resume —qa' 3
-seems -law' 6
-set up (referring to devices) —beH 2
-thing which is, thing which does -wI' 9
-undo —-Ha' R
-undoubtedly —bej 6
-when -DI! 9
-which (relative clause-marker) —bogh 9
-while -vis 9
-willing —qang 2
-won't —Qo' R
+    Numbers indicate suffix type; R stands for rover.
+    able —-laH 5
+    accomplished —ta' 7
+    afraid —-vip 2
+    apparently -law' 6
+    as soon as -DI! 9
+    before —pa' g
+    can —-laH 5
+    cause —-moH =
+    certainly —bej 6
+    change —choH 3
+    clearly —chu' 6
+    continuous —taH 7
+    do again —qa' 3
+    don't! —Qo' R
+    done —ta' |
+    emphatic —qu' R
+    for (purpose-clause marker) —meH 9
+    honorific —nes 8
+    if -chugh 9
+    in progress —l|T' 7
+    indefinite subject —lu' 5
+    interrogatlve —'a' 9
+    need —nis 2
+    not —be' R
+    one another —chug 1
+    one who is, one who does —wI' 9
+    oneself —'egh 1
+    perfective —pu' 7
+    perfectly —chu' 6
+    prepared (referring to beings) —rup 2
+    progress, in progress —l|T' 7
+    ready (referring to beings) —rup 2
+    ready (referring to devices) —beH 2
+    resume —qa' 3
+    seems -law' 6
+    set up (referring to devices) —beH 2
+    thing which is, thing which does -wI' 9
+    undo —-Ha' R
+    undoubtedly —bej 6
+    when -DI! 9
+    which (relative clause-marker) —bogh 9
+    while -vis 9
+    willing —qang 2
+    won't —Qo' R
 
 4. Special number suffixes
-ordinal numbers (<first, second,> etc.) —Dich
-<once, twice, three times,> etc. -logh[[p.169]]
+
+    ordinal numbers (<first, second,> etc.) —Dich
+    <once, twice, three times,> etc. -logh
+
+
+
+
+
+
+
+
+
+
+
+
 
 APPENDIX
 
@@ -7164,6 +7201,12 @@ Where do you keep the nuqDaqq yuch Dapol NOOK-dak
 yooch
 
 chocolate? da-POL
+
+
+
+
+
+
 [[p.173]]
 INTRODUCTION TO THE
 ADDENDUM
@@ -7312,6 +7355,12 @@ application. A few additional curses are listed below.
 The invective {va} is actually just a shortened form of
 {Qu'vatlh.} Note also that the adverbial {jay'} <intensely> is
 invective in force (Section 5.4.).[[p.179]]
+
+
+
+
+
+
 
 6. SYNTAX
 
