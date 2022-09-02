@@ -103,10 +103,84 @@ klingon = {
     'attitude control thrusters' : "(n) lolSeHcha",
     'authority' : "(n) woQ",
 
+    'baby' : "(n) ghu",
+    'back' : ["(n) Dub (of body)","(n) chap (of hand)"],
+    'back away' : "(v) DoH",
+    'back off' : "(v) DoH",
+    'bad' : "(v) qab",
+    'bandage' : "(n) Sev",
+    'bar' : "(n) tach",
+    'bartender' : "(n) chom",
+    'barter' : "(v) tlhong",
+    'base'  : "(n) waw' (military)",
+    'battle' : "(n) may'",
+    'battle array' : "(n) may'morgh",
+    'battle cruiser' : "(n) may'Duj",
+    'beam'  : "(v) Jol (aboard)",
+    'transport beam' : "(n) Jol",
+    'endure' : "(v) SIQ",
+    'beard' : "(n) rol",
+    'beautiful' : "(v) 'IH",
+    'become' : "(v) moj",
+    'beg' : "(v) qoy'",
+    'being'  : "(n) Dep (nonhumanoid)",
+    'believe' : "(v) Har",
+    'belly' : "(n) chor",
+    'below' : "(n) bIng",
+    'belt' : "(n) qogh",
+    'bend' : "(v) SIH",
+    'beside' : "(n) retlh",
+    'betray' : "(v) magh",
+    'between' : "(n) joj",
+    'big' : "(v) tIn",
+    'birthday' : "(n) qoS",
+    'bite' : "(v) chop",
+    'black' : "(v) qIj",
+    'blame' : "(n,v) pIch",
+    'block' : "(v) bot",
+    'blood' : "(n) "'Iw",
+    'board' : "(v) tIj (on)",
+    'body' : "(n) porgh",
+    'boil' : "(v) pub",
+    'bold' : "(v) jaq",
+    'bone' : "(n) Hom",
+    'book' : "(n) paq",
+    'boot' : "(n) Das",
+    'boot spike' : "(n) DaSpu'",
+    'boring' : "(v) Dal",
+    'born' : "(v) bogh",
+    'borrow' : "(v) ngIp",
+    'boss' : "(n) pIn",
+    'bother' : "(v) nuQ",
+    'boundary' : "(n) veH",
+    'boy' : "(n) loDHom",
+    'brag' : "(v) mIy",
+    'brain' : "(n) yab",
+    'mind' : "(n) yab",
+    'brave' : "(v) yoH",
+    'break' : ["(v) ghor","(v) biv (rules)"],
+    'breakfast' : "(n) nIQ",
+    'breath' : "(n) tlhuH",
+    'breathe' : "(v) tlhuH",
+    'breed' : "(v) Sep",
+    'breeze' : "(n) SuS",
+    'bridge' : "(n) meH (of a ship)",
+    'bright' : "(v) wov",
+    'bring' : "(v) qem",
+    'brother' : "(n) loDnI'",
+    'build up' : "(v) chen",
+    'building' : "(n) qach",
+    'burn' : "(v) meQ",
+    'bury' : "(v) mol",
+    'business' : "(n) malja'",
+    'but' : " (conj) "ach, ‘a",
+    'buy' : "(v) je'",
 
 
 
-    
+
+
+
 
 
 
@@ -114,106 +188,6 @@ klingon = {
 
 
 
-
-
-
-    baby : "(n) ghu
-    back (of body) : "(n) Dub
-    back (of hand) : "(n) chap
-    back away from, back off : "(v) DoH
-    bad, be bad : "(v) gab
-    banDaqe : "(n) Sev
-    bar, saloon, cocktail lounge : "(n) tach
-    bartender : "(n) chom
-    barter : "(v) tlhong
-    base (military term) : "(n) waw'
-    battle : "(n) may '
-    battle array : "(n) may 'morgh
-    battle cruiser : "(n) may 'Duj
-    beam (aboard) : "(v) Jol
-    beam, transport beam : "(n) Jol
-    bear, endure : "(v) SIO
-    beard : "(n) rol
-    beautiful, be beautiful : "(v) 'TH
-    become : "(v) mo Jj
-    beg, plead : "(v) goy'
-    being (nonhumanoid) : "(n) Dep
-    believe : "(v) Har
-    belly : "(n) chor
-    below, area below : "(n) bing
-    belt : "(n) gogh
-    bend : "(v) SIH
-    beside, area beside : "(n) retlh
-    betray : "(v) magh
-    between, area between : "(n) JOF
-    big, be big : "(v) tiIn
-    birthday : "(n) gosp.122] ]
-    bite : "(v) chop
-    black, be black : "(v) g1Ij
-    blame : "(n) pich
-    blame : "(v) pich
-    block, prevent : "(v) bot
-    blood : "(n) "Tw
-    blow one's top : "(v) Qay'
-    blue, be blue, green, yellow : "(v) SuD
-    board, go aboard : "(v) tly
-    body : "(n) porgh
-    boil : "(v) pub
-    bold, be bold : "(v) jag
-    bone : "(n) Hom
-    book : "(n) pag
-    boot : "(n) Das
-    boot spike : "(n) DaSpu'
-    boring, be boring : "(v) Dal
-    born, be born : "(v) bogh
-    borrow : "(v) ngIp
-    boss : "(n) pin
-    bother : "(v) nuQ
-    boundary : "(n) veH
-
-    boy : "(n) loDHom
-
-    brag : "(v) mly
-
-    brain, mind : "(n) yab
-
-    brave, be brave : "(v) yYOH
-
-    break : "(v) ghor
-
-    break (rules) : "(v) biv
-
-    breakfast : "(n) nilQ
-
-    breath : "(n) tlhuH
-
-    breathe : "(v) tlhuH
-
-    breed : "(v) Sep
-
-    breeze : "(n) SuS
-
-    bridge (of a ship) : "(n) meH
-
-    bright, be bright, be light : "(v) WOov
-
-    bring : "(v) gem
-
-    brother : "(n) loDnI'
-
-    build up, take form : "(v) chen
-
-    building : "(n) gach
-
-    burn : "(v) meQ
-
-    bury : "(v) molp.123] ]
-
-    business : "(n) malja'
-
-    but : " (conj) "ach, ‘a
-
-    buy : "(v) je'",
 
     cage : "(n) mo '
 
