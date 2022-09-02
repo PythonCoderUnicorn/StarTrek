@@ -330,158 +330,132 @@ klingon = {
     'cut' : "(v) pe'",
     'cut'  : "(v) chIp",
 
+
+    'daqger' : "(n) taj",
+    'knife' : "(n) taj",
+    'damage' : "(v) QIH",
+    'dandruff' : "(n) quHvaj",
+    'danger' : "(n, v) Qob",
+    'dare' : "(v) ngIl",
+    'dark' : "(v) Hurgh",
+    'data' : "(n) De'",
+    'data transceiving device' : "(n) HablI'",
+    'data transmission' : "(n) jabbI'ID",
+    'daughter' : "(n) puqbe'",
+    'dawn' : "(n) jajlo'",
+    'day'  : ["(n) jaj (from dawn to dawn)", "(n) cha'leS (day after tomorrow )","(n) cha'Hu' (day before yesterday)"],
+    'days ago' : "(n) Hu'",
+    'days from now' : "(n) leS",
+    'daytime' : "(n) pem",
+    'debate' : "(v) ngach",
+    'decay' : "(v) ragh",
+    'deceive' : "(v) toj",
+    'decide' : "(v) wuq",
+    'decline' : "(v) Sab",
+    'decrease' : "(v) nup",
+    'defeat' : "(v) jey",
+    'defect' : ["(n) Duy'","(v) cheH"]
+    'defective' : "(v) Duy'",
+    'defend' : "(v) Hub",
+    'defense' : "(n) Hub",
+    'deflectors' : "(n) begh",
+    'delay' : "(v) mIm",
+    'demand' : "(v) poQ",
+    'demolish' : "(v) pej",
+    'Denebia' : "(n) DenIbya'",
+    'Denebian' : "(n) DenIbya'ngan",
+    'Denebian slime devil' : "(n) DenIbya' Qatlh",
+    'deny' : "(v) tem",
+    'deodorant' : "(n) noSvagh",
+    'depart' : "(v) tlheD",
+    'depend' : "(v) wuv",
+    'depressed' : "(v) 'It",
+    'descend' : "(v) ghIr",
+    'describe' : "(v) Del",
+    'desert' : ["(n) Deb","(v) choS"],
+    'deserted' : "(v) chIm",
+    'destination' : "(n) ghoch",
+    'destroy' : "(n,v) Qaw'",
+    'destruction' : "(n) QIH",
+    'deteriorate' : "(v) Sab",
+    'detest' : "(v) muS",
+    'developed' : "(v) Hach",
+    'device' : "(n) jan",
+    'invent' : "(v) 'ogh",
+    'dictator' : "(n) HI'",
+    'dictatorship' : "(n) HI'tuy",
+    'dictionary' : "(n) mu'ghom",
+    'die' : "(v) Hegh",
+    'different' : "(v) pIm",
+    'difficult' : "(v) Oatlh",
+    'dignity' : "(n) nur",
+    'dilithium' : "(n) cha'puj",
+    'dilithium crystal' : "(n) cha'pujqut",
+    'dinner' : "(n) 'uQ",
+    'diplomacy' : "(n,v) ghar",
+    'diplomat' : "(n) gharwI'",
+    'dirt' : "(n) lam",
+    'dirty' : "(v) lam",
+    'disable' : "(v) Qotlh",
+    'disagree' : "(v) Qoch",
+    'disappear' : "(v) ngab",
+    'disaster' : "(n) Qugh",
+    'discipline' : "(n) Sun",
+    'discourage' : "(v) tung",
+    'discover' : "(v) tu'",
+    'discuss' : "(v) ja'chuq",
+    'disease' : "(n) rop",
+    'disgraced' : "(v) web",
+    'disguise' : "(v) jech",
+    'dish' : "(n) nay' (food)",
+    'dishonest' : "(v) yuD",
+    'dislike' : "(v) par",
+    'disobey' : "(v) lobHa'",
+    'disperse' : "(v) ghomHa'",
+    'scatter' : "(v) ghomHa'",
+    'display' : "(v) cha',
+    'displeased' : "(v) belHa'",
+    'dispute' : "(v) ghoH",
+    'disregard' : "(v) qImHa'",
+    'dissolve' : "(v) ngos",
+    'distance' : "(n) chug",
+    'distress call' : "(n) Sotlaw'",
+    'distressed' : "(v) Sot",
+    'district' : "(n) yoS",
+    'distrust' : "(v) voqHa'",
+    'disturb' : "(v) SuJ",
+    'divide' : "(v) wav",
+    'dock' : "(n,v) vergh",
+    'doctor' : "(n) Qel",
+    'dominate' : "(v) ghatlh",
+    'done' : "(excl) pItlh",
+    'door' : "(n) lojmIt",
+    'doubt' : "(v) Hon",
+    'dread' : "(v) Haj",
+    'dream' : "(v) naj",
+    'dregs' : "(n) pugh",
+    'drill' : "(n) qeq (military)",
+    'drink' : "(v) tlhutlh",
+    'drool' : "(v) bol",
+    'drop' : "(v) chagh",
+    'drunk' : "(v) chech",
+    'dry'  : "(v) QaD",
+    'duel' : "(v) Hay'",
+    'dull' : "(v) qetlh",
+    'dumbfounded' : "(v) yay'",
+    'duty' : "(n) Qu'",
+    'duty station' : "(n) yaH",
+    'dysentery' : "(n) pom",
+
+
+
+
+
     
-
-
-
-
 
 }
 
 
-
-
-
-
-    Daqger, knife : "(n) taj
-    damage : "(n) OIH
-    damage, cause damage : "(v) OIH
-    dandruff : "(n) quHvaj
-    danger : "(n) OQob
-    dangerous, be dangerous : "(v) OQob
-    dare : "(v) ngIl
-    dark, be dark : "(v) Hurgh
-    data : "(n) De'
-    data transceiving device : "(n) HabllI'
-    data transmission : "(n) jabbI'ID
-    daughter : "(n) puqbe'
-    dawn : "(n) jajlo'
-    day (from dawn to dawn) : "(n) jay
-    day after tomorrow : "(n) cha'les
-    day before yesterday : "(n) cha'Hu'
-    days ago : "(n) Hu'",
-    days from now : "(n) les
-    daytime : "(n) pem
-    debate : "(v) ngach
-    decay : "(v) ragh
-    deceive : "(v) toy
-    decide : "(v) wug
-    decline, deteriorate : "(v) Sab
-    decrease : "(v) nup
-    defeat : "(v) yey
-    defect : "(n) Duy'
-    defect : "(v) cheH
-    defective, be defective : "(v) Duy'
-    defend : "(v) Hub
-    defense : "(n) Hubp.128] ]
-    deflectors : "(n) begh
-    delay : "(v) mim
-    demand : "(v) poQ
-    demolish : "(v) peg
-    Denebia : "(n) DenIbya'
-    Denebian : "(n) DenIlbya'ngan
-    Denebian slime devil : "(n) DenIbya' Qatlh
-    deny : "(v) tem
-    deodorant : "(n) nosvagh
-    depart : "(v) tlheD
-    depend on : "(v) WuV
-    depressed, be depressed : "(v) "Tt
-    descend : "(v) ghir
-    describe : "(v) Del
-    desert : "(n) Deb
-    desert : "(v) chosS
-    deserted, be deserted, chim
-    empty, uninhabited : "(v)
-    destination : "(n) ghoch
-    destroy : "(n) Qaw',
-
-    destruction : "(n) OIH
-    deteriorate : "(v) Sab
-    detest : "(v) musS
-    developed, be developed Hach
-    (e.g., CivIlIzation) : "(v)
-    device : "(n) jan
-    devise, invent : "(v) "ogh
-    dictator : "(n) HL'
-    dictatorship : "(n) HI'tuy
-    dictionary : "(n) mu'ghom
-    die : "(v) Hegh
-    different, be different : "(v) pim
-    difficult, be difficult : "(v) Oatlh
-    dignity : "(n) nur
-    dilithium : "(n) cha'puj
-    dilithium crystal : "(n) cha'pujqut
-    dinner : "(n) "uQ
-    diplomacy : "(n) ghar
-    diplomacy, conduct diplomacy : "(v) ghar
-    diplomat : "(n) gharwI'
-    dirt : "(n) lamp.129] ]
-    dirt under fingernails : "(n) but Lh
-    dirty, be dirty : "(v) lam
-    disable : "(v) Ootlh
-    disagree : "(v) Ooch
-    disappear : "(v) ngab
-    disaster : "(n) Qugh
-    discipline : "(n) Sun
-    discourage : "(v) tung
-    discover : "(v) tu'
-    discuss : "(v) ja'chug
-    disease : "(n) rop
-    disgraced, be disgraced : "(v) web
-    disguise : "(v) jech
-    dish, course (food) : "(n) nay'
-    dishonest, be dishonest : "(v) yuD
-    dislike : "(v) par
-    disobey : "(v) lobHa'
-    disperse, scatter : "(v) ghomHa'
-    display, show (picture) : "(v) cha'
-    displeased, be displeased : "(v) belHa'
-    dispute : "(v) ghoH
-    disregard : "(v) qimHa'
-    dissolve : "(v) ngos
-    distance, range : "(n) chug
-    distress call : "(n) Sotlaw'
-    distressed, be in distress : "(v) Sot
-    district, area : "(n) yos
-    distrust : "(v) voqHa'
-    disturb : "(v) SuJ
-    divide : "(v) wav
-    dock : "(n) vergh
-    dock : "(v) vergh
-    doctor, physician : "(n) Qel
-    dominate : "(v) ghatlh
-    done (excl) pitlh
-    door, gate : "(n) lojmIt
-    doubt : "(v) Hon
-    dread : "(v) Haj
-    dream : "(v) naj
-
-    dregs : "(n) puqh
-
-    drill (military) : "(n) geq[ [p.130] ]
-
-    drink : "(v) tlhutlh
-
-    drool : "(v) bol
-
-    drop : "(v) chagh
-
-    drunk, be drunk, intoxicated : "(v) chech
-
-    dry, be dry : "(v) OQaD
-
-    duel : "(v) Hay'
-
-    dull, be dull, uninteresting : "(v) getlh
-
-    dumbfounded, be dumb- yay'
-    founded, uninteresting, shocked : "(v)
-
-    duty : "(n) Qu'",
-
-    duty station, station : "(n) yaH
-
-    dysentery : "(n) pom
 
     Barth : "(n) tera'
 
