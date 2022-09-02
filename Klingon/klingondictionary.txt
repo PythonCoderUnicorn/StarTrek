@@ -177,8 +177,160 @@ klingon = {
     'buy' : "(v) je'",
 
 
+    'cage' : "(n) mo'",
+    'calculate' : "(v) SIm",
+    'calendar' : "(n) 'ISjaH",
+    'call' : "(v) pong",
+    'calm' : "(v) jot",
+    'camp'  : "(n) raQ (military)",
+    'cancel' : "(v) qIl",
+    'cape' : "(n) ngup (clothing)",
+    'capital' : "(n) mon (of a place)",
+    'captain' : "(n) HoD",
+    'capture' : "(v) jon",
+    'care for' : "(v) Qorgh",
+    'care about' : "(v) SaH",
+    'careful' : "(v) yep",
+    'careless' : "(v) yepHa'",
+    'cargo' : "(n) tep",
+    'cargo carrier' : "(n) tepqengwI'",
+    'carry' : "(v) qeng",
+    'catalog' : "(n) mem",
+    'catastrophe' : "(n) lot",
+    'cautious' : "(v) HoJ",
+    'cave' : "(n) DIs",
+    'cease' : "(v) mev",
+    'celebrate' : "(v) lop",
+    'center' : "(n) botlh",
+    'certainty' : "(n) DIch",
+    'chain' : "(n) mIr",
+    'chair' : "(n) quS",
+    'change' : "(n,v) choH",
+    'charge'  : "(v) yov (military)",
+    'charge up' : "(v) HuJ",
+    'charming' : "wejpuH (ironic)",
+    'chase' : "(v) tlha'",
+    'chat' : "(v) jaw",
+    'cheat' : "(v) ngor",
+    'cheek' : "(n) qevpob",
+    'chew' : "(v) yIv",
+    'child' : "(n) puq",
+    'chin' : "(n) woS",
+    'chocolate' : "(n) yuch",
+    'choice' : "(n) wIv",
+    'choke' : "(v) voQ",
+    'choose' : "(v) wIv",
+    'chore' : "(n) Qu'",
+    'chronometer' : "(n) tlhaq",
+    'circle' : "(n) gho",
+    'citizen' : "(n) rewbe'",
+    'city' : "(n) veng",
+    'civilization' : "(n) tayqeq",
+    'civilize' : "(v) taymoH",
+    'civilized' : "(v) tay",
+    'claim'  : "(v) DoQ (territory)",
+    'classification' : "(n) buv",
+    'classify' : "(v) buv",
+    'clean'  : "(v) Say'",
+    'clear' : "(v) Huv",
+    'clever' : "(v) val",
+    'cliff' : "(n) qoj",
+    'climb' : "(v) tos",
+    'clip' : "(v) poDmoH",
+    'clipped' : "(v) poD",
+    'cloak'  : "(v) So'",
+    'cloaking device' : "(n) So'wI'
+    'close in' : "(v) chol",
+    'close' : "(v) SoQmoH",
+    'closed' : "(v) SoQ",
+    'clothing' : "(n) Sut",
+    'cloud' : "(n) "'eng",
+    'clumsy' : "(v) Soy'",
+    'coat' : "(n) wep",
+    'cockroach' : "(n) vetlh",
+    'code' : "(n) ngoq",
+    'cold' : "(v) bIr",
+    'collapse' : "(v) Dej",
+    'collar' : "(n) mongDech",
+    'collect' : "(v) boS",
+    'collide' : "(v) paw'",
+    'colony' : "(n) mID",
+    'column' : "(n) tut",
+    'come' : "(v) ghoS",
+    'come on' : "(excl) Ha'",
+    'comet' : "(n) lIy",
+    'command' : "(v) ra'",
+    'commander' : "(n) la', ra'wI'",
+    'commit a crime' : "(v) HeS",
+    'communicate' : "(v) Qum",
+    'communications officer' : "(n) QumpIn",
+    'communicator' : "(n) QumwI'",
+    'compel' : "(v) raD",
+    'compete' : "(v) 'ov",
+    'complain' : "(v) bep",
+    'comply' : "(v) HeQ",
+    'compromise' : "(v) moS",
+    'computer' : "(n) De'wI'",
+    'concentrate' : "(v) qIm",
+    'concentrate' : "(v) buS",
+    'concern' : "(v) SaH",
+    'condemn' : "(v) qIch",
+    'confer' : "(v) ja'chuq",
+    'confess' : "(v) DIS",
+    'confide' : "(v) tey'",
+    'confine' : "(v) wegh",
+    'conflict' : "(n) yol",
+    'confuse' : "(v) mISmoH",
+    'confused' : "(v) mIS",
+    'confusion' : "(n) mIS",
+    'congratulate' : "(v) Hoy'",
+    'connect' : "(v) rar",
+    'conquer' : "(v) chargh",
+    'consent' : "(v) ghIb",
+    'consequential' : "(n) potlh",
+    'conspiracy' : "(n) QuS",
+    'conspire' : "(v) QuS",
+    'contain'  : ["(v) Sev (an enemy)", "(v) ngas (have inside)"],
+    'contradict' : "(v) tlhoch",
+    'contribute' : "(v) ghaq",
+    'control' : "(v) SeH",
+    'control panel' : "(n) SeHlaw",
+    'convey' : "(v) qeng",
+    'convince' : "(v) pon",
+    'cook' : "(v) vut",
+    'cooperate' : "(v) yeq",
+    'coordinates' : "(n) Quv",
+    'corporal'  : "(n) Da' (rank)",
+    'corpse' : "(n) lom",
+    'correct' : "(v) lugh",
+    'corrupt' : ["(v) qal","(v) qalmoH"],
+    'council' : "(n) yej",
+    'Council of Elders' : "(n) quprIp",
+    'count' : "(v) togh",
+    'counterfeit' : "(v) ngeb",
+    'country' : "(n) Hatlh",
+    'course' : "(n) He (route)",
+    'court' : "(n) bo'DIj",
+    'court martial' : "(v) ghIpDIj",
+    'coward' : "(n) nuch",
+    'crazy' : "(v) maw'",
+    'credit' : "(n) DeQ (money)",
+    'crew' : "(n) beq",
+    'crime' : "(n) HeS",
+    'criminal' : "(n) HeSwI'",
+    'crowd' : ["(n) ghom'a'","(v) qev"]
+    'cruise' : "(v) qugh
+    'cry' : "(v) SaQ",
+    'shout' : "(v) jach",
+    'scream' : "(v) jach",
+    'crystal'  : "(n) gut (geol)",
+    'cunning' : "(v) 'ong",
+    'cure' : "(v) vor",
+    'custom' : "(n) tIgh",
+    'cut' : "(v) pe'",
+    'cut'  : "(v) chIp",
 
-
+    
 
 
 
@@ -189,208 +341,8 @@ klingon = {
 
 
 
-    cage : "(n) mo '
 
-    calculate : "(v) Sim
 
-    calendar : "(n) 'TSjaH
-
-    call, name : "(v) pong
-
-    calm, be calm : "(v) jot
-
-    camp (military term) : "(n) raQ
-
-    cancel : "(v) gil
-
-    cape (clothing) : "(n) ngup
-
-    capital (of a place) : "(n) mon
-
-    captain : "(n) HoD
-
-    capture : "(v) jon
-
-    care for, take care of : "(v) Qorgh
-
-    care (about), be concerned SaH
-    (about) : "(v)
-
-    careful, be careful : "(v) yep
-
-    careless, be careless : "(v) yepHa'
-
-    cargo : "(n) tep
-
-    Cargo carrier : "(n) tepqengwI'
-
-    carry : "(v) qeng
-
-    catalog : "(n) mem
-
-    catastrophe : "(n) lot
-
-    cautious, be cautious : "(v) HoJ
-
-    cave : "(n) Dis
-
-    cease, stop : "(v) mev
-
-    celebrate : "(v) Lop
-
-    center : "(n) botlh
-
-    certainty : "(n) DIch
-
-    chain : "(n) mir
-
-    Chair : "(n) gus
-
-    change : "(n) CchoH
-
-    change : "(v) CchoH
-
-    charge (military term) : "(v) yov
-
-    charge (up) : "(v) HuJ
-
-    charming (used only we JpuH
-    1ronically) (excl)
-
-    chase, follow : "(v) tlha'
-
-    chat : "(v) jawp.124] ]
-
-    cheat : "(v) ngor
-    cheek : "(n) gevpob
-    chew : "(v) yiv
-    child, offspring : "(n) puq
-    chin : "(n) wos
-    chocolate : "(n) yuch
-    choice : "(n) wiv
-    choke : "(v) VoQ
-    choose : "(v) wiv
-    chore, task : "(n) Qu'",
-    chronometer : "(n) tlhag
-    circle : "(n) gho
-    citizen : "(n) rewbe'
-    city : "(n) veng
-    CivIlIzation : "(n) tayqeg
-    CivIlIze : "(v) taymoH
-    CivIlIzed, be civIlIzed : "(v) tay
-    claim (territory) : "(v) DoQ
-    classification : "(n) buv
-    classify : "(v) buv
-    clean, be clean : "(v) Say'
-    clear, be clear, not obstructed : "(v) Huv
-    clever, be clever : "(v) val
-    cliff : "(n) qo]
-    climb : "(v) tos
-    clip : "(v) poDmoH
-    clipped, be clipped : "(v) poD
-    Cloak, hide : "(v) So'",
-    cloaking device : "(n) So'wI'
-    close in, get closer, come nearer : "(v) chol
-    close, shut : "(v) SoQmoH
-    closed, be closed, be shut : "(v) SoQ
-    clothing : "(n) Sut
-    cloud : "(n) "eng
-    clumsy, be clumsy : "(v) Soy'
-    coat : "(n) wep
-    cockroach : "(n) vetlh
-    cocktail lounge, bar : "(n) tach
-    code : "(n) ngoqg
-    cold, be cold : "(v) bIrp.125,
-    collapse : "(v) DejJ
-    collar : "(n) mongDech
-    collect : "(v) bos
-    collide : "(v) paw'
-    colony : "(n) mID
-    column : "(n) tut
-    come : "(v) ghos
-    come on (excl) Ha'
-    comet : "(n) lly
-    command : "(v) ra'
-    commander : "(n) la', ra'wI'
-    commit a crime : "(v) HeS
-    communicate : "(v) Qum
-    communications officer : "(n) Qumpin
-    communicator, communi- OumwI '
-    cations device : "(n)
-    compel : "(v) raD
-    compete : "(v) "Ov
-    complain : "(v) bep
-    comply : "(v) HeQ
-
-    compromise : "(v) mos
-    computer : "(n) De'wI'
-    concentrate : "(v) qim
-    concentrate on, focus on, bus
-    think only about : "(v)
-    concern, be concerned (about), SaH
-    care (about) : "(v)
-    condemn : "(v) qich
-    confer : "(v) ja'chug
-    confess : "(v) Dis
-    confide : "(v) tey'
-    confine : "(v) wegh
-    conflict : "(n) yol
-    confuse : "(v) mismoH
-    confused, be confused : "(v) mis
-    confusion : "(n) m1is
-    conglomeration : "(n) tlhogd
-    congratulate : "(v) Hoy'
-    connect : "(v) rar
-    conquer : "(v) charghp.126] ]
-    consent : "(v) ghib
-    consequential thing, some- potlh
-    thing important : "(n)
-    conspiracy : "(n) Qus
-    conspire : "(v) Qus
-    consul : "(n) jojlu'
-    contain (an enemy) : "(v) Sev
-    contain (have inside) : "(v) ngas
-    contradict : "(v) tlhoch
-    contribute : "(v) ghag
-    control : "(v) SeH
-    control panel : "(n) SeHlaw
-    convey : "(v) geng
-    convince : "(v) pon
-    cook : "(v) vut
-    cooperate : "(v) yeq
-    coordinates : "(n) OQuv
-    corporal (rank) : "(n) Da'
-    corpse : "(n) lom
-    correct, be correct : "(v) lugh
-    corrupt : "(v) qalmoH
-    corrupt, be corrupt : "(v) gal
-    council : "(n) yej
-    Council of Elders : "(n) guprip
-    count : "(v) togh
-    counterfeit, be counterfeit : "(v) ngeb
-    country, countryside : "(n) Hatlh
-    course, dish (at a meal) : "(n) nay'
-    course, route : "(n) He
-    court : "(n) bo'DIj
-    court-martial : "(v) ghIpDIj
-    coward : "(n) nuch
-    crazy, be crazy : "(v) maw '
-    credit (monetary unit) : "(n) DeQ
-    crew, crewman : "(n) beq
-    Crime : "(n) HeS
-    Criminal : "(n) HeSwI'
-    crowd : "(n) ghom'a'
-    crowd : "(v) gev
-    Cruise : "(v) gughp.127] ]
-
-    cry : "(v) SaQ
-    cry out, shout, scream : "(v) jach
-    crystal (geologic formation) : "(n) gut
-    cunning, be cunning : "(v) "ong
-    cure : "(v) vor
-    custom : "(n) tIigh
-    cut : "(v) pe'
-    cut, trim (hair) : "(v) chip
     Daqger, knife : "(n) taj
     damage : "(n) OIH
     damage, cause damage : "(v) OIH
