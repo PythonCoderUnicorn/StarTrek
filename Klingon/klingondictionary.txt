@@ -920,63 +920,47 @@ klingon = {
     'mutiny' : "(v) qIQ",
     'myth' : "(n) wIch",
 
-
+    'nacelle' : "(n) HanDogh",
+    'nag' : "(v) boj",
+    'name' : "(n, v) pong",
+    'nap' : "(v) Dum",
+    'native' : "(n) Sung",
+    'navigate' : "(v) chIj",
+    'navigator' : "(n) chIjwI'",
+    'necessary' : "(v) 'ut",
+    'neck' : "(n) mong",
+    'necklace' : "(n) ghIgh",
+    'negative' : "(v) taH (angle)",
+    'negotiate' : "(v) Sutlh",
+    'neighbor' : "(n) jIl",    
+    'nervous' : "(v) bIt",
+    'Neural' : "(n) nural",
+    'neutral zone' : "(n) neHmaH",
+    'never' : " (adv) not",
+    'nevertheless' : " (conj) 'ach, ‘a",
+    'new' : "(v) chu'",
+    'next'  : "(n) retlh",
+    'night' : "(n) ram",
+    'nine' : "(num)  Hut",
+    'ninth' : "(num)  HutDIch",
+    'no' : ["(excl) ghobe'", "(excl) Qo'"],
+    'nobility' : "(n) chuQun",
+    'noisy' : "(v) chuS",
+    'nothing'  : "(n) pagh",
+    'nonsense' : "(n) Dap",
+    'nose' : "(n) ghIch",
+    'nostril' : "(n) tlhon",
+    'not yet' : " (adv) wej",
+    'nothing' : "(n) pagh",
+    'notice' : "(v) tu'",
+    'noun' : "(n) DIp",
+    'nova' : "(n) puyjaq",
+    'now' : " (adv) DaH",
+    'number' : "(n) mI'",
+    'numerous' : "(v) law'",
 
 
 }
-
-
-
-
-
-    nacelle : "(n) HanDogh
-    nag : "(v) bo J
-    name : "(n) pong
-    name : "(v) pong
-    nap : "(v) Dum
-    native : "(n) Sung
-    navigate : "(v) chlj
-    navigator : "(n) chijwI'
-    necessary, be necessary, "ut
-    essential : "(v)
-    neck : "(n) mong
-    necklace : "(n) ghigh
-    negative (angle), be ata taH
-    negative angle : "(v)
-    negotiate : "(v) Sut lh
-    neighbor : "(n) jil
-    nervous, be nervous : "(v) bit
-    Neural : "(n) nural
-    Neuralese : "(n) nuralngan
-    neutral zone : "(n) neHmaH
-    never : " (adv) not
-    nevertheless : " (conj) "ach, ‘a
-    new, be new : "(v) chu'
-    next to, area next to : "(n) retlh
-    night : "(n) ram
-    nine : "(num)  Hut
-    ninth : "(num)  HutDich
-    no (answer to a question) (excl) ghobe'
-    no, I won't, I refuse (excl) Qo'",
-    nobility : "(n) chuQun
-    noisy, be noisy : "(v) chus
-    nothing, none : "(n) pagh
-    nonsense : "(n) Dap
-    nose : "(n) ghich
-    nostril : "(n) tlhon
-    not yet : " (adv) we J
-    nothing, none : "(n) pagh
-    notice : "(v) tu'
-    noun : "(n) DIpp.144] ]
-    nova : "(n) puyjaqg
-    now : " (adv) DaH
-    number : "(n) mI '
-    numerous, be numerous : "(v) law'
-
-
-
-
-
 
 
     oath : "(n) "Ip
