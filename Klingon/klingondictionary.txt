@@ -522,120 +522,96 @@ klingon = {
     'eye' : "(n) mIn",
     'eyebrow' : "(n) Huy'",
 
-    
+
+    'face' : "(n) qab",
+    'fact' : "(n) ngoD",
+    'factory' : "(n) laSvargh",
+    'fail' : "(v) luj",
+    'fair'  : "(v) may"
+    'trust' : "(v) voq",
+    'fake' : "(v) ngeb",
+    'fall' : "(v) pum",
+    'false' : "(v) ngeb",
+    'family' : "(n) qorDu'",
+    'famous' : "(v) noy",
+    'fanatical' : "(v) ngotlh",
+    'far' : "(v) Hop",
+    farm : ["(n) Du'","(v) wIJ"],
+    'fascinate' : "(v) vuQ",
+    'fast' : " (adv) nom",
+    'fat' : "(v) pI', ror",
+    'fatal' : "(v) HeghmoH",
+    'fate' : "(n) San",
+    'father' : "(n) vav",
+    fault  : ["(n) Seq (seismic)","(n) pIch (blame)" ],
+    'fed up' : "(v) puQ",
+    'Federation' : "(n) DIvI'",
+    'Federation battle cruiser' : "(n) DIvI'may'Duj",
+    'feed' : "(v) je' (someone)",
+    'feel' : "(v) Hot",
+    'female' : "(n) be'",
+    'festival' : "(n) yupma'",
+    'few' : "(v) puS",
+    'lie' : "(v) nep",
+    'field'  : "(n) yotlh (of land)",
+    'fierce' : "(v) qu'",
+    'fifth' : "(num) vaghDIch",
+    'fight' : ["(v) Suv","(v) HIgh (dirty)"],
+    'fill' : "(v) teb",
+    'final' : "(v) Qav",
+    'find' : "(v) tu'",
+    'fine' : "(v) rup",
+    'finger' : "(n) nItlh",
+    'finished' : "(v) rIn",
+    'fire' : ["(n) qul","(v) baH (torpedo)","(v) laQ"],
+    'first' : "(num) wa'DIch",
+    'fissure' : "(n) Qargh",
+    'fist' : "(n) ro'",
+    'five' : "(num) vagh",
+    'fix' : "(v) tI'",
+    'flag' : "(n) joqwI'",
+    'wave' : "(v) joq",
+    'flee' : "(v) Haw'",
+    'fleet' : "(n) yo'",
+    'flood' : "(n,v) SoD",
+    'floor' : "(n) rav",
+    'flutter' : "(v) joq",
+    'fly' : "(v) puv",
+    'focus' : "(v) buS",
+    follow  : ["(v) ghos (a course)","(v) pab (rules)","(v) tlha' (chase)"],
+    'fool' : "(n) qoH",
+    'foolish' : "(v) Dogh",
+    'foot' : "(n) qam",
+    'forbid' : "(v) tuch",
+    'force' : "(v) raD",
+    'force field' : "(n) Surchem",
+    'fore' : "(n) 'et",
+    'forehead' : "(n) Quch",
+    'foreign' : "(v) nov",
+    'foreigner' : "(n) nov",
+    'forest' : "(n) ngem",
+    'forget' : "(v) lIj",
+    'fortunate' : "(v) Do'",
+    'four' : "(num) loS",
+    'fourth' : "(num) loSDIch",
+    'free' : "(v) tlhab",
+    'freedom' : "(n) tlhab",
+    'freeze' : "(v) taDmoH",
+    'freighter' : "(n) tongDuj",
+    'radio frequency' : "(n) Se'",
+    'friend' : "(n) jup",
+    'frozen' : "(v) taD",
+    'frustrated' : "(v) mogh",
+    'fuel' : "(n) nIn",
+    'function' : "(v) Qap",
+    'funeral' : "(n) nol",
+    'funny' : "(v) tlhaQ",
+
+
 
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-    face : "(n) gab
-    fact : "(n) ngoD
-    factory : "(n) laSvargh
-    fail : "(v) luj
-    fair, be fair : "(v) may
-    trust, have faith in : "(v) Voq
-    fake, be fake : "(v) ngeb
-    fall : "(v) pum
-    false, be false : "(v) ngeb
-    family : "(n) gorDu'
-    famous, be famous, well known : "(v) noy
-    fanatical, be fanatical : "(v) ngotlih
-    far, be far, be remote : "(v) Hop
-    farm : "(n) Du'",
-    farm : "(v) wl J
-    fascinate : "(v) vuQ
-    fast, quickly : " (adv) nom
-    be fat : "(v) pli', ror
-    fatal, be fatal : "(v) HeghmoH
-    fate : "(n) San
-    father : "(n) Vav
-    fault (seismic) : "(n) Seq
-    fault, blame : "(n) pich
-    fed up, be fed up : "(v) puQ
-    Federation : "(n) DIvL'
-    Federation battle cruiser : "(n) Divi'may'Dujp.133] ]
-    feed (someone else) : "(v) je'",
-    feel, touch : "(v) Hot
-    female, woman : "(n) be'",
-    festival : "(n) yupma '
-    few, be few, be several, be puS
-    a handful : "(v)
-    fib, lie : "(v) nep
-    field (of land) : "(n) yotlh
-    fierce, be fierce : "(v) gu'
-    fifth : "(num)  vaghDIch
-    fight : "(v) Suv
-    fight dirty : "(v) HIgh
-    fill : "(v) teb
-    final, be final, last : "(v) Oav
-    find : "(v) tu'
-    fine, tax : "(v) rup
-    finger : "(n) nitlh
-    finished, be finished, rin
-    accomplished : "(v)
-    fire : "(n) qul
-    fire (torpedo, rocket, missile) : "(v) baH
-    fire, energize (e.g., thrusters) : "(v) laQ
-    first : "(num)  wa'DIch
-    fissure : "(n) Qargh
-    fist : "(n) ro'",
-    five : "(num)  vagh
-    fix, repair : "(v) tL'",
-    flag : "(n) joqwi'
-    flap, flutter, wave : "(v) Jog
-    flee, get out (Vv) Haw'
-    fleet (of ships) : "(n) yo'",
-    flood : "(n) SoD
-    flood : "(v) SoD
-    floor : "(n) rav
-    flutter, flap, wave : "(v) Jog
-    fly : "(v) puv
-    focus on, concentrate on, bus
-    think only about : "(v)
-    follow (a course) : "(v) ghos
-    follow (rules) : "(v) pabp.134,
-    follow, chase : "(v) tlha'
-    fool : "(n) QoH
-    foolish, be foolish, Dogh
-    silly : "(v)
-    foot : "(n) gam
-    forbid : "(v) tuch
-    force : "(v) raD
-    force field : "(n) Surchem
-    fore : "(n) "et
-    forehead : "(n) Ouch
-    foreign, be foreign, alien : "(v) nov
-    foreigner : "(n) nov
-    forest, woods : "(n) ngem
-    forget : "(v) 113
-    fortunate, be fortunate, lucky : "(v) Do'",
-    four : "(num)  Los
-    fourth : "(num)  loSDich
-    free, be free, independent : "(v) tlhab
-    freedom, independence : "(n) tlhab
-    freeze : "(v) taDmoH
-    freighter : "(n) tongDujy
-    frequency (radio) : "(n) Se'",
-    friend : "(n) Jup
-    frozen, be frozen : "(v) taD
-    frustrated, be frustrated : "(v) mogh
-    fuel : "(n) nin
-    function, work, succeed : "(v) Qap
-    funeral : "(n) nol
-    funny, be funny : "(v) tlhaQ
-
-
-
 
 
 
