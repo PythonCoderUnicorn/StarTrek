@@ -448,8 +448,81 @@ klingon = {
     'dysentery' : "(n) pom",
 
 
+    'Earth' : "(n) tera'",
+    'Earther' : "(n) tera'ngan",
+    'earthquake tremor' : "(v) Qom",
+    'easy' : "(v) ngeD",
+    'eat' : "(v) Sop",
+    'eavesdrop' : "(v) Daq",
+    'edge' : "(n) HeH",
+    'eight' : "(num) chorgh",
+    'eighth' : "(num) chorghDIich",
+    'Elas' : "(n) "elaS",
+    'elder' : "(n) qup",
+    'embark' : "(v) ten",
+    'embassy' : "(n) rIvSo'",
+    'emergency' : "(n) chach",
+    'emissary' : "(n) Duy, ‘oSwI'",
+    'emperor' : "(n) ta', voDleH",
+    'empire' : "(n) wo'",
+    'empty' : "(v) chIm",
+    'encounter' : "(v) ghom",
+    'encourage' : "(v) tungHa'",
+    'endure' : "(v) SIQ",
+    'enemy' : "(n) jagh",
+    'energize' : ["(v) rIH","(v) laQ (thrusters)"],
+    'energizer' : "(n) rIHwi'",
+    'energy beings' : "(n) HoSDo",
+    'energy field' : "(n) HoSchem",
+    'energy' : "(n) HoS",
+    'power' : "(n) HoS",
+    'engage' : "(v) chu'",
+    'engine' : "(n) jonta', QuQ",
+    'engineer' : "(n) jonwI'",
+    'enjoy' : "(v) tIv",
+    'enough' : "(v) yap",
+    'enter' : "(v) 'el",
+    'entity' : "(n) Dol",
+    'equipment' : "(n) luch",
+    'era' : "(n) bov",
+    'error' : "(n,v) Qagh",
+    'escort' : "(v) Dor",
+    'espionage' : "(n) lInDab",
+    'essential' : "(v) 'ut",
+    'establish' : "(v) cher",
+    'estimate' : "(v) noH",
+    'ethics' : "(n) ghob",
+    'evade' : "(v) jun",
+    'even so' : " (conj) "ach, ‘a",
+    'event' : "(n) wanI",
+    'everyone' : "(n) Hoch",
+    'everything' : "(n) Hoch",
+    'everywhere' : "(n) Dat",
+    'evil' : "(v) mIgh",
+    'exact' : "(v) pup",
+    'exaggerate' : "(v) lach",
+    'examine' : "(v) nuD",
+    'excellent' : "(v) pov",
+    'exceptional' : "(v) le'",
+    'exchange' : "(v) tam",
+    'excite' : "(v) SeymoH",
+    'excited' : "(v) Sey",
+    'execute' : "(v) muH (to death)",
+    'exhaust' : "(n) taQbang",
+    'exhaust' : "(v) tlhuch",
+    'exile' : "(v) ghiIm",
+    'expand' : "(v) Sach",
+    'expect' : "(v) pIH",
+    'expedition' : "(n) Hoq",
+    'experiment' : "(n,v) ngong",
+    'expert' : "(v) po'",
+    'explain' : "(v) QIj",
+    'explode' : "(v) jor",
+    'explosive' : "(n) jorwI'",
+    'eye' : "(n) mIn",
+    'eyebrow' : "(n) Huy'",
 
-
+    
 
 
 
@@ -457,85 +530,7 @@ klingon = {
 
 
 
-    'Earth' : "(n) tera'",
-    'Earther' : "(n) tera'ngan",
-    'earthquake tremor' : "(v) Qom",
-    'easy' : "(v) ngeD",
-    'eat' : "(v) Sop",
-    eavesdrop : "(v) Daq
-    edge : "(n) HeH
-    eight (num) chorgh
-    eighth (num) chorghDIich
-    Elas : "(n) "elas
-    elder : "(n) qup
-    embark : "(v) ten
-    embassy : "(n) rivSo'
-    emergency : "(n) chach
-    emissary : "(n) Duy, ‘oSwI'
-    emperor : "(n) ta', voDleH
-    empire : "(n) wo'",
-    empty, be empty, deserted, chim
-    uninhabited : "(v)
-    encounter, meet : "(v) ghom
-    encourage : "(v) tungHa'
-    endure, bear : "(v) SIO
-    enemy : "(n) jagh
-    energize : "(v) riH
-    energize, fire (e.g., thrusters) : "(v) laQ
-    energizer : "(n) rIHwi'p.131,
-    energy beings : "(n) HoSDo"
-    energy field : "(n) HoSchem
-    energy, power : "(n) Hos
-    engage, activate (a device) : "(v) chu'
-    engine : "(n) jonta', QuQ
-    engineer : "(n) jonwI'
-    enjoy : "(v) tiv
-    enough, be enough, be yap
-    sufficient : "(v)
-    enter, go in : "(v) "el
-    entity : "(n) Dol
-    equipment, gear : "(n) luch
-    era : "(n) bov
-    err, make a mistake : "(v) Qagh
-    error, mistake : "(n) Qagh
-    escort : "(v) Dor
-    espionage : "(n) 1TnDab
-    essential, be essential, Tut
- necessary : "(v)
-    establish, set up : "(v) cher
-    estimate, judge : "(v) noH
-    ethics : "(n) ghob
-    evade, take evasive action : "(v) jun
-    even so : " (conj) "ach, ‘a
-    event, occurrence, wanl'
-    phenomenon : "(n)
-    everyone, everything : "(n) Hoch
-    everywhere : "(n) Dat
-    evil, be evil : "(v) migh
-    exact, be exact, perfect : "(v) pup
-    exaggerate : "(v) lach
-    examine : "(v) nuD
-    excellent, be excellent : "(v) pov
-    exceptional, be exceptional, le'
-    special : "(v)
-    exchange, substitute : "(v) tam
-    excite : "(v) SeymoH
-    excited, be excited : "(v) Sey
-    execute, put to death : "(v) muH
-    exhaust : "(n) taQbangp.132] ]
-    exhaust : "(v) tlhuch
-    exile : "(v) ghiIm
-    expand : "(v) Sach
-    expect : "(v) pIH
-    expedition : "(n) Hog
-    experiment : "(n) ngong
-    experiment : "(v) ngong
-    expert, be expert, skilled : "(v) po'
-    explain : "(v) Only
-    explode : "(v) jor
-    explosive : "(n) jorwI'
-    eye : "(n) min
-    eyebrow : "(n) Huy'
+
 
 
 
@@ -578,7 +573,7 @@ klingon = {
     fib, lie : "(v) nep
     field (of land) : "(n) yotlh
     fierce, be fierce : "(v) gu'
-    fifth (num) vaghDIch
+    fifth : "(num)  vaghDIch
     fight : "(v) Suv
     fight dirty : "(v) HIgh
     fill : "(v) teb
@@ -591,10 +586,10 @@ klingon = {
     fire : "(n) qul
     fire (torpedo, rocket, missile) : "(v) baH
     fire, energize (e.g., thrusters) : "(v) laQ
-    first (num) wa'DIch
+    first : "(num)  wa'DIch
     fissure : "(n) Qargh
     fist : "(n) ro'",
-    five (num) vagh
+    five : "(num)  vagh
     fix, repair : "(v) tL'",
     flag : "(n) joqwi'
     flap, flutter, wave : "(v) Jog
@@ -624,8 +619,8 @@ klingon = {
     forest, woods : "(n) ngem
     forget : "(v) 113
     fortunate, be fortunate, lucky : "(v) Do'",
-    four (num) Los
-    fourth (num) loSDich
+    four : "(num)  Los
+    fourth : "(num)  loSDich
     free, be free, independent : "(v) tlhab
     freedom, independence : "(n) tlhab
     freeze : "(v) taDmoH
@@ -769,8 +764,8 @@ klingon = {
     hull : "(n) Som
     human : "(n) Human
     humanoid : "(n) Yod
-    hundred (num) vatlh
-    hundred thousand (num) bIp
+    hundred : "(num)  vatlh
+    hundred thousand : "(num)  bIp
     hungry, be hungry : "(v) ghung
     hunt : "(v) wam
     hurry : "(v) moD
@@ -978,7 +973,7 @@ klingon = {
     midnight : "(n) ramjep
     midnight snack : "(n) ghem
     military : "(n) OL'
-    million (num) "uy'",
+    million : "(num)  "uy'",
     mind, brain : "(n) yab
     mind sifter (Klingon psychic tuQDog
     probe) : "(n)
@@ -1043,8 +1038,8 @@ klingon = {
     new, be new : "(v) chu'
     next to, area next to : "(n) retlh
     night : "(n) ram
-    nine (num) Hut
-    ninth (num) HutDich
+    nine : "(num)  Hut
+    ninth : "(num)  HutDich
     no (answer to a question) (excl) ghobe'
     no, I won't, I refuse (excl) Qo'",
     nobility : "(n) chuQun
@@ -1089,7 +1084,7 @@ klingon = {
     old, be old (not young) : "(v) gan
     omit : "(v) nop
     once : " (adv) wa'logh
-    one (num) wa'
+    one : "(num)  wa'
     only, merely, just : " (adv) neH
     Onward, go onward, proceed : "(v) ghos
     open : "(v) posmoH
@@ -1396,7 +1391,7 @@ klingon = {
     scream, cry out, shout : "(v) jach
     screen, viewing screen : "(n) jIH
     search for, seek, look for : "(v) nej
-    second (num) cha'DIch
+    second : "(num)  cha'DIch
     second (of time) : "(n) lup
     secret : "(n) pegh
     secret, keep something secret : "(v) pegh
@@ -1420,8 +1415,8 @@ klingon = {
     serve (a master) : "(v) toy'
     serve (food) : "(v) jab
     set up, establish : "(v) cher
-    seven (num) Soch
-    seventh (num) SochDIich
+    seven : "(num)  Soch
+    seventh : "(num)  SochDIich
     several, be several : "(v) puS
     Shadow : "(n) Olb
     Shame : "(v) tuHmoH
@@ -1458,8 +1453,8 @@ klingon = {
     Sister : "(n) be'nI'
     sit : "(v) ba'",
     Situation : "(n) ghu'
-    SlxX (num) jJav
-    Sixth (num) javDich
+    SlxX : "(num)  jJav
+    Sixth : "(num)  javDich
     skilled, be skilled : "(v) po'
     skin : "(n) Dir
     skin : "(v) Surgh
@@ -1602,10 +1597,10 @@ klingon = {
     temporary, be temporary : "(v) ru'
     tempt : "(v) tlhu'moH
     tempted, be tempted : "(v) tlhu'
-    ten (combining form) (num) maH
-    ten (num) wa'maH
-    ten thousand (num) netlh
-    tenth (num) wa'maHDIch
+    ten (combining form) : "(num)  maH
+    ten : "(num)  wa'maH
+    ten thousand : "(num)  netlh
+    tenth : "(num)  wa'maHDIch
     Terran : "(n) tera'ngan
     that (previous topic) (pro) "e', net
     them, they (capable of using language) chaH
@@ -1626,11 +1621,11 @@ klingon = {
     think : "(v) Qub
     think only about, concentrate on, bus
     focus on : "(v)
-    third (num) we jDIch
+    third : "(num)  we jDIch
     thirsty, be thirsty : "(v) "OF
-    thousand (num) SaD, SanID
+    thousand : "(num)  SaD, SanID
     threaten : "(v) buQ
-    three (num) we J
+    three : "(num)  we J
     throat : "(n) Hugh
     throw away : "(v) woD
     thrust : "(v) ghos
@@ -1707,7 +1702,7 @@ klingon = {
     turn : "(v) tlhe'",
     twice : " (adv) cha'logh
     twilight : "(n) choS
-    two (num) cha'
+    two : "(num)  cha'
 
 
 
@@ -1837,5 +1832,5 @@ klingon = {
     you (plural) (pro) tlhiIH
     you (pro) SOH
     young, be young : "(v) Qup
-    zero (num) pagh
+    zero : "(num)  pagh
     zone, sector : "(n) 
