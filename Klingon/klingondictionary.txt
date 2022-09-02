@@ -810,74 +810,57 @@ klingon = {
     'knife' : "(n) taj",
     'know' : "(v) Sov",
 
+    'label' : "(n,v) per",
+    'lake' : "(n) ngeng",
+    'lame' : "(v) rIgh",
+    'land' : ["(n) puH", "(v) Saq"],
+    'landing party' : "(n) Saqghom",
+    'language' : "(n) Hol",
+    'last' : "(v) Qav",
+    'lateral' : "(v) nech",
+    'laugh' : "(v) Hagh",
+    'law' : "(n) chut",
+    'lazy' : "(v) buD",
+    'lead' : "(v) Dev",
+    'leak' : "(v) nIj",
+    'learn' : "(v) ghoj",
+    'lecture' : "(n) SoQ",
+    'left'  : "(n) poS (side)",
+    'left over' : ["(v) chuv", "leftovers (n) chuvmey"],
+    'leg' : "(n) 'uS",
+    'legal' : "(v) mub",
+    'lend' : "(v) noj",
+    "let's go" : "(excl) Ha'",
+    'lie' : "(v) nep",
+    'recline' : "(v) Qot",
+    'life' : "(n) yIn",
+    'life signs' : "(n) yInroH",
+    'life support system' : "(n) yIntagh",
+    'light' : ["(v) wov","(v) tIS (weight)"],
+    'like' : "(v) parHa'",
+    'limit' : "(v) vuS",
+    'line' : "(n) tlhegh",
+    'lip' : "(n) wuS",
+    'liguor' : "(n) HIq",
+    'listen' : "(v) 'Ij",
+    'live' : "(v) yIn",
+    'log' : "(n) Qonos",
+    'long' : ["(v) nI' (duration)","(v) tIq (object)"],
+    'look'  : "(v) nej",
+    'loose' : "(v) QeyHa'",
+    'loosen' : "(v) QeyHa'moH",
+    'lord' : "(n) jaw, joH",
+    'love' : "(n) bang",
+    'luckily' : " (adv) Do'",
+    'lucky' : "(v) Do'",
+    'lunch' : "(n) megh",
+
+
+
+
+
 
 }
-
-
-
-
-
-
-
-
-    label : "(n) perp.140] ]
-    label : "(v) per
-    lake : "(n) ngeng
-    lame, be lame : "(v) righ
-    land : "(n) puH
-    land : "(v) Saq
-    landing party : "(n) Saqghom
-    language : "(n) Hol
-    last, be last, final : "(v) Oav
-    lateral, be lateral, move nech
-    laterally : "(v)
-    laugh : "(v) Hagh
-    law : "(n) chut
-    lazy, be lazy : "(v) buD
-    lead, guide : "(v) Dev
-    leak : "(v) nij
-    learn : "(v) ghoj
-    lecture, speech : "(n) SOQ
-    left (side) : "(n) pos
-    left over, be left over : "(v) chuv
-    leftovers (grammatical term) : "(n) chuvmey
-    leg : "(n) "us
-    legal, be legal : "(v) mub
-    lend : "(v) nojJ
-    let's go (excl) Ha'
-    lie, fib : "(v) nep
-    lie, recline : "(v) Oot
-    life : "(n) yin
-    life signs : "(n) yinroH
-    life-support system : "(n) yintagh
-    light, be light, bright : "(v) WOvV
-    light (weight), be light : "(v) tis
-    like : "(v) parHa'
-    limit : "(v) vus
-    line, rope : "(n) tlhegh
-    lip : "(n) wus
-    liguor : "(n) HIg
-    listen : "(v) "Ty
-    live : "(v) yin
-    log, journal : "(n) Qonos
-    long, be long, lengthy nt'",
-    (duration) : "(v)p.141,
-    long, be long, lengthy (of an tig
-    object) : "(v)
-    look for, seek, search for : "(v) nej
-    loose, be loose : "(v) QeyHa'
-    loosen : "(v) QeyHa'moH
-    lord : "(n) jaw, JOH
-    love, one who is loved : "(n) bang
-    luckily, with luck : " (adv) Do'",
-    lucky, be lucky, fortunate, : "(v) Do'",
-    lunch : "(n) megh
-
-
-
-
-
-
 
 
     machinery : "(n) jo', migta'
