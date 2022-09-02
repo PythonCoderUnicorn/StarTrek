@@ -607,7 +607,62 @@ klingon = {
     'funeral' : "(n) nol",
     'funny' : "(v) tlhaQ",
 
+    'galactic rim ': "(n) qIbHes",
+    'galaxy' : "(n) qIb",
+    'galley' : "(n) vutpa'",
+    'game' : "(n) Quj",
+    'garbage' : "(n) veQ",
+    'garbage scow': "(n) veQDuj",
+    'gargle' : "(v) ghagh",
+    'gas' : "(n) SIp",
+    'gate' : "(n) lojmIt",
+    'gear' : "(n) luch",
+    'general'  : "(n) Sa' (rank)",
+    'genesis' : "(n) qa'vam",
+    'genius' : "(n) wIgh",
+    'get' : "(v) Suq",
+    'get away from' : "(v) DoH",
+    'get in ': "(v) yong",
+    'get out' : "(v) Haw'",
+    'get up' : "(v) Hu'",
+    'gift' : "(n) nob",
+    'girl' : "(n) be'Hom",
+    'give' : "(v) nob",
+    'give up': "(v) jegh",
+    'glass' : "(n) HIvje'",
+    'glove' : "(n) pogh",
+    'glow' : "(v) wew",
+    'go' : "(v) jaH",
+    'go aboard' : "(v) tIj",
+    'go away from' : "(v) ghoS",
+    'go in' : "(v) 'el",
+    'goal' : "(n) ngoQ",
+    'good' : ["(excl) maj","(v) QaQ","(excl) majQa'"],
+    'gossip' : "(v) joS",
+    'govern' : "(v) qum",
+    'government' : "(n) qum",
+    'gown' : "(n) paH",
+    'grain' : "(n) tIr
+    'grammar' : "(n) pab",
+    'grandfather' : "(n) vavnI'",
+    'grandmother' : "(n) SoSnI'",
+    'grave' : "(n) mol",
+    'great' : "(v) Dun",
+    'greedy' : "(v) qur",
+    'gripe' : "(v) bep",
+    'grouchy' : "(v) qej",
+    'ground' : "(n) yav",
+    'group' : "(n) ghom",
+    'guard' : ["(n) ‘avwl","(v) "av" ]
+    'guess' : "(v) loy",
+    'guest' : "(n) meb",
+    'guide' : "(v) Dev",
+    'guilty' : "(v) DIv",
+    'gun' : "(n) HIch",
+    'gunner' : "(n) baHwI'",
 
+
+    
 
 
 
@@ -615,68 +670,9 @@ klingon = {
 
 
 
-    galactic rim : "(n) qibHes
-    galaxy : "(n) glib
-    galley : "(n) vutpa'
-    game : "(n) Quy
-    garbage : "(n) veQ
-    garbage scow : "(n) veQDujJ
-    gargle : "(v) ghagh
-    gas : "(n) SIp
-    gate : "(n) lojmIt
-    gear, equipment : "(n) luch
-    general (rank) : "(n) Sa'p.135,
-    Genesis : "(n) -qa'vam
-    genius : "(n) wilgh
-    get : "(v) Sug
-    get away from : "(v) DoH
-    get in : "(v) yong
-    get out, flee : "(v) Haw'
-    get out, take out : "(v) lel
-    get up : "(v) Hu'",
-    gift : "(n) nob
-    girl : "(n) be'Hom
-    give : "(v) nob
-    Give up, surrender : "(v) jegh
-    glass (tumbler) : "(n) HIvje'
-    glove : "(n) pogh
-    glow : "(v) Wwew
-    go : "(v) jaH
-    go aboard : "(v) tly
-    go away from : "(v) ghos
-    go in : "(v) "el
-    goal : "(n) ngoQ
-    good (expressing satisfaction) (excl) maj
-    good, be good : "(v) QOaQ
-    good, very good, well done majQa'
-    (excl)
-    gossip : "(v) Jos
-    gossip, rumor : "(n) Jos
-    govern : "(v) qum
-    government : "(n) qum
-    gown : "(n) paH
-    grain : "(n) tir
-    grammar : "(n) pab
-    grandfather : "(n) vavnl'
-    grandmother : "(n) SoSnl'
-    grave : "(n) mo L
-    great, be great, wonderful : "(v) Dun
-    greedy, be greedy : "(v) qur
-    green, be green, blue, yellow : "(v) SuD
-    gripe : "(v) bep
-    grouchy, be grouchy, mean : "(v) ge
-    ground : "(n) yav
-    group : "(n) ghomp.136] ]
-    guard : "(n) ‘avwl"
-    guard : "(v) "av
-    guess : "(v) Loy
-    guest : "(n) melb
-    guide, lead : "(v) Dev
-    guilty, be guilty : "(v) Div
-    gun, handgun : "(n) Hich
-    gunner : "(n) baHwI',
-    matHa'
-    gunpowder : "(n) ngat
+
+
+
 
 
 
