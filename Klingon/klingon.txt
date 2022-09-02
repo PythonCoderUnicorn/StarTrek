@@ -2085,7 +2085,7 @@ INTRODUCTION
         {not}       <never>
         {pay'}      <suddenly>
         {pIj}       <often>
-        {QIt}       <slowly>
+        {QIt}       <slowIy>
         {reH}       <always>
         {rut}       <sometimes>
         {tugh}      <soon>
@@ -2723,58 +2723,58 @@ INTRODUCTION
         {wIghaj}            we <have it>)
 
 
+    6.5. Commands
 
-6.5. Commands
+        Commands are given with appropriate imperative prefixes.
+        See sections 4.1.2, 4.3. 6.6. 
 
-Commands are given with appropriate imperative prefixes.
-See sections 4.1.2, 4.3. 6.6. 
+    6.5 Comparatives and superlatives
 
-Comparatives and superlatives
-The idea of something being more or greater than something
-else (comparative) is expressed by means of a construction
-which can be represented by the following formula:
+        The idea of something being more or greater than something
+        else (comparative) is expressed by means of a construction
+        which can be represented by the following formula:
 
-    AQ {law'} B Q {pus}
+        AQ {law'} B Q {puS}
 
-    In this formula, A and B are the two things being compared
-    and Q is the quality which is being measured. 
+        In this formula, A and B are the two things being compared
+        and Q is the quality which is being measured. 
 
-    The two Klingon words in the formula are 
-    {law'} <be many> and {puS} <be few.> 
-    Thus, it says 
-    <A's Q is many, B's Q is few> or 
-    <A has more Q than B has> 
-    or <A is Q-er than B.>
+        The two Klingon words in the formula are 
+        {law'} <be many> and {puS} <be few.> 
+        Thus, it says 
+        <A's Q is many, B's Q is few> or 
+        <A has more Q than B has> 
+        or <A is Q-er than B.>
+        
+        Any verb expressing a quality or condition may fit into the QO slot.
+        {la' jaq law' yaS jag puS}      <The commander is bolder than the officer.>
+        {la'}                           <commander,> 
+        {jaq}                           <be bold,>
+        {yas}                           <officer>
     
-    Any verb expressing a quality or condition may fit into the QO slot.
-    {la' jaq law' yaS jag puS}      <The commander is bolder than the officer.>
-    {la'}                           <commander,> 
-    {jaq}                           <be bold,>
-    {yas}                           <officer>
-    
-    To express the superlative, that something is the most or
-    the greatest of all, the noun {Hoch} <all> is used in the B position:
-    {la' jaq law' Hoch jag puS} <The commander is boldest of all.>
-    
-    In comparative and superlative constructions, the verb of
-    quality ({jaq} <be bold> in the sentences above) must be said twice.
+        To express the superlative, that something is the most or
+        the greatest of all, the noun {Hoch} <all> is used in the B position:
+        {la' jaq law' Hoch jag puS} <The commander is boldest of all.>
+        
+        In comparative and superlative constructions, the verb of
+        quality ({jaq} <be bold> in the sentences above) must be said twice.
 
 
 
 7. CLIPPED KLINGON
 
-The preceding grammatical sketch describes "proper"!
-Klingon, that is, Klingon as it is taught in Klingon schools or
-to non-Klingons. In actual day-to-day use, however, spoken
-Klingon may vary somewhat from its "proper" form, usually
-by leaving some elements out. This abbreviated form of
-speaking, called Clipped Klingon by Klingon grammarians, is
-heard quite frequently in military contexts where quick
-rather than eloquent communication is deemed a virtue.
-Probably for similar reasons, Clipped Klingon is used quite
-extensively in all walks of Klingon life.
+    The preceding grammatical sketch describes "proper"!
+    Klingon, that is, Klingon as it is taught in Klingon schools or
+    to non-Klingons. In actual day-to-day use, however, spoken
+    Klingon may vary somewhat from its "proper" form, usually
+    by leaving some elements out. This abbreviated form of
+    speaking, called Clipped Klingon by Klingon grammarians, is
+    heard quite frequently in military contexts where quick
+    rather than eloquent communication is deemed a virtue.
+    Probably for similar reasons, Clipped Klingon is used quite
+    extensively in all walks of Klingon life.
 
-Some of the features of Clipped Klingon are described below.
+    Some of the features of Clipped Klingon are described below.
 
     7.1. Commands
 
@@ -2784,12 +2784,12 @@ Some of the features of Clipped Klingon are described below.
         Proper Klingon: {yIbaH}    <Fire (the torpedoes) !>
         Clipped Klingon: {baH}
 
-        Proper Klingon: {wly ylIcha'}   <Show the tactical display!>
-        Clipped Klingon: {wly cha'}
-        {wly}                           <tactical display on monitor,> 
+        Proper Klingon: {wIy yIcha'}   <Show the tactical display!>
+        Clipped Klingon: {wIy cha'}
+        {wIy}                           <tactical display on monitor,> 
         {cha'}                          <show, project>
         
-        Proper Klingon: {He chu' ylIghoS}   <Follow a new course!>
+        Proper Klingon: {He chu' yIghoS}   <Follow a new course!>
         Clipped Klingon: {He chu! ghoS}
         {He}    <course,> 
         {chu'}  <be new,> 
@@ -2826,11 +2826,11 @@ Some of the features of Clipped Klingon are described below.
 
         Responses to commands and status reports are also prone to clipping.
 
-        Proper Klingon: {So'wI' vichu'ta'}          <I have engaged the cloaking device.>
+        Proper Klingon: {So'wI' vIchu'ta'}          <I have engaged the cloaking device.>
         Proper Klingon: {So'wI' chu'lu'ta'}         <The cloaking device has been engaged.>
         Clipped Klingon: {So'wI' chu'ta'}           <Cloaking device engaged.>
         {So'wI'}                                    <cloaking device,> 
-        {viIchu'ta'}                                <I have engaged it,>
+        {vIchu'ta'}                                <I have engaged it,>
         {chu'lu'ta'}                                <it has been engaged>
 
         In the preceding example, the clipped form can correspond
@@ -2858,7 +2858,7 @@ Some of the features of Clipped Klingon are described below.
         prefixes. This clipped form is also common when a Klingon is
         excited for some reason.
         
-        Proper Klingon: {qama'pu' vijonta' vineH}   <I wanted to capture prisoners.>
+        Proper Klingon: {qama'pu' vIjonta' vineH}   <I wanted to capture prisoners.>
         Clipped Klingon: {qama'pu' jonta' neH}      <Wanted prisoners!>
         ({qama'pu'}                                 <prisoners,> 
         {vIjonta'}                                  <I captured them,> 
@@ -3821,8 +3821,8 @@ KLINGON-ENGLISH
     puqbe' daughter (n)
     puq loD son (n)
     puQ be fed up (v)
-    pus be few, be several, be a handful (v)
-    pus Sight (with gunsight) (v)
+    puS be few, be several, be a handful (v)
+    puS Sight (with gunsight) (v)
     puv fly (v)
     puy wreck (v)
     puyjaq nova (n)
@@ -3951,7 +3951,7 @@ KLINGON-ENGLISH
     OIH damage, destruction (n)
     Only explain (v)
     QIp be stupid (v)
-    OIt Slowly (adv)
+    OIt SlowIy (adv)
     Olv be inferior (v)
     OL' military (n)
     Oob be dangerous (v)
@@ -4353,7 +4353,7 @@ KLINGON-ENGLISH
     wl J farm (v)
     wiv choice (n)
     wiv choose, select (v)
-    wly tactical display (n)
+    wIy tactical display (n)
     woD throw away (v)
     woH pick up (v)
     woQ authority, political power (n)
@@ -4419,7 +4419,7 @@ KLINGON-ENGLISH
     yuQ planet (n)
     yuQHom planetoid (n)
     yuQ I jQa' United Federation of Planets (n)
-    yYuv push (v)
+    yYuv puSh (v)
     yu! question, interrogate (v)
     yu'egh wave (n)
     
@@ -5223,7 +5223,7 @@ ENGLisH-KLINGON
     feel, touch (v) Hot
     female, woman (n) be!
     festival (n) yupma '
-    few, be few, be several, be pus
+    few, be few, be several, be puS
     a handful (v)
     fib, lie (v) nep
     field (of land) (n) yotlh
@@ -5373,7 +5373,7 @@ ENGLisH-KLINGON
 
     hand (n) ghop
 
-    handful, be a handful, be few (v) pus
+    handful, be a handful, be few (v) puS
 
     handgun (n) Hich
 
@@ -5955,7 +5955,7 @@ ENGLisH-KLINGON
     pure, be pure (v) watlh
     purposely, on purpose, chich
     intentionally (adv)
-    push (v) yuv
+    puSh (v) yuv
     put down (v) roQ
     put on (clothes) (v) tuQmoH
     put on (screen), project (v) Hotlh
@@ -6147,7 +6147,7 @@ ENGLisH-KLINGON
     set up, establish (v) cher
     seven (num) Soch
     seventh (num) SochDIich
-    several, be several (v) pus
+    several, be several (v) puS
     Shadow (n) Olb
     Shame (v) tuHmoH
     sharp, be sharp (v) Jey
@@ -6173,7 +6173,7 @@ ENGLisH-KLINGON
     shut, be shut (v) SoQ
     sick, be sick, ill (v) rop
     side (n) Dop
-    Sight (with gunsight) (v) pus
+    Sight (with gunsight) (v) puS
     Sign (a treaty) (v) gi!
     Silence (v) tammoH
     silly, be silly (v) Dogh[[p.153] ]
@@ -6198,7 +6198,7 @@ ENGLisH-KLINGON
     slingshot (n) moy'bI'
     slit (v) ST J
     Sloppy, be sloppy, messy (v) ghIH
-    Slowly (adv) Olt
+    SlowIy (adv) Olt
 
     sly, be sly (v) "ong
     small, be small (v) mach
@@ -6315,7 +6315,7 @@ ENGLisH-KLINGON
 
     Sword (n) Tetlh
     system (n) pat[[p.156] ]
-    tactical display (n) wly
+    tactical display (n) wIy
     tactical officer (n) ya
 
     tactics (n) to!
