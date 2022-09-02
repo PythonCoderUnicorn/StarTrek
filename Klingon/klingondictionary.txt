@@ -451,107 +451,63 @@ klingon = {
 
 
 
-    
+
 
 }
 
 
 
-    Barth : "(n) tera'
-
-    Farther, Terran : "(n) tera'ngan
-
-    earthquake, experience an Qom
-    earthquake or tremor : "(v)
-
-    easy, be easy : "(v) ngeD
-
-    eat : "(v) Sop
-
+    'Earth' : "(n) tera'",
+    'Earther' : "(n) tera'ngan",
+    'earthquake tremor' : "(v) Qom",
+    'easy' : "(v) ngeD",
+    'eat' : "(v) Sop",
     eavesdrop : "(v) Daq
-
     edge : "(n) HeH
-
     eight (num) chorgh
-
     eighth (num) chorghDIich
-
-    Flas : "(n) "elas
-
+    Elas : "(n) "elas
     elder : "(n) qup
-
     embark : "(v) ten
-
     embassy : "(n) rivSo'
-
     emergency : "(n) chach
-
     emissary : "(n) Duy, ‘oSwI'
-
     emperor : "(n) ta', voDleH
-
     empire : "(n) wo'",
-
     empty, be empty, deserted, chim
     uninhabited : "(v)
-
     encounter, meet : "(v) ghom
-
     encourage : "(v) tungHa'
-
     endure, bear : "(v) SIO
-
     enemy : "(n) jagh
-
     energize : "(v) riH
-
     energize, fire (e.g., thrusters) : "(v) laQ
-
     energizer : "(n) rIHwi'p.131,
-
     energy beings : "(n) HoSDo"
-
     energy field : "(n) HoSchem
-
     energy, power : "(n) Hos
-
     engage, activate (a device) : "(v) chu'
-
     engine : "(n) jonta', QuQ
-
     engineer : "(n) jonwI'
-
     enjoy : "(v) tiv
-
     enough, be enough, be yap
     sufficient : "(v)
-
     enter, go in : "(v) "el
-
     entity : "(n) Dol
-
     equipment, gear : "(n) luch
-
     era : "(n) bov
-
     err, make a mistake : "(v) Qagh
-
     error, mistake : "(n) Qagh
-
     escort : "(v) Dor
-
     espionage : "(n) 1TnDab
-
     essential, be essential, Tut
-
-    necessary : "(v)
+ necessary : "(v)
     establish, set up : "(v) cher
     estimate, judge : "(v) noH
     ethics : "(n) ghob
     evade, take evasive action : "(v) jun
     even so : " (conj) "ach, ‘a
     event, occurrence, wanl'
-
     phenomenon : "(n)
     everyone, everything : "(n) Hoch
     everywhere : "(n) Dat
@@ -561,7 +517,6 @@ klingon = {
     examine : "(v) nuD
     excellent, be excellent : "(v) pov
     exceptional, be exceptional, le'
-
     special : "(v)
     exchange, substitute : "(v) tam
     excite : "(v) SeymoH
@@ -581,6 +536,13 @@ klingon = {
     explosive : "(n) jorwI'
     eye : "(n) min
     eyebrow : "(n) Huy'
+
+
+
+
+
+
+
     face : "(n) gab
     fact : "(n) ngoD
     factory : "(n) laSvargh
@@ -605,7 +567,6 @@ klingon = {
     fault (seismic) : "(n) Seq
     fault, blame : "(n) pich
     fed up, be fed up : "(v) puQ
-
     Federation : "(n) DIvL'
     Federation battle cruiser : "(n) Divi'may'Dujp.133] ]
     feed (someone else) : "(v) je'",
@@ -666,7 +627,6 @@ klingon = {
     four (num) Los
     fourth (num) loSDich
     free, be free, independent : "(v) tlhab
-
     freedom, independence : "(n) tlhab
     freeze : "(v) taDmoH
     freighter : "(n) tongDujy
@@ -678,6 +638,12 @@ klingon = {
     function, work, succeed : "(v) Qap
     funeral : "(n) nol
     funny, be funny : "(v) tlhaQ
+
+
+
+
+
+
     galactic rim : "(n) qibHes
     galaxy : "(n) glib
     galley : "(n) vutpa'
@@ -726,124 +692,71 @@ klingon = {
     great, be great, wonderful : "(v) Dun
     greedy, be greedy : "(v) qur
     green, be green, blue, yellow : "(v) SuD
-
     gripe : "(v) bep
-
     grouchy, be grouchy, mean : "(v) ge
-
     ground : "(n) yav
-
     group : "(n) ghomp.136] ]
-
     guard : "(n) ‘avwl"
-
     guard : "(v) "av
-
     guess : "(v) Loy
-
     guest : "(n) melb
-
     guide, lead : "(v) Dev
-
     guilty, be guilty : "(v) Div
-
     gun, handgun : "(n) Hich
-
     gunner : "(n) baHwI',
     matHa'
-
     gunpowder : "(n) ngat
 
+
+
+
+
+
     hair (on body) : "(n) pob
-
     hair (on head) : "(n) jib
-
     half : "(n) bID
-
     hand : "(n) ghop
-
     handful, be a handful, be few : "(v) puS
-
     handgun : "(n) Hich
-
     handsome, be handsome : "(v) "TH
-
     hang : "(v) Hus
-
     hangover, have a hangover, "uH
-
     be hung over : "(v)
-
     happen, occur : "(v) gas
-
     happy, be happy : "(v) Quch
-
     hard, be hard (like a rock) : "(v) let
-
     harmful, be harmful : "(v) joch
-
     harvest : "(v) yob
-
     hassle, be a hassle, be a gay'
-
     problem : "(v)
-
     hate, detest : "(v) mus
-
     have, possess : "(v) ghaj
-
     he, she, him, her (pro) ghaH
-
     head : "(n) nach
-
     headache, have a headache : "(v) wuQ
-
     healthy, be healthy : "(v) piv
-
     hear : "(v) Qoy
-
     heart : "(n) tIiq
-
     heat : "(n) tu
-
     heavy, be heavy : "(v) "ugh
-
     helm : "(n) Degh
-
     helmet : "(n) mivp.137,
-
     helmsman : "(n) DeghwI'
-
     help, aid : "(v) OaH
-
     her, him, she, he (pro) ghaH
-
     here, hereabouts : "(n) naDev
-
     hide : "(v) So'",
-
     high, be high : "(v) jen
-
     hill, mountain : "(n) HuD
-
     him, her, he, she (pro) ghaH
-
     hinder, interfere : "(v) nis
-
     history : "(n) gun
-
     hit (with hand, fist, implement) : "(v) qlIp
-
     holster : "(n) vaH
-
     home : "(n) JuH
-
     honest, be honest : "(v) yuDHa'
-
     honor : "(n) batlh
-
     honored, with honor : " (adv) batlh
-
     hope : "(v) tul
     horizontal, be horizontal : "(v) SaS
     hostage : "(n) vub
@@ -865,6 +778,13 @@ klingon = {
     hurt : "(v) "oy'",
     husband : "(n) loDnal
     hypnotize : "(v) vong
+
+
+
+
+
+
+
     I, me (pro) jIH
     ice : "(n) chuchp.138] ]
     idea : "(n) gech
@@ -903,119 +823,75 @@ klingon = {
     instruct, teach : "(v) gho jmoH
     insubordinate, be insubor- tlhiv
     dinate : "(v)
-
     insult : "(v) tIch
-
     insurrection : "(n) QuD
-
     intelligent, be intelligent : "(v) val
-
     intend, mean to : "(v) Hech
-
     intentionally, on purpose : " (adv) chichp.139,
-
     interesting, be interesting : "(v) Daj
-
     interfere : "(v) nis
-
     interrogate : "(v) yu'
-
     interrupt : "(v) gagh
-
     intoxicated, be intoxicated, chech
     drunk : "(v)
-
     introduce : "(v) 11TH
-
     invade : "(v) yot
-
     invasion : "(n) yot
-
     invent, devise : "(v) "ogh
-
     ton : "(n) tat
-
     irritable, be irritable : "(v) bergh
-
     it (pro) "OH
 
+
+
+
+
+
+
+
     jacket, coat : "(n) wep
-
     jail : "(n) bIghHa'
-
     Jog, run : "(v) get
-
     join : "(v) muv
-
     journal, log : "(n) Qonos
-
     judge, estimate : "(v) noH
-
     judgment : "(n) yoy
-
     jump : "(v) Sup
-
     Jurisdiction : "(n) teblaw'
-
     just, only, merely, : " (adv) neH
-
     Justice : "(n) ruv
-
     keep, save : "(v) pol
-
     kellicam : "(n) quell'gam[ [quell 'qam=> qellI'gam] |
-
     kevas : "(n) gevas
-
     kick : "(v) pup
-
     kidnap : "(v) guch
-
     kill : "(v) HoH
-
     Klingon : "(n) tlhingan
-
     Klingon Empire : "(n) tlhingan wo'
-
     Klingon writing system : "(n) pigaD
-
     knee : "(n) giv
-
     kneel : "(v) tor
-
     knife : "(n) taj
-
     know : "(v) SOv
 
+
+
+
     label : "(n) perp.140] ]
-
     label : "(v) per
-
     lake : "(n) ngeng
-
     lame, be lame : "(v) righ
-
     land : "(n) puH
-
     land : "(v) Saq
-
     landing party : "(n) Saqghom
-
     language : "(n) Hol
-
     last, be last, final : "(v) Oav
-
     lateral, be lateral, move nech
     laterally : "(v)
-
     laugh : "(v) Hagh
-
     law : "(n) chut
-
     lazy, be lazy : "(v) buD
-
     lead, guide : "(v) Dev
-
     leak : "(v) nij
     learn : "(v) ghoj
     lecture, speech : "(n) SOQ
@@ -1053,6 +929,14 @@ klingon = {
     luckily, with luck : " (adv) Do'",
     lucky, be lucky, fortunate, : "(v) Do'",
     lunch : "(n) megh
+
+
+
+
+
+
+
+
     machinery : "(n) jo', migta'
     mad, be mad : "(v) OeH
     maintain : "(v) leH
@@ -1075,7 +959,6 @@ klingon = {
     mean, be mean : "(v) ge
     mean to, intend : "(v) Hech
     measure : "(v) Juv
-
     medicine : "(n) Hergh
     meet (for the first time) : "(v) QIH
     meet, encounter, assemble : "(v) ghom
@@ -1128,6 +1011,14 @@ klingon = {
     mutiny : "(v) gIQ
     myth : "(n) wich
     nacelle : "(n) HanDogh
+
+
+
+
+
+
+
+
     nag : "(v) bo J
     name : "(n) pong
     name : "(v) pong
@@ -1136,12 +1027,10 @@ klingon = {
     navigate : "(v) chlj
     navigator : "(n) chijwI'
     necessary, be necessary, "ut
-
     essential : "(v)
     neck : "(n) mong
     necklace : "(n) ghigh
     negative (angle), be ata taH
-
     negative angle : "(v)
     negotiate : "(v) Sut lh
     neighbor : "(n) jil
@@ -1172,6 +1061,13 @@ klingon = {
     now : " (adv) DaH
     number : "(n) mI '
     numerous, be numerous : "(v) law'
+
+
+
+
+
+
+
     oath : "(n) "Ip
     Obey : "(v) lob
     object : "(v) bep
@@ -1181,9 +1077,7 @@ klingon = {
     obtain : "(v) Suq
     occupy (military term) : "(v) Dan
     occur, happen : "(v) gas
-    occurrence, event, wanl'
-
-    phenomenon : "(n)
+    occurrence, event, wanl'phenomenon : "(n)
     ocean : "(n) biQ'ta'",'
     odd, be odd : "(v) Jum
     offend : "(v) maw
@@ -1198,7 +1092,6 @@ klingon = {
     one (num) wa'
     only, merely, just : " (adv) neH
     Onward, go onward, proceed : "(v) ghos
-
     open : "(v) posmoH
     open, be open, opened : "(v) pos
     opinion : "(n) vuD
@@ -1225,6 +1118,13 @@ klingon = {
     overhead, area overhead : "(n) Dung
     override : "(v) ngep
     overtake, pass : "(v) Jus
+
+
+
+
+
+
+
     pain : "(n) "oy'",
     pajamas : "(n) nivnav
     palm (of hand) : "(n) toch
@@ -1240,8 +1140,7 @@ klingon = {
     party, group : "(n) ghom
     pass : "(v) Jus
     passenger : "(n) raQpo'
-    passionate, be passionate nong
-    : "(v)
+    passionate, be passionate nong: "(v)
     patient : "(n) SID
     patient, be patient : "(v) Cuv
     patrol : "(v) nglv
@@ -1258,7 +1157,6 @@ klingon = {
     permit : "(n) chaw'
     allow, permit : "(v) chaw'
     person (humanoid) : "(n) ghot, nuv
-
     persuade : "(v) pon
     pet : "(n) SaJ
     pet, stroke : "(v) yach
@@ -1319,9 +1217,7 @@ klingon = {
     prize : "(n) tev
     problem, be a problem, be gay'
     a hassle : "(v)
-
-    proceed on a course, go ghos
-    Onward : "(v)
+    proceed on a course, go ghosOnward : "(v)
     proclaim : "(v) maq
     procrastinate : "(v) lum
     produce : "(v) ling
@@ -1349,6 +1245,12 @@ klingon = {
     put on (clothes) : "(v) tuQmoH
     put on (screen), project : "(v) Hotlh
     putrid, be putrid : "(v) ngim
+
+
+
+
+
+
     guadrotriticale : "(n) loSpev
     qualified, be qualified : "(v) "um
     Quarrel : "(v) Sol
@@ -1357,6 +1259,11 @@ klingon = {
     guickly : " (adv) nom
     quiet, be quiet : "(v) tam
     quit : "(v) bup
+
+
+
+
+
     race (type, sort, class) : "(n) Segh
     radan (crude dilithium Dom
     crystal) : "(n)
@@ -1378,56 +1285,43 @@ klingon = {
     rebel : "(n) lotlhwI'
     rebel : "(v) lotilh
     receive : "(v) Hev
-
     recline, lie : "(v) Oot
     recognize : "(v) ghov
     recommend, suggest : "(v) chup
     record : "(n) ta
-
     record : "(v) gon
-
     red, be red, orange : "(v) Dog
     refuge : "(n) luligh
     refuse, I refuse (excl) Qo'",
     region : "(n) sep
-
     regret : "(v) pay
     Regulan : "(n) reghuluSngan
     Regulan bloodworm : "(n) reghulus 'Iwghargh
     Regulus : "(n) reghulus
     reign, rule : "(v) che'
-
     relax, rest : "(v) les
     relieve : "(v) Son
     religion : "(n) lalDan
     rely on : "(v) WuV
-
     remain : "(v) ratlh
     remember : "(v) qaw
-
     remind : "(v) QawmoH
     remote, be remote, far : "(v) Hop
     remove, take off : "(v) teq
-
     Remus : "(n) ri[ymus
     rendezvous : "(v) ghom
     repair : "(v) tL'",
-
     reply : "(v) Jang
     report, tell : "(v) ja'",
     represent : "(v) "Os
     require : "(v) poQ
-
     rescue : "(v) toD
     research : "(v) OQul
     resemble : "(v) rur
-
     resent : "(v) qeH
-
     resign : "(v) pajJ
     resource : "(n) Supp.150] ]
     resources : "(n) JO
-
     respect : "(v) VuV
     responsible, be responsible : "(v) ngoy'
     rest, relax : "(v) les
@@ -1435,33 +1329,22 @@ klingon = {
     restless, be restless : "(v) ngojJ
     retaliate : "(v) noD
     retreat : "(v) HeD
-
     return : "(v) chegh
     reveal, show : "(v) "ang
     revenge : "(n) bortas
     revolt : "(v) Daw'
     revolt, revolution : "(n) Daw'
-
     rich, be rich : "(v) mip
-
     ride : "(v) ligh
     ridicule : "(v) nuS
-
     rifle : "(n) beH
-
     right (side) : "(n) niH
-
     right, be right, correct : "(v) lugh
-
     ring (for finger) : "(n) Oeb
-
     river : "(n) bIQtIq
     roam, travel, rove : "(v) leng
-
     rob : "(v) Hej
-
     robe : "(n) mop
-
     robot : "(n) qoq
     rock, stone : "(n) nagh
     Romulan : "(n) romuluSngan
@@ -1472,17 +1355,23 @@ klingon = {
     rough, be rough : "(v) ghegh
     round up : "(v) lig
     route, course : "(n) He
-
     rove, roam, travel : "(v) leng
     rover (grammatical term) : "(n) lengwI'
     rude, be rude : "(v) Doch
     ruins : "(n) pigh
     rule, reign, run : "(v) che'",
     rumor, gossip : "(n) Jos
-
     run, jog : "(v) getp.151,
     run, rule : "(v) che'",
     ruthless, be ruthless : "(v) wlH
+
+
+
+
+
+
+
+
     Sabotage : "(v) Sorgh
     saccharin : "(n) HaQchor
     sad, be sad : "(v) "TO
@@ -1494,7 +1383,6 @@ klingon = {
     Satisfy : "(v) yonmoH
     save, keep : "(v) pol
     save, rescue (Vv) toD
-
     scan : "(v) Hotlh
     scanner : "(n) HotlhwI'
     scare : "(v) ghlj
@@ -1515,7 +1403,6 @@ klingon = {
     section : "(n) ‘ay'
     sector, zone : "(n) mich
     security : "(n) Hung
-
     see : "(v) legh
     seek, search for : "(v) nej
     select : "(v) wiv
@@ -1525,7 +1412,6 @@ klingon = {
     send : "(v) ngeHp.152] ]
     sensor : "(n) noch
     sentence : "(n) mu'tlhegh
-
     separate : "(v) chev
     sergeant : "(n) bu'
     serious, be serious : "(v) Sagh
@@ -1546,9 +1432,7 @@ klingon = {
     shield : "(v) yoD
     shine, be shiny : "(v) boch
     ship, vessel : "(n) Duy
-    shocked, be shocked, dumbfounded yay'
-
-    : "(v)
+    shocked, be shocked, dumbfounded yay': "(v)
     shoe : "(n) waq
     Shoot : "(v) bach
     Shore leave : "(n) leSpoH
@@ -1567,9 +1451,7 @@ klingon = {
     Silence : "(v) tammoH
     silly, be silly : "(v) Doghp.153] ]
     Simple, be simple : "(v) nap
-    Simultaneous, happen simultaneously quq
-
-    : "(v)
+    Simultaneous, happen simultaneously quq: "(v)
     Sin : "(v) yem
     Sincere, be sincere : "(v) "TL
     Sir : "(n) qaH
@@ -1588,7 +1470,6 @@ klingon = {
     slit : "(v) ST J
     Sloppy, be sloppy, messy : "(v) ghIH
     SlowIy : " (adv) Olt
-
     sly, be sly : "(v) "ong
     small, be small : "(v) mach
     smart, be smart : "(v) val
@@ -1649,29 +1530,21 @@ klingon = {
     sting : "(v) "aw'
     stink : "(v) He'So"
     stomach : "(n) burgh
-
     stone, rock : "(n) naghp.155] ]
     stoop : "(v) JoD
-
     stop, cease : "(v) mev
-
     storm : "(v) Jev
-
     story : "(n) lut
     strange, be strange : "(v) HuJ
     strategy : "(n) Dup
     strength : "(n) Hos
-
     strike, impact : "(v) mup
-
     stroke, pet : "(v) yach
     strong, be strong : "(v) Hos
     structure, building : "(n) gach
     stubborn, be stubborn : "(v) mul
-
     student : "(n) ghojwI'
     study : "(v) HaD
-
     Stuff : "(v) ghoD
     stupid, be stupid : "(v) OIp
     sublight speed : "(n) gho'Do
@@ -1679,10 +1552,8 @@ klingon = {
     succeed, work, function : "(v) Qap
     success : "(n) Qapla'
     suddenly : " (adv) pay'
-
     suffer : "(v) bech
     sufficient, be sufficient : "(v) yap
-
     suffix : "(n) mo jaQ
     suggest, recommend : "(v) chup
     Suicide, commit suicide : "(v) HoH'egh
@@ -1697,43 +1568,32 @@ klingon = {
     Suspect, be suspect : "(v) nub
     suspicious, be suspicious : "(v) pIH
     Swallow : "(v) ghup
-
     Swear, vow : "(v) "Ip
-
     Switch : "(n) leQ
-
     Sword : "(n) Tetlh
-    system : "(n) patp.156] ]
+    system : "(n) pat 
+
+
+
+
+
     tactical display : "(n) wIy
     tactical officer : "(n) ya
-
     tactics : "(n) to'",
-
     take : "(v) tlhap
-
     take action : "(v) vang
-
     take away : "(v) nge'
-
     take care of, care for : "(v) Qorgh
-
     take down : "(v) jotlh
-
     take form, build up : "(v) chen
     take off, remove : "(v) teq
-
     take out, get out : "(v) lel
-
     target : "(n) DoS
     targets : "(n) ray'
-
     task, chore : "(n) Qu'",
-
     tax : "(v) rup
-
     teach, instruct : "(v) gho jmoH
     teachings : "(n) paQDI'norgh
-
     technician : "(n) chamwI'
     tell, report : "(v) ja'",
     Tellun Star System : "(n) telun Hovtay'
@@ -1749,27 +1609,22 @@ klingon = {
     Terran : "(n) tera'ngan
     that (previous topic) (pro) "e', net
     them, they (capable of using language) chaH
-
     (pro)
     them, they (incapable of language) bIH
-
     (pro)
     then, thus, in that case, so : " (adv) vay
     theory : "(n) nger
     theragen : "(n) Oab
     there, over there, thereabouts : "(n) pa'
     they, them (capable of using language) chaH
-
-    (pro) p.157,
+    (pro) 
     they, them (incapable of language) bIH
-
     (pro)
     thief : "(n) niHwI'
     thin, be thin : "(v) lang
     thing : "(n) Doch
     think : "(v) Qub
     think only about, concentrate on, bus
-
     focus on : "(v)
     third (num) we jDIch
     thirsty, be thirsty : "(v) "OF
@@ -1799,7 +1654,6 @@ klingon = {
     topaline : "(n) toplin
     torpedo : "(n) peng
     torpedoes : "(n) cha
-
     torpedo tube : "(n) Cchetvli', DuS
     torture : "(v) joy'
     touch, feel : "(v) Hot
@@ -1854,126 +1708,91 @@ klingon = {
     twice : " (adv) cha'logh
     twilight : "(n) choS
     two (num) cha'
+
+
+
+
+
+
+
+
+
+
+
+
     ugly, be ugly : "(v) moH
     unconditional surrender : "(n) Doghjyey
     unconscious, be unconscious (Vv) vul
     under, area under : "(n) bing
     underground : "(n) wutlh
-
     understand : "(v) yal
-
     undress : "(v) tuQHa 'moH
-
     uneasy, be uneasy : "(v) bit, jotHa'
-
     unhappy, be unhappy : "(v) QuchHa'
-
     uniform : "(n) HIp
-
     unimportant, be unimportant, ram
     trivial : "(v)
-
     uninhabited, be uninhabited, empty, chim
     deserted : "(v)
-
     uninteresting, be uninteresting : "(v) getlh
-
     United Federation of Planets : "(n) yuQjI jDIivi'
-
     universe : "(n) ‘u'",
-
     unprocessed, be unprocessed, raw : "(v) tlhol
-
     unusual, be unusual : "(v) motlhbe'
-
     upside down, be upside down : "(v) yoy
-
     urgent, be urgent : "(v) pav
-
     us, we (pro) maH
-
     use : "(v) lo'",
-
     useful, be useful : "(v) 1T'",
-
     usual, be usual : "(v) motlh
 
+
+
+
+
     vacate : "(v) geD
-
     vacation, take a vacation : "(v) ghIQ
-
     valley : "(n) ngech
-
     valuable, be valuable : "(v) lo'laH
-
     vanish : "(v) ngab
-
     variety : "(n) Sarp.160] ]
-
     various, be varied : "(v) Sar
-
     vegetation : "(n) tI
-
     vein : "(n) "aD
-
     velocity : "(n) Do
-
     vent : "(n) yib
-
     verb : "(n) wot
-
     verify : "(v) "ol
-
     vertical, be vertical : "(v) chong
-
     vessel, ship : "(n) Duy
-
     vicious, be vicious : "(v) nas
-
     victory, triumph : "(n) yay
-
     viewing screen : "(n) jIH
-
     violent, be violent : "(v) ral
-
     visit : "(v) Such
-
     visual display : "(n) HaSta
-
     vocabulary : "(n) mu'tay'
-
     voice : "(n) ghogh
-
     volunteer : "(v) Sap
-
     vow, Swear : "(v) "Ip
-
     voyage : "(n) leng
-
     Vulcan (person) : "(n) vulgangan
-
     Vulcan (planet) : "(n) vulgan
-
     vulgar, be vulgar : "(v) Qut
 
+
+
+
+
     wait (for) : "(v) Los
-
     wake (Someone) up : "(v) vemmoH
-
     wake up, cease sleeping : "(v) vem
-
     walk : "(v) yit
-
     want : "(v) neH
-
     war : "(n) ves
-
     warn : "(v) ghuHmoH
-
     warp drive : "(n) pivghor
-
     washroom : "(n) puchpa'
-
     watch : "(v) bejJ
     water : "(n) bIO
     wave, flap, flutter : "(v) Jog
@@ -2004,17 +1823,16 @@ klingon = {
     worsen : "(v) "argh
     worthless, be worthless : "(v) lo'laHbe'
     write : "(v) ghitlh
-    writing system, Klingon writing
-    system : "(n) pigaD
+    writing system, Klingon writing system : "(n) pigaD
+
+
     yawn : "(v) Hob
     year (Klingon) : "(n) Dis
     years ago : "(n) ben
     years from now : "(n) nem
     yellow, be yellow, blue, green : "(v) SuD
     yes, Okay, I will (excl) lug, lu'
-    yes, true (answer to yes/no guestion) HIja', HISlaH
-    (excl)
-
+    yes, true (answer to yes/no guestion) HIja', HISlaH (excl)
     yesterday : "(n) wa'Hu'
     you (plural) (pro) tlhiIH
     you (pro) SOH
