@@ -783,38 +783,39 @@ klingon = {
     'irritable' : "(v) bergh",
     'it' : "(pro) 'oH",
 
+    'jacket' : "(n) wep",
+    'jail' : "(n) bIghHa'",
+    'jog' : "(v) qet",
+    'join' : "(v) muv",
+    'journal' : "(n) Qonos",
+    'judge' : "(v) noH",
+    'judgment' : "(n) yoj",
+    'jump' : "(v) Sup",
+    'jurisdiction' : "(n) teblaw'",
+    'just' : " (adv) neH",
+    'only': " (adv) neH",
+    'justice' : "(n) ruv",
 
-
+    'keep' : "(v) pol",
+    'kellicam' : "(n) quelI'qam",
+    'kevas' : "(n) qevas",
+    'kick' : "(v) pup",
+    'kidnap' : "(v) quch",
+    'kill' : "(v) HoH",
+    'Klingon' : "(n) tlhIngan",
+    'Klingon Empire' : "(n) tlhIngan wo'",
+    'Klingon writing system' : "(n) pIqaD",
+    'knee' : "(n) qiv",
+    'kneel' : "(v) tor",
+    'knife' : "(n) taj",
+    'know' : "(v) Sov",
 
 
 }
 
 
 
-    jacket, coat : "(n) wep
-    jail : "(n) bIghHa'
-    Jog, run : "(v) get
-    join : "(v) muv
-    journal, log : "(n) Qonos
-    judge, estimate : "(v) noH
-    judgment : "(n) yoy
-    jump : "(v) Sup
-    Jurisdiction : "(n) teblaw'
-    just, only, merely, : " (adv) neH
-    Justice : "(n) ruv
-    keep, save : "(v) pol
-    kellicam : "(n) quell'gam[ [quell 'qam=> qellI'gam] |
-    kevas : "(n) gevas
-    kick : "(v) pup
-    kidnap : "(v) guch
-    kill : "(v) HoH
-    Klingon : "(n) tlhingan
-    Klingon Empire : "(n) tlhingan wo'
-    Klingon writing system : "(n) pigaD
-    knee : "(n) giv
-    kneel : "(v) tor
-    knife : "(n) taj
-    know : "(v) SOv
+
 
 
 
