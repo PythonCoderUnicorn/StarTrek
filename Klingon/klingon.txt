@@ -2289,186 +2289,200 @@ INTRODUCTION
         alone as properly formed sentences. When combined, they
         Simply come one after the other, joined by a conjunction (see section 5.3).
         
-{jisoptaH 'ej QongtaH} <I am eating, and he/she is
-sleeping.>
-{jisoptaH 'ach QongtaH} <I am eating, but he/she is
-sleeping.>
-{bisoptaH goj bItlhutlhtaH} <You are eating and/or
-you are drinking.>
-{bisoptaH pagh biItlhutlhtaH} <You are either eating or else
-you are drinking.>
-When the subject of both of the joined sentences is
-the same, the English translation may be reduced to a less
-choppy form, but Klingon does not allow this shortening.
-The pronominal prefix must be used with both verbs.
-Thus, the final two sentences above may be translated
-<You are eating and/or drinking; You are either eating or
-drinking.>
-When a noun (as opposed to simply a verbal prefix)
-indicates subject and/or object, there are some options in
-Klingon. In its fullest form, a Klingon sentence repeats the
-noun:
-{yaS legh puq 'ej yaS gIp puq}
-({yaS} <officer,> {puq} <child,> {legh} <he/she sees
-him/her,> {qIp} <he/she hits him/her>)
-<The child sees the officer and the child hits
-the officer.>
-or
-<The child sees the officer and hits the officer.>
-or
-<The child sees and hits the officer.>
-It is possible, however, to use pronouns rather than nouns in
-the second of the joined sentences. [[p.62] ]
-{yaS legh puq 'ej ghaH gIp ghaH} ({ghaH} <he/she>)
-<The child sees the officer and he/she hits him/her.>
-or
-<The child sees the officer and hits him/her.>
-If the context is clear, even the pronoun may be left out.
-{yaS vIlegh 'ej vIgIp} ({vI-} <I--him/her>)
-<I see the officer and I hit him/her.>
-or
-<I see the officer and hit him/her.>
-or
-<I see and hit the officer.>
+        {jisoptaH 'ej QongtaH}          <I am eating, and he/she is sleeping.>
+        {jisoptaH 'ach QongtaH}         <I am eating, but he/she is sleeping.>
+        {bisoptaH goj bItlhutlhtaH}     <You are eating and/or you are drinking.>
+        {bisoptaH pagh biItlhutlhtaH}   <You are either eating or else you are drinking.>
+
+        When the subject of both of the joined sentences is
+        the same, the English translation may be reduced to a less
+        choppy form, but Klingon does not allow this shortening.
+        The pronominal prefix must be used with both verbs.
+        Thus, the final two sentences above may be translated
+            <You are eating and/or drinking; You are either eating or drinking.>
+
+        When a noun (as opposed to simply a verbal prefix)
+        indicates subject and/or object, there are some options in
+        Klingon. In its fullest form, a Klingon sentence repeats the noun:
+
+        {yaS legh puq 'ej yaS gIp puq}
+        ({yaS}      <officer,> 
+        {puq}       <child,> 
+        {legh}      <he/she sees him/her,> 
+        {qIp}       <he/she hits him/her>
+
+        <The child sees the officer and the child hits the officer.> 
+        or
+        <The child sees the officer and hits the officer.>
+        or
+        <The child sees and hits the officer.>
+
+        It is possible, however, to use pronouns rather than nouns in
+        the second of the joined sentences. 
+        {yaS legh puq 'ej ghaH gIp ghaH}    ({ghaH} <he/she>)
+        <The child sees the officer and he/she hits him/her.>
+        or
+        <The child sees the officer and hits him/her.>
+
+        If the context is clear, even the pronoun may be left out.
+        {yaS vIlegh 'ej vIgIp} ({vI-} <I--him/her>)
+        <I see the officer and I hit him/her.>
+        or
+        <I see the officer and hit him/her.>
+        or
+        <I see and hit the officer.>
+
+
+
+
+<<<<<<<<<<<<<<<<<
+
 6.2.2. Subordinate clauses
 
 Klingon verbs ending in Type 9 suffixes (other than {-'a'}
 <interrogative> and {-wI'} <one who does, one which does>) always
 occur in sentences with another verb. Hence, they are verbs
 in subordinate clauses.
-{cha ylbaH gara'DI'}
-or {gqara'DI' cha yIbaH} <Fire the torpedoes at my com-
-mand!>
-The two parts of this sentence are {cha ylIbaH} <fire the
-torpedoes!> and {qara'DI'} <when I command you> or <as soon as I
-command you.> {-DI'} is a Type 9 suffix meaning <as soon as,
-when,> so {tgqara'DI'} must occur as part of a larger sentence.
-Note that the order of the two parts of the sentence is
-variable.
-A few further examples should make the use of subordinate
-clauses clear.
-{bIjatlhHa'chugh qaHoH}
-or {qaHoH blIjatlhHa'chugh} <If you say the wrong thing,
-IT will kill you.>
-({bIjatlhHa'chugh} <if you
-misspeak,> {qaHoH} <I kill
-you>)
-Note that although the English translation uses the word <will,>
-there is no marker for future in Klingon. The unsuffixed verb
-{HoH} <kill> is neutral as to time: since the person being[[p.63]]
-addressed is being given a chance to speak, that person must
-still be alive. Thus, the killing must take place in the future.
-{SutlhtaHvis chaH DIHIvpu' }
-or {DIHIvpu' SutlhtaHvis chaH} <While they were
-negotiating we
-attacked them.>
-({SutlhtaHvis} <while
-they are negotiating, >
-{chaH} <they,> {DIHIvpu' }
-<we attacked them>)
-The notion of <were negotiating,> rather than <are negotiating, >
-comes from the suffix {-pu'} <perfective> attached to the verb {HIv}
-<attack.> A translation such as <While they are negotiating we
-attacked them> makes little sense in English and misrepresents
-the meaning of the Klingon sentence.
+
+{cha ylbaH gara'DI'} or {gqara'DI' cha yIbaH}   <Fire the torpedoes at my command!>
+
+    The two parts of this sentence are 
+    {cha ylIbaH} <fire the torpedoes!> and {qara'DI'} <when I command you> 
+    or <as soon as I command you.> 
+    
+    {-DI'} is a Type 9 suffix meaning <as soon as, when,> 
+    so {tgqara'DI'} must occur as part of a larger sentence.
+    
+    Note that the order of the two parts of the sentence is variable.
+    A few further examples should make the use of subordinate clauses clear.
+    
+    {bIjatlhHa'chugh qaHoH} or {qaHoH blIjatlhHa'chugh} 
+    <If you say the wrong thing, IT will kill you.>
+    ({bIjatlhHa'chugh} 
+    <if you misspeak,> {qaHoH} <I kill you>)
+    
+    Note that although the English translation uses the word <will,>
+    there is no marker for future in Klingon. The unsuffixed verb
+    {HoH} <kill> is neutral as to time: since the person being[[p.63]]
+    addressed is being given a chance to speak, that person must
+    still be alive. Thus, the killing must take place in the future.
+
+    {SutlhtaHvis chaH DIHIvpu' } or {DIHIvpu' SutlhtaHvis chaH} 
+                    <While they were negotiating we attacked them.>
+    {SutlhtaHvis}  <while they are negotiating, >
+    {chaH}          <they,> 
+    {DIHIvpu' }     <we attacked them>
+    
+    The notion of <were negotiating,> rather than <are negotiating, >
+    comes from the suffix {-pu'} <perfective> attached to the verb {HIv}
+    <attack.> A translation such as <While they are negotiating we
+    attacked them> makes little sense in English and misrepresents
+    the meaning of the Klingon sentence.
+
+
 6.2.3. Relative clauses
+
 Relative clauses are translated into English as phrases begin-
 ning with <who, which, where,> and, most commonly, <that.> Like
 adjectives, they describe nouns: <the dog which is running, the
 cat that is sleeping, the child who is playing, the restaurant
 where we ate.> The noun modified by a relative clause is the
 head noun.
-In Klingon, the verb in the relative clause ends with the
-Type 9 suffix {-bogh,} which will, for convenience, be translated
-<which.>
-Whether the head noun follows or precedes the relative
-clause depends on its relationship to that clause. Compare the
 
-following:
-{qIppu'bogh yaS} <officer who hit him/her>
-{yaS qIppu'bogh} <officer whom he/she hit>
-In both phrases, the relative clause is {qIppu'bogh} ({qIp} <hit,>
-{-pu'} <perfective,> {-bogh} <which>), and the head noun is {yas}
-<officer.> In the first phrase, {yaS} is the subject of the verb {qIp}
-(the officer is doing the hitting), so it follows {qIppu'bogh,} just
-as all subjects follow the verb. In the second phrase, {yaS} is the
-[[p.64]]
-object (the officer is getting hit), so it precedes {qlIppu'bogh, }
-just as all objects precede the verb.
-The whole construction (relative clause plus head noun), as
-a unit, is used in a sentence as a noun. Accordingly, this
-construction follows or precedes the verb of the sentence,
-depending on whether it is the subject or object.
-{qIippu'bogh yaS vilegh} <I see the officer who hit
-him/her.>
-The entire relative construction {qIppu'bogh yaS} <officer who
-hit him/her> is the object of the verb {vIlegh} <I see him/her,> so it
-precedes the verb.
-{mulegh qIppu'bogh yaS} <The officer who hit him/her
-sees me.>
-Here, {qIppu'bogh yaS} is the subject of the verb {mulegh} <he/she
-sees me,> so it follows the verb.
-This pattern is also followed when the head noun is the
-object of the verb in the relative clause, such as {yaS
-qIippu'bogh} <officer whom he/she hit.>
-{yaS qIppu'bogh vIlegh} <I see the officer whom he/she
-hit.>
-{mulegh yaS gIppu'bogh} <The officer whom he/she hit
-sees me.>
-In the English translation, the relative pronouns (<that,
-which,> etc.) may often be omitted: <I see the officer he/she hit,
-the officer he/she hit sees me.> In Klingon, however, {-bogh} is
-mandatory.
+In Klingon, the verb in the relative clause ends with the
+Type 9 suffix {-bogh,} which will, for convenience, be translated <which.>
+Whether the head noun follows or precedes the relative
+clause depends on its relationship to that clause. Compare the following:
+
+    {qIppu'bogh yaS}        <officer who hit him/her>
+    {yaS qIppu'bogh}        <officer whom he/she hit>
+    
+    In both phrases, the relative clause is {qIppu'bogh} 
+    {qIp}   <hit,>
+    {-pu'}  <perfective,> 
+    {-bogh} <which>, and the head noun is 
+    {yas}   <officer.> 
+    
+    In the first phrase, {yaS} is the subject of the verb {qIp}
+    (the officer is doing the hitting), so it follows {qIppu'bogh,}  just as all subjects follow the verb. 
+    In the second phrase, {yaS} is the object (the officer is getting hit), so it precedes {qlIppu'bogh, }
+    just as all objects precede the verb.
+
+    The whole construction (relative clause plus head noun), as
+    a unit, is used in a sentence as a noun. Accordingly, this
+    construction follows or precedes the verb of the sentence,
+    depending on whether it is the subject or object.
+    {qIippu'bogh yaS vilegh} <I see the officer who hit him/her.>
+    
+    The entire relative construction 
+        {qIppu'bogh yaS} <officer who hit him/her> is the object of the verb {vIlegh} <I see him/her,> 
+    so it precedes the verb.
+        {mulegh qIppu'bogh yaS} <The officer who hit him/her sees me.>
+        
+    Here, {qIppu'bogh yaS} is the subject of the verb {mulegh} <he/she sees me,> so it follows the verb.
+    
+    This pattern is also followed when the head noun is the
+    object of the verb in the relative clause, such as 
+    {yaSqIippu'bogh}            <officer whom he/she hit.>
+    {yaS qIppu'bogh vIlegh}     <I see the officer whom he/she hit.>
+    {mulegh yaS gIppu'bogh}     <The officer whom he/she hit sees me.>
+
+    In the English translation, the relative pronouns 
+    (<that,which,> etc.) may often be omitted: 
+    <I see the officer he/she hit, the officer he/she hit sees me.> 
+    In Klingon, however, {-bogh} is mandatory.
+
+
 6.2.4. Purpose clauses
+
 If an action is being done in order to accomplish something,
 or for the purpose of accomplishing something, the verb
 describing what is to be accomplished ends with the Type 9
 suffix {-meH,} which may be translated <for, for the purpose of,
 in order to.> The purpose clause always precedes the noun or
 verb whose purpose it is describing.
-{ja'chuqmeH rojHom neH jaghla'} <The enemy commander[[jaghla'=> jagh
-la']]
-wishes a truce (in order)
-to confer.>[[p.65]]
-The phrase {ja'chugmeH rojHom} <a truce (in order) to confer> is
 
-the object of the verb {neH} <he/she wants it;> the subject is
-{jaghla'} <enemy commander.> The object is a noun {rojHom} <truce>
-[[jaghla'=> jagh la']]
-preceded by the purpose clause {ja'chugqmeH} <for the purpose
-of conferring> or <in order to confer.> (The verb is made up of {ja'}
-<tell,> {-chug} <each other;> thus, <confer> is <tell each other.>)
+    {ja'chuqmeH rojHom neH jaghla'} 
+    <The enemy commander [[jaghla'=> jaghla']] wishes a truce (in order) to confer.>
+    The phrase {ja'chugmeH rojHom}      <a truce (in order) to confer> 
+    is the object of the verb {neH}     <he/she wants it;> 
+    the subject is {jaghla'}            <enemy commander.> 
+    The object is a noun {rojHom}       <truce>
 
-{jagh luHoHmeH jagh lunejtaH} <They are searching for
+    [[jaghla'=> jagh la']] preceded by the purpose clause {ja'chugqmeH} <for the purpose of conferring>  or <in order to confer.> 
+    The verb is made up of 
+    {ja'}       <tell,> 
+    {-chug}     <each other;>   thus,   <confer> is <tell each other.>
+    {jagh luHoHmeH jagh lunejtaH}       <They are searching for the enemy in order to kill him/her.>
+    
+    Here the purpose clause is 
+        {jagh luHoHmeH}                             <in order for them to kill the enemy,> 
+        which is made up of the object noun {jagh}  <enemy> 
+        preceding the verb {luHoHmeH}               <in order for them to kill him/her> 
+        {lu-}                                       <they--him/her,> 
+        {HoH}                                       <kill,> 
+        {-meH}                                      <for>. 
+    
+    It describes the purpose of the verb 
+    {lunejtaH}          <they are searching for him/her> 
+    {lu-}               <they--him/her,> 
+    {nej}               <seek, search for,> 
+    {-taH}              <continuous>. 
+    
+    Note that, just as in compound sentences, the object
+    noun {jagh} <enemy> occurs before each verb for which it is the
+    object. Thus, somewhat more literally, the sentence may be
+    translated <In order to kill the enemy, they are searching for the enemy.>
+    Furthermore, just aS in compound sentences, the second of
+    two identical nouns may be replaced by a pronoun or, if the
+    context, is clear, left out altogether.
 
-the enemy in order to
-kill him/her.>
-Here the purpose clause is {jagh luHoHmeH} <in order for them
-to kill the enemy,> which is made up of the object noun {jagh}
-<enemy> preceding the verb {luHoHmeH} <in order for them to kill
-him/her> ({lu-} <they--him/her,> {HoH} <kill,> {-meH} <for>). It
-describes
-the purpose of the verb {lunejtaH} <they are searching for
-him/her> ({lu-} <they--him/her,> {nej} <seek, search for,> {-taH}
-<continu-
-ous>). Note that, just as in compound sentences, the object
-noun {jagh} <enemy> occurs before each verb for which it is the
-object. Thus, somewhat more literally, the sentence may be
-translated <In order to kill the enemy, they are searching for the
-enemy.>
-Furthermore, just aS in compound sentences, the second of
+    {jagh luHoHmeH ghaH lunejtaH}
+    {jagh luHoHmeH lunejtaH}    <They are searching for the enemy in order to kill him/her.>
 
-two identical nouns may be replaced by a pronoun or, if the
-context, is clear, left out altogether.
-
-{jagh luHoHmeH ghaH lunejtaH}
-
-{jagh luHoHmeH lunejtaH} <They are searching for the
-
-enemy in order to kill
-him/her.>
 
 6.2.5. Sentences as objects
+
 Klingon has two special pronouns, {'e'} and {net,} which refer to
 the previous sentence as a whole. They are used primarily,
 not exclusively, with verbs of thinking or observation
@@ -2477,276 +2491,303 @@ verb, and the verb always takes a prefix indicating
 a third-person singular object. What is a single sentence
 in English is often two sentences in Klingon. {net} is used
 only under special circumstances (see page 66), but {'e'} is
-common. Several examples should make the use of {'e'}
-clear. [[p.66] ]
+common. Several examples should make the use of {'e'} clear. 
 
-{gama'pu' DIHoOH ‘'e' luSov} <They know we kill prisoners.>
-This sentence is actually two: (1) {gqama'pu' DIHoOH} <We kill
-prisoners> ({qama'pu'} <prisoners,> {DIHOH} we <kill them>); (2) {'e'
-luSov} <They know that> ({'e'} <that,> {luSov} <they know it>). The
-pronoun {'e'} refers to the previous sentence, <We kill prisoners.>
 
-{yaS qIppu' 'e' viIlegh} <I saw him/her hit the officers.>
-The two sentences here are: (1) {yaS gIppu'} <He/she hit the
-officer;> (2) {'e' vilegh} <I see that> ({vIlegh} <I see it>). The
-construc—
-tion might equally well be translated as <I saw that he/she hit
+    {gama'pu' DIHoOH ‘'e' luSov}    <They know we kill prisoners.>
+    This sentence is actually two: 
 
-the officer.> Note that the verb in the second sentence, {vIlegh} <I
-see it,> is neutral as to time. The past tense of the translation
-<(I saw...)> comes from the verb in the first sentence, {qIppu'}
-<he/she hit him/her> ({-pu'} <perfective>). In complex sentences of
-this type, the second verb never takes an aspect suffix (section
-4.2.7).
+    (1) {gqama'pu' DIHoOH}  <We kill prisoners> 
+        {qama'pu'}          <prisoners,> 
+        {DIHOH}             we <kill them> 
+    (2) {'e'luSov}  <They know that> 
+        {'e'}       <that,> 
+        {luSov}     <they know it>. 
+    
+    The pronoun {'e'} refers to the previous sentence, <We kill prisoners.>
 
-When the verb of the second sentence has a third-person
-subject (that is, the pronominal prefix is 0) but the intended
-meaning is <one> or <someone,> rather than <he, she, it,> or <they,>
-{net }
-is used instead of {'e'.}
 
-{gama'pu' DIHOH net Sov} <One knows we kill prisoners.>
-As above, the first sentence here is {qama'pu' DIHoH} <We kill
-prisoners.> The second sentence is {net Sov} <One knows that.>
-The full construction implies that it is common knowledge
-that the group to which the speaker belongs kills prisoners.
+    {yaS qIppu' 'e' viIlegh}        <I saw him/her hit the officers.>
+    The two sentences here are: 
+    
+    (1) {yaS gIppu'}        <He/she hit the officer;> 
+    (2) {'e' vilegh}        <I see that> 
+        {vIlegh}            <I see it>. 
+        
+    The construction might equally well be translated as <I saw that he/she hit the officer.> 
+    
+    Note that the verb in the second sentence, 
+    {vIlegh} <I see it,>  is neutral as to time. 
+    The past tense of the translation
+    <(I saw...)> comes from the verb in the first sentence, 
+    {qIppu'}    <he/she hit him/her> 
+    {-pu'}      <perfective>). 
+    
+    In complex sentences of this type, the second verb never takes an aspect suffix (section 4.2.7).
 
-{Qu'vaD lI' net tu'bej} <One certainly finds it useful for
+    When the verb of the second sentence has a third-person
+    subject (that is, the pronominal prefix is 0) but the intended
+    meaning is <one> or <someone,> rather than <he, she, it,> or <they,>
+    {net } is used instead of {'e'.}
 
-the mission.>
+    {gama'pu' DIHOH net Sov}     <One knows we kill prisoners.>
+    
+    As above, the first sentence here is 
+        {qama'pu' DIHoH}    <We kill prisoners.> 
+    The second sentence is 
+        {net Sov}           <One knows that.>
 
-The first part of this example is {Qu'vaD llI'} <It is useful for the
-mission> ({Qu'vaD} <for the mission,> {lI'} <it is useful>). The second
-part is {net tu'bej} <One certainly finds that> or <One certainly
-observes that.> The full construction might also be translated
-<One will certainly observe that it is useful to the mission.> Note
-that although the word <will> makes a more flowing translation,
-there is nothing in the Klingon sentence indicating future
-tense.
+    The full construction implies that it is common knowledge
+    that the group to which the speaker belongs kills prisoners.
 
-When the verb of the second sentence is {neH} <want,> neither[[p.67]]
-{'e'} nor {net} is used, but the construction is otherwise identical
-to that just described.
+    {Qu'vaD lI' net tu'bej}     <One certainly finds it useful for the mission.>
 
-{jIQong viIneH} <I want to sleep.>
+    The first part of this example is {Qu'vaD llI'} <It is useful for the
+    mission> ({Qu'vaD} <for the mission,> {lI'} <it is useful>). The second
+    part is {net tu'bej} <One certainly finds that> or <One certainly
+    observes that.> The full construction might also be translated
+    <One will certainly observe that it is useful to the mission.> Note
+    that although the word <will> makes a more flowing translation,
+    there is nothing in the Klingon sentence indicating future
+    tense.
 
-({jIQong} <I sleep,> {vIneH} <I want it>)
+    When the verb of the second sentence is {neH} <want,> neither[[p.67]]
+    {'e'} nor {net} is used, but the construction is otherwise identical
+    to that just described.
 
-{qalegh vIneH} <I want to see you.>
+    {jIQong viIneH}         <I want to sleep.>
+    ({jIQong}               <I sleep,> 
+    {vIneH}                 <I want it>)
+    {qalegh vIneH}          <I want to see you.>
+    {qalegh}                <I see you,> {vIneH} <I want it>
+    {Dalegh vIneH}          <I want you to see him/her.>
+    {Dalegh}                <you see him/her,> 
+    {vIneH}                 <I want it>
 
-({qalegh} <I see you,> {vIneH} <I want it>)
+    {gama'pu' vIjonta' viIneH}      <I wanted to capture prisoners.>
+    In this final example, 
+    the first part is {tqama'pu' viIjonta'}     <I captured prisoners> 
+    {gqama'pu'}                                 <prisoners,> 
+    {vIjonta'}                                  <I captured them>.
+    
+    Note once again that the aspect marker (in this case, {-ta'} <accomplished>) 
+    goes with the first verb only; the second verb, {viIneH} <I want it,> 
+    is neutral as to time. The past tense of
+    the translation <(I wanted...)> comes from the aspect marker
+    on the first verb.
 
-{Dalegh vIneH} <I want you to see him/her.>
+    Similarly, with verbs of saying (<say, tell, ask,> etc.), {'e'} and
+    {net} are not used. The two phrases simply follow one another,
+    in either order.
 
-({Dalegh} <you see him/her,> {vIneH} <I want it>)
+    {qaja'pu' HIgaghQo' }
+    or 
+    {HIqaghQo' qaja'pu'}    <I told you not to interrupt me.>
+    
+    This is literally <I told you, "Don't interrupt me!"> 
+    or <"Don't interrupt me" I told you> 
+    {gqaja'pu'}     <I told you,> 
+    {HIqaghQo'}     <don't interrupt me!>). 
+    
+    An aspect marker (here, {-pu'} <perfective>) may
+    always be attached to the verb of saying, regardless of
+    whether it is the first or second verb.
 
-{gama'pu' vIjonta' viIneH} <I wanted to capture prisoners.>
-In this final example, the first part is {tqama'pu' viIjonta'} <I
-captured prisoners> ({gqama'pu'} <prisoners,> {vIjonta'} <I captured
-them>). Note once again that the aspect marker (in this case,
-{-ta'} <accomplished>) goes with the first verb only; the second
-verb, {viIneH} <I want it,> is neutral as to time. The past tense of
-the translation <(I wanted...)> comes from the aspect marker
-on the first verb.
+    Finally, the use of {rIntaH} to indicate that an action is
+    accomplished (section 4.2.7) is another example of the two-verb (or two-sentence) construction.
 
-Similarly, with verbs of saying (<say, tell, ask,> etc.), {'e'} and
-{net} are not used. The two phrases simply follow one another,
-in either order.
 
-{qaja'pu' HIgaghQo' }
 
-or {HIqaghQo' qaja'pu'} <I told you not to interrupt me.>
-This is literally <I told you, "Don't interrupt me!"> or <"Don't
-interrupt me" I told you> ({gqaja'pu'} <I told you,> {HIqaghQo'} <don't
-interrupt me!>). An aspect marker (here, {-pu'} <perfective>) may
-always be attached to the verb of saying, regardless of
-whether it is the first or second verb.
+6.3. "To be"
 
-Finally, the use of {rIntaH} to indicate that an action is
-accomplished (section 4.2.7) is another example of the two-[[keep
-hyphen] ]]
-verb (or two-sentence) construction.
-
-6.3. " To be!!
 There is no verb corresponding to English <to be> in Klingon.
 On the other hand, all pronouns (section 5.1) can be used as
 verbs, in the sense of <I am, you are,> etc.
 
-{tlhIngan jIH} <I am a Klingon.>[[p.68]]
+    {tlhIngan jIH}  <I am a Klingon.>
+    {yaS SoH}       <You are an officer.>
+    {puqpu' chaH}   <They are children.>
 
-{yaS SoH} <You are an officer.>
+    The pronoun always follows the noun.
 
-{puqpu' chaH} <They are children.>
+    Similarly, there is no verb corresponding to <to be> in the
+    sense of "'to be at a place." Again, the pronouns are used,
+    followed, where appropriate, by verbal suffixes.
 
-The pronoun always follows the noun.
+    {pa'wljDaq jIHtaH} <    I am in my quarters.>
+    ({pa'wIjDaqq}           <in my room,> 
+    {jIH}                   <I,>
+    {-taH}                  <continuous>)
 
-Similarly, there is no verb corresponding to <to be> in the
-sense of "'to be at a place." Again, the pronouns are used,
-followed, where appropriate, by verbal suffixes.
+    In the above examples, the subjects are pronouns. If the
+    subject is a noun, it follows the third-person pronoun ({ghaH}
+    <he/she,> {'oH} <it,> {chaH} <they,> {bIH} <they>) and takes the {-'‘e'}
+    <topic> suffix (see section 3.3.5).
 
-{pa'wljDaq jIHtaH} <I am in my quarters.>
-({pa'wIjDaqq} <in my room,> {jIH} <I,>
-{-taH} <continuous>)
+    {puqpu' chaH gama'pu!' ‘'e'}    <The prisoners are children.> [[gama'pu''e' => gama'pu' Te!) ]
 
-In the above examples, the subjects are pronouns. If the
-subject is a noun, it follows the third-person pronoun ({ghaH}
-<he/she,> {'oH} <it,> {chaH} <they,> {bIH} <they>) and takes the {-'‘e'}
-<topic>
-suffix (see section 3.3.5).
+    {pa'DajDaq ghaHtaH la"e'}        <The commander is in his quarters.>
 
-{puqpu' chaH gama'pu!' ‘'e'} <The prisoners are children.>[[gama'pu'
-'e'=> gama'pu' Te!) ]
-
-{pa'DajDaq ghaHtaH la"e'} <The commander is in his
-
-quarters.>
-
-These sentences might also be translated <As for the prisoners,
-they are children; As for the commander, he is in his quarters.>
+    These sentences might also be translated <As for the prisoners,
+    they are children; As for the commander, he is in his quarters.>
+ 
+ 
+ 
 6.4. Questions
+ 
 There are two types of questions: those which may be
-answered "‘yes" or °*no," and those which require explana-
-tions as answers.
+answered "‘yes" or °*no," and those which require explanations as answers.
 
 Yes/no questions are formed with the Type 9 suffix {-'a'}
 added to the verb. Examples are given in section 4.2.9.
 
-Appropriate answers to yes/no questions are:
+    Appropriate answers to yes/no questions are:
 
-{HIja'} or {HislaH} <yes>
-{ghobe'} <no>
+    {HIja'}     or  {HislaH}    <yes>
+    {ghobe'}                    <no>
 
-The other type of question contains a question word:
-{chay'} <how?>
-{ghorgh} <when?>
-{nug} <what?>
-{nuqDaq} <where?>[[p.69] ]
-{qatlh} <why?>
-{'ar} <how many? how much?>
-{"'Tv} <who?>
+    The other type of question contains a question word:
+    
+    {chay'}     <how?>
+    {ghorgh}    <when?>
+    {nug}       <what?>
+    {nuqDaq}    <where?>
+    {qatlh}     <why?>
+    {'ar}       <how many? how much?>
+    {"'Tv}      <who?>
 
-For {'Iv} <who?> and {nug} <what?> the question word fits into the
-sentence in the position that would be occupied by the
-answer. For example:
+    For {'Iv} <who?> and {nug} <what?> the question word fits into the
+    sentence in the position that would be occupied by the
+    answer. For example:
 
-{yaS legh 'Iv} <Who sees the officer?>
+    {yaS legh 'Iv}  <Who sees the officer?>
+    {'Iv legh yaS}  <Whom does the officer see?>
+    
+    In the first question, it is the subject which is being asked
+    about, so {'Iv} <who?> goes in the subject position, following the
+    verb {legh} <he/she sees him/her.> In the second case, the object is
+    being questioned, so the question word goes in the object
+    position, before the verb.
 
-{'Iv legh yaS} <Whom does the officer see?>
-In the first question, it is the subject which is being asked
-about, so {'Iv} <who?> goes in the subject position, following the
-verb {legh} <he/she sees him/her.> In the second case, the object is
-being questioned, so the question word goes in the object
-position, before the verb.
+    Similarly with {nug} <what?:>
 
-Similarly with {nug} <what?:>
+    {Du} ghoStaH nug}   <What is coming toward the ship?>
+    {Duj}               <ship, vessel,> 
+    {ghoStaH}           <it is proceeding toward it>)
 
-{Du} ghoStaH nug} <What is coming toward the ship?>
-({Duj} <ship, vessel,> {ghoStaH} <it is
-proceeding toward it>)
+    {nuq legh yaS}      <What does the officer see?>
 
-{nuq legh yaS} <What does the officer see?>
+    Both {'Iv} and {nug} are treated as nouns as far as the
+    pronominal prefixes are concerned. That is, they are consid-
+    ered third person.
 
-Both {'Iv} and {nug} are treated as nouns as far as the
-pronominal prefixes are concerned. That is, they are consid-
-ered third person.
+    {nughoStaH nug}     <What is coming toward us?> 
+    {nughoStaH}         <it is proceeding toward us>    
+    {nug Dalegh}        <What do you see?> 
+    {Dalegh}            <you see it>
 
-{nughoStaH nug} <What is coming toward us?> ({nughoStaH} <it
+    The word for <where?,> {nugqDaq,} is actually {nug} <what?>
+    followed by the suffix {-Daq} <locative> (see section 3.3.5). 
+    As would any locative phrase (see section 6.1), it comes at the
+    beginning of the sentence.
 
-is proceeding toward us>)
+    {nuqDaqq So'taH yaS}    <Where is the officer hiding?>
+    {So'taH}                <he/she is hiding>
 
-{nug Dalegh} <What do you see?> ({Dalegh} <you see it>)
+    Three other question words likewise occur at the beginning of the sentence. 
 
-The word for <where?,> {nugqDaq,} is actually {nug} <what?>
-followed by the suffix {-Daq} <locative> (see section 3.3.5). As
-would any locative phrase (see section 6.1), it comes at the
-beginning of the sentence.
+    {ghorgh Haw'pu' yaS}        <When did the officer flee?>
+    {Haw'pu'}                   <he/she has fled>
+    {gatlh Haw'pu' yaS}         <Why did the officer flee?>
+    {chay' Haw'pu' yaS}         <How did the officer flee?>
 
-{nuqDaqq So'taH yaS} <Where is the officer hiding?>
 
-({So'taH} <he/she is hiding>)
 
-Three other question words likewise occur at the beginning
-of the sentence. [[p.70] ]
+    {chay' jura'}   <What are your orders?>
+    This is actually 
+    {chay'}     <how?,> 
+    {jura'}     <you command us;> thus,
+    <How do you command us?>
 
-{ghorgh Haw'pu' yaS} <When did the officer flee?>
+    The question word {chay'}   <how?>  may be used as a one-word
+    sentence meaning <How did this happen? What happened? What the---?>
+    
+    Finally, {'ar} <how many? how much?> follows the noun to
+    which it refers. It can never follow a noun with a plural suffix
+    ({-pu', -mey, -—Du';} see section 3.3.2).
+    
+    {Haw'pu' yaS 'ar}   <How many officers fled?>
+    {Haw'pu'}           <they fled,> 
+    {yaS}               <officer>
+    
+    {nin 'ar wIghaj}    <How much fuel do we have?>
+    ({nIn}              <fuel,> 
+    {wIghaj}            we <have it>)
 
-({Haw'pu'} <he/she has fled>)
 
-{gatlh Haw'pu' yaS} <Why did the officer flee?>
 
-{chay' Haw'pu' yaS} <How did the officer flee?>
-
-Note also:
-
-{chay' jura'} <What are your orders?>
-
-This is actually {chay'} <how?,> {jura'} <you command us;> thus,
-<How do you command us?>
-
-The question word {chay'} <how?> may be used as a one-word
-
-sentence meaning <How did this happen? What happened?
-What the---?>
-Finally, {'ar} <how many? how much?> follows the noun to
-which it refers. It can never follow a noun with a plural suffix
-({-pu', -mey, -—Du';} see section 3.3.2).
-{Haw'pu' yaS 'ar} <How many officers fled?>
-({Haw'pu'} <they fled,> {yaS} <officer>)
-{nin 'ar wIghaj} <How much fuel do we have?>
-({nIn} <fuel,> {wIghaj} we <have it>)
 6.5. Commands
+
 Commands are given with appropriate imperative prefixes.
-See sections 4.1.2, 4.3.
-6.6. Comparatives and superlatives
+See sections 4.1.2, 4.3. 6.6. 
+
+Comparatives and superlatives
 The idea of something being more or greater than something
 else (comparative) is expressed by means of a construction
 which can be represented by the following formula:
-AQ {law'} B Q {pus}
-In this formula, A and B are the two things being compared
-and Q is the quality which is being measured. The two
-Klingon words in the formula are {law'} <be many> and {puS} <be
-few.> Thus, it says <A's Q is many, B's Q is few> or <A has more Q
-than B has> or <A is Q-er than B.>
-Any verb expressing a quality or condition may fit into the
-QO slot.[[p.71]]
-{la' jaq law' yaS jag puS} <The commander is bolder than
-the officer.>
-({la'} <commander,> {jaq} <be bold,>
-{yas}
-<officer>)
-To express the superlative, that something is the most or
-the greatest of all, the noun {Hoch} <all> is used in the B position:
-{la' jaq law' Hoch jag puS} <The commander is boldest
-of all.>
-In comparative and superlative constructions, the verb of
-quality ({jaq} <be bold> in the sentences above) must be said
-twice.[[p.72] ]
+
+    AQ {law'} B Q {pus}
+
+    In this formula, A and B are the two things being compared
+    and Q is the quality which is being measured. 
+
+    The two Klingon words in the formula are 
+    {law'} <be many> and {puS} <be few.> 
+    Thus, it says 
+    <A's Q is many, B's Q is few> or 
+    <A has more Q than B has> 
+    or <A is Q-er than B.>
+    
+    Any verb expressing a quality or condition may fit into the QO slot.
+    {la' jaq law' yaS jag puS}      <The commander is bolder than the officer.>
+    {la'}                           <commander,> 
+    {jaq}                           <be bold,>
+    {yas}                           <officer>
+    
+    To express the superlative, that something is the most or
+    the greatest of all, the noun {Hoch} <all> is used in the B position:
+    {la' jaq law' Hoch jag puS} <The commander is boldest of all.>
+    
+    In comparative and superlative constructions, the verb of
+    quality ({jaq} <be bold> in the sentences above) must be said twice.
+
+
+
 7. CLIPPED KLINGON
+
 The preceding grammatical sketch describes "proper"!
 Klingon, that is, Klingon as it is taught in Klingon schools or
 to non-Klingons. In actual day-to-day use, however, spoken
-Klingon may vary somewhat from its "’proper" form, usually
+Klingon may vary somewhat from its "proper" form, usually
 by leaving some elements out. This abbreviated form of
 speaking, called Clipped Klingon by Klingon grammarians, is
 heard quite frequently in military contexts where quick
-
-—--rather than eloquent-——-communication is deemed a virtue.
+rather than eloquent communication is deemed a virtue.
 Probably for similar reasons, Clipped Klingon is used quite
 extensively in all walks of Klingon life.
-Some of the features of Clipped Klingon are described
 
-below.
-7.1. Commands
-In giving commands, the imperative prefix (section 4.1.2)
-may be left off, leaving the bare verb.
+Some of the features of Clipped Klingon are described below.
 
-Proper Klingon: {ylIbaH} <Fire (the torpedoes) !>
+    7.1. Commands
 
-Clipped Klingon: {baH}
+        In giving commands, the imperative prefix (section 4.1.2)
+        may be left off, leaving the bare verb.
 
-Proper Klingon: {wly ylIcha'} <Show the tactical display!>
+        Proper Klingon: {ylIbaH}    <Fire (the torpedoes) !>
+        Clipped Klingon: {baH}
 
-Clipped Klingon: {wly cha'}
+        Proper Klingon: {wly ylIcha'}   <Show the tactical display!>
+        Clipped Klingon: {wly cha'}
 
 ({wly} <tactical display on monitor,> {cha'} <show, project>)
 Proper Klingon: {He chu' ylIghoS} <Follow a new course!>[[p.73]]
