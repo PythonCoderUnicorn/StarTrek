@@ -677,10 +677,10 @@ klingon = {
     'hassle' : "(v) qay",
     'hate' : "(v) muS",
     'have' : "(v) ghaj",
-    'he: "(pro) ghaH",' 
-    'she': "(pro) ghaH",
-    'him' : "(pro) ghaH",
-    'her' : "(pro) ghaH",
+    'he: ": "(pro)  ghaH",' 
+    'she': ": "(pro)  ghaH",
+    'him' : ": "(pro)  ghaH",
+    'her' : ": "(pro)  ghaH",
     'head' : "(n) nach",
     'headache' : "(v) wuQ",
     'healthy' : "(v) pIv",
@@ -726,74 +726,68 @@ klingon = {
     'husband' : "(n) loDnal",
     'hypnotize' : "(v) vong",
 
+    'I' : "(pro) jIH",
+    'me' : "(pro) jIH",
+    'ice' : "(n) chuch",
+    'idea' : "(n) qech",
+    'identical' : "(v) nIb",
+    'identify' : "(v) ngu'",
+    'ignorant' : "(v) jIv",
+    'ill' : "(v) rop",
+    'illegal' : "(v) Hat",
+    'immortal' : "(v) jub",
+    'impact' : "(v) mup",
+    'impatient' : "(v) boH",
+    'important' : "(n) potlh",
+    'impressive' : "(v) Doj",
+    'improve' : "(v) Dub",
+    'impulse power' : "(n) Hong",
+    'in that case': " (adv) vay",
+    'then': " (adv) vay", 
+    'thus' : " (adv) vay",
+    'so' : " (adv) vay",
+    'incompetent' : "(v) tlhIb",
+    'increase' : "(v) ghur",
+    'independence' : "(n) tlhab",
+    'independent' : "(v) tlhab",
+    'indigestion' : "(n) poq",
+    'infect' : "(v) ngej",
+    'inferior' : "(v) QIv",
+    'infirmary' : "(n) ropyaH",
+    'influence' : "(v) SIgh",
+    'information' : "(n) De'",
+    'inhabitant' : "(n) ngan",
+    'inhabited' : "(v) toq",
+    'injure' : "(v) rIQmoH",
+    'injured' : "(v) rIQ",
+    'innocent' : "(v) chun",
+    'insist' : "(v) qap",
+    'instincts' : "(n) Duj",
+    'instruct' : "(v) ghojmoH",
+    'insubordinate' : "(v) tlhIv",
+    'insult' : "(v) tIch",
+    'insurrection' : "(n) QuD",
+    'intelligent' : "(v) val",
+    'intend' : "(v) Hech",
+    'intentionally' : " (adv) chIch",
+    'interesting' : "(v) Daj",
+    'interfere' : "(v) nIS",
+    'interrogate' : "(v) yu'",
+    'interrupt' : "(v) qagh",
+    'intoxicated' : "(v) chech",
+    'introduce' : "(v) lTH",
+    'invade' : "(v) yot",
+    'invasion' : "(n) yot",
+    invent, devise : "(v) "ogh
+    'ion' : "(n) tat",
+    'irritable' : "(v) bergh",
+    'it' : "(pro) 'oH",
+
+
 
 
 
 }
-
-
-
-    I, me (pro) jIH
-    ice : "(n) chuchp.138] ]
-    idea : "(n) gech
-    identical, be identical : "(v) nib
-    identify : "(v) ngu'
-    ignorant, be ignorant : "(v) jiv
-    ill, be ill, sick : "(v) rop
-    illegal, be illegal : "(v) Hat
-    immortal, be immortal : "(v) Jub
-    impact, strike : "(v) mup
-    impatient, be impatient : "(v) boH
-    important thing, something potlh
-    important : "(n)
-    impressive, be impressive : "(v) DoJ
-    improve : "(v) Dub
-    impulse power : "(n) Hong
-    in that case, then, thus, so : " (adv) vay
-    incompetent, be incompetent : "(v) tlhib
-    increase : "(v) ghur
-    independence, freedom : "(n) tlhab
-    independent, be independent, tlhab
-    free : "(v)
-    indigestion : "(n) pog
-    infect : "(v) ngej
-    inferior, be inferior : "(v) Olv
-    infirmary : "(n) ropyaH
-    influence : "(v) SIgh
-    information : "(n) De'
-    inhabitant : "(n) ngan
-    inhabited, be inhabited : "(v) tog
-    injure : "(v) rlQmoH
-    injured, be injured : "(v) r1IQ
-    innocent, be innocent : "(v) chun
-    insist : "(v) gap
-    instincts : "(n) Duy
-    instruct, teach : "(v) gho jmoH
-    insubordinate, be insubor- tlhiv
-    dinate : "(v)
-    insult : "(v) tIch
-    insurrection : "(n) QuD
-    intelligent, be intelligent : "(v) val
-    intend, mean to : "(v) Hech
-    intentionally, on purpose : " (adv) chichp.139,
-    interesting, be interesting : "(v) Daj
-    interfere : "(v) nis
-    interrogate : "(v) yu'
-    interrupt : "(v) gagh
-    intoxicated, be intoxicated, chech
-    drunk : "(v)
-    introduce : "(v) 11TH
-    invade : "(v) yot
-    invasion : "(n) yot
-    invent, devise : "(v) "ogh
-    ton : "(n) tat
-    irritable, be irritable : "(v) bergh
-    it (pro) "OH
-
-
-
-
-
 
 
 
@@ -903,7 +897,7 @@ klingon = {
     marry (husband does this) : "(v) Saw
     marry (wife does this) : "(v) nay
     matter : "(n) Hap
-    me, I (pro) jIH
+    me, I : "(pro)  jIH
     mean, be mean : "(v) ge
     mean to, intend : "(v) Hech
     measure : "(v) Juv
@@ -1374,7 +1368,7 @@ klingon = {
     Shadow : "(n) Olb
     Shame : "(v) tuHmoH
     sharp, be sharp : "(v) Jey
-    she, he, her, him (pro) ghaH
+    she, he, her, him : "(pro)  ghaH
     Sherman's Planet : "(n) SermanyuQ
     shield : "(n) yoD
     shield : "(v) yoD
@@ -1555,19 +1549,19 @@ klingon = {
     ten thousand : "(num)  netlh
     tenth : "(num)  wa'maHDIch
     Terran : "(n) tera'ngan
-    that (previous topic) (pro) "e', net
+    that (previous topic) : "(pro)  "e', net
     them, they (capable of using language) chaH
-    (pro)
+    : "(pro) 
     them, they (incapable of language) bIH
-    (pro)
+    : "(pro) 
     then, thus, in that case, so : " (adv) vay
     theory : "(n) nger
     theragen : "(n) Oab
     there, over there, thereabouts : "(n) pa'
     they, them (capable of using language) chaH
-    (pro) 
+    : "(pro)  
     they, them (incapable of language) bIH
-    (pro)
+    : "(pro) 
     thief : "(n) niHwI'
     thin, be thin : "(v) lang
     thing : "(n) Doch
@@ -1689,7 +1683,7 @@ klingon = {
     unusual, be unusual : "(v) motlhbe'
     upside down, be upside down : "(v) yoy
     urgent, be urgent : "(v) pav
-    us, we (pro) maH
+    us, we : "(pro)  maH
     use : "(v) lo'",
     useful, be useful : "(v) 1T'",
     usual, be usual : "(v) motlh
@@ -1744,7 +1738,7 @@ klingon = {
     watch : "(v) bejJ
     water : "(n) bIO
     wave, flap, flutter : "(v) Jog
-    we, uS (pro) maH
+    we, uS : "(pro)  maH
     weak, be weak : "(v) pu
     weapon : "(n) nuH
     wear (clothes) : "(v) tuQ
@@ -1782,8 +1776,8 @@ klingon = {
     yes, Okay, I will (excl) lug, lu'
     yes, true (answer to yes/no guestion) HIja', HISlaH (excl)
     yesterday : "(n) wa'Hu'
-    you (plural) (pro) tlhiIH
-    you (pro) SOH
+    you (plural) : "(pro)  tlhiIH
+    you : "(pro)  SOH
     young, be young : "(v) Qup
     zero : "(num)  pagh
     zone, sector : "(n) 
