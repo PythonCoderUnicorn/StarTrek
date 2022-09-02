@@ -2788,80 +2788,102 @@ Some of the features of Clipped Klingon are described below.
 
         Proper Klingon: {wly ylIcha'}   <Show the tactical display!>
         Clipped Klingon: {wly cha'}
+        {wly}                           <tactical display on monitor,> 
+        {cha'}                          <show, project>
+        
+        Proper Klingon: {He chu' ylIghoS}   <Follow a new course!>
+        Clipped Klingon: {He chu! ghoS}
+        {He}    <course,> 
+        {chu'}  <be new,> 
+        {ghoS}  <follow a course>
 
-({wly} <tactical display on monitor,> {cha'} <show, project>)
-Proper Klingon: {He chu' ylIghoS} <Follow a new course!>[[p.73]]
-Clipped Klingon: {He chu! ghoS}
+        When the object noun is critical, and what is to be done
+        with that noun is obvious (or should be obvious) to the
+        listener, that noun itself may serve as the command.
 
-({He} <course,> {chu'} <be new,> {ghoS} <follow a course>)
+        Proper Klingon: {chuyDaH yIlaQ}     <Fire the thrusters!>
+        Clipped Klingon: {chuyDaH}          <Thrusters!>
+        {chuyDaH}                           <thrusters,> 
+        {laQ}                               <fire, energize>
 
-When the object noun is critical, and what is to be done
-with that noun is obvious (or should be obvious) to the
-listener, that noun itself may serve as the command.
+        Proper Klingon: {HaSta yIcha'}      <Show the visual display!>
+        Clipped Klingon: {HaSta}            <Visual (display) !>
+        {HaSta}                             <visual display on monitor,> 
+        {cha'}                              <show, projyect>)
 
-Proper Klingon: {chuyDaH yIlaQ} <Fire the thrusters!>
-Clipped Klingon: {chuyDaH} <Thrusters!>
+        Finally, other grammatical markers, particularly noun suffixes, may be left out of commands.
 
-({chuyDaH} <thrusters,> {laQ} <fire, energize>)
+        Proper Klingon: {jolpa'Daq yIjaH}   <Go to the transport room!>
+        Clipped Klingon: {jolpa' yIjaH}
+        {jolpa'}                            <transport room,> 
+        {-Daq}                              <locative,> 
+        {jaH}                               <go>
 
-Proper Klingon: {HaSta yIcha'} <Show the visual display!>
-Clipped Klingon: {HaSta} <Visual (display) !>
+        It is not common, when noun suffixes are chopped, for the
+        imperative prefix on the verb to be dropped as well.
 
-({HaSta} <visual display on monitor,> {cha'} <show,
 
-projyect>)
 
-Finally, other grammatical markers, particularly noun suf-
-fixes, may be left out of commands.
+    7.2. Responses to commands, status reports
 
-Proper Klingon: {jolpa'Daq yIjaH} <Go to the transport room!>
-Clipped Klingon: {jolpa' yIjaH}
+        Responses to commands and status reports are also prone to clipping.
 
-({jolpa'} <transport room,> {-Daq} <locative,> {jaH} <go>)
+        Proper Klingon: {So'wI' vichu'ta'}          <I have engaged the cloaking device.>
+        Proper Klingon: {So'wI' chu'lu'ta'}         <The cloaking device has been engaged.>
+        Clipped Klingon: {So'wI' chu'ta'}           <Cloaking device engaged.>
+        {So'wI'}                                    <cloaking device,> 
+        {viIchu'ta'}                                <I have engaged it,>
+        {chu'lu'ta'}                                <it has been engaged>
 
-It is not common, when noun suffixes are chopped, for the
-imperative prefix on the verb to be dropped as well.
+        In the preceding example, the clipped form can correspond
+        to either a dropping of the prefix {vI-} <I--it> or the suffix {-lu'}
+        <indefinite subject.>
 
-7.2. Responses to commands, status reports
-Responses to commands and status reports are also prone to
-clipping.
-Proper Klingon: {So'wI' vichu'ta'} <I have engaged the cloak-
-ing device.>
-Proper Klingon: {So'wI' chu'lu'ta'} <The cloaking device
-has been engaged.>
-Clipped Klingon: {So'wI' chu'ta'} <Cloaking device engaged.>
-({So'wI'} <cloaking device,> {viIchu'ta'} <I have engaged it,>
-{chu'lu'ta'} <it has been engaged>)
+        Proper Klingon: {jIyajchu'}         <I understand clearly.>
+        Clipped Klingon: {yajchu'}          <Understood clearly.>
+        {yaj}                               <understand,> 
+        {-chu'}                             <clearly, perfectly>
 
-In the preceding example, the clipped form can correspond
-to either a dropping of the prefix {vI-} <I--it> or the suffix {-lu'}
-<indefinite subject.>
+        In this final example, the clipped form, lacking the pronominal prefix {jI-} <I,> 
+        is a likely response to a question in clipped
+        form, such as 
+            {yaj'a'}        <Understood?> 
+            compare Proper Klingon
+            {boIyaj'a'}     <Do you understand?>.
 
-Proper Klingon: {jIyajchu'} <I understand clearly.>
-Clipped Klingon: {yajchu'} <Understood clearly.>
-({yaj} <understand,> {-chu'} <clearly, perfectly>) [[p.74]]
 
-In this final example, the clipped form, lacking the pronom-—
-inal prefix {jI-} <I,> is a likely response to a question in clipped
-form, such as {yaj'a'} <Understood?> (compare Proper Klingon
-{boIyaj'a'} <Do you understand?>).
 
-7.3. Duress, excitement
-When in a situation of great danger or when immediate action
-may be necessary, a Klingon is apt to drop pronominal
-prefixes. This clipped form is also common when a Klingon is
-excited for some reason.
-Proper Klingon: {qama'pu' vijonta' vineH} <I wanted to
-capture prisoners.>
-Clipped Klingon: {gama'pu' jonta' neH} <Wanted prisoners!>
-({qama'pu'} <prisoners,> {vIjonta'} <I captured them,> {vIneH} <I
-want them>)
+    7.3. Duress, excitement
 
-In context, it would be clear that the speaker is the one
-doing the wanting (and capturing), even though the pronomi-
-nal prefix {vI-} <I--them> is missing. [[p.75]]
+        When in a situation of great danger or when immediate action
+        may be necessary, a Klingon is apt to drop pronominal
+        prefixes. This clipped form is also common when a Klingon is
+        excited for some reason.
+        
+        Proper Klingon: {qama'pu' vijonta' vineH}   <I wanted to capture prisoners.>
+        Clipped Klingon: {gama'pu' jonta' neH}      <Wanted prisoners!>
+        ({qama'pu'}                                 <prisoners,> 
+        {vIjonta'}                                  <I captured them,> 
+        {vIneH}                                     <I want them>)
 
-DICTIONARY [[p.77] ]
+        In context, it would be clear that the speaker is the one
+        doing the wanting (and capturing), even though the pronominal prefix {vI-} <I--them> is missing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DICTIONARY 
 
 INTRODUCTORY REMARKS
 
