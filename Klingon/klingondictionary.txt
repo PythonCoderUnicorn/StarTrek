@@ -1206,212 +1206,206 @@ klingon = {
     'ruthless' : "(v) wIH",
 
 
+    'sabotage' : "(v) Sorgh",
+    'saccharin' : "(n) HaQchor",
+    'sad' : "(v) 'IQ",
+    'salute' : "(v) van",
+    'same' : "(v) rap",
+    'satellite' : "(n) SIbDoH",
+    'satisfied' : "(v) yon",
+    'satisfy' : "(v) yonmoH",
+    'save'  : ["(v) pol (keep)","(v) toD (rescue)"],
+    'scan' : "(v) Hotlh",
+    'scanner' : "(n) HotlhwI'",
+    'scare' : "(v) ghIj",
+    'scatter' : "(v) ghomHa'",
+    'scavenge' : "(v) qor",
+    'school' : "(n) DuSaQ",
+    'science' : "(n) QeD",
+    'science officer' : "(n) QeDpIn",
+    'scientist' : "(n) tej",
+    'scold' : "(v) qun",
+    'scream' : "(v) jach",
+    'screen' : "(n) jIH",
+    'search'  : "(v) nej",
+    'second' : "(num)  cha'DIch",
+    'second'  : "(n) lup (of time)",
+    'secret' : "(n,v) pegh",
+    'section' : "(n) ‘ay'",
+    'sector' : "(n) mIch",
+    'security' : "(n) Hung",
+    'see' : "(v) legh",
+    'seek' : "(v) nej",
+    'select' : "(v) wIv",
+    'self-confident' : "(v) jeQ",
+    'selfish' : "(v) mut",
+    'sell' : "(v) ngev",
+    'send' : "(v) ngeH",
+    'sensor' : "(n) noch",
+    'sentence' : "(n) mu'tlhegh",
+    'separate' : "(v) chev",
+    'sergeant' : "(n) bu'",
+    'serious' : "(v) Sagh",
+    'serpent' : "(n) ghargh", 
+    'worm' : "(n) ghargh",
+    'servant' : "(n) toy'wI'",
+    'serve' : ["(v) toy' (a master)","(v) jab (food)"],
+    'set up' : "(v) cher",
+    'seven' : "(num)  Soch",
+    'seventh' : "(num)  SochDIch",
+    'several' : "(v) puS",
+    'shadow' : "(n) QIb",
+    'shame' : "(v) tuHmoH",
+    'sharp' : "(v) jej",
+    'Sherman's Planet' : "(n) SermanyuQ",
+    'shield' : "(n,v) yoD",
+    'shine' : "(v) boch",
+    'ship' : "(n) Duj",
+    'shocked' : "(v) yay'",
+    'shoe' : "(n) waq",
+    'shoot' : "(v) bach",
+    'shore leave' : "(n) leSpoH",
+    'shortcut' : "(n) qIgh",
+    'shot' : "(n) bach",
+    'shoulder' : "(n) volchaH",
+    'shout' : "(v) jach",
+    'show' : ["(v) cha' (picture)","(v) "ang (reveal)"],
+    'shut' : ["(v) SoQmoH","(v) SoQ"],
+    'sick' : "(v) rop",
+    'side' : "(n) Dop",
+    'sight'  : "(v) puS (with gunsight)",
+    'sign'  : "(v) gi' (a treaty)",
+    'silence' : "(v) tammoH",
+    'silly' : "(v) Dogh",
+    'simple' : "(v) nap",
+    'simultaneous' : "(v) quq",
+    'sin' : "(v) yem",
+    'sincere' : "(v) 'Il",
+    'sir' : "(n) qaH",
+    'sister' : "(n) be'nI'",
+    'sit' : "(v) ba'",
+    'situation' : "(n) ghu'",
+    'six' : "(num)  jav",
+    'sixth' : "(num)  javDich",
+    'skilled' : "(v) po'",
+    'skin' : ["(n) Dir", "(v) Surgh"],
+    'sky' : "(n) chal",
+    'sleep' : "(v) Qong",
+    'slightly' : " (adv) loQ",
+    'slit' : "(v) SIj",
+    'sloppy'  : "(v) ghIH",
+    'slowIy' : " (adv) Qlt",
+    'sly' : "(v) 'ong",
+    'small' : "(v) mach",
+    'smart' : "(v) val",
+    'smear' : "(v) ngoH",
+    'smell' : ["(v) He' (emit odor)", "(v) largh (sense odors)"],
+    'smoke' : "(n) tlhich",
+    'smooth' : "(v) Hab",
+    'snow' : "(v) peD",
+    'so' : ["(adv) vaj","(excl) toH"],
+    'then' : " (adv) vaj",
+    'thus' : " (adv) vaj",
+    'in that case' : " (adv) vaj",
+    'society' : "(n) nugh",
+    'socks' : "(n) paSlogh",
+    'soft' : "(v) tun",
+    'soldier' : "(n) mang",
+    'soldiers' : "(n) negh",
+    'solid' : "(v) Sub",
+    'solution'  : "(n) taS (liquid)",
+    'somebody' : "(n) vay'",
+    'something' : "(n) vay'",
+    'anybody' : "(n) vay'",
+    'anything' : "(n) vay'",
+    'sometimes' : " (adv) rut",
+    'somewhere' : "(n) vogh",
+    'son' : "(n) puqloD",
+    'soon' : " (adv) tugh",
+    'sore' : "(n,v) "oy'",
+    'sorry' : "(v) QoS",
+    'sour' : "(v) wIb",
+    'source' : "(n) Hal",
+    'space' : "(n) logh",
+    'space station' : "(n) tengchaH",
+    'speak' : "(v) jatlh",
+    'special' : "(v) le'",
+    'species' : "(n) mut",
+    'specimen' : "(n) chovnatlh",
+    'speech'  : ["(n) OlIch (vocal sounds)","(n) SoQ (lecture)"],
+    'sphere' : "(n) moQ",
+    'spin' : "(v) DIng",
+    'spine' : "(n) pIp",
+    'spy' : ["(n) ghoqwI'", "(v) ghoq"],
+    'squadron' : "(n) nawlogh",
+    'stab' : "(v) DuQ",
+    'stand' : "(v) Qam",
+    'star' : "(n) Hov",
+    'star base' : "(n) 'ejyo'waw'",
+    'star system' : "(n) Hovtay'",
+    'starfleet' : "(n) 'ejyo'",
+    'starship' : "(n) 'ejDo'",
+    'station' : "(n) yaH",
+    'status' : "(n) Dotlh",
+    'steal' : "(v) nIH",
+    'steam' : "(n) SeS",
+    'step on' : "(v) gho'",
+    'sticky' : "(v) Hum",
+    'sting' : "(v) 'aw'",
+    'stink' : "(v) He'So",
+    'stomach' : "(n) burgh",
+    'stop' : "(v) mev",
+    'storm' : "(v) jev",
+    'story' : "(n) lut",
+    'strange' : "(v) HuJ",
+    'strategy' : "(n) Dup"
+    'strength' : "(n) HoS",
+    'strike' : "(v) mup",
+    'stroke' : "(v) yach",
+    'strong' : "(v) HoS",
+    'structure' : "(n) qach",
+    'stubborn' : "(v) mul",
+    'student' : "(n) ghojwI'",
+    'study' : "(v) HaD",
+    'stuff' : "(v) ghoD",
+    'stupid' : "(v) QIp",
+    'sublight speed' : "(n) gho'Do",
+    'substitute' : "(v) tam",
+    'succeed' : "(v) Qap",
+    'success' : "(n) Qapla'",
+    'suddenly' : " (adv) pay'",
+    'suffer' : "(v) bech",
+    'sufficient' : "(v) yap",
+    'suffix' : "(n) mojaQ",
+    'suggest' : "(v) chup",
+    'suicide' : "(v) HoH'egh",
+    'superior' :["(n) moch","(v) nIv"],
+    'support' : "(n) ngaq (military)",
+    'surface'  : "(n) ghor (of a planet)",
+    'surgery' : "(n) Haq",
+    'surprise' : "(v) mer",
+    'surrender' : "(v) jegh",
+    'surround' : "(v) Dech",
+    'suspect' : "(v) nub",
+    'suspicious' : "(v) pIH",
+    'swallow' : "(v) ghup",
+    'swear' : "(v) 'Ip",
+    'switch' : "(n) leQ",
+    'sword' : "(n) 'etlh".
+    'system' : "(n) pat",
+    
+
 
 
 
 }
 
 
-    Sabotage : "(v) Sorgh
-    saccharin : "(n) HaQchor
-    sad, be sad : "(v) "TO
-    saloon, bar : "(n) tach
-    salute : "(v) van
-    same, be the same : "(v) rap
-    satellite : "(n) SIbDOH
-    satisfied, be satisfied : "(v) yon
-    Satisfy : "(v) yonmoH
-    save, keep : "(v) pol
-    save, rescue (Vv) toD
-    scan : "(v) Hotlh
-    scanner : "(n) HotlhwI'
-    scare : "(v) ghlj
-    scatter, disperse : "(v) ghomHa'
-    scavenge : "(v) gor
-    school : "(n) DuSaQ
-    science : "(n) OeD
-    science officer : "(n) QeDpin
-    scientist : "(n) tej
-    scold : "(v) qun
-    scream, cry out, shout : "(v) jach
-    screen, viewing screen : "(n) jIH
-    search for, seek, look for : "(v) nej
-    second : "(num)  cha'DIch
-    second (of time) : "(n) lup
-    secret : "(n) pegh
-    secret, keep something secret : "(v) pegh
-    section : "(n) ‘ay'
-    sector, zone : "(n) mich
-    security : "(n) Hung
-    see : "(v) legh
-    seek, search for : "(v) nej
-    select : "(v) wiv
-    self-confident, be self-confident : "(v) jeQ
-    selfish, be selfish : "(v) mut
-    sell : "(v) ngev
-    send : "(v) ngeHp.152] ]
-    sensor : "(n) noch
-    sentence : "(n) mu'tlhegh
-    separate : "(v) chev
-    sergeant : "(n) bu'
-    serious, be serious : "(v) Sagh
-    serpent, worm : "(n) ghargh
-    servant : "(n) toy'wI'
-    serve (a master) : "(v) toy'
-    serve (food) : "(v) jab
-    set up, establish : "(v) cher
-    seven : "(num)  Soch
-    seventh : "(num)  SochDIich
-    several, be several : "(v) puS
-    Shadow : "(n) Olb
-    Shame : "(v) tuHmoH
-    sharp, be sharp : "(v) Jey
-    she, he, her, him : "(pro)  ghaH
-    Sherman's Planet : "(n) SermanyuQ
-    shield : "(n) yoD
-    shield : "(v) yoD
-    shine, be shiny : "(v) boch
-    ship, vessel : "(n) Duy
-    shocked, be shocked, dumbfounded yay': "(v)
-    shoe : "(n) waq
-    Shoot : "(v) bach
-    Shore leave : "(n) leSpoH
-    Shortcut : "(n) qigh
-    shot : "(n) bach
-    Shoulder : "(n) volchaH
-    shout, scream, cry out : "(v) jach
-    show, display (picture) : "(v) cha'
-    show, reveal : "(v) "ang
-    shut : "(v) SoQmoH
-    shut, be shut : "(v) SoQ
-    sick, be sick, ill : "(v) rop
-    side : "(n) Dop
-    Sight (with gunsight) : "(v) puS
-    Sign (a treaty) : "(v) gi'",
-    Silence : "(v) tammoH
-    silly, be silly : "(v) Doghp.153] ]
-    Simple, be simple : "(v) nap
-    Simultaneous, happen simultaneously quq: "(v)
-    Sin : "(v) yem
-    Sincere, be sincere : "(v) "TL
-    Sir : "(n) qaH
-    Sister : "(n) be'nI'
-    sit : "(v) ba'",
-    Situation : "(n) ghu'
-    SlxX : "(num)  jJav
-    Sixth : "(num)  javDich
-    skilled, be skilled : "(v) po'
-    skin : "(n) Dir
-    skin : "(v) Surgh
-    sky : "(n) chal
-    sleep : "(v) Qong
-    Slightly, a little bit : " (adv) 1loQ
-    slingshot : "(n) moy'bI'
-    slit : "(v) ST J
-    Sloppy, be sloppy, messy : "(v) ghIH
-    SlowIy : " (adv) Olt
-    sly, be sly : "(v) "ong
-    small, be small : "(v) mach
-    smart, be smart : "(v) val
-    smear : "(v) ngoH
-    smell, emit odor : "(v) He'
-    smell, sense odors : "(v) largh
-    smoke : "(n) tlhich
-    smooth, be smooth : "(v) Hab
-    snow : "(v) peD
-    so, then, thus, in that case : " (adv) vay
-    so, well (excl) toH
-    society : "(n) nuqh
-    socks : "(n) paSlogh
-    soft, be soft : "(v) tun
-    soldier : "(n) mang
-    soldiers : "(n) negh
-    solid, be solid : "(v) Sub
-    solution (liquid) : "(n) tas
-    somebody, something, anybody, vay'
-    anything : "(n)p.154,
-    sometimes : " (adv) rut
-    somewhere : "(n) vogh
-    son : "(n) puq loD
-    soon : " (adv) tugh
-    sore : "(n) "oy'",
-    sore, be sore : "(v) "oy'",
-    sorry, be sorry : "(v) Qos
-    sour, be sour : "(v) wlb
-    source : "(n) Hal
-    Space : "(n) logh
-    Space station : "(n) tengchaH
-    speak : "(v) jatlh
-    special, be special, exceptional : "(v) le'
-    species : "(n) mut
-    specimen : "(n) chovnatlh
-    speech (vocal sounds) : "(n) OlIch
-    speech, lecture, address : "(n) SoQ
-    sphere : "(n) moQ
-    spin : "(v) Ding
-    Spine : "(n) pip
-    spy : "(n) ghoqwlL'
-    spy : "(v) ghog
-    squadron : "(n) nawlogh
-    Stab : "(v) DuQ
-    Stand : "(v) Qam
-    standing by, ready (excl) SuH, Su'
-    Star : "(n) Hov
-    star base : "(n) "ejyyo'waw'
-    star system : "(n) Hovtay'
-    Starfleet : "(n) "ejyo'
-    starship, starship class : "(n) "ejDo'
-    Station, duty station : "(n) yaH
-    status : "(n) Dotlh
-    steal : "(v) niH
-    steam : "(n) Ses
-    step on : "(v) gho'
-    Sticky, be sticky : "(v) Hum
-    sting : "(v) "aw'
-    stink : "(v) He'So"
-    stomach : "(n) burgh
-    stone, rock : "(n) naghp.155] ]
-    stoop : "(v) JoD
-    stop, cease : "(v) mev
-    storm : "(v) Jev
-    story : "(n) lut
-    strange, be strange : "(v) HuJ
-    strategy : "(n) Dup
-    strength : "(n) Hos
-    strike, impact : "(v) mup
-    stroke, pet : "(v) yach
-    strong, be strong : "(v) Hos
-    structure, building : "(n) gach
-    stubborn, be stubborn : "(v) mul
-    student : "(n) ghojwI'
-    study : "(v) HaD
-    Stuff : "(v) ghoD
-    stupid, be stupid : "(v) OIp
-    sublight speed : "(n) gho'Do
-    substitute : "(v) tam
-    succeed, work, function : "(v) Qap
-    success : "(n) Qapla'
-    suddenly : " (adv) pay'
-    suffer : "(v) bech
-    sufficient, be sufficient : "(v) yap
-    suffix : "(n) mo jaQ
-    suggest, recommend : "(v) chup
-    Suicide, commit suicide : "(v) HoH'egh
-    superior : "(n) moch
-    superior, be superior : "(v) niv
-    support (military term) : "(n) ngaq
-    surface (of a planet) : "(n) ghor
-    Surgery : "(n) Haq
-    surprise : "(v) mer
-    Surrender, give up : "(v) jegh
-    surround : "(v) Dech
-    Suspect, be suspect : "(v) nub
-    suspicious, be suspicious : "(v) pIH
-    Swallow : "(v) ghup
-    Swear, vow : "(v) "Ip
-    Switch : "(n) leQ
-    Sword : "(n) Tetlh
-    system : "(n) pat 
+
+-------------------------------------------------------------------
+
+
+
 
 
 
