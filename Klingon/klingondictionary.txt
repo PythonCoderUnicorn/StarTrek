@@ -1001,130 +1001,119 @@ klingon = {
     'overtake' : "(v) juS",
 
 
+    'pain' : "(n) "oy'",
+    'pajamas' : "(n) nIvnav",
+    'palm' : "(n) toch (of hand) ",
+    'panic' : "(v) lIm",
+    'pants' : "(n) yopwaH",
+    'parallel' : "(v) Don",
+    'parallel course' : "(n) HeDon",
+    'participate' : "(v) jeS",
+    'partner' : "(n) qoch",
+    'party' : "(n) ghom",
+    'pass' : "(v) juS",
+    'passenger' : "(n) raQpo'",
+    'passionate' : "(v) nong",
+    'patient' : ["(n) SID","(v) tuv (be)"],
+    'patrol' : "(v) ngIv",
+    'pay attention' : "(v) qIm",
+    'pause' : "(v) yev",
+    'pay for' : "(v) DIL",
+    'peace' : "(n) roj",
+    'peace treaty' : "(n) rojmab",
+    'penalty' : "(n) jIp",
+    'percent' : "(n) vatlhvI'",
+    'perfect' : "(v) pup",
+    'perhaps' : " (adv) chaq",
+    'permit' : "(n) chaw'",
+    'person'  : "(n) ghot, nuv (humanoid)",
+    'persuade' : "(v) pon",
+    'pet' : "(n) SaJ",
+    'stroke' : "(v) yach",
+    'phaser' : "(n) pu'",
+    'phaser banks' : "(n) pu'DaH",
+    'phaser crew' : "(n) pu'beq",
+    'phaser pistol' : "(n) pu'HIch",
+    'phaser rifle' : "(n) pu'beH",
+    'phenomenon' : "(n) wanI",
+    'pick up' : "(v) woH",
+    'pity' : "(v) vup",
+    'place' : "(v) lan",
+    'plan' : "(v) nab",
+    'planet' : "(n) yuQ",
+    'planetoid' : "(n) yuQHom",
+    'plant' : "(v) poch",
+    'plastic' : "(n) mep",
+    'play' : "(v) reH",
+    'play a game' : "(v) Quy",
+    'plead' : "(v) qoy'",
+    'pleased' : "(v) bel",
+    'pleasure' : "(n) bel",
+    'poison' : "(n) tar",
+    'ponytail' : "(n) DaQ",
+    'ponytail holder' : "(n) choljaH",
+    'popular' : "(v) Qat",
+    'population' : "(n) roghvaH",
+    'possess' : "(v) ghaj",
+    'possibility' : "(n) DuH",
+    'possible' : "(v) DuH",
+    'postpone' : "(v) lum",
+    'power'  : "(n) woQ (political)",
+    'power' : "(n) HoS",
+    'powerful' : "(v) HoSghaj",
+    'practice' : "(v) qeq",
+    'precede' : "(v) nung",
+    'predecessor' : "(n) nubwI'",
+    'prefer' : "(v) maS",
+    'prefix' : "(n) moHaq",
+    'prepare' : ["(v) ghuH (for)", "(v) geq (train)"],
+    'prepared' : "(v) ghuS",
+    'present' : ["(v) much","(v) SaH"],
+    'presentation' : "(n) much",
+    'preserve' : "(v) choq",
+    'press down' : "(v) "uy",
+    'prevent' : "(v) bot",
+    'primitive' : "(v) lutlh",
+    'prison' : "(n) bIghHa'",
+    'prisoner' : "(n) qama'",
+    'privilege' : "(n) DIb",
+    'prize' : "(n) tev",
+    'problem' : "(v) qay",
+    'proceed' : "(v) ghoS",
+    'proclaim' : "(v) maq",
+    'procrastinate' : "(v) lum",
+    'produce' : "(v) lIng",
+    'program'  : "(v) ghun (a computer)",
+    'progress' : ["(n) Ser", "(v) tlhetlh"],
+    'prohibit' : "(v) bot",
+    'project' : ["(n) jInmol", "(v) Hotlh (screen)"],
+    'promise' : "(v) lay'",
+    'promote' : "(v) num",
+    'propel' : "(v) vo'",
+    'prosper' : "(v) chep",
+    'protect' : "(v) Qan",
+    'proud' : "(v) Hem",
+    'prove' : "(v) tob",
+    'punish' : "(v) Hup",
+    'pupil'  : "(n) lur (of eye)",
+    'purchase' : "(v) je'",
+    'pure' : "(v) watlh",
+    'purposely' : " (adv) chIch",
+    'push' : "(v) yuv",
+    'put down' : "(v) roQ",
+    'put on'  : ["(v) tuQmoH (clothes)", "(v) Hotlh (screen)"],
+    'putrid' : "(v) ngIm",
+
+    
+
+
+
 }
 
 
 
-    pain : "(n) "oy'",
-    pajamas : "(n) nivnav
-    palm (of hand) : "(n) toch
-    panic : "(v) 1Im
-    pants : "(n) yopwaH
-    paper : "(n) nav
-    paper clip : "(n) mavjop
-    parallel, be parallel, go Don
-    parallel to : "(v)
-    parallel course : "(n) HeDon
-    participate : "(v) jes
-    partner : "(n) goch
-    party, group : "(n) ghom
-    pass : "(v) Jus
-    passenger : "(n) raQpo'
-    passionate, be passionate nong: "(v)
-    patient : "(n) SID
-    patient, be patient : "(v) Cuv
-    patrol : "(v) nglv
-    pay attention : "(v) gim
-    pause : "(v) yev
-    pay for : "(v) DIL
-    peace : "(n) roy
-    peace, make peace : "(v) rojp.146] ]
-    peace treaty : "(n) rojmab
-    penalty : "(n) jiIp
-    percent : "(n) vatlhvl'
-    perfect, be perfect, exact : "(v) pup
-    perhaps : " (adv) chag
-    permit : "(n) chaw'
-    allow, permit : "(v) chaw'
-    person (humanoid) : "(n) ghot, nuv
-    persuade : "(v) pon
-    pet : "(n) SaJ
-    pet, stroke : "(v) yach
-    phaser : "(n) pu'
-    phaser banks : "(n) pu'DaH
-    phaser crew : "(n) pu'beg
-    phaser pistol : "(n) pu'HIch
-    phaser rifle : "(n) pu'beH
-    phenomenon, event, wanl'
-    occurrence : "(n)
-    physician, doctor : "(n) Qel
-    pick up : "(v) woH
-    pickle (cucumber) : "(n) Hurgh
-    pity : "(v) vup
-    place : "(v) lan
-    plan : "(v) nab
-    planet : "(n) yuQ
-    planetoid : "(n) yuQHom
-    plant : "(v) poch
-    plastic : "(n) mep
-    play : "(v) reH
-    play a game : "(v) Quy
-    plead, beg : "(v) goy'
-    pleased, be pleased : "(v) bel
-    pleasure : "(n) bel
-    poison : "(n) tar
-    ponytail : "(n) DaQ
-    ponytail holder : "(n) choljaH
-    popular, be popular : "(v) Qat
-    population : "(n) roghvaH
-    possess, have : "(v) ghaj
-    possibility, option : "(n) DuH
-    possible, be possible : "(v) DuHp.147] ]
-    postpone : "(v) lum
-    power (political) : "(n) woQ
-    power, energy : "(n) Hos
-    powerful, be powerful : "(v) HoSghaj
-    practice, train, prepare : "(v) geq
-    precede : "(v) nung
-    predecessor : "(n) nubwI'
-    prefer : "(v) mas
-    prefix : "(n) moHag
-    prepare for, be alerted to : "(v) ghuH
-    prepare, train, practice : "(v) geq
-    prepared, be prepared (to ghus
-    launch) : "(v)
-    present : "(v) much
-    present, be present (not SaH
-    absent) : "(v)
-    presentation : "(n) much
-    preserve : "(v) chog
-    press down : "(v) "uy
-    prevent, block : "(v) bot
-    primitive, be primitive : "(v) lutlh
-    prison, jail : "(n) bIghHa'
-    prisoner : "(n) qama '
-    privilege : "(n) DIb
-    prize : "(n) tev
-    problem, be a problem, be gay'
-    a hassle : "(v)
-    proceed on a course, go ghosOnward : "(v)
-    proclaim : "(v) maq
-    procrastinate : "(v) lum
-    produce : "(v) ling
-    program (a computer) : "(v) ghun
-    progress : "(n) Ser
-    progress : "(v) tlhetlh
-    prohibit : "(v) bot
-    project : "(n) jinmol
-    project, put on (screen) : "(v) Hotlh
-    promise : "(v) lay'
-    promote : "(v) num
-    propel : "(v) vo'p.148] ]
-    prosper, be prosperous : "(v) chep
-    protect : "(v) QOan
-    proud, be proud : "(v) Hem
-    prove : "(v) tob
-    punish : "(v) Hup
-    pupil (of eye) : "(n) lur
-    purchase : "(v) je'",
-    pure, be pure : "(v) watlh
-    purposely, on purpose, chich
-    intentionally : " (adv)
-    puSh : "(v) yuv
-    put down : "(v) roQ
-    put on (clothes) : "(v) tuQmoH
-    put on (screen), project : "(v) Hotlh
-    putrid, be putrid : "(v) ngim
+
+
 
 
 
