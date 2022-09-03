@@ -1393,7 +1393,123 @@ klingon = {
     'switch' : "(n) leQ",
     'sword' : "(n) 'etlh".
     'system' : "(n) pat",
-    
+
+    'tactical display' : "(n) wIy",
+    'tactical officer' : "(n) ya",
+    'tactics' : "(n) to'",
+    'take' : "(v) tlhap",
+    'take action' : "(v) vang",
+    'take away' : "(v) nge'",
+    'take care of' : "(v) Qorgh",
+    'take down' : "(v) jotlh",
+    'take form' : "(v) chen",
+    'take off' : "(v) teq",
+    'take out': "(v) lel",
+    'target' : "(n) DoS",
+    'targets' : "(n) ray'",
+    'task' : "(n) Qu'",
+    'tax' : "(v) rup",
+    'teach' : "(v) ghojmoH",
+    'teachings' : "(n) paQDI'norgh",
+    'technician' : "(n) chamwI'",
+    'tell' : "(v) ja'",
+    'Tellun Star System' : "(n) telun Hovtay'",
+    'temperature' : "(n) Hat",
+    'temple'  : "(n) chIrgh (Structure)",
+    'temporary' : "(v) ru'",
+    'tempt' : "(v) tlhu'moH",
+    'tempted' : "(v) tlhu'",
+    'ten' : "(num)  wa'maH",
+    'ten thousand' : "(num)  netlh",
+    'tenth' : "(num)  wa'maHDIch",
+    'Terran' : "(n) tera'ngan",
+    'that' : "(pro)  'e', net",
+    'them' : ["(pro) chaH","bIH (incapable of language)"],
+    'they' : ["(pro) chaH","bIH (incapable of language)"],
+    'theory' : "(n) nger",
+    'theragen' : "(n) Qab",
+    'there' : "(n) pa'",
+    'over there' : "(n) pa'",
+    'thereabouts' : "(n) pa'",
+    'thief' : "(n) nIHwI'",
+    'thin' : "(v) lang",
+    'thing' : "(n) Doch",
+    'think' : "(v) Qub",
+    'concentrate' : "(v) bus",
+    'third' : "(num)  wejDIch",
+    'thirsty' : "(v) 'oj",
+    'thousand' : "(num)  SaD, SanID",
+    'threaten' : "(v) buQ",
+    'three' : "(num)  wej",
+    'throat' : "(n) Hugh",
+    'throw away' : "(v) woD",
+    'thrust' : "(v) ghos",
+    'thruster' : "(n) vIj",
+    'thrusters' : "(n) chuyDaH",
+    'tickle' : "(v) qotlh",
+    'tight' : "(v) Qey",
+    'tighten' : "(v) QeymoH",
+    'time' : "(v,n) poH",
+    'tired' : "(v) Doy'",
+    'toe' : "(n) yaD",
+    'together' : "(v) tay'",
+    'toilet' : "(n) puch",
+    'tolerate' : "(v) chergh",
+    'tomorrow' : "(n) wa'leS",
+    'tongue' : "(n) jat",
+    'tooth' : "(n) Ho'",
+    'toothache' : "(n) Ho''oy'",
+    'torpedo' : "(n) peng",
+    'torpedoes' : "(n) cha",
+    'torpedo tube ': "(n) chetvI', DuS",
+    'torture' : "(v) joy'",
+    'touch' : "(v) Hot",
+    'tough' : "(v) rotlh",
+    'toxic' : "(v) SuQ",
+    'trade' : "(v) mech",
+    'tradition' : "(n) lurDech",
+    'train' : "(v) qeq",
+    'traitor' : "(n) maghwI'",
+    'transact' : "(v) Huq",
+    'transceiving'  : "(n) HablI' (for data)",
+    'transfer' : "(v) Qay",
+    'translate' : "(v) mugh",
+    'translator' : "(n) mughwI'",
+    'transmission'  : "(n) jabbI'ID (of data)",
+    'transmit data'  : ["(v) lI' (to a place)", "(v) lab (away from a place)"],
+    'transport' : "(v) lup",
+    'transport beam' : "(n) jol",
+    'transport room' : "(n) jolpa'",
+    'transporter ionizer unit' : "(n) jolvoy'",
+    'travel': "(v) leng",
+    'treason' : "(n) 'urmang",
+    'treaty' : "(n) mab",
+    'tree' : "(n) Sor",
+    'tremor' : "(v) Qom",
+    'tribble' : "(n) yIH",
+    'trick' : "(v) toj",
+    'tricorder' : "(n) Hoqra'",
+    'trifling' : "(v) ram",
+    'trillium' : "(n) DIlyum",
+    'trim' : "(v) chIp",
+    'trip' : "(n) leng",
+    'triumph' : "(n) yay",
+    'trivial' : "(v) ram",
+    'troops' : "(n) QaS",
+    'trouble' : "(n,v) Seng",
+    'truce' : "(n) rojHom",
+    'true' : "(v) teH",
+    'trunk' : "(n) ro (of body)",
+    'trust' : "(v) voq",
+    'truth' : "(v) vIt",
+    'try' : "(v) nID
+    'tube' : "(n) chetvI', DuS",
+    'tunic' : "(n) yIvbeH",
+    'tunnel' : "(n) 'och",
+    'turn' : "(v) tlhe'",
+    'twice' : " (adv) cha'logh",
+    'twilight' : "(n) choS",
+    'two' : "(num)  cha'",
 
 
 
@@ -1403,154 +1519,6 @@ klingon = {
 
 
 -------------------------------------------------------------------
-
-
-
-
-
-
-
-
-    tactical display : "(n) wIy
-    tactical officer : "(n) ya
-    tactics : "(n) to'",
-    take : "(v) tlhap
-    take action : "(v) vang
-    take away : "(v) nge'
-    take care of, care for : "(v) Qorgh
-    take down : "(v) jotlh
-    take form, build up : "(v) chen
-    take off, remove : "(v) teq
-    take out, get out : "(v) lel
-    target : "(n) DoS
-    targets : "(n) ray'
-    task, chore : "(n) Qu'",
-    tax : "(v) rup
-    teach, instruct : "(v) gho jmoH
-    teachings : "(n) paQDI'norgh
-    technician : "(n) chamwI'
-    tell, report : "(v) ja'",
-    Tellun Star System : "(n) telun Hovtay'
-    temperature : "(n) Hat
-    temple (Structure) : "(n) chirgh
-    temporary, be temporary : "(v) ru'
-    tempt : "(v) tlhu'moH
-    tempted, be tempted : "(v) tlhu'
-    ten (combining form) : "(num)  maH
-    ten : "(num)  wa'maH
-    ten thousand : "(num)  netlh
-    tenth : "(num)  wa'maHDIch
-    Terran : "(n) tera'ngan
-    that (previous topic) : "(pro)  "e', net
-    them, they (capable of using language) chaH
-    : "(pro) 
-    them, they (incapable of language) bIH
-    : "(pro) 
-    then, thus, in that case, so : " (adv) vay
-    theory : "(n) nger
-    theragen : "(n) Oab
-    there, over there, thereabouts : "(n) pa'
-    they, them (capable of using language) chaH
-    : "(pro)  
-    they, them (incapable of language) bIH
-    : "(pro) 
-    thief : "(n) niHwI'
-    thin, be thin : "(v) lang
-    thing : "(n) Doch
-    think : "(v) Qub
-    think only about, concentrate on, bus
-    focus on : "(v)
-    third : "(num)  we jDIch
-    thirsty, be thirsty : "(v) "OF
-    thousand : "(num)  SaD, SanID
-    threaten : "(v) buQ
-    three : "(num)  we J
-    throat : "(n) Hugh
-    throw away : "(v) woD
-    thrust : "(v) ghos
-    thruster : "(n) vj
-    thrusters : "(n) chuyDaH
-    thus, so, in that case : " (adv) vay
-    tickle : "(v) gotlh
-    tight, be tight : "(v) Oey
-    tighten : "(v) QeymoH
-    time : "(v) poH
-    time, period of time : "(n) poH
-    tired, be tired : "(v) Doy'
-    toe : "(n) yaD
-    together, be together : "(v) tay'
-    toilet : "(n) puch
-    tolerate : "(v) chergh
-    tomorrow : "(n) wa'leS
-    tongue : "(n) jat
-    tooth : "(n) Ho'",
-    toothache : "(n) Ho'","oy'
-    topaline : "(n) toplin
-    torpedo : "(n) peng
-    torpedoes : "(n) cha
-    torpedo tube : "(n) Cchetvli', DuS
-    torture : "(v) joy'
-    touch, feel : "(v) Hot
-    tough, be tough : "(v) rotlh
-    toxic, be toxic : "(v) SuQp.158] ]
-    trade : "(v) mech
-    tradition : "(n) lurDech
-    train, prepare : "(v) geq
-    traitor : "(n) maghwI'
-    transact : "(v) Huq
-    transceiving device (for data) : "(n) HabllI'
-    transfer : "(v) Qay
-    translate : "(v) mugh
-    translator : "(n) mughwlL'
-    transmission (of data) : "(n) jabbI'ID
-    transmit data (to a place) : "(v) LI'",
-    transmit data (away from a place) : "(v) lab
-    transport : "(v) lup
-    transport beam : "(n) Jol
-    transport room : "(n) jolpa'
-    transporter ionizer unit : "(n) jolvoy'
-    travel, roam : "(v) leng
-    treason : "(n) "urmang
-    treaty : "(n) mab
-    tree : "(n) Sor
-    tremor, experience a tremor : "(v) Qom
-    tribble : "(n) ylIH
-    trick : "(v) toy
-    tricorder : "(n) Hogra'
-    trifling, be trifling, trivial, ram
-    unimportant : "(v)
-    trillium : "(n) DIlyum
-    trim (hair) : "(v) chip
-    trip : "(n) leng
-    triumph, victory : "(n) yay
-    trivial, be trivial, trifling, ram
-    unimportant : "(v)
-    troops : "(n) QaS
-    trouble : "(n) Seng
-    trouble, cause trouble : "(v) Seng
-    Troyius : "(n) Doy'yuS
-    truce : "(n) rojHom
-    true, be true : "(v) teH
-    trunk (of body) : "(n) ro
-    trust, have faith in : "(v) Voq
-    truth, tell the truth : "(v) vitp.159] ]
-    try : "(v) niID
-    tube, torpedo tube : "(n) Cchetvli', DuS
-    tunic : "(n) yivbeH
-    tunnel : "(n) "och
-    turn : "(v) tlhe'",
-    twice : " (adv) cha'logh
-    twilight : "(n) choS
-    two : "(num)  cha'
-
-
-
-
-
-
-
-
-
 
 
 
