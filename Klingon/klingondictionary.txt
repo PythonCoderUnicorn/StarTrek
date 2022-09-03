@@ -1114,121 +1114,102 @@ klingon = {
     'quit' : "(v) bup",
 
 
+    'race'  : "(n) Segh (type, sort, class)",
+    'radan'  : "(n) Dom (crude dilithium crystal)",
+    'raid' : "(v) weH",
+    'rain' : "(v) SIS",
+    'raise' : "(v) pep",
+    'range' : "(n) chuq",
+    'ransom' : "(n) voHDajbo'",
+    'rare' : "(v) qub",
+    'raw' : "(v) tlhol",
+    'ray' : "(n) tIH",
+    'reach' : "(v) SIch",
+    'read' : "(v) laD",
+    'ready' : ["(excl) 'eH","(standing by) SuH, Su'"],
+    'realize' : "(v) tlhoj",
+    'reason' : "(n,v) meq",
+    'rebel' : ["(n) lotlhwI'","(v) lotilh"],
+    'receive' : "(v) Hev",
+    'recline' : "(v) Qot",
+    'recognize' : "(v) ghov",
+    'recommend' : "(v) chup",
+    'record' : ["(n) ta","(v) qon"],
+    'refuge' : "(n) lulIgh",
+    'refuse' : "(excl) Qo'",
+    'region' : "(n) Sep",
+    'regret' : "(v) pay",
+    'Regulan' : "(n) reghuluSngan",
+    'Regulan bloodworm' : "(n) reghuluS 'Iwghargh",
+    'Regulus' : "(n) reghuluS",
+    'reign' : "(v) che'",
+    'rule' : "(v) che'",
+    'relax' : "(v) leS",
+    'relieve' : "(v) Son",
+    'religion' : "(n) lalDan",
+    'rely on' : "(v) wuv",
+    'remain' : "(v) ratlh",
+    'remember' : "(v) qaw",
+    'remind' : "(v) QawmoH",
+    'remote' : "(v) Hop",
+    'remove' : "(v) teq",
+    'rendezvous' : "(v) ghom",
+    'repair' : "(v) tI'",
+    'reply' : "(v) jang",
+    'report' : "(v) ja'",
+    'represent' : "(v) 'os",
+    'require' : "(v) poQ",
+    'rescue' : "(v) toD",
+    'research' : "(v) Qul",
+    'resemble' : "(v) rur",
+    'resent' : "(v) qeH",
+    'resign' : "(v) paj",
+    'resource' : "(n) Sup",
+    'resources' : "(n) jo",
+    'respect' : "(v) vuv",
+    'responsible' : "(v) ngoy'",
+    'rest' : "(v) leS",
+    'restaurant' : "(n) Qe'",
+    'restless' : "(v) ngoj",
+    'retaliate' : "(v) noD",
+    'retreat' : "(v) HeD",
+    'return' : "(v) chegh",
+    'reveal' : "(v) 'ang",
+    'revenge' : "(n) bortaS",
+    'revolt' : "(v,n) Daw'",
+    'rich' : "(v) mIp",
+    'ride' : "(v) lIgh",
+    'ridicule' : "(v) nuS",
+    'rifle' : "(n) beH",
+    'right'  : ["(n) niH (side)","(v) lugh (correct)"],
+    'ring'  : "(n) Qeb (for finger)",
+    'river' : "(n) bIQtIq",
+    'roam' : "(v) leng",
+    'rob' : "(v) Hej",
+    'robe' : "(n) mop",
+    'robot' : "(n) qoq",
+    'rock' : "(n) nagh",
+    'Romulan' : "(n) romuluSngan",
+    'Romulus' : "(n) romuluS",
+    'room' : "(n) pa'",
+    'rope' : "(n) tlhegh",
+    'rotten' : "(v) non",
+    'rough' : "(v) ghegh",
+    'round up' : "(v) lIq",
+    'route' : "(n) He",
+    'rover' : "(n) lengwI' (grammatical term) ",
+    'rude' : "(v) Doch",
+    'ruins' : "(n) pIgh",
+    'rule' : "(v) che'",
+    'rumor' : "(n) joS",
+    'run' : ["(v) qet", "(v) che' (rule)"],
+    'ruthless' : "(v) wIH",
+
+
+
+
 
 }
-
-
-
-
-
-
-
-    race (type, sort, class) : "(n) Segh
-    radan (crude dilithium Dom
-    crystal) : "(n)
-    raid : "(v) weH
-    rain : "(v) Sis
-    raise : "(v) pep
-    range, distance : "(n) chug
-    ransom : "(n) voHDajybo'
-    rare, be rare : "(v) qub
-    raw, be raw, unprocessed : "(v) tlhol
-    ray : "(n) tlH
-    reach : "(v) Sich
-    read : "(v) laD
-    ready (excl) "eH
-    ready, standing by (excl) SuH, Su'
-    realize : "(v) tlhojp.149] ]
-    reason : "(n) meq
-    reason : "(v) meq
-    rebel : "(n) lotlhwI'
-    rebel : "(v) lotilh
-    receive : "(v) Hev
-    recline, lie : "(v) Oot
-    recognize : "(v) ghov
-    recommend, suggest : "(v) chup
-    record : "(n) ta
-    record : "(v) gon
-    red, be red, orange : "(v) Dog
-    refuge : "(n) luligh
-    refuse, I refuse (excl) Qo'",
-    region : "(n) sep
-    regret : "(v) pay
-    Regulan : "(n) reghuluSngan
-    Regulan bloodworm : "(n) reghulus 'Iwghargh
-    Regulus : "(n) reghulus
-    reign, rule : "(v) che'
-    relax, rest : "(v) les
-    relieve : "(v) Son
-    religion : "(n) lalDan
-    rely on : "(v) WuV
-    remain : "(v) ratlh
-    remember : "(v) qaw
-    remind : "(v) QawmoH
-    remote, be remote, far : "(v) Hop
-    remove, take off : "(v) teq
-    Remus : "(n) ri[ymus
-    rendezvous : "(v) ghom
-    repair : "(v) tL'",
-    reply : "(v) Jang
-    report, tell : "(v) ja'",
-    represent : "(v) "Os
-    require : "(v) poQ
-    rescue : "(v) toD
-    research : "(v) OQul
-    resemble : "(v) rur
-    resent : "(v) qeH
-    resign : "(v) pajJ
-    resource : "(n) Supp.150] ]
-    resources : "(n) JO
-    respect : "(v) VuV
-    responsible, be responsible : "(v) ngoy'
-    rest, relax : "(v) les
-    restaurant : "(n) Oe'",
-    restless, be restless : "(v) ngojJ
-    retaliate : "(v) noD
-    retreat : "(v) HeD
-    return : "(v) chegh
-    reveal, show : "(v) "ang
-    revenge : "(n) bortas
-    revolt : "(v) Daw'
-    revolt, revolution : "(n) Daw'
-    rich, be rich : "(v) mip
-    ride : "(v) ligh
-    ridicule : "(v) nuS
-    rifle : "(n) beH
-    right (side) : "(n) niH
-    right, be right, correct : "(v) lugh
-    ring (for finger) : "(n) Oeb
-    river : "(n) bIQtIq
-    roam, travel, rove : "(v) leng
-    rob : "(v) Hej
-    robe : "(n) mop
-    robot : "(n) qoq
-    rock, stone : "(n) nagh
-    Romulan : "(n) romuluSngan
-    Romulus : "(n) romulus
-    room : "(n) pa'
-    rope, line : "(n) tlhegh
-    rotten, be rotten : "(v) non
-    rough, be rough : "(v) ghegh
-    round up : "(v) lig
-    route, course : "(n) He
-    rove, roam, travel : "(v) leng
-    rover (grammatical term) : "(n) lengwI'
-    rude, be rude : "(v) Doch
-    ruins : "(n) pigh
-    rule, reign, run : "(v) che'",
-    rumor, gossip : "(n) Jos
-    run, jog : "(v) getp.151,
-    run, rule : "(v) che'",
-    ruthless, be ruthless : "(v) wlH
-
-
-
-
-
-
 
 
     Sabotage : "(v) Sorgh
