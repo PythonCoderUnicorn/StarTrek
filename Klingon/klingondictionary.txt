@@ -1511,133 +1511,108 @@ klingon = {
     'twilight' : "(n) choS",
     'two' : "(num)  cha'",
 
+    'ugly' : "(v) moH",
+    'unconditional surrender' : "(n) Doghjey",
+    'unconscious' : "(v) vul",
+    'under' : "(n) bIng",
+    'underground' : "(n) wutlh",
+    'understand' : "(v) yaj",
+    'undress' : "(v) tuQHa'moH",
+    'uneasy' : "(v) bIt, jotHa'",
+    'unhappy' : "(v) QuchHa'",
+    'uniform' : "(n) HIp",
+    'uninhabited' : "(v) chIm",
+    'uninteresting' : "(v) qetlh",
+    'United Federation of Planets' : "(n) yuQjIjDIvI'",
+    'universe' : "(n) ‘u'",
+    'unprocessed' : "(v) tlhol",
+    'unusual' : "(v) motlhbe'",
+    'upside down' : "(v) yoy",
+    'urgent' : "(v) pav",
+    'us' : "(pro)  maH",
+    'we' : "(pro)  maH",
+    'use' : "(v) lo'",
+    'useful' : "(v) lI'",
+    'usual' : "(v) motlh",
 
+    'vacate' : "(v) qeD",
+    'vacation' : "(v) ghIQ",
+    'valley' : "(n) ngech",
+    'valuable' : "(v) lo'laH",
+    'vanish' : "(v) ngab",
+    'variety' : "(n) Sar",
+    'vegetation' : "(n) tI",
+    'vein' : "(n) 'aD",
+    'velocity' : "(n) Do",
+    'vent' : "(n) yIb",
+    'verb' : "(n) wot",
+    'verify' : "(v) 'ol",
+    'vertical' : "(v) chong",
+    'vessel' : "(n) Duj",
+    'vicious' : "(v) naS",
+    'victory' : "(n) yay",
+    'viewing screen' : "(n) jIH",
+    'violent' : "(v) ral",
+    'visit' : "(v) Such",
+    'visual display' : "(n) HaSta",
+    'vocabulary' : "(n) mu'tay'",
+    'voice' : "(n) ghogh",
+    'volunteer' : "(v) Sap",
+    'vow' : "(v) 'Ip",
+    'voyage' : "(n) leng",
+    'Vulcan'  :[ "(n) vulgangan (person)","(n) vulgan (planet)"],
+    'vulgar' : "(v) Qut",
+    'wait' : "(v) loS",
+    'wake up' : "(v) vem, vemmoH",
+    'walk' : "(v) yIt",
+    'want' : "(v) neH",
+    'war' : "(n) veS",
+    'warn' : "(v) ghuHmoH",
+    'warp drive' : "(n) pIvghor",
+    'washroom' : "(n) puchpa'",
+    'watch' : "(v) bej",
+    'water' : "(n) bIQ",
+    'weak' : "(v) puj",
+    'weapon' : "(n) nuH",
+    'wear'  : "(v) tuQ (clothes)",
+    'week'  : "(n) Hogh (Klingon)",
+    'well done' : "(excl) majQa'",
+    'what do you want?' : "(excl) nuqneH (greeting)",
+    'what do you want' : "(excl) nuqneH (greeting)",
+    'what?' : "(ques) nuq",
+    'what' : "(ques) nuq",
+    'when?' : "(ques) ghorgh",
+    'when' : "(ques) ghorgh",
+    'where?' : "(ques) nuqDaq",
+    'where' : "(ques) nuqDaq",
+    'who?' : "(ques) 'Iv",
+    'who' : "(ques) 'Iv",
+    'why?' : "(ques) qatlh",
+    'why' : "(ques) qatlh",
+    'wife' : "(n) be'nal",
+    'wind' : "(n) SuS",
+    'woman' : "(n) be'",
+    'won't' : "(excl) Qo'",
+    'wonderful' : "(v) Dun",
+    'woods' : "(n) ngem",
+    'word' : "(n) mu'",
+    'work' : ["(v) Qap (function)","(v) vum"],
+    'worsen' : "(v) 'argh",
+    'worthless' : "(v) lo'laHbe'",
+    'write' : "(v) ghItlh",
+    'Klingon writing system ': "(n) pIqaD",
+
+    'yawn' : "(v) Hob",
+    'year'  : "(n) DIS (Klingon)",
+    'years ago' : "(n) ben",
+    'years from now' : "(n) nem",
+    'yes' : ["(excl) luq, lu'","HIja', HISlaH (answer to guestion)"],
+    'yesterday' : "(n) wa'Hu'",
+    'you'  : ["(pro) tlhiIH (plural)","(pro)  SoH"],
+    'young' : "(v) Qup",
+    'zero' : "(num)  pagh",
+    'zone' : "(n) mIch"
 
 
 }
 
-
-
--------------------------------------------------------------------
-
-
-
-    ugly, be ugly : "(v) moH
-    unconditional surrender : "(n) Doghjyey
-    unconscious, be unconscious (Vv) vul
-    under, area under : "(n) bing
-    underground : "(n) wutlh
-    understand : "(v) yal
-    undress : "(v) tuQHa 'moH
-    uneasy, be uneasy : "(v) bit, jotHa'
-    unhappy, be unhappy : "(v) QuchHa'
-    uniform : "(n) HIp
-    unimportant, be unimportant, ram
-    trivial : "(v)
-    uninhabited, be uninhabited, empty, chim
-    deserted : "(v)
-    uninteresting, be uninteresting : "(v) getlh
-    United Federation of Planets : "(n) yuQjI jDIivi'
-    universe : "(n) ‘u'",
-    unprocessed, be unprocessed, raw : "(v) tlhol
-    unusual, be unusual : "(v) motlhbe'
-    upside down, be upside down : "(v) yoy
-    urgent, be urgent : "(v) pav
-    us, we : "(pro)  maH
-    use : "(v) lo'",
-    useful, be useful : "(v) 1T'",
-    usual, be usual : "(v) motlh
-
-
-
-
-
-    vacate : "(v) geD
-    vacation, take a vacation : "(v) ghIQ
-    valley : "(n) ngech
-    valuable, be valuable : "(v) lo'laH
-    vanish : "(v) ngab
-    variety : "(n) Sarp.160] ]
-    various, be varied : "(v) Sar
-    vegetation : "(n) tI
-    vein : "(n) "aD
-    velocity : "(n) Do
-    vent : "(n) yib
-    verb : "(n) wot
-    verify : "(v) "ol
-    vertical, be vertical : "(v) chong
-    vessel, ship : "(n) Duy
-    vicious, be vicious : "(v) nas
-    victory, triumph : "(n) yay
-    viewing screen : "(n) jIH
-    violent, be violent : "(v) ral
-    visit : "(v) Such
-    visual display : "(n) HaSta
-    vocabulary : "(n) mu'tay'
-    voice : "(n) ghogh
-    volunteer : "(v) Sap
-    vow, Swear : "(v) "Ip
-    voyage : "(n) leng
-    Vulcan (person) : "(n) vulgangan
-    Vulcan (planet) : "(n) vulgan
-    vulgar, be vulgar : "(v) Qut
-
-
-
-
-
-    wait (for) : "(v) Los
-    wake (Someone) up : "(v) vemmoH
-    wake up, cease sleeping : "(v) vem
-    walk : "(v) yit
-    want : "(v) neH
-    war : "(n) ves
-    warn : "(v) ghuHmoH
-    warp drive : "(n) pivghor
-    washroom : "(n) puchpa'
-    watch : "(v) bejJ
-    water : "(n) bIO
-    wave, flap, flutter : "(v) Jog
-    we, uS : "(pro)  maH
-    weak, be weak : "(v) pu
-    weapon : "(n) nuH
-    wear (clothes) : "(v) tuQ
-    week (Klingon) : "(n) Hoghp.161] ]
-    well done, very good (excl) majQa'
-    well, so (excl) toH
-    what do you want? (greeting) (excl) nuqneH
-    what? (ques) nuq
-    when? (ques) ghorgh
-    where? (ques) nuqDaq
-    white, be white : "(v) chis
-    who? (ques) "Iv
-    why? (ques) qatlh
-    wife : "(n) be'nal
-    wind, breeze : "(n) Sus
-    woman : "(n) be'",
-    won't, I won't, I refuse (excl) Qo'",
-    wonderful, be wonderful, great : "(v) Dun
-    woods, forest : "(n) ngem
-    word : "(n) mu '
-    work, function : "(v) Qap
-    work, toil : "(v) vum
-    worm, serpent : "(n) ghargh
-    worsen : "(v) "argh
-    worthless, be worthless : "(v) lo'laHbe'
-    write : "(v) ghitlh
-    writing system, Klingon writing system : "(n) pigaD
-
-
-    yawn : "(v) Hob
-    year (Klingon) : "(n) Dis
-    years ago : "(n) ben
-    years from now : "(n) nem
-    yellow, be yellow, blue, green : "(v) SuD
-    yes, Okay, I will (excl) lug, lu'
-    yes, true (answer to yes/no guestion) HIja', HISlaH (excl)
-    yesterday : "(n) wa'Hu'
-    you (plural) : "(pro)  tlhiIH
-    you : "(pro)  SOH
-    young, be young : "(v) Qup
-    zero : "(num)  pagh
-    zone, sector : "(n) 
